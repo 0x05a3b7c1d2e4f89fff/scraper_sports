@@ -1,0 +1,37 @@
+name: Power Stream Scraper (Hourly)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Sports Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx
+
+      - name: Run Scraper
+        # Tell the Action to run the command from inside the power folder
+        run: python power/scraper.py
+
+      - name: Commit Files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Stage only the files inside the power folder
+          git add power/power.m3u8 power/streams.json power/epg.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Hourly Power Update" && git push)
