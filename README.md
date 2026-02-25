@@ -19,3 +19,7 @@ PLAYLIST: https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main
 WEBSITE: 
 
 PLAYLIST: https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/istplay_streams.m3u
+
+## POWERSTREAMS
+
+PLAYLIST: https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/power/power.m3u8
