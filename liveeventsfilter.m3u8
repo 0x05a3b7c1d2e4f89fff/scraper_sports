@@ -39,6 +39,11 @@ https://edgestreams.pro/hls/poiryezafv56.m3u8?st=gt_KuiEvdaqn1OdJItsE1d6oescUddC
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestreams.pro/hls/sdezqfza55.m3u8?st=ffoFAX8qAHsMwtd6KuP-hj7IiXyAkjh4yb6FXY78pGY&e=1772085644
+#EXTINF:-1 tvg-chno="39" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox @ Minnesota Twins (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox @ Minnesota Twins (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/MLB01/mono.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers @ Philadelphia Phillies (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Detroit Tigers @ Philadelphia Phillies (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -74,21 +79,11 @@ http://origin.thetvapp.to/hls/MLB14/mono.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.40/hls/IRRRQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Houston Rockets vs Sacramento Kings (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Houston Rockets vs Sacramento Kings (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.40/hls/FFFF.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Memphis Grizzlies vs Golden State Warriors (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Memphis Grizzlies vs Golden State Warriors (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.40/hls/MMMMQ.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Milwaukee Bucks vs Cleveland Cavaliers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Milwaukee Bucks vs Cleveland Cavaliers (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.40/hls/FFFFF.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics @ Denver Nuggets (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Boston Celtics @ Denver Nuggets (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -99,21 +94,11 @@ http://origin.thetvapp.to/hls/ESPN/mono.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics vs Denver Nuggets (XSTRMEST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Boston Celtics vs Denver Nuggets (XSTRMEST)
-#EXTVLCOPT:http-referrer=https://atletifan.com/fans/?id=n6
-#EXTVLCOPT:http-origin=https://atletifan.com/fans/?id=n6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d1pds5gq7p4s0a.cloudfront.net/status/n6/fronts.woff2?ba83e9
 #EXTINF:-1 tvg-chno="98" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Celtics vs Nuggets (STRMHUB)" tvg-logo="https://livesports4u.net/uploads/categories/1763886289_nba-logo-on-transparent-background-free-vector.jpg" group-title="Live Events",[NBA] Celtics vs Nuggets (STRMHUB)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8?st=BFd5secFkc7VmtmEuGXm7Q&e=1772085650
-#EXTINF:-1 tvg-chno="99" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers @ Milwaukee Bucks (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Cleveland Cavaliers @ Milwaukee Bucks (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBA04/mono.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Denver Nuggets vs Boston Celtics (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Denver Nuggets vs Boston Celtics (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -199,11 +184,6 @@ https://smarthard.click/hls/moZBxPNuheGI/index.m3u8?st=hniiEym0-1tphxP5nYPzWw&e=
 #EXTVLCOPT:http-origin=https://slapstreams.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.webcastserver.online/newz/newz/89.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Colorado Avalanche @ Utah Mammoth (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Colorado Avalanche @ Utah Mammoth (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NHL05/mono.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Colorado Avalanche @ Utah Mammoth (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Colorado Avalanche @ Utah Mammoth (VOLOKIT)
 #EXTVLCOPT:http-referrer=http://volokit.xyz/lives/colorado-avalanche-at-utah-mammoth-home/
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/colorado-avalanche-at-utah-mammoth-home/
@@ -259,16 +239,6 @@ https://smarthard.click/hls/usdvEYRibxaF/index.m3u8?st=khR_pt6Y5-H_YhdtNULyoA&e=
 #EXTVLCOPT:http-origin=https://slapstreams.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.webcastserver.online/newz/newz/90.m3u8
-#EXTINF:-1 tvg-chno="191" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Philadelphia Flyers @ Washington Capitals (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Philadelphia Flyers @ Washington Capitals (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NHL02/mono.m3u8
-#EXTINF:-1 tvg-chno="194" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Seattle Kraken @ Dallas Stars (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Seattle Kraken @ Dallas Stars (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NHL04/mono.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Toronto Maple Leafs @ Tampa Bay Lightning (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Toronto Maple Leafs @ Tampa Bay Lightning (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -299,11 +269,6 @@ http://watcharena.xyz/hls/95.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://601.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8
-#EXTINF:-1 tvg-chno="212" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Winnipeg Jets @ Vancouver Canucks (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Winnipeg Jets @ Vancouver Canucks (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NHL06/mono.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Winnipeg Jets @ Vancouver Canucks (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Winnipeg Jets @ Vancouver Canucks (VOLOKIT)
 #EXTVLCOPT:http-referrer=http://volokit.xyz/lives/winnipeg-jets-at-vancouver-canucks-home/
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/winnipeg-jets-at-vancouver-canucks-home/
