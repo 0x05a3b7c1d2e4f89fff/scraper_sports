@@ -2,7 +2,7 @@ name: powerv2 Stream Scraper (Hourly)
 
 on:
   schedule:
-    - cron: '0 * * * *'         # every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Only stage files inside powerv2/
+          # Stage powerv2 files
           git add powerv2/*.m3u* powerv2/*.json powerv2/*.xml 2>/dev/null || true
 
           if ! git diff --cached --quiet; then
