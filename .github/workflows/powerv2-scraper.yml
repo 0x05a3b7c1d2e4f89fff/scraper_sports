@@ -1,0 +1,46 @@
+name: powerv2 Stream Scraper (Hourly)
+
+on:
+  schedule:
+    - cron: '0 * * * *'         # every hour
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx
+
+      - name: Run powerv2 scraper
+        run: python powerv2/powerv2_scraper.py
+
+      - name: Commit updated files (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Only stage files inside powerv2/
+          git add powerv2/*.m3u* powerv2/*.json powerv2/*.xml 2>/dev/null || true
+
+          if ! git diff --cached --quiet; then
+            git commit -m "powerv2 hourly update – $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes detected – skipping commit"
+          fi
