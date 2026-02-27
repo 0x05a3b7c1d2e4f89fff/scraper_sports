@@ -34,9 +34,7 @@ CATEGORY_MAP = {
 }
 
 NFL_PATTERNS = [
-    "NFL", "NATIONAL FOOTBALL", "AMERICAN FOOTBALL", "SUPER BOWL", "AFC", "NFC",
-    "CHIEFS", "EAGLES", "COWBOYS", "PATRIOTS", "BILLS", "RAVENS", "49ERS", "PACKERS",
-    "TOUCHDOWN", "FIELD GOAL", "QUARTERBACK", "LIONS", "DOLPHINS", "JETS"
+    "NFL", "NATIONAL FOOTBALL"
 ]
 
 # ────────────────────────────────────────────────
@@ -225,3 +223,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
