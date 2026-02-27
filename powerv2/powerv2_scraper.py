@@ -13,23 +13,22 @@ from collections import defaultdict
 # ────────────────────────────────────────────────
 GITHUB_USERNAME = "BuddyChewChew"
 REPO_NAME       = "sports"
-FOLDER_NAME     = "powerv2"   # used only for the epg_url raw link
+FOLDER_NAME     = "powerv2"
 
 DEFAULT_LOGO = "https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"
 EPG_FILENAME    = "epg.xml"
-M3U_FILENAME    = "powerv2.m3u8"          # renamed to avoid conflict with old version
-STREAMS_JSON    = "powerv2_streams.json"  # renamed
-CATEGORIES_JSON = "powerv2_categories.json"  # renamed
+M3U_FILENAME    = "powerv2.m3u8"
+STREAMS_JSON    = "powerv2_streams.json"
+CATEGORIES_JSON = "powerv2_categories.json"
 
-# Files are written relative to this script's folder
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Category mapping — matches powerstreams.online style
+# Category mapping — used for both grouping and M3U group-title
 CATEGORY_MAP = {
     9:   {"key": 9,   "name": "Football",   "icon": "⚽", "priority": 1},
     4:   {"key": 4,   "name": "Basketball", "icon": "🏀", "priority": 2},
     13:  {"key": 13,  "name": "Baseball",   "icon": "⚾", "priority": 3},
-    10:  {"key": 10,  "name": "NFL",        "icon": "🏈", "priority": 4},  # placeholder
+    10:  {"key": 10,  "name": "NFL",        "icon": "🏈", "priority": 4},
     16:  {"key": 16,  "name": "Hockey",     "icon": "🏒", "priority": 5},
     "other": {"key": "other", "name": "… Other", "icon": "…", "priority": 99},
 }
@@ -97,6 +96,9 @@ async def main():
                 start = game.get("beginPartie")
                 cid = game.get("categoryId")
 
+                logo1 = game.get("logoTeam1")
+                logo2 = game.get("logoTeam2")
+
                 for chunk in vid_str.split(';'):
                     chunk = chunk.strip()
                     if not chunk: continue
@@ -113,7 +115,9 @@ async def main():
                             "url": url,
                             "categoryId": cid,
                             "start": start,
-                            "original_name_upper": name.upper()
+                            "original_name_upper": name.upper(),
+                            "logoTeam1": logo1,
+                            "logoTeam2": logo2
                         })
 
             # Resolve m3u8
@@ -164,11 +168,30 @@ async def main():
             with open(os.path.join(BASE_DIR, EPG_FILENAME), "w", encoding="utf-8") as f:
                 f.write(minidom.parseString(ET.tostring(root)).toprettyxml(indent="  "))
 
-            # ── M3U ──
+            # ── M3U with real group-titles + team logos ──
             with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
                 f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
                 for s in valid:
-                    f.write(f'#EXTINF:-1 tvg-id="{s["id"]}" tvg-logo="{DEFAULT_LOGO}" group-title="Live Sports (powerv2)",{s["name"]}\n')
+                    # Determine group-title from category
+                    cid = s.get("categoryId")
+                    group_name = "… Other"
+                    if cid == 10 or any(p in s.get("original_name_upper", "") for p in NFL_PATTERNS):
+                        group_name = "NFL"
+                    elif cid in CATEGORY_MAP and cid != "other":
+                        group_name = CATEGORY_MAP[cid]["name"]
+
+                    # Choose best logo
+                    logo = DEFAULT_LOGO
+                    if s.get("logoTeam1") and isinstance(s["logoTeam1"], str) and s["logoTeam1"].startswith("http"):
+                        logo = s["logoTeam1"]
+                    elif s.get("logoTeam2") and isinstance(s["logoTeam2"], str) and s["logoTeam2"].startswith("http"):
+                        logo = s["logoTeam2"]
+
+                    f.write(
+                        f'#EXTINF:-1 tvg-id="{s["id"]}" '
+                        f'tvg-logo="{logo}" '
+                        f'group-title="{group_name}",{s["name"]}\n'
+                    )
                     f.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
                     f.write('#EXTVLCOPT:http-referrer=https://streams.center/\n')
                     f.write(f'{s["url"]}\n')
@@ -183,7 +206,8 @@ async def main():
                 info = CATEGORY_MAP.get(cid, CATEGORY_MAP["other"])
                 cat_output[info["name"]] = [{
                     "id": i["id"], "name": i["name"], "url": i["url"],
-                    "start": i.get("start"), "categoryId": i.get("categoryId")
+                    "start": i.get("start"), "categoryId": i.get("categoryId"),
+                    "logo": i.get("logoTeam1") or i.get("logoTeam2") or DEFAULT_LOGO
                 } for i in items]
 
             with open(os.path.join(BASE_DIR, CATEGORIES_JSON), "w", encoding="utf-8") as f:
