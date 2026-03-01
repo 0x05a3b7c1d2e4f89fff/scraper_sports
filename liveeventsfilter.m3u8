@@ -14,11 +14,6 @@ http://195.178.110.25/hls/ZQQQ.m3u8
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/zeafwqvhfe69.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Boxing] Boxing : Navarrete vs Nunez (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Boxing] Boxing : Navarrete vs Nunez (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/qrrr.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[Boxing] Emanuel Navarrete vs Eduardo Nunez (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Boxing] Emanuel Navarrete vs Eduardo Nunez (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -79,11 +74,21 @@ https://areagame.net/2222.php
 #EXTVLCOPT:http-origin=https://areagame.net/home/blog3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://areagame.net/3333.php
+#EXTINF:-1 tvg-chno="65" tvg-id="Live.Event.us" tvg-name="[Live Event] Leeds vs Man City (PAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Leeds vs Man City (PAWA)
+#EXTVLCOPT:http-referrer=https://pawastreams.net/leeds-v-man-city/100265/
+#EXTVLCOPT:http-origin=https://pawastreams.net/leeds-v-man-city/100265/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb.buzztip.site/p1/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="Live.Event.us" tvg-name="[Live Event] Mallorca vs Real Sociedad (PAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Mallorca vs Real Sociedad (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/mallorca-v-real-sociedad/100259/
 #EXTVLCOPT:http-origin=https://pawastreams.net/mallorca-v-real-sociedad/100259/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb.buzztip.site/la/index.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="Live.Event.us" tvg-name="[Live Event] Man United vs Crystal Palace (PAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Man United vs Crystal Palace (PAWA)
+#EXTVLCOPT:http-referrer=https://pawastreams.net/man-united-vs-crystal-palace/100345/
+#EXTVLCOPT:http-origin=https://pawastreams.net/man-united-vs-crystal-palace/100345/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb.buzztip.site/p1/index.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="Live.Event.us" tvg-name="[Live Event] UFC Fight Night: Moreno vs. Kavanagh (OVOGOAL)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] UFC Fight Night: Moreno vs. Kavanagh (OVOGOAL)
 #EXTVLCOPT:http-referrer=https://areagame.net/mma/blog/
 #EXTVLCOPT:http-origin=https://areagame.net/mma/blog/
