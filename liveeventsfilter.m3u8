@@ -154,11 +154,6 @@ http://origin.thetvapp.to/hls/MLB21/mono.m3u8
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/milwaukee-brewers-at-kansas-city-royals-home/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://watcharena.xyz/hls/new/117.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees @ Philadelphia Phillies (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees @ Philadelphia Phillies (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/MLB05/mono.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees @ Philadelphia Phillies (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees @ Philadelphia Phillies (VOLOKIT)
 #EXTVLCOPT:http-referrer=http://volokit.xyz/lives/new-york-yankees-at-philadelphia-phillies-home/
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/new-york-yankees-at-philadelphia-phillies-home/
@@ -369,8 +364,3 @@ http://watcharena.xyz/hls/103.m3u8
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pl1.kamfir8.space/playlist/46090/load-playlist
-#EXTINF:-1 tvg-chno="243" tvg-id="Live.Event.us" tvg-name="[South Korea K League 2] Busan vs Seongnam (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[South Korea K League 2] Busan vs Seongnam (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/ccccQQ.m3u8
