@@ -89,11 +89,6 @@ https://live.webcastserver.online/newz/newz/126.m3u8
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/atlanta-braves-at-detroit-tigers-home/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://watcharena.xyz/hls/new/122.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox @ Toronto Blue Jays (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox @ Toronto Blue Jays (VOLOKIT)
-#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/boston-red-sox-at-toronto-blue-jays-home/
-#EXTVLCOPT:http-origin=http://volokit.xyz/lives/boston-red-sox-at-toronto-blue-jays-home/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://watcharena.xyz/hls/new/125.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Braves vs Tigers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Braves vs Tigers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
@@ -204,11 +199,6 @@ http://195.178.110.37/hls/CTTTQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/788afff2-afef-4b1d-8deb-c32fe149e7dd/master.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Milwaukee Bucks vs Boston Celtics 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Milwaukee Bucks vs Boston Celtics 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.37/hls/CTTTQ.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Milwaukee Bucks vs Boston Celtics 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Milwaukee Bucks vs Boston Celtics 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -224,11 +214,6 @@ http://195.178.110.37/hls/CTTTQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/961ba3ce-38d5-48bc-8cb1-16d55ddeb2fe/master.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Washington Wizards vs Houston Rockets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Washington Wizards vs Houston Rockets 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.37/hls/CTTT.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Washington Wizards vs Houston Rockets 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Washington Wizards vs Houston Rockets 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -294,6 +279,11 @@ https://red1.wecanfix6.space/playlist/46228/load-playlist
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/888dedf3-4182-4d05-a862-39bab293e45c/master.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New York Rangers vs Columbus Blue Jackets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] New York Rangers vs Columbus Blue Jackets 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.27/hls/BKKK.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] New York Rangers vs Columbus Blue Jackets 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] New York Rangers vs Columbus Blue Jackets 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -309,6 +299,11 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fcbf40
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bfda788e-056b-4ab6-a384-a9e380389b95/master.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Vancouver Canucks vs Dallas Stars 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Vancouver Canucks vs Dallas Stars 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.27/hls/BKKK.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Vancouver Canucks vs Dallas Stars 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Vancouver Canucks vs Dallas Stars 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
