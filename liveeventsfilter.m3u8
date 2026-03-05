@@ -49,11 +49,6 @@ http://195.178.110.27/hls/KOKOKOQQQ.m3u8
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n12.sanwalyaarpya.com:1686/hls/do2.m3u8?md5=shT8LAJdb1qEhnBXebOipA&expires=1772726410
-#EXTINF:-1 tvg-chno="21" tvg-id="Live.Event.us" tvg-name="[Indonesia Liga 1] Persijap Jepara vs Persis Solo (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Indonesia Liga 1] Persijap Jepara vs Persis Solo (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.27/hls/ZFZFZF.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="Live.Event.us" tvg-name="[Kenya Premier League] Posta Rangers vs Gor Mahia (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Kenya Premier League] Posta Rangers vs Gor Mahia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -259,6 +254,11 @@ https://live.webcastserver.online/newz/newz/173.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.27/hls/RIIIQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="Live.Event.us" tvg-name="[Russia Cup] Arsenal Tula vs Lokomotiv Moscow (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Russia Cup] Arsenal Tula vs Lokomotiv Moscow (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.37/hls/DDDD.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="Live.Event.us" tvg-name="[Serbia Cup] Novi Pazar vs Crvena zvezda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Serbia Cup] Novi Pazar vs Crvena zvezda (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
