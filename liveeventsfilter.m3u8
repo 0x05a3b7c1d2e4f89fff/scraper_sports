@@ -49,6 +49,16 @@ https://mainstreams.pro/hls/mlkijfezag65.m3u8
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.Dummy.us" tvg-name="[Belgium Pro League] STVV vs Cercle Brugge (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/6.png" group-title="Live Events",[Belgium Pro League] STVV vs Cercle Brugge (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.2/hls/DIIIQQQQ.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="Live.Event.us" tvg-name="[Bosnia and Herzegovina Premier League] Zrinjski vs Radnik Bijeljina (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Bosnia and Herzegovina Premier League] Zrinjski vs Radnik Bijeljina (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.2/hls/DIIIQ.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] St. Pauli vs Eintracht Frankfurt (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[Bundesliga] St. Pauli vs Eintracht Frankfurt (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch9.php
 #EXTVLCOPT:http-origin=https://streambtw.com/iframe/ch9.php
@@ -59,11 +69,6 @@ https://play.streameast.asia/playlist/stream_9.m3u8?md5=RB3ehlzT0UjGyrM3I4UNcQ&e
 #EXTVLCOPT:http-origin=https://streambtw.com/iframe/ch9.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://play.streameast.asia/playlist/stream_9.m3u8?md5=RB3ehlzT0UjGyrM3I4UNcQ&expires=1773000025
-#EXTINF:-1 tvg-chno="58" tvg-id="Live.Event.us" tvg-name="[Czech Chance Liga] Slavia Prague vs Sparta Prague (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Czech Chance Liga] Slavia Prague vs Sparta Prague (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.37/hls/GGGGQQ.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="Live.Event.us" tvg-name="[Darts] Darts UK Open (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Darts] Darts UK Open (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -244,6 +249,11 @@ https://play.streameast.asia/playlist/stream_6.m3u8?md5=b-kY8nufqqnZqyERGNfPQA&e
 #EXTVLCOPT:http-origin=https://streambtw.com/iframe/ch6.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://play.streameast.asia/playlist/stream_6.m3u8?md5=b-kY8nufqqnZqyERGNfPQA&expires=1773000024
+#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1 France] Lyon vs Paris FC (FAWA)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1 France] Lyon vs Paris FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.2/hls/RIIIQQQQ.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[Ligue 1] Lens vs Metz (STRMBTW)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[Ligue 1] Lens vs Metz (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch8.php
 #EXTVLCOPT:http-origin=https://streambtw.com/iframe/ch8.php
@@ -1089,16 +1099,16 @@ https://602.xn--1000-ugoa0hsb9a0hb.com/mlb9.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/DIII.m3u8
-#EXTINF:-1 tvg-chno="488" tvg-id="Live.Event.us" tvg-name="[Scotland Scottish Cup] St. Mirren vs Partick Thistle (SPRTZONE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Scotland Scottish Cup] St. Mirren vs Partick Thistle (SPRTZONE)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n14.sanwalyaarpya.com:1686/hls/do10.m3u8?md5=IQiikqZMHO4IpBrzWPvYCA&expires=1773005451
 #EXTINF:-1 tvg-chno="489" tvg-id="Live.Event.us" tvg-name="[Scottish Cup] St Mirren vs Partick Thistle (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Scottish Cup] St Mirren vs Partick Thistle (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/RIIIQQQ.m3u8
+#EXTINF:-1 tvg-chno="493" tvg-id="Soccer.Dummy.us" tvg-name="[Segunda Division] Granada vs Deportivo La Coruña (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live Events",[Segunda Division] Granada vs Deportivo La Coruña (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-6/playlist.m3u8?token=329e5b031d1a93eb00296c07678aea05c53fe865b75dcfe15ec02c4b42567025.1772998247.0e153bfc72730ac867aceb0fcc35e2ac.9a30e7744cc3a24c2a7f19b839528a17.fafcd6784e551ce5ed214f008bc8fb82&signature=e0bdf679bc3ec449f9039e6df10828533eb27daaa42b4364bdf1cb879cd3c6fa
 #EXTINF:-1 tvg-chno="502" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Bologna vs Verona (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Serie A] Bologna vs Verona (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch5.php
 #EXTVLCOPT:http-origin=https://streambtw.com/iframe/ch5.php
