@@ -1,42 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="7015">
-    <display-name>Washington Wizards at New Orleans Pelicans (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7015">
-    <title lang="en">Washington Wizards at New Orleans Pelicans (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7025">
-    <display-name>Detroit Red Wings at New Jersey Devils (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7025">
-    <title lang="en">Detroit Red Wings at New Jersey Devils (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7016">
-    <display-name>Orlando Magic at Milwaukee Bucks (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7016">
-    <title lang="en">Orlando Magic at Milwaukee Bucks (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7017">
-    <display-name>Houston Rockets at San Antonio Spurs (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7017">
-    <title lang="en">Houston Rockets at San Antonio Spurs (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
   <channel id="7026">
     <display-name>St. Louis Blues at Anaheim Ducks (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7026">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="7026">
     <title lang="en">St. Louis Blues at Anaheim Ducks (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -44,7 +12,7 @@
     <display-name>Indiana Pacers at Portland Trail Blazers (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7018">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="7018">
     <title lang="en">Indiana Pacers at Portland Trail Blazers (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -52,7 +20,7 @@
     <display-name>Chicago Bulls at Sacramento Kings (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7019">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="7019">
     <title lang="en">Chicago Bulls at Sacramento Kings (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -60,7 +28,7 @@
     <display-name>Edmonton Oilers at Vegas Golden Knights (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7027">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="7027">
     <title lang="en">Edmonton Oilers at Vegas Golden Knights (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -68,7 +36,7 @@
     <display-name>Charlotte Hornets at Phoenix Suns (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="7020">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="7020">
     <title lang="en">Charlotte Hornets at Phoenix Suns (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -76,7 +44,7 @@
     <display-name>Brentford at West Ham United (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="6944">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="6944">
     <title lang="en">Brentford at West Ham United (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -84,7 +52,7 @@
     <display-name>Sassuolo at Lazio (Italien)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="6993">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="6993">
     <title lang="en">Sassuolo at Lazio (Italien)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -92,7 +60,7 @@
     <display-name>Real Oviedo at Espanyol (Spanish)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260309024225 +0000" stop="20260309084225 +0000" channel="6934">
+  <programme start="20260309045738 +0000" stop="20260309105738 +0000" channel="6934">
     <title lang="en">Real Oviedo at Espanyol (Spanish)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
