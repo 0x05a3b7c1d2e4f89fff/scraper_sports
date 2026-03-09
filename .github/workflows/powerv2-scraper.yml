@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Important: Fetches history so rebase works
 
       - name: Setup Python 3.10
         uses: actions/setup-python@v5
@@ -40,6 +40,10 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "powerv2 hourly update – $(date -u +'%Y-%m-%d %H:%M UTC')"
+            
+            # Fix: Pull latest changes and rebase before pushing
+            git pull --rebase origin main
+            
             git push
           else
             echo "No changes detected – skipping commit"
