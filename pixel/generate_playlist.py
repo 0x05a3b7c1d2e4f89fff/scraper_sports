@@ -19,11 +19,14 @@ def generate_files():
     }
 
     try:
+        print(f"Fetching live data from: {JSON_URL}")
         response = requests.get(JSON_URL, headers=headers, timeout=15)
         response.raise_for_status()
         data = response.json()
         
         os.makedirs(SUBDIR, exist_ok=True)
+        
+        # Save local copy for reference
         with open(f"{SUBDIR}/events.json", 'w') as f:
             json.dump(data, f, indent=4)
 
@@ -43,10 +46,13 @@ def generate_files():
             sport = event.get('sport', 'Sports')
             logo = event.get('away_logo', '')
             
+            # M3U Entry
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{sport}",{tv_name}')
             m3u_lines.append(f"https://pixelsport.tv/live/{ch_id}.m3u8")
 
+            # EPG Entry
             try:
+                # Format: 2026-03-10T02:00:00.000Z
                 start_dt = datetime.strptime(event.get('date'), '%Y-%m-%dT%H:%M:%S.%fZ')
                 xml_start = start_dt.strftime('%Y%m%d%H%M%S +0000')
                 xml_stop = (start_dt + timedelta(hours=3)).strftime('%Y%m%d%H%M%S +0000')
@@ -66,10 +72,10 @@ def generate_files():
             f.write('\n'.join(m3u_lines))
         with open(f"{SUBDIR}/epg.xml", 'w') as f:
             f.write('\n'.join(xml_lines))
-        print("Success!")
+        print("Success! Files generated in /pixel directory.")
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error during update: {e}")
 
 if __name__ == "__main__":
     generate_files()
