@@ -12,29 +12,23 @@ class SportsScraper:
             "Referer": "https://sports4free.ru/",
             "Origin": "https://sports4free.ru/"
         }
-        
         self.api_url = "https://my-dev--master-gqd4.diploi.me/api/channels"
         self.web_base = "https://my-dev--worker-1-x5wz.diploi.me/hls"
-        
         self.output_dir = os.path.dirname(os.path.abspath(__file__))
         os.makedirs(self.output_dir, exist_ok=True)
 
     def get_clean_group(self, name, raw_group):
-        """Extracts country tags like US|, ES|, TR| or categorizes others."""
-        # This regex now looks for 'US|', 'ES|', etc. at the start of the name
-        match = re.search(r'^([A-Z]{2,3})\|', name)
+        """Sorts by Country tags like TR|, US|, MA| or specific categories."""
+        # Matches patterns like TR|, US|, PPV| at the start of the name
+        match = re.search(r'^([A-Z0-9]{2,3})\|', name)
         if match:
-            return match.group(1).upper()
+            tag = match.group(1).upper()
+            return tag
         
-        # Fallback to checking for |US| format just in case
-        match_alt = re.search(r'\|([A-Z]{2,3})\|', name)
-        if match_alt:
-            return match_alt.group(1).upper()
-        
-        raw_group = raw_group.upper()
-        if "PPV" in raw_group: return "PPV"
-        if "ADULT" in raw_group or "+18" in raw_group: return "ADULTS"
-        
+        # Fallback to cleaning raw group strings
+        rg = raw_group.upper()
+        if "PPV" in rg: return "PPV"
+        if "ADULT" in rg or "+18" in rg: return "ADULTS"
         return "Other"
 
     def run(self):
@@ -43,48 +37,38 @@ class SportsScraper:
                 response = client.get(self.api_url)
                 data = response.json()
         except Exception as e:
-            print(f"Failed to fetch live data: {e}")
+            print(f"Error: {e}")
             return
 
         m3u_lines = [f'#EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/s4f/s4f_epg.xml"']
-        cleaned_json = []
         root = ET.Element("tv")
 
         for ch in data:
             name = ch.get('name', 'Unknown')
             logo = ch.get('logo', '')
-            raw_group = ch.get('group', 'Other')
             
-            # EXTRACT UNIQUE ID
-            # First try to get it from the stream string, then tvgId
+            # 1. GET THE ID (Prioritize stream ID, then tvgId)
             original_stream = ch.get('stream', '')
-            channel_id = None
+            extracted_id = None
             
             if "id=" in original_stream:
-                channel_id = original_stream.split('id=')[-1]
-            elif ch.get('tvgId'):
-                channel_id = str(ch.get('tvgId'))
+                extracted_id = original_stream.split('id=')[-1]
             else:
-                channel_id = "1186699" # Last resort fallback
+                extracted_id = ch.get('tvgId')
 
-            stream_url = f"{self.web_base}?id={channel_id}"
-            group = self.get_clean_group(name, raw_group)
-            unique_tvg_id = f"s4f_{channel_id}"
+            # If still nothing, skip this channel to prevent duplicates
+            if not extracted_id:
+                continue
 
-            # 1. Update JSON Data
-            cleaned_json.append({
-                "name": name,
-                "logo": logo,
-                "group": group,
-                "tvgId": unique_tvg_id,
-                "stream": stream_url
-            })
+            stream_url = f"{self.web_base}?id={extracted_id}"
+            group = self.get_clean_group(name, ch.get('group', ''))
+            unique_tvg_id = f"s4f_{extracted_id}"
 
-            # 2. Update M3U8
+            # 2. Add to M3U8
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{unique_tvg_id}" tvg-logo="{logo}" group-title="{group}",{name}')
             m3u_lines.append(stream_url)
 
-            # 3. Update EPG
+            # 3. Add to EPG
             channel_node = ET.SubElement(root, "channel", id=unique_tvg_id)
             ET.SubElement(channel_node, "display-name").text = name
             prog = ET.SubElement(root, "programme", 
@@ -94,16 +78,13 @@ class SportsScraper:
             ET.SubElement(prog, "title").text = f"LIVE: {name}"
 
         # Save Files
-        with open(os.path.join(self.output_dir, "s4f_data.json"), "w", encoding="utf-8") as f:
-            json.dump(cleaned_json, f, indent=4)
-            
         with open(os.path.join(self.output_dir, "s4f_playlist.m3u8"), "w", encoding="utf-8") as f:
             f.write("\n".join(m3u_lines))
-            
+        
         tree = ET.ElementTree(root)
         tree.write(os.path.join(self.output_dir, "s4f_epg.xml"), encoding="utf-8", xml_declaration=True)
-
-        print(f"Success: Processed {len(cleaned_json)} unique channels.")
+        
+        print(f"Done! Playlist created in {self.output_dir}/s4f_playlist.m3u8")
 
 if __name__ == "__main__":
     SportsScraper().run()
