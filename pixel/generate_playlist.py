@@ -4,29 +4,43 @@ import os
 from datetime import datetime, timedelta
 
 # Configuration
-JSON_URL = "https://pixelsport.tv/backend/liveTV/events"
+BASE = "https://pixelsport.tv"
+JSON_URL = f"{BASE}/backend/liveTV/events"
 USERNAME = "BuddyChewChew"
 REPO = "sports"
 SUBDIR = "pixel"
 XML_URL = f"https://raw.githubusercontent.com/{USERNAME}/{REPO}/main/{SUBDIR}/epg.xml"
 
 def generate_files():
-    # Headers to mimic a browser and avoid 403 Forbidden
+    # Exact headers from your Firefox dump to bypass Cloudflare
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0",
-        "Accept": "application/json",
-        "Referer": "https://pixelsport.tv/"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0",
+        "Accept": "application/json", # Changed to JSON since we want the data
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Referer": f"{BASE}/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+        "Priority": "u=0, i"
     }
 
     try:
-        print(f"Fetching live data from: {JSON_URL}")
+        print(f"Fetching data from {JSON_URL}...")
         response = requests.get(JSON_URL, headers=headers, timeout=15)
+        
+        # Check for rate limiting based on your headers
+        remaining = response.headers.get('x-ratelimit-remaining')
+        if remaining:
+            print(f"Rate Limit Remaining: {remaining}")
+
         response.raise_for_status()
         data = response.json()
         
         os.makedirs(SUBDIR, exist_ok=True)
         
-        # Save local copy for reference
+        # Save a local copy of the raw events
         with open(f"{SUBDIR}/events.json", 'w') as f:
             json.dump(data, f, indent=4)
 
@@ -46,13 +60,14 @@ def generate_files():
             sport = event.get('sport', 'Sports')
             logo = event.get('away_logo', '')
             
-            # M3U Entry
+            # M3U Entry with VLC headers for the stream itself
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{sport}",{tv_name}')
-            m3u_lines.append(f"https://pixelsport.tv/live/{ch_id}.m3u8")
+            m3u_lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
+            m3u_lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
+            m3u_lines.append(f"{BASE}/live/{ch_id}.m3u8")
 
             # EPG Entry
             try:
-                # Format: 2026-03-10T02:00:00.000Z
                 start_dt = datetime.strptime(event.get('date'), '%Y-%m-%dT%H:%M:%S.%fZ')
                 xml_start = start_dt.strftime('%Y%m%d%H%M%S +0000')
                 xml_stop = (start_dt + timedelta(hours=3)).strftime('%Y%m%d%H%M%S +0000')
@@ -72,7 +87,7 @@ def generate_files():
             f.write('\n'.join(m3u_lines))
         with open(f"{SUBDIR}/epg.xml", 'w') as f:
             f.write('\n'.join(xml_lines))
-        print("Success! Files generated in /pixel directory.")
+        print("Update completed successfully.")
 
     except Exception as e:
         print(f"Error during update: {e}")
