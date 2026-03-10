@@ -1,10 +1,354 @@
 <?xml version="1.0" ?>
 <tv>
+  <channel id="7066">
+    <display-name>Minnesota Timberwolves at Los Angeles Lakers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7066">
+    <title lang="en">Minnesota Timberwolves at Los Angeles Lakers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7063">
+    <display-name>Chicago Bulls at Golden State Warriors (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7063">
+    <title lang="en">Chicago Bulls at Golden State Warriors (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7064">
+    <display-name>Charlotte Hornets at Portland Trail Blazers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7064">
+    <title lang="en">Charlotte Hornets at Portland Trail Blazers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7065">
+    <display-name>Indiana Pacers at Sacramento Kings (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7065">
+    <title lang="en">Indiana Pacers at Sacramento Kings (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7078">
+    <display-name>Edmonton Oilers at Colorado Avalanche (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7078">
+    <title lang="en">Edmonton Oilers at Colorado Avalanche (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7079">
+    <display-name>Nashville Predators at Seattle Kraken (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7079">
+    <title lang="en">Nashville Predators at Seattle Kraken (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7077">
+    <display-name>Anaheim Ducks at Winnipeg Jets (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7077">
+    <title lang="en">Anaheim Ducks at Winnipeg Jets (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7075">
+    <display-name>Vegas Golden Knights at Dallas Stars (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7075">
+    <title lang="en">Vegas Golden Knights at Dallas Stars (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7076">
+    <display-name>Utah Mammoth at Minnesota Wild (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7076">
+    <title lang="en">Utah Mammoth at Minnesota Wild (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7060">
+    <display-name>Toronto Raptors at Houston Rockets (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7060">
+    <title lang="en">Toronto Raptors at Houston Rockets (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7061">
+    <display-name>Phoenix Suns at Milwaukee Bucks (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7061">
+    <title lang="en">Phoenix Suns at Milwaukee Bucks (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7062">
+    <display-name>Boston Celtics at San Antonio Spurs (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7062">
+    <title lang="en">Boston Celtics at San Antonio Spurs (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7057">
+    <display-name>Detroit Pistons at Brooklyn Nets (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7057">
+    <title lang="en">Detroit Pistons at Brooklyn Nets (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7058">
+    <display-name>Washington Wizards at Miami Heat (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7058">
+    <title lang="en">Washington Wizards at Miami Heat (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7059">
+    <display-name>Dallas Mavericks at Atlanta Hawks (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7059">
+    <title lang="en">Dallas Mavericks at Atlanta Hawks (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7074">
+    <display-name>New York Islanders at St. Louis Blues (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7074">
+    <title lang="en">New York Islanders at St. Louis Blues (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7067">
+    <display-name>Los Angeles Kings at Boston Bruins (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7067">
+    <title lang="en">Los Angeles Kings at Boston Bruins (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7068">
+    <display-name>San Jose Sharks at Buffalo Sabres (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7068">
+    <title lang="en">San Jose Sharks at Buffalo Sabres (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7069">
+    <display-name>Toronto Maple Leafs at Montreal Canadiens (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7069">
+    <title lang="en">Toronto Maple Leafs at Montreal Canadiens (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7070">
+    <display-name>Columbus Blue Jackets at Tampa Bay Lightning (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7070">
+    <title lang="en">Columbus Blue Jackets at Tampa Bay Lightning (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7071">
+    <display-name>Detroit Red Wings at Florida Panthers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7071">
+    <title lang="en">Detroit Red Wings at Florida Panthers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7072">
+    <display-name>Calgary Flames at New York Rangers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7072">
+    <title lang="en">Calgary Flames at New York Rangers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7073">
+    <display-name>Pittsburgh Penguins at Carolina Hurricanes (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7073">
+    <title lang="en">Pittsburgh Penguins at Carolina Hurricanes (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7056">
+    <display-name>Memphis Grizzlies at Philadelphia 76ers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7056">
+    <title lang="en">Memphis Grizzlies at Philadelphia 76ers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7091">
+    <display-name>Cincinnati Reds at Colorado Rockies (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7091">
+    <title lang="en">Cincinnati Reds at Colorado Rockies (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7092">
+    <display-name>San Diego Padres at Los Angeles Angels (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7092">
+    <title lang="en">San Diego Padres at Los Angeles Angels (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7093">
+    <display-name>Kansas City Royals at Seattle Mariners (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7093">
+    <title lang="en">Kansas City Royals at Seattle Mariners (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7087">
+    <display-name>Chicago White Sox at Athletics Athletics (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7087">
+    <title lang="en">Chicago White Sox at Athletics Athletics (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7088">
+    <display-name>San Francisco Giants at Cleveland Guardians (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7088">
+    <title lang="en">San Francisco Giants at Cleveland Guardians (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7089">
+    <display-name>Arizona Diamondbacks at Los Angeles Dodgers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7089">
+    <title lang="en">Arizona Diamondbacks at Los Angeles Dodgers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7090">
+    <display-name>Chicago Cubs at Texas Rangers (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7090">
+    <title lang="en">Chicago Cubs at Texas Rangers (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7053">
+    <display-name>Tottenham Hotspur at Atlético Madrid (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7053">
+    <title lang="en">Tottenham Hotspur at Atlético Madrid (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7054">
+    <display-name>Bayern Munich at Atalanta (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7054">
+    <title lang="en">Bayern Munich at Atalanta (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7055">
+    <display-name>Barcelona at Newcastle United (Spanish)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7055">
+    <title lang="en">Barcelona at Newcastle United (Spanish)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7055">
+    <display-name>Barcelona at Newcastle United (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7055">
+    <title lang="en">Barcelona at Newcastle United (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7052">
+    <display-name>Liverpool at Galatasaray (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7052">
+    <title lang="en">Liverpool at Galatasaray (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7085">
+    <display-name>Washington Nationals at Miami Marlins (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7085">
+    <title lang="en">Washington Nationals at Miami Marlins (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7086">
+    <display-name>St. Louis Cardinals at New York Mets (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7086">
+    <title lang="en">St. Louis Cardinals at New York Mets (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7084">
+    <display-name>Atlanta Braves at Toronto Blue Jays (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7084">
+    <title lang="en">Atlanta Braves at Toronto Blue Jays (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7080">
+    <display-name>Detroit Tigers at Boston Red Sox (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7080">
+    <title lang="en">Detroit Tigers at Boston Red Sox (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7081">
+    <display-name>Baltimore Orioles at Houston Astros (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7081">
+    <title lang="en">Baltimore Orioles at Houston Astros (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7082">
+    <display-name>New York Yankees at Philadelphia Phillies (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7082">
+    <title lang="en">New York Yankees at Philadelphia Phillies (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
+  <channel id="7083">
+    <display-name>Minnesota Twins at Tampa Bay Rays (English)</display-name>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </channel>
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7083">
+    <title lang="en">Minnesota Twins at Tampa Bay Rays (English)</title>
+    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
+  </programme>
   <channel id="7046">
     <display-name>New York Knicks at LA Clippers (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7046">
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7046">
     <title lang="en">New York Knicks at LA Clippers (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -12,7 +356,7 @@
     <display-name>Golden State Warriors at Utah Jazz (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7045">
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7045">
     <title lang="en">Golden State Warriors at Utah Jazz (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -20,7 +364,7 @@
     <display-name>Ottawa Senators at Vancouver Canucks (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7051">
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7051">
     <title lang="en">Ottawa Senators at Vancouver Canucks (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -28,64 +372,8 @@
     <display-name>Utah Mammoth at Chicago Blackhawks (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7050">
+  <programme start="20260310040118 +0000" stop="20260310100118 +0000" channel="7050">
     <title lang="en">Utah Mammoth at Chicago Blackhawks (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7043">
-    <display-name>Memphis Grizzlies at Brooklyn Nets (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7043">
-    <title lang="en">Memphis Grizzlies at Brooklyn Nets (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7044">
-    <display-name>Denver Nuggets at Oklahoma City Thunder (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7044">
-    <title lang="en">Denver Nuggets at Oklahoma City Thunder (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7042">
-    <display-name>Philadelphia 76ers at Cleveland Cavaliers (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7042">
-    <title lang="en">Philadelphia 76ers at Cleveland Cavaliers (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7048">
-    <display-name>New York Rangers at Philadelphia Flyers (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7048">
-    <title lang="en">New York Rangers at Philadelphia Flyers (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7049">
-    <display-name>Calgary Flames at Washington Capitals (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7049">
-    <title lang="en">Calgary Flames at Washington Capitals (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7041">
-    <display-name>Pittsburgh Pirates at New York Yankees (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7041">
-    <title lang="en">Pittsburgh Pirates at New York Yankees (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7040">
-    <display-name>Miami Marlins at New York Mets (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260310011250 +0000" stop="20260310071250 +0000" channel="7040">
-    <title lang="en">Miami Marlins at New York Mets (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
 </tv>
