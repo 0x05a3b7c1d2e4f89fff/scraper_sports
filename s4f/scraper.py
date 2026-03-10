@@ -13,23 +13,19 @@ class SportsScraper:
             "Origin": "https://sports4free.ru/"
         }
         
-        # The live API source
         self.api_url = "https://my-dev--master-gqd4.diploi.me/api/channels"
-        
-        # The REAL web address to replace localhost
+        # The correct web domain for the streams
         self.web_base = "https://my-dev--worker-1-x5wz.diploi.me/hls"
         
         self.output_dir = os.path.dirname(os.path.abspath(__file__))
         os.makedirs(self.output_dir, exist_ok=True)
 
     def get_clean_group(self, name, raw_group):
-        """Extracts |XX| tags or cleans up the PPV/Adult categories."""
-        # 1. Check for country tags like |ES|, |TR|, |US| in the name
+        """Extracts country tags like |ES|, |US|, |TR| or categorizes others."""
         match = re.search(r'\|([A-Z0-9]{2,3})\|', name)
         if match:
             return match.group(1).upper()
         
-        # 2. Check the raw group for known categories
         raw_group = raw_group.upper()
         if "PPV" in raw_group: return "PPV"
         if "ADULT" in raw_group or "+18" in raw_group: return "ADULTS"
@@ -46,46 +42,60 @@ class SportsScraper:
             return
 
         m3u_lines = [f'#EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/sports/main/s4f/s4f_epg.xml"']
-        cleaned_channels = []
+        cleaned_json = []
+        root = ET.Element("tv")
 
         for ch in data:
             name = ch.get('name', 'Unknown')
             logo = ch.get('logo', '')
             raw_group = ch.get('group', 'Other')
             
-            # FIX: Replace localhost with the web version
-            # If the API gives "http://localhost:3000/hls?id=123", we want "https://.../hls?id=123"
+            # EXTRACT ID & FIX URL: Replace localhost with the web-accessible URL
             original_stream = ch.get('stream', '')
-            if "localhost" in original_stream:
+            if "id=" in original_stream:
                 channel_id = original_stream.split('id=')[-1]
                 stream_url = f"{self.web_base}?id={channel_id}"
             else:
+                # Fallback if id is not in the stream string
+                channel_id = str(ch.get('tvgId', '1186699'))
                 stream_url = original_stream
 
             group = self.get_clean_group(name, raw_group)
-            tvg_id = f"s4f_{ch.get('tvgId', channel_id)}"
+            unique_tvg_id = f"s4f_{channel_id}"
 
-            # Add to JSON list
-            cleaned_channels.append({
+            # 1. Update JSON Data
+            cleaned_json.append({
                 "name": name,
                 "logo": logo,
                 "group": group,
-                "tvgId": tvg_id,
+                "tvgId": unique_tvg_id,
                 "stream": stream_url
             })
 
-            # Add to M3U8
-            m3u_lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{group}",{name}')
+            # 2. Update M3U8
+            m3u_lines.append(f'#EXTINF:-1 tvg-id="{unique_tvg_id}" tvg-logo="{logo}" group-title="{group}",{name}')
             m3u_lines.append(stream_url)
 
-        # Save the files
+            # 3. Update EPG
+            channel_node = ET.SubElement(root, "channel", id=unique_tvg_id)
+            ET.SubElement(channel_node, "display-name").text = name
+            prog = ET.SubElement(root, "programme", 
+                                start=datetime.now().strftime("%Y%m%d%H0000 +0000"),
+                                stop=datetime.now().strftime("%Y%m%d%H5900 +0000"),
+                                channel=unique_tvg_id)
+            ET.SubElement(prog, "title").text = f"LIVE: {name}"
+
+        # Save Files
         with open(os.path.join(self.output_dir, "s4f_data.json"), "w", encoding="utf-8") as f:
-            json.dump(cleaned_channels, f, indent=4)
+            json.dump(cleaned_json, f, indent=4)
             
         with open(os.path.join(self.output_dir, "s4f_playlist.m3u8"), "w", encoding="utf-8") as f:
             f.write("\n".join(m3u_lines))
+            
+        tree = ET.ElementTree(root)
+        tree.write(os.path.join(self.output_dir, "s4f_epg.xml"), encoding="utf-8", xml_declaration=True)
 
-        print(f"Processed {len(cleaned_channels)} channels to {self.output_dir}")
+        print(f"Success: Processed {len(cleaned_json)} channels.")
 
 if __name__ == "__main__":
     SportsScraper().run()
