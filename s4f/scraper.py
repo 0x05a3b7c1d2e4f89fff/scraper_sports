@@ -14,23 +14,28 @@ class SportsScraper:
         }
         
         self.api_url = "https://my-dev--master-gqd4.diploi.me/api/channels"
-        # The correct web domain for the streams
         self.web_base = "https://my-dev--worker-1-x5wz.diploi.me/hls"
         
         self.output_dir = os.path.dirname(os.path.abspath(__file__))
         os.makedirs(self.output_dir, exist_ok=True)
 
     def get_clean_group(self, name, raw_group):
-        """Extracts country tags like |ES|, |US|, |TR| or categorizes others."""
-        match = re.search(r'\|([A-Z0-9]{2,3})\|', name)
+        """Extracts country tags like US|, ES|, TR| or categorizes others."""
+        # This regex now looks for 'US|', 'ES|', etc. at the start of the name
+        match = re.search(r'^([A-Z]{2,3})\|', name)
         if match:
             return match.group(1).upper()
+        
+        # Fallback to checking for |US| format just in case
+        match_alt = re.search(r'\|([A-Z]{2,3})\|', name)
+        if match_alt:
+            return match_alt.group(1).upper()
         
         raw_group = raw_group.upper()
         if "PPV" in raw_group: return "PPV"
         if "ADULT" in raw_group or "+18" in raw_group: return "ADULTS"
         
-        return "OTHER"
+        return "Other"
 
     def run(self):
         try:
@@ -50,16 +55,19 @@ class SportsScraper:
             logo = ch.get('logo', '')
             raw_group = ch.get('group', 'Other')
             
-            # EXTRACT ID & FIX URL: Replace localhost with the web-accessible URL
+            # EXTRACT UNIQUE ID
+            # First try to get it from the stream string, then tvgId
             original_stream = ch.get('stream', '')
+            channel_id = None
+            
             if "id=" in original_stream:
                 channel_id = original_stream.split('id=')[-1]
-                stream_url = f"{self.web_base}?id={channel_id}"
+            elif ch.get('tvgId'):
+                channel_id = str(ch.get('tvgId'))
             else:
-                # Fallback if id is not in the stream string
-                channel_id = str(ch.get('tvgId', '1186699'))
-                stream_url = original_stream
+                channel_id = "1186699" # Last resort fallback
 
+            stream_url = f"{self.web_base}?id={channel_id}"
             group = self.get_clean_group(name, raw_group)
             unique_tvg_id = f"s4f_{channel_id}"
 
@@ -95,7 +103,7 @@ class SportsScraper:
         tree = ET.ElementTree(root)
         tree.write(os.path.join(self.output_dir, "s4f_epg.xml"), encoding="utf-8", xml_declaration=True)
 
-        print(f"Success: Processed {len(cleaned_json)} channels.")
+        print(f"Success: Processed {len(cleaned_json)} unique channels.")
 
 if __name__ == "__main__":
     SportsScraper().run()
