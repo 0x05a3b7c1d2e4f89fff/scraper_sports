@@ -30,18 +30,18 @@ jobs:
       - name: Run s4f scraper
         run: python s4f/scraper.py
 
-      - name: Commit and Push
+      - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # This will find and stage the new files even if they didn't exist before
-          git add s4f/s4f_playlist.m3u8 s4f/s4f_data.json s4f/s4f_epg.xml
+          
+          # Force add the entire subdirectory
+          git add s4f/*
           
           if ! git diff --cached --quiet; then
-            git commit -m "s4f update: created m3u8 and epg files – $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "s4f update: unique IDs and grouping – $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
           else
-            echo "No changes to commit."
+            echo "No changes found."
           fi
