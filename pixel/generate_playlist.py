@@ -1,5 +1,5 @@
 import json
-import requests
+import cloudscraper
 import os
 from datetime import datetime, timedelta
 
@@ -9,44 +9,36 @@ JSON_URL = f"{BASE}/backend/liveTV/events"
 USERNAME = "BuddyChewChew"
 REPO = "sports"
 SUBDIR = "pixel"
-LOCAL_JSON = f"{SUBDIR}/events.json"
 XML_URL = f"https://raw.githubusercontent.com/{USERNAME}/{REPO}/main/{SUBDIR}/epg.xml"
 
 def generate_files():
-    # Headers exactly matching your provided Firefox request to bypass 403
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0",
-        "Accept": "application/json",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive",
-        "Referer": f"{BASE}/",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "same-origin",
-        "Priority": "u=0, i"
-    }
+    # Initialize cloudscraper with a specific browser profile
+    # Using 'nodejs' as the interpreter is often more reliable than the default
+    scraper = cloudscraper.create_scraper(
+        browser={
+            'browser': 'firefox',
+            'platform': 'windows',
+            'desktop': True
+        },
+        interpreter='js2py' 
+    )
 
     try:
-        # Step 1: Download the live .json file
-        print(f"Downloading live data from {JSON_URL}...")
-        response = requests.get(JSON_URL, headers=headers, timeout=15)
+        print(f"Attempting to bypass Cloudflare and fetch: {JSON_URL}")
+        
+        # Cloudscraper will automatically wait ~5 seconds for the challenge
+        response = scraper.get(JSON_URL, timeout=20)
         response.raise_for_status()
         
+        data = response.json()
+        
         os.makedirs(SUBDIR, exist_ok=True)
-        with open(LOCAL_JSON, 'w') as f:
-            json.dump(response.json(), f, indent=4)
-        print(f"Successfully saved to {LOCAL_JSON}")
-
-        # Step 2: Pull from the local .json file to generate EPG/M3U
-        with open(LOCAL_JSON, 'r') as f:
-            data = json.load(f)
-
+        
         m3u_lines = [f'#EXTM3U x-tvg-url="{XML_URL}"']
         xml_lines = [
             '<?xml version="1.0" encoding="UTF-8"?>',
             '<!DOCTYPE tv SYSTEM "xmltv.dtd">',
-            '<tv generator-info-name="BuddyChewChew-Pixel-Gen">'
+            '<tv generator-info-name="BuddyChewChew-Cloud-Gen">'
         ]
 
         for event in data.get('events', []):
@@ -60,8 +52,6 @@ def generate_files():
             
             # M3U Entry
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{sport}",{tv_name}')
-            m3u_lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
-            m3u_lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
             m3u_lines.append(f"{BASE}/live/{ch_id}.m3u8")
 
             # EPG Entry
@@ -88,8 +78,8 @@ def generate_files():
         print("Playlist and EPG generated successfully.")
 
     except Exception as e:
-        print(f"Error: {e}")
-        raise # Ensures the GitHub Action shows a failure if it's blocked
+        print(f"Cloudscraper failed: {e}")
+        raise
 
 if __name__ == "__main__":
     generate_files()
