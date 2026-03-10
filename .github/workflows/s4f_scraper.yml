@@ -30,18 +30,17 @@ jobs:
       - name: Run s4f scraper
         run: python s4f/scraper.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add the entire subdirectory
-          git add s4f/*
+
+          git add s4f/s4f_playlist.m3u8 s4f/s4f_epg.xml
           
           if ! git diff --cached --quiet; then
-            git commit -m "s4f update: unique IDs and grouping – $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "s4f update: Fixed IDs and grouped by Country Tags – $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
           else
-            echo "No changes found."
+            echo "No changes detected."
           fi
