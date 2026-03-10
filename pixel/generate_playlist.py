@@ -12,10 +12,10 @@ SUBDIR = "pixel"
 XML_URL = f"https://raw.githubusercontent.com/{USERNAME}/{REPO}/main/{SUBDIR}/epg.xml"
 
 def generate_files():
-    # Exact headers from your Firefox dump to bypass Cloudflare
+    # Headers exactly matching your Firefox request to bypass Cloudflare 403
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0",
-        "Accept": "application/json", # Changed to JSON since we want the data
+        "Accept": "application/json",
         "Accept-Language": "en-US,en;q=0.9",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
@@ -30,7 +30,7 @@ def generate_files():
         print(f"Fetching data from {JSON_URL}...")
         response = requests.get(JSON_URL, headers=headers, timeout=15)
         
-        # Check for rate limiting based on your headers
+        # Log rate limit status for monitoring
         remaining = response.headers.get('x-ratelimit-remaining')
         if remaining:
             print(f"Rate Limit Remaining: {remaining}")
@@ -38,6 +38,7 @@ def generate_files():
         response.raise_for_status()
         data = response.json()
         
+        # Ensure the directory exists so the script doesn't fail
         os.makedirs(SUBDIR, exist_ok=True)
         
         # Save a local copy of the raw events
@@ -60,7 +61,7 @@ def generate_files():
             sport = event.get('sport', 'Sports')
             logo = event.get('away_logo', '')
             
-            # M3U Entry with VLC headers for the stream itself
+            # M3U Entry with VLC headers for stream compatibility
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{sport}",{tv_name}')
             m3u_lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
             m3u_lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
@@ -91,6 +92,8 @@ def generate_files():
 
     except Exception as e:
         print(f"Error during update: {e}")
+        # Re-raise error to force GitHub Action to stop if file generation fails
+        raise
 
 if __name__ == "__main__":
     generate_files()
