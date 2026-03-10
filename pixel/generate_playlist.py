@@ -8,20 +8,26 @@ JSON_URL = "https://pixelsport.tv/backend/liveTV/events"
 USERNAME = "BuddyChewChew"
 REPO = "sports"
 SUBDIR = "pixel"
-# This URL is what players like TiviMate will use to find your guide
 XML_URL = f"https://raw.githubusercontent.com/{USERNAME}/{REPO}/main/{SUBDIR}/epg.xml"
 
 def generate_files():
+    # Added Headers to mimic a real browser and avoid 403 Forbidden errors
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0",
+        "Accept": "application/json",
+        "Referer": "https://pixelsport.tv/"
+    }
+
     try:
-        # Fetch fresh data from the live link
-        response = requests.get(JSON_URL, timeout=15)
+        # Fetch fresh data using headers
+        print(f"Fetching data from {JSON_URL}...")
+        response = requests.get(JSON_URL, headers=headers, timeout=15)
         response.raise_for_status()
         data = response.json()
         
-        # Ensure the pixel directory exists
         os.makedirs(SUBDIR, exist_ok=True)
         
-        # Save a local copy of the raw JSON for your records
+        # Save a local copy
         with open(f"{SUBDIR}/events.json", 'w') as f:
             json.dump(data, f, indent=4)
 
@@ -42,24 +48,20 @@ def generate_files():
             sport = event.get('sport', 'Sports')
             logo = event.get('away_logo', '')
             
-            # 1. Build M3U Entry
+            # 1. M3U Entry
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{sport}",{tv_name}')
             m3u_lines.append(f"https://pixelsport.tv/live/{ch_id}.m3u8")
 
-            # 2. Build EPG Entry
-            # Parsing date (e.g., 2026-03-10T02:00:00.000Z)
+            # 2. EPG Entry
             try:
+                # Handling the ISO date format
                 start_dt = datetime.strptime(event.get('date'), '%Y-%m-%dT%H:%M:%S.%fZ')
                 xml_start = start_dt.strftime('%Y%m%d%H%M%S +0000')
-                # Programs default to 3 hours unless it's live/final
                 xml_stop = (start_dt + timedelta(hours=3)).strftime('%Y%m%d%H%M%S +0000')
             except:
                 continue
 
-            xml_lines.append(f'  <channel id="{ch_id}">')
-            xml_lines.append(f'    <display-name>{tv_name}</display-name>')
-            xml_lines.append(f'  </channel>')
-            
+            xml_lines.append(f'  <channel id="{ch_id}"><display-name>{tv_name}</display-name></channel>')
             xml_lines.append(f'  <programme start="{xml_start}" stop="{xml_stop}" channel="{ch_id}">')
             xml_lines.append(f'    <title lang="en">{event.get("matchName")}</title>')
             xml_lines.append(f'    <desc lang="en">Status: {event.get("gameStatusDetail")} | Location: {event.get("location")}</desc>')
@@ -69,7 +71,6 @@ def generate_files():
 
         xml_lines.append('</tv>')
 
-        # Write the final files
         with open(f"{SUBDIR}/playlist.m3u8", 'w') as f:
             f.write('\n'.join(m3u_lines))
         
@@ -78,6 +79,8 @@ def generate_files():
             
         print("Update completed successfully.")
 
+    except requests.exceptions.HTTPError as e:
+        print(f"HTTP Error: {e}")
     except Exception as e:
         print(f"Error during update: {e}")
 
