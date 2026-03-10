@@ -9,10 +9,11 @@ JSON_URL = f"{BASE}/backend/liveTV/events"
 USERNAME = "BuddyChewChew"
 REPO = "sports"
 SUBDIR = "pixel"
+LOCAL_JSON = f"{SUBDIR}/events.json"
 XML_URL = f"https://raw.githubusercontent.com/{USERNAME}/{REPO}/main/{SUBDIR}/epg.xml"
 
 def generate_files():
-    # Headers exactly matching your Firefox request to bypass Cloudflare 403
+    # Headers exactly matching your provided Firefox request to bypass 403
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0",
         "Accept": "application/json",
@@ -27,23 +28,19 @@ def generate_files():
     }
 
     try:
-        print(f"Fetching data from {JSON_URL}...")
+        # Step 1: Download the live .json file
+        print(f"Downloading live data from {JSON_URL}...")
         response = requests.get(JSON_URL, headers=headers, timeout=15)
-        
-        # Log rate limit status for monitoring
-        remaining = response.headers.get('x-ratelimit-remaining')
-        if remaining:
-            print(f"Rate Limit Remaining: {remaining}")
-
         response.raise_for_status()
-        data = response.json()
         
-        # Ensure the directory exists so the script doesn't fail
         os.makedirs(SUBDIR, exist_ok=True)
-        
-        # Save a local copy of the raw events
-        with open(f"{SUBDIR}/events.json", 'w') as f:
-            json.dump(data, f, indent=4)
+        with open(LOCAL_JSON, 'w') as f:
+            json.dump(response.json(), f, indent=4)
+        print(f"Successfully saved to {LOCAL_JSON}")
+
+        # Step 2: Pull from the local .json file to generate EPG/M3U
+        with open(LOCAL_JSON, 'r') as f:
+            data = json.load(f)
 
         m3u_lines = [f'#EXTM3U x-tvg-url="{XML_URL}"']
         xml_lines = [
@@ -61,7 +58,7 @@ def generate_files():
             sport = event.get('sport', 'Sports')
             logo = event.get('away_logo', '')
             
-            # M3U Entry with VLC headers for stream compatibility
+            # M3U Entry
             m3u_lines.append(f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{sport}",{tv_name}')
             m3u_lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
             m3u_lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
@@ -88,12 +85,11 @@ def generate_files():
             f.write('\n'.join(m3u_lines))
         with open(f"{SUBDIR}/epg.xml", 'w') as f:
             f.write('\n'.join(xml_lines))
-        print("Update completed successfully.")
+        print("Playlist and EPG generated successfully.")
 
     except Exception as e:
-        print(f"Error during update: {e}")
-        # Re-raise error to force GitHub Action to stop if file generation fails
-        raise
+        print(f"Error: {e}")
+        raise # Ensures the GitHub Action shows a failure if it's blocked
 
 if __name__ == "__main__":
     generate_files()
