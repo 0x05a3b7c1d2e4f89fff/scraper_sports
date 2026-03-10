@@ -2,9 +2,8 @@ name: PPV Scraper
 
 on:
   schedule:
-    # Runs every 3 hours (10,800 seconds) to match CACHE_FILE expiration
     - cron: '0 */3 * * *'
-  workflow_dispatch: # Allows manual triggering from the Actions tab
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -20,38 +19,32 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # Ensure playwright and stealth are available
-          pip install playwright playwright-stealth
+          # Includes all libraries seen in your fetch.py imports
+          pip install playwright playwright-stealth httpx selectolax
 
       - name: Install Playwright Browsers
-        # This installs the Chromium binaries needed for the Browser object
         run: npx playwright install chromium --with-deps
 
       - name: Run Scraper
         env:
           PYTHONPATH: .
         run: |
-          # Replace 'run_scraper.py' with the actual filename that calls your scrape() function
-          python run_scraper.py
+          python fetch.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Stage all changes (new cache files, API logs, etc.)
           git add .
           
-          # Only commit and push if changes exist to avoid workflow failure
           if ! git diff --cached --quiet; then
-            git commit -m "Automated PPV Cache Update [skip ci]"
+            git commit -m "Update IPTV playlists and PPV events [skip ci]"
             git push
           else
-            echo "No changes to commit"
+            echo "No changes detected"
           fi
