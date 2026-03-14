@@ -24,11 +24,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/820be9
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://pl1.wecanfix2.space/playlist/47053/load-playlist
-#EXTINF:-1 tvg-chno="49" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] LIV Golf Singapore (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] LIV Golf Singapore (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://livecdn-bp-nobar.maypn.stream/stream/27/chunks.m3u8?x-sign=9dc1cbf93a10355bb43c7569b0779c94&x-time=1773457920&is_vip=true&token=nobar-4c42a1be-d496-4651-8799-91e300496075
 #EXTINF:-1 tvg-chno="55" tvg-id="Live.Event.us" tvg-name="[Liga MX, Clausura] FC Juárez vs CF Monterrey (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Liga MX, Clausura] FC Juárez vs CF Monterrey (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -314,11 +309,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2181c3
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6c41e3d3-57f9-4ee8-af8d-fb62feb914f8/master.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Portland Trail Blazers vs Utah Jazz 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Portland Trail Blazers vs Utah Jazz 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.37/hls/QCCCQ.m3u8
 #EXTINF:-1 tvg-chno="147" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Toronto Raptors vs Phoenix Suns (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Toronto Raptors vs Phoenix Suns (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -334,16 +324,16 @@ http://origin.thetvapp.to/hls/NBA08/mono.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://602.serverbandel.sbs/nba8.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Dallas Mavericks vs Cleveland Cavaliers (TOTALSPRTK1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Dallas Mavericks vs Cleveland Cavaliers (TOTALSPRTK1)
-#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Dallas-Mavericks-vs-Cleveland-Cavaliers/58966
-#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Dallas-Mavericks-vs-Cleveland-Cavaliers/58966
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://d3bupko82pjars.cloudfront.net/status/n4/fronts.woff2?1d35e0
 #EXTINF:-1 tvg-chno="158" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Detroit Pistons vs Memphis Grizzlies (TOTALSPRTK1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Detroit Pistons vs Memphis Grizzlies (TOTALSPRTK1)
 #EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Detroit-Pistons-vs-Memphis-Grizzlies/58962
 #EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Detroit-Pistons-vs-Memphis-Grizzlies/58962
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://d3bupko82pjars.cloudfront.net/status/n1/fronts.woff2?b4a7cc
+#EXTINF:-1 tvg-chno="161" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Golden State Warriors vs Minnesota Timberwolves (TOTALSPRTK1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Golden State Warriors vs Minnesota Timberwolves (TOTALSPRTK1)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Golden-State-Warriors-vs-Minnesota-Timberwolves/58967
+#EXTVLCOPT:http-origin=https://live.totalsportekarmy.com/Golden-State-Warriors-vs-Minnesota-Timberwolves/58967
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://d3bupko82pjars.cloudfront.net/status/n6/fronts.woff2?deaffa
 #EXTINF:-1 tvg-chno="163" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Golden State Warriors vs Minnesota Timberwolves (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Golden State Warriors vs Minnesota Timberwolves (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -369,11 +359,6 @@ https://d3bupko82pjars.cloudfront.net/status/n8/fronts.woff2?775ca8
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://red1.ignitelaunch.shop/playlist/47125/load-playlist
-#EXTINF:-1 tvg-chno="175" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Minnesota Timberwolves @ Golden State Warriors (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Minnesota Timberwolves @ Golden State Warriors (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NBA06/mono.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Minnesota Timberwolves vs Golden State Warriors (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Minnesota Timberwolves vs Golden State Warriors (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
