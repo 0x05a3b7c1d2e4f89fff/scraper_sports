@@ -13,6 +13,7 @@ log = get_logger(__name__)
 urls: dict[str, dict[str, str | float]] = {}
 
 TAG = "VOLOKIT"
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
 CACHE_FILE = Cache(TAG, exp=10_800)
 HTML_CACHE = Cache(f"{TAG}-html", exp=28_800)
@@ -29,7 +30,6 @@ SPORT_ENDPOINTS = {
     "mlb": "MLB",
     "nba": "NBA",
     "mls": "MLS",
-    "nba": "NBA",
     "nhl": "NHL",
     "race": "RACE",
     "ufc": "UFC",
@@ -54,7 +54,7 @@ def _format_extinf(key: str, entry: dict) -> str:
 
 
 def generate_vlc_playlist(urls: dict, output_file="ovo_vlc.m3u8"):
-    lines = ["#EXTM3U"]
+    lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
 
     for key, entry in sorted(urls.items()):
         stream_url = entry.get("url")
@@ -75,7 +75,7 @@ def generate_vlc_playlist(urls: dict, output_file="ovo_vlc.m3u8"):
 def generate_tivimate_playlist(urls: dict, output_file="ovo_tivimate.m3u8"):
     encoded_ua = urllib.parse.quote(USER_AGENT, safe="")
 
-    lines = ["#EXTM3U"]
+    lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
 
     for key, entry in sorted(urls.items()):
         stream_url = entry.get("url")
