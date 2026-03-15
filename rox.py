@@ -72,23 +72,44 @@ def discover_sections(base_url):
     return sections_found
 
 def discover_event_links(section_url):
-    """Finds individual event pages within a section."""
+    """Finds individual event pages within a section with better fallback logic."""
     events = set()
     try:
         resp = SESSION.get(section_url, timeout=10)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, 'html.parser')
-        event_table = soup.find('table', id='eventsTable') 
-        if event_table:
-            for a_tag in event_table.find_all('a', href=True):
-                href = a_tag['href']
-                title = a_tag.get_text(strip=True)
-                if href and title:
-                    abs_url = urljoin(section_url, href)
-                    if abs_url.startswith(BASE_URL):
-                        events.add((abs_url, title))
-    except Exception:
-        pass
+        
+        # Priority 1: Check for the specific events table
+        container = soup.find('table', id='eventsTable')
+        
+        # Priority 2: If no table, look at the main content area (ignores nav/footer)
+        if not container:
+            container = soup.find('main') or soup.find('div', class_='content') or soup.find('body')
+
+        for a_tag in container.find_all('a', href=True):
+            href = a_tag['href']
+            title = a_tag.get_text(strip=True)
+            
+            # Clean up URL
+            abs_url = urljoin(section_url, href)
+            
+            # Filter logic:
+            # 1. Must stay on domain
+            # 2. Skip the section URL itself (prevents infinite loops)
+            # 3. Skip common navigation links based on keywords
+            if (abs_url.startswith(BASE_URL) and 
+                abs_url.rstrip('/') != section_url.rstrip('/') and
+                abs_url.rstrip('/') != BASE_URL.rstrip('/') and
+                len(title) > 2):
+                
+                # Check that it's not a link back to another category (like /nba link inside soccer page)
+                path = urlparse(abs_url).path.strip('/')
+                if path in DISCOVERY_KEYWORDS:
+                    continue
+                    
+                events.add((abs_url, title))
+    except Exception as e:
+        logging.error(f"Error finding events on {section_url}: {e}")
     return events
 
 def extract_m3u8_links(page_url):
@@ -118,12 +139,13 @@ def main():
     title_tracker = {}
 
     for section_url, section_title in sections:
+        logging.info(f"Processing Section: {section_title}")
         event_links = discover_event_links(section_url)
-        # If no sub-links, scrape the section page itself
+        
+        # If no sub-links found, scrape the section page itself
         pages = event_links if event_links else {(section_url, section_title)}
 
         for event_url, event_title in pages:
-            # Now returns 3 items: ID, Logo, and the Group name
             tv_id, logo, group_name = get_tv_info(event_url, event_title)
             m3u8_links = extract_m3u8_links(event_url)
             
@@ -132,20 +154,18 @@ def main():
                     continue
                 
                 if check_stream_status(link):
-                    # Logic to identify and label mirrors
                     title_tracker[event_title] = title_tracker.get(event_title, 0) + 1
                     count = title_tracker[event_title]
                     
                     display_name = event_title if count == 1 else f"{event_title} (Mirror {count-1})"
                     
-                    # group-title is now set to group_name instead of a hardcoded string
                     playlist_lines.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-logo="{logo}" group-title="{group_name}",{display_name}')
                     playlist_lines.append(link)
                     seen_links.add(link)
 
     with open("Roxiestreams.m3u", "w", encoding="utf-8") as f:
         f.write("\n".join(playlist_lines))
-    logging.info(f"Playlist updated. Found {len(seen_links)} unique streams grouped by category.")
+    logging.info(f"Playlist updated. Found {len(seen_links)} unique streams.")
 
 if __name__ == "__main__":
     main()
