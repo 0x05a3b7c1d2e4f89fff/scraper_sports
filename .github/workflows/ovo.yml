@@ -1,0 +1,49 @@
+name: OVO Updater
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright httpx[http2] pytz selectolax requests beautifulsoup4
+          playwright install chromium
+
+      - name: Run updater
+        # Changes directory to 'ovo' before running the script
+        run: python ovo/ovo.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          # Stage the specific files inside the sub-directory
+          git add ovo/ovo_vlc.m3u8 ovo/ovo_tivimate.m3u8
+
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+          git commit -m "Auto update OVO playlist"
+          git push origin main
