@@ -16,15 +16,26 @@ TAG = "VOLOKIT"
 EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
 CACHE_FILE = Cache(TAG, exp=10_800)
-HTML_CACHE = Cache(f"{TAG}-html", exp=3600)
+HTML_CACHE = Cache(f"{TAG}-html", exp=28_800)
 
 BASE_URL = "http://volokit.xyz"
-SCHEDULE_URL = "http://volokit.xyz/schedule"
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) "
     "Gecko/20100101 Firefox/147.0"
 )
+
+SPORT_ENDPOINTS = {
+    "boxing": "BOXING",
+    "mlb": "MLB",
+    "nba": "NBA",
+    "mls": "MLS",
+    "nhl": "NHL",
+    "race": "RACE",
+    "ufc": "UFC",
+    "wbc": "WBC",
+}
+
 
 # =========================
 # PLAYLIST GENERATOR
@@ -136,84 +147,99 @@ async def process_event(url: str, url_num: int) -> str | None:
     return match[1]
 
 
-async def get_events(cached_keys):
-    now = Time.clean(Time.now())
+async def refresh_html_cache(url: str, sport: str, now: Time):
     events = {}
 
-    if not (html_data := await network.request(SCHEDULE_URL, log=log)):
-        log.error("Failed to fetch schedule page.")
-        return []
+    if not (html_data := await network.request(url, log=log)):
+        return events
 
     soup = HTMLParser(html_data.content)
-    
-    current_date = now.date()
 
-    # Volokit schedule uses rows (tr) within the main table
-    rows = soup.css("tr")
-    log.info(f"Analyzing {len(rows)} rows on schedule page...")
+    date = now.date()
 
-    for row in rows:
-        # 1. Update Date
-        if "date" in (row.attributes.get("class") or ""):
-            current_date = row.text(strip=True).replace(",", "")
-            continue
-            
-        # 2. Extract Event Data
-        link_node = row.css_first("a")
-        time_node = row.css_first(".time")
-        
-        if not link_node or not time_node:
-            continue
-            
-        href = link_node.attributes.get("href")
-        if not href or href == "/":
+    if date_node := soup.css_first("tr.date"):
+        date = date_node.text(strip=True).replace(",", "")
+
+    for card in soup.css("#events .table .vevent.theevent"):
+        if not (href := card.css_first("a").attributes.get("href")):
             continue
 
-        name = link_node.text(strip=True).replace("@", "vs")
-        time_str = time_node.text(strip=True)
-        
-        # Determine Sport from URL slug
-        sport_match = re.search(r'/sport/([^/]+)/', href)
-        sport_slug = sport_match.group(1).upper() if sport_match else "LIVE"
+        name_node = card.css_first(".teamtd.event")
+        time_node = card.css_first(".time")
 
+        if not (name_node and time_node):
+            continue
+
+        name = name_node.text(strip=True).replace("@", "vs")
+        time = time_node.text(strip=True)
+
+        event_sport = SPORT_ENDPOINTS[sport]
         event_name = fix_event(name)
-        
-        # Construct Timestamp
-        try:
-            event_dt = Time.from_str(f"{current_date} {time_str}", timezone="UTC")
-            ts = event_dt.timestamp()
-        except Exception:
-            ts = now.timestamp()
-        
-        full_link = urljoin(BASE_URL, href)
-        key = f"[{sport_slug}] {event_name} ({TAG})"
-        
-        # Only process if URL isn't already valid in cache
-        if key not in cached_keys or not cached_keys[key].get("url"):
-            events[key] = {
-                "sport": sport_slug,
-                "event": event_name,
-                "link": full_link,
-                "event_ts": ts,
-                "timestamp": now.timestamp(),
-            }
 
-    return list(events.values())
+        event_dt = Time.from_str(f"{date} {time}", timezone="UTC")
+
+        key = f"[{event_sport}] {event_name} ({TAG})"
+
+        events[key] = {
+            "sport": event_sport,
+            "event": event_name,
+            "link": href,
+            "event_ts": event_dt.timestamp(),
+            "timestamp": now.timestamp(),
+        }
+
+    return events
+
+
+async def get_events(cached_keys):
+    now = Time.clean(Time.now())
+
+    if not (events := HTML_CACHE.load()):
+        log.info("Refreshing HTML cache")
+
+        sport_urls = {
+            sport: urljoin(BASE_URL, f"sport/{sport}")
+            for sport in SPORT_ENDPOINTS
+        }
+
+        tasks = [
+            refresh_html_cache(url, sport, now)
+            for sport, url in sport_urls.items()
+        ]
+
+        results = await asyncio.gather(*tasks)
+        events = {k: v for data in results for k, v in data.items()}
+
+        HTML_CACHE.write(events)
+
+    live = []
+
+    # REMOVE TIME FILTER — process everything not cached
+    for k, v in events.items():
+        if k in cached_keys:
+            continue
+
+        live.append(v)
+
+    return live
 
 
 async def scrape() -> None:
     cached_urls = CACHE_FILE.load()
-    
-    # Keep track of what we already have working
-    urls.update({k: v for k, v in cached_urls.items() if v.get("url")})
-    
-    log.info(f"Loaded {len(urls)} existing active stream(s) from cache")
-    log.info(f'Scraping: "{SCHEDULE_URL}"')
 
-    events = await get_events(cached_urls)
+    valid_urls = {k: v for k, v in cached_urls.items() if v["url"]}
+
+    valid_count = cached_count = len(valid_urls)
+
+    urls.update(valid_urls)
+
+    log.info(f"Loaded {cached_count} event(s) from cache")
+    log.info(f'Scraping from "{BASE_URL}"')
+
+    events = await get_events(cached_urls.keys())
 
     if events:
-        log.info(f"Found {len(events)} new/expired events to process")
+        log.info(f"Processing {len(events)} new URL(s)")
 
         for i, ev in enumerate(events, start=1):
             handler = partial(
@@ -222,21 +248,25 @@ async def scrape() -> None:
                 url_num=i,
             )
 
-            # Extract the actual stream URL
-            m3u8_link = await network.safe_process(
+            url = await network.safe_process(
                 handler,
                 url_num=i,
                 semaphore=network.HTTP_S,
                 log=log,
             )
 
-            sport, event, ts = ev["sport"], ev["event"], ev["event_ts"]
+            sport, event, ts = (
+                ev["sport"],
+                ev["event"],
+                ev["event_ts"],
+            )
+
             key = f"[{sport}] {event} ({TAG})"
 
             tvg_id, logo = leagues.get_tvg_info(sport, event)
 
             entry = {
-                "url": m3u8_link,
+                "url": url,
                 "logo": logo,
                 "base": link,
                 "timestamp": ts,
@@ -246,14 +276,21 @@ async def scrape() -> None:
             }
 
             cached_urls[key] = entry
-            if m3u8_link:
+
+            if url:
+                valid_count += 1
                 urls[key] = entry
 
-    # Create the m3u8 files
-    generate_all_playlists(urls)
-    log.info(f"Done. Generated playlists with {len(urls)} streams.")
-    
+    if new_count := valid_count - cached_count:
+        log.info(f"Collected and cached {new_count} new event(s)")
+    else:
+        log.info("No new events found")
+
     CACHE_FILE.write(cached_urls)
+
+    # GENERATE PLAYLIST FILES
+    generate_all_playlists(cached_urls)
+    log.info("Generated ovo_vlc.m3u8 and ovo_tivimate.m3u8")
 
 if __name__ == "__main__":
     asyncio.run(scrape())
