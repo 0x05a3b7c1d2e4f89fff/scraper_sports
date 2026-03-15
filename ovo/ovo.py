@@ -19,7 +19,6 @@ CACHE_FILE = Cache(TAG, exp=10_800)
 HTML_CACHE = Cache(f"{TAG}-html", exp=3600)
 
 BASE_URL = "http://volokit.xyz"
-# Target the main schedule hub to ensure nothing is missed
 SCHEDULE_URL = "http://volokit.xyz/schedule"
 
 USER_AGENT = (
@@ -147,64 +146,74 @@ async def get_events(cached_keys):
 
     soup = HTMLParser(html_data.content)
     
-    # Track the current date header as we iterate through rows
     current_date = now.date()
 
-    for row in soup.css("tr"):
-        # Handle Date Header rows
-        if "date" in row.attributes.get("class", ""):
+    # Volokit schedule uses rows (tr) within the main table
+    rows = soup.css("tr")
+    log.info(f"Analyzing {len(rows)} rows on schedule page...")
+
+    for row in rows:
+        # 1. Update Date
+        if "date" in (row.attributes.get("class") or ""):
             current_date = row.text(strip=True).replace(",", "")
             continue
             
-        # Handle Event rows
-        if "vevent" in row.attributes.get("class", ""):
-            link_node = row.css_first("a")
-            time_node = row.css_first(".time")
+        # 2. Extract Event Data
+        link_node = row.css_first("a")
+        time_node = row.css_first(".time")
+        
+        if not link_node or not time_node:
+            continue
             
-            if not (link_node and time_node):
-                continue
-                
-            href = link_node.attributes.get("href")
-            name = link_node.text(strip=True).replace("@", "vs")
-            time = time_node.text(strip=True)
-            
-            # Extract sport category from the URL (e.g., /sport/nhl/...)
-            sport_match = re.search(r'/sport/([^/]+)/', href)
-            sport_slug = sport_match.group(1).upper() if sport_match else "LIVE"
+        href = link_node.attributes.get("href")
+        if not href or href == "/":
+            continue
 
-            event_name = fix_event(name)
-            event_dt = Time.from_str(f"{current_date} {time}", timezone="UTC")
-            
-            key = f"[{sport_slug}] {event_name} ({TAG})"
-            
-            # Skip if we already have this specific event in our main cache
-            if key not in cached_keys:
-                events[key] = {
-                    "sport": sport_slug,
-                    "event": event_name,
-                    "link": urljoin(BASE_URL, href),
-                    "event_ts": event_dt.timestamp(),
-                    "timestamp": now.timestamp(),
-                }
+        name = link_node.text(strip=True).replace("@", "vs")
+        time_str = time_node.text(strip=True)
+        
+        # Determine Sport from URL slug
+        sport_match = re.search(r'/sport/([^/]+)/', href)
+        sport_slug = sport_match.group(1).upper() if sport_match else "LIVE"
+
+        event_name = fix_event(name)
+        
+        # Construct Timestamp
+        try:
+            event_dt = Time.from_str(f"{current_date} {time_str}", timezone="UTC")
+            ts = event_dt.timestamp()
+        except Exception:
+            ts = now.timestamp()
+        
+        full_link = urljoin(BASE_URL, href)
+        key = f"[{sport_slug}] {event_name} ({TAG})"
+        
+        # Only process if URL isn't already valid in cache
+        if key not in cached_keys or not cached_keys[key].get("url"):
+            events[key] = {
+                "sport": sport_slug,
+                "event": event_name,
+                "link": full_link,
+                "event_ts": ts,
+                "timestamp": now.timestamp(),
+            }
 
     return list(events.values())
 
 
 async def scrape() -> None:
     cached_urls = CACHE_FILE.load()
-    valid_urls = {k: v for k, v in cached_urls.items() if v["url"]}
-    cached_count = len(valid_urls)
     
-    urls.update(valid_urls)
+    # Keep track of what we already have working
+    urls.update({k: v for k, v in cached_urls.items() if v.get("url")})
+    
+    log.info(f"Loaded {len(urls)} existing active stream(s) from cache")
+    log.info(f'Scraping: "{SCHEDULE_URL}"')
 
-    log.info(f"Loaded {cached_count} event(s) from cache")
-    log.info(f'Scraping master schedule from "{SCHEDULE_URL}"')
-
-    # Get events specifically from the /schedule page
     events = await get_events(cached_urls)
 
     if events:
-        log.info(f"Processing {len(events)} new event(s) found")
+        log.info(f"Found {len(events)} new/expired events to process")
 
         for i, ev in enumerate(events, start=1):
             handler = partial(
@@ -213,8 +222,8 @@ async def scrape() -> None:
                 url_num=i,
             )
 
-            # Uses the same safe_process and HTTP_S semaphore from your webwork file
-            url = await network.safe_process(
+            # Extract the actual stream URL
+            m3u8_link = await network.safe_process(
                 handler,
                 url_num=i,
                 semaphore=network.HTTP_S,
@@ -227,7 +236,7 @@ async def scrape() -> None:
             tvg_id, logo = leagues.get_tvg_info(sport, event)
 
             entry = {
-                "url": url,
+                "url": m3u8_link,
                 "logo": logo,
                 "base": link,
                 "timestamp": ts,
@@ -237,12 +246,12 @@ async def scrape() -> None:
             }
 
             cached_urls[key] = entry
-            if url:
+            if m3u8_link:
                 urls[key] = entry
 
     # Create the m3u8 files
-    generate_all_playlists(cached_urls)
-    log.info(f"Playlist update complete. Total streams: {len(urls)}")
+    generate_all_playlists(urls)
+    log.info(f"Done. Generated playlists with {len(urls)} streams.")
     
     CACHE_FILE.write(cached_urls)
 
