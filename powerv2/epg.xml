@@ -1,27 +1,2 @@
 <?xml version="1.0" ?>
-<tv>
-  <channel id="7851">
-    <display-name>Cleveland Guardians at Los Angeles Dodgers (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260401055827 +0000" stop="20260401115827 +0000" channel="7851">
-    <title lang="en">Cleveland Guardians at Los Angeles Dodgers (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7857">
-    <display-name>Cleveland Cavaliers at Los Angeles Lakers (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260401055827 +0000" stop="20260401115827 +0000" channel="7857">
-    <title lang="en">Cleveland Cavaliers at Los Angeles Lakers (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="7858">
-    <display-name>Portland Trail Blazers at LA Clippers (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260401055827 +0000" stop="20260401115827 +0000" channel="7858">
-    <title lang="en">Portland Trail Blazers at LA Clippers (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-</tv>
+<tv/>
