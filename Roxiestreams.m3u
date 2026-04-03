@@ -1,15 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/wwe.png?raw=true" group-title="Wrestling",WWE Smackdown
+https://605.premiumjh.shop/wwe.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR Craftsman Truck Series
 https://daffodil.premiumjh.shop/fs1.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Tampa Bay Rays vs Minnesota Twins
-https://daffodil.premiumjh.shop/mlb8.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Pittsburgh Pirates
-https://daffodil.premiumjh.shop/mlb10.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Philadelphia Phillies vs Colorado Rockies
 https://daffodil.premiumjh.shop/mlb9.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Cincinnati Reds vs Texas Rangers
-https://daffodil.premiumjh.shop/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Baltimore Orioles vs Pittsburgh Pirates
+https://daffodil.premiumjh.shop/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Tampa Bay Rays vs Minnesota Twins
+https://daffodil.premiumjh.shop/mlb8.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Chicago Cubs vs Cleveland Guardians
 https://daffodil.premiumjh.shop/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Cincinnati Reds vs Texas Rangers
+https://daffodil.premiumjh.shop/mlb6.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Utah Jazz vs Houston Rockets
+https://605.premiumjh.shop/nba5.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",New Orleans Pelicans vs Sacramento Kings
+https://605.premiumjh.shop/nba9.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Toronto Raptors vs Memphis Grizzlies
+https://605.premiumjh.shop/nba6.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Orlando Magic vs Dallas Mavericks
+https://605.premiumjh.shop/nba8.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/nba.png?raw=true" group-title="Basketball",Boston Celtics vs Milwaukee Bucks
+https://605.premiumjh.shop/nba7.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Philadelphia Flyers vs New York Islanders
 https://603.premiumjh.shop/test2/video.m3u8
