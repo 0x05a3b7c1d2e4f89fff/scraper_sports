@@ -9,16 +9,6 @@ https://24hours.top/s4.php
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.2/hls/ANNN.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Darts] Darts European Tour 4 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Darts] Darts European Tour 4 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.2/hls/AQQQ.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[Darts] Darts European Tour 4 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Darts] Darts European Tour 4 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c.zqezghhh.shop/hls/AQQQ.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Live.Event.us" tvg-name="[Fighting] WILDER vs. CHISORA (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Fighting] WILDER vs. CHISORA (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -669,11 +659,6 @@ https://lista-preta-tv.site/live/nl/index.php?ch=ESPN2NL
 #EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=631
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lista-preta-tv.site/tv247V3/us/index.php?id=NBCUSA
-#EXTINF:-1 tvg-chno="334" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Górnik Zabrze vs Cracovia Kraków (LISTA)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Górnik Zabrze vs Cracovia Kraków (LISTA)
-#EXTVLCOPT:http-referrer=https://lista-preta-tv.site/player-all.html?id=478
-#EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=478
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lista-preta-tv.site/live/pl/index.php?ch=CANALSPORT3PL
 #EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Hamburger SV vs Augsburg (LISTA)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Hamburger SV vs Augsburg (LISTA)
 #EXTVLCOPT:http-referrer=https://lista-preta-tv.site/player-all.html?id=1060
 #EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=1060
@@ -954,6 +939,16 @@ https://lista-preta-tv.site/live/tr/index.php?ch=TRTSPOR
 #EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=314
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lista-preta-tv.site/live/tr/index.php?ch=beINSPORTS2TR
+#EXTINF:-1 tvg-chno="398" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Santos Laguna vs América (LISTA)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Santos Laguna vs América (LISTA)
+#EXTVLCOPT:http-referrer=https://lista-preta-tv.site/player-all.html?id=645
+#EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=645
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lista-preta-tv.site/tv247V3/us/index.php?id=TUDN
+#EXTINF:-1 tvg-chno="400" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Sassuolo vs Cagliari (LISTA)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Sassuolo vs Cagliari (LISTA)
+#EXTVLCOPT:http-referrer=https://lista-preta-tv.site/player-all.html?id=783
+#EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lista-preta-tv.site/tv247V3/us/index.php?id=CBSSportsGolazo
 #EXTINF:-1 tvg-chno="402" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Schalke 04 vs Karlsruher SC (LISTA)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Schalke 04 vs Karlsruher SC (LISTA)
 #EXTVLCOPT:http-referrer=https://lista-preta-tv.site/player-all.html?id=281
 #EXTVLCOPT:http-origin=https://lista-preta-tv.site/player-all.html?id=281
