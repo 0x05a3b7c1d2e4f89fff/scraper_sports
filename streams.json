@@ -726,11 +726,11 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [One] Motorsport: Friday Fights [beIN SPORTS US]",
+            "matchText": "16:30 [One] MMA: Friday Fights [beIN SPORTS US]",
             "matchstr": "Friday Fights",
             "time": "16:30",
             "league": "One",
-            "sport": "Motorsport",
+            "sport": "MMA",
             "team1": "Friday Fights",
             "team2": null,
             "channel": "beIN SPORTS US",
@@ -749,9 +749,9 @@
                     ]
                 }
             ],
-            "slug": "one-motorsport-friday-fights-2026-04-10-16-30",
+            "slug": "one-mma-friday-fights-2026-04-10-16-30",
             "startTimestamp": 1775827800000,
-            "duration": 120
+            "duration": 180
         },
         {
             "matchText": "20:00 [France Ligue 1] Paris vs Monaco [beIN SPORTS US]",
@@ -891,34 +891,6 @@
             "slug": "professional-fighters-league-mma-nkosi-ndebele-michele-clemente-2026-04-10-22-00",
             "startTimestamp": 1775847600000,
             "duration": 180
-        },
-        {
-            "matchText": "15:30 [Bulgaria Parva Liga] CSKA 1948 vs Botev Vratsa [Diema Sport BG]",
-            "matchstr": "CSKA 1948 vs Botev Vratsa",
-            "time": "15:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "CSKA 1948",
-            "team2": "Botev Vratsa",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-10",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-cska-1948-botev-vratsa-2026-04-10-15-30",
-            "startTimestamp": 1775824200000,
-            "duration": 120
         },
         {
             "matchText": "18:00 [Bulgaria Parva Liga] Slavia Sofia vs Septemvri Sofia [Diema Sport BG]",
