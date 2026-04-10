@@ -893,34 +893,6 @@
             "duration": 180
         },
         {
-            "matchText": "13:00 [Bulgaria Parva Liga] Spartak Varna vs Dobrudzha 1919 [Diema Sport BG]",
-            "matchstr": "Spartak Varna vs Dobrudzha 1919",
-            "time": "13:00",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Spartak Varna",
-            "team2": "Dobrudzha 1919",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-10",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-spartak-varna-dobrudzha-1919-2026-04-10-13-00",
-            "startTimestamp": 1775815200000,
-            "duration": 120
-        },
-        {
             "matchText": "15:30 [Bulgaria Parva Liga] CSKA 1948 vs Botev Vratsa [Diema Sport BG]",
             "matchstr": "CSKA 1948 vs Botev Vratsa",
             "time": "15:30",
@@ -1324,34 +1296,6 @@
             "duration": 180
         },
         {
-            "matchText": "12:40 [AFL] Australian Football: Fremantle Dockers vs Collingwood Magpies [Fox Sports 2 US]",
-            "matchstr": "Fremantle Dockers vs Collingwood Magpies",
-            "time": "12:40",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Fremantle Dockers",
-            "team2": "Collingwood Magpies",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-10",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-fremantle-dockers-collingwood-magpies-2026-04-10-12-40",
-            "startTimestamp": 1775814000000,
-            "duration": 180
-        },
-        {
             "matchText": "22:30 [NASCAR Craftsman Truck Series] Motorsport: Tennessee Army National Guard 250 [Fox Sports 2 US]",
             "matchstr": "Tennessee Army National Guard 250",
             "time": "22:30",
@@ -1405,34 +1349,6 @@
             ],
             "slug": "nascar-craftsman-truck-series-motorsport-tennessee-army-national-guard-250-2026-04-10-23-35",
             "startTimestamp": 1775853300000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [NRL] Rugby: NQ Cowboys vs Brisbane Broncos [Fox Soccer Plus US]",
-            "matchstr": "NQ Cowboys vs Brisbane Broncos",
-            "time": "13:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "NQ Cowboys",
-            "team2": "Brisbane Broncos",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-10",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-nq-cowboys-brisbane-broncos-2026-04-10-13-00",
-            "startTimestamp": 1775815200000,
             "duration": 120
         },
         {
@@ -7235,6 +7151,45 @@
             "duration": 120
         },
         {
+            "matchText": "00:30 [Brazil Brasileirao] Fluminense vs Flamengo [Sportdigital FUSSBALL DE]",
+            "matchstr": "Fluminense vs Flamengo",
+            "time": "00:30",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Fluminense",
+            "team2": "Flamengo",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-04-12",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=19"
+                    ]
+                },
+                {
+                    "name": "Premier Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=31"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-fluminense-flamengo-2026-04-12-00-30",
+            "startTimestamp": 1775943000000,
+            "duration": 120
+        },
+        {
             "matchText": "02:30 [Brazil Brasileirao] Internacional vs Gremio [Sportdigital FUSSBALL DE]",
             "matchstr": "Internacional vs Gremio",
             "time": "02:30",
@@ -7830,34 +7785,6 @@
             ],
             "slug": "mexico-liga-mx-football-pumas-unam-mazatlan-2026-04-12-21-00",
             "startTimestamp": 1776016800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Dender vs Zulte-Waregem [Premier Sports 1 GB]",
-            "matchstr": "Dender vs Zulte-Waregem",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Dender",
-            "team2": "Zulte-Waregem",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-dender-zulte-waregem-2026-04-12-00-30",
-            "startTimestamp": 1775943000000,
             "duration": 120
         },
         {
@@ -9058,12 +8985,12 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [Professional Fighters League] MMA: Croatia Rally Stage20 [ESPN2 US]",
-            "matchstr": "Croatia Rally Stage20",
+            "matchText": "04:00 [PFL] MMA: Professional Fighters League [ESPN2 US]",
+            "matchstr": "Professional Fighters League",
             "time": "04:00",
-            "league": "Professional Fighters League",
+            "league": "PFL",
             "sport": "MMA",
-            "team1": "Croatia Rally Stage20",
+            "team1": "Professional Fighters League",
             "team2": null,
             "channel": "ESPN2 US",
             "important": false,
@@ -9092,7 +9019,7 @@
                     ]
                 }
             ],
-            "slug": "professional-fighters-league-mma-croatia-rally-stage20-2026-04-12-04-00",
+            "slug": "pfl-mma-professional-fighters-league-2026-04-12-04-00",
             "startTimestamp": 1775955600000,
             "duration": 180
         },
