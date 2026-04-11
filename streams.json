@@ -2122,9 +2122,9 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Czech Republic Extraliga] Hockey: Dynamo Pardubice vs Sparta Praha [Oneplay Sport CZ]",
+            "matchText": "20:00 [Czech Republic Extraliga] Hockey: Dynamo Pardubice vs Sparta Praha [Oneplay Sport CZ]",
             "matchstr": "Dynamo Pardubice vs Sparta Praha",
-            "time": "19:00",
+            "time": "20:00",
             "league": "Czech Republic Extraliga",
             "sport": "Hockey",
             "team1": "Dynamo Pardubice",
@@ -2145,37 +2145,9 @@
                     ]
                 }
             ],
-            "slug": "czech-republic-extraliga-hockey-dynamo-pardubice-sparta-praha-2026-04-11-19-00",
-            "startTimestamp": 1775923200000,
+            "slug": "czech-republic-extraliga-hockey-dynamo-pardubice-sparta-praha-2026-04-11-20-00",
+            "startTimestamp": 1775926800000,
             "duration": 180
-        },
-        {
-            "matchText": "16:00 [Italy Serie A] Cagliari vs Cremonese [DAZN IT]",
-            "matchstr": "Cagliari vs Cremonese",
-            "time": "16:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Cagliari",
-            "team2": "Cremonese",
-            "channel": "DAZN IT",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=46"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-cagliari-cremonese-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
         },
         {
             "matchText": "16:00 [Italy Serie A] Torino vs Verona [DAZN IT]",
@@ -2213,6 +2185,34 @@
                 }
             ],
             "slug": "italy-serie-a-football-torino-verona-2026-04-11-16-00",
+            "startTimestamp": 1775912400000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [Italy Serie A] Cagliari vs Cremonese [DAZN IT]",
+            "matchstr": "Cagliari vs Cremonese",
+            "time": "16:00",
+            "league": "Italy Serie A",
+            "sport": "Football",
+            "team1": "Cagliari",
+            "team2": "Cremonese",
+            "channel": "DAZN IT",
+            "important": false,
+            "matchDate": "2026-04-11",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://upstor.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://l2l2.link/ch?id=47"
+                    ]
+                }
+            ],
+            "slug": "italy-serie-a-football-cagliari-cremonese-2026-04-11-16-00",
             "startTimestamp": 1775912400000,
             "duration": 120
         },
