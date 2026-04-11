@@ -229,34 +229,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [Australia A-League] Newcastle Jets vs Adelaide United [TNT Sports 3 GB]",
-            "matchstr": "Newcastle Jets vs Adelaide United",
-            "time": "10:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Newcastle Jets",
-            "team2": "Adelaide United",
-            "channel": "TNT Sports 3 GB",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TNT Sports 3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-newcastle-jets-adelaide-united-2026-04-11-10-00",
-            "startTimestamp": 1775890800000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [NHL] Hockey: Edmonton Oilers vs Los Angeles Kings [Sportsnet West CA]",
             "matchstr": "Edmonton Oilers vs Los Angeles Kings",
             "time": "23:00",
@@ -2670,34 +2642,6 @@
             "duration": 180
         },
         {
-            "matchText": "10:40 [World Rally Championship] Motorsport: Croatia Rally Stage 10 [Canal+ Sport360 FR]",
-            "matchstr": "Croatia Rally Stage 10",
-            "time": "10:40",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Croatia Rally Stage 10",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=59"
-                    ],
-                    "number": 59,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=59"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-croatia-rally-stage-10-2026-04-11-10-40",
-            "startTimestamp": 1775893200000,
-            "duration": 120
-        },
-        {
             "matchText": "12:00 [World Rally Championship] Motorsport: Croatia Rally Stage 11 [Canal+ Sport360 FR]",
             "matchstr": "Croatia Rally Stage 11",
             "time": "12:00",
@@ -3266,34 +3210,6 @@
             ],
             "slug": "afl-australian-football-western-bulldogs-hawthorn-hawks-2026-04-11-12-35",
             "startTimestamp": 1775900100000,
-            "duration": 180
-        },
-        {
-            "matchText": "09:15 [AFL] Australian Football: Gold Coast Suns vs Sydney Swans [Fox Sports 2 US]",
-            "matchstr": "Gold Coast Suns vs Sydney Swans",
-            "time": "09:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Gold Coast Suns",
-            "team2": "Sydney Swans",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-gold-coast-suns-sydney-swans-2026-04-11-09-15",
-            "startTimestamp": 1775888100000,
             "duration": 180
         },
         {
