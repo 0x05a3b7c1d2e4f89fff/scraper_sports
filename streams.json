@@ -413,45 +413,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [Germany Bundesliga] Borussia Dortmund vs Bayer Leverkusen [Sky Sport Bundesliga 1 DE]",
-            "matchstr": "Borussia Dortmund vs Bayer Leverkusen",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Borussia Dortmund",
-            "team2": "Bayer Leverkusen",
-            "channel": "Sky Sport Bundesliga 1 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=11"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-borussia-dortmund-bayer-leverkusen-2026-04-11-16-30",
-            "startTimestamp": 1775914200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Germany Bundesliga] St. Pauli vs Bayern Munchen [Sky Sport Bundesliga 1 DE]",
             "matchstr": "St. Pauli vs Bayern Munchen",
             "time": "19:30",
@@ -491,34 +452,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [Germany Bundesliga] RB Leipzig vs Borussia M'gladbach [Sky Sport Bundesliga 2 DE]",
-            "matchstr": "RB Leipzig vs Borussia M'gladbach",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "RB Leipzig",
-            "team2": "Borussia M'gladbach",
-            "channel": "Sky Sport Bundesliga 2 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=12"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-rb-leipzig-borussia-m-gladbach-2026-04-11-16-30",
-            "startTimestamp": 1775914200000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Germany Bundesliga 2] Darmstadt 98 vs Hannover 96 [Sky Sport Bundesliga 2 DE]",
             "matchstr": "Darmstadt 98 vs Hannover 96",
             "time": "21:30",
@@ -544,90 +477,6 @@
             ],
             "slug": "germany-bundesliga-2-football-darmstadt-98-hannover-96-2026-04-11-21-30",
             "startTimestamp": 1775932200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Wolfsburg vs Eintracht Frankfurt [Sky Sport Bundesliga 3 DE]",
-            "matchstr": "Wolfsburg vs Eintracht Frankfurt",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Wolfsburg",
-            "team2": "Eintracht Frankfurt",
-            "channel": "Sky Sport Bundesliga 3 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=13"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-wolfsburg-eintracht-frankfurt-2026-04-11-16-30",
-            "startTimestamp": 1775914200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Heidenheim vs Union Berlin [Sky Sport Bundesliga 4 DE]",
-            "matchstr": "Heidenheim vs Union Berlin",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Heidenheim",
-            "team2": "Union Berlin",
-            "channel": "Sky Sport Bundesliga 4 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 4",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=14"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-heidenheim-union-berlin-2026-04-11-16-30",
-            "startTimestamp": 1775914200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Simulcast [DAZN1 DE]",
-            "matchstr": "Simulcast",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=17"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-simulcast-2026-04-11-16-30",
-            "startTimestamp": 1775914200000,
             "duration": 120
         },
         {
@@ -1664,34 +1513,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Czech Republic 1. liga] Jablonec vs Banik Ostrava [Oneplay Sport CZ]",
-            "matchstr": "Jablonec vs Banik Ostrava",
-            "time": "16:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Jablonec",
-            "team2": "Banik Ostrava",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-jablonec-banik-ostrava-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Czech Republic 1. liga] Slovacko vs Hradec Kralove [Oneplay Sport CZ]",
             "matchstr": "Slovacko vs Hradec Kralove",
             "time": "19:00",
@@ -1748,34 +1569,6 @@
             "duration": 180
         },
         {
-            "matchText": "16:00 [Czech Republic 1. liga] Bohemians 1905 vs Zl\u00edn [Oneplay Sport CZ]",
-            "matchstr": "Bohemians 1905 vs Zl\u00edn",
-            "time": "16:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Bohemians 1905",
-            "team2": "Zl\u00edn",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=43"
-                    ],
-                    "number": 43,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=43"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-bohemians-1905-zlin-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Czech Republic Extraliga] Hockey: Dynamo Pardubice vs Sparta Praha [Oneplay Sport CZ]",
             "matchstr": "Dynamo Pardubice vs Sparta Praha",
             "time": "20:00",
@@ -1802,73 +1595,6 @@
             "slug": "czech-republic-extraliga-hockey-dynamo-pardubice-sparta-praha-2026-04-11-20-00",
             "startTimestamp": 1775926800000,
             "duration": 180
-        },
-        {
-            "matchText": "16:00 [Italy Serie A] Torino vs Verona [DAZN IT]",
-            "matchstr": "Torino vs Verona",
-            "time": "16:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Torino",
-            "team2": "Verona",
-            "channel": "DAZN IT",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=46"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-torino-verona-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Italy Serie A] Cagliari vs Cremonese [DAZN IT]",
-            "matchstr": "Cagliari vs Cremonese",
-            "time": "16:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Cagliari",
-            "team2": "Cremonese",
-            "channel": "DAZN IT",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=47"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-cagliari-cremonese-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
         },
         {
             "matchText": "19:00 [Italy Serie A] Milan vs Udinese [DAZN IT]",
@@ -2212,34 +1938,6 @@
             "duration": 180
         },
         {
-            "matchText": "16:00 [World Rally Championship] Motorsport: Croatia Rally Stage 14 [Canal+ Sport360 FR]",
-            "matchstr": "Croatia Rally Stage 14",
-            "time": "16:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Croatia Rally Stage 14",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=59"
-                    ],
-                    "number": 59,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=59"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-croatia-rally-stage-14-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:25 [World Rally Championship] Motorsport: Croatia Rally Stage 15 [Canal+ Sport360 FR]",
             "matchstr": "Croatia Rally Stage 15",
             "time": "17:25",
@@ -2293,34 +1991,6 @@
             ],
             "slug": "world-rally-championship-motorsport-croatia-rally-stage-16-2026-04-11-18-25",
             "startTimestamp": 1775921100000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:45 [Poland Ekstraklasa] Widzew \u0141odz vs Nieciecza [Canal+ Sport 3 PL]",
-            "matchstr": "Widzew \u0141odz vs Nieciecza",
-            "time": "15:45",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Widzew \u0141odz",
-            "team2": "Nieciecza",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-widzew-lodz-nieciecza-2026-04-11-15-45",
-            "startTimestamp": 1775911500000,
             "duration": 120
         },
         {
@@ -2408,34 +2078,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Sweden Allsvenskan] Mjallby vs Orgryte [TV4 Sport Live 1 SE]",
-            "matchstr": "Mjallby vs Orgryte",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Mjallby",
-            "team2": "Orgryte",
-            "channel": "TV4 Sport Live 1 SE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=71"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-mjallby-orgryte-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Sweden Allsvenskan] Hockey: Modo Hockey vs BIK Karlskoga [TV4 Play SE]",
             "matchstr": "Modo Hockey vs BIK Karlskoga",
             "time": "19:00",
@@ -2462,34 +2104,6 @@
             "slug": "sweden-allsvenskan-hockey-modo-hockey-bik-karlskoga-2026-04-11-19-00",
             "startTimestamp": 1775923200000,
             "duration": 180
-        },
-        {
-            "matchText": "16:00 [Sweden Allsvenskan] Vasteras SK vs Elfsborg [TV4 Sport Live 2 SE]",
-            "matchstr": "Vasteras SK vs Elfsborg",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Vasteras SK",
-            "team2": "Elfsborg",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-vasteras-sk-elfsborg-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
         },
         {
             "matchText": "22:00 [Spain La Liga] Sevilla vs Atletico Madrid [TV4 Sport Live 2 SE]",
@@ -2585,34 +2199,6 @@
             "slug": "finland-liiga-hockey-kalpa-ilves-2026-04-11-17-00",
             "startTimestamp": 1775916000000,
             "duration": 180
-        },
-        {
-            "matchText": "16:00 [Sweden Allsvenskan] IFK Goteborg vs Hacken [TV4 Fotball SE]",
-            "matchstr": "IFK Goteborg vs Hacken",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "IFK Goteborg",
-            "team2": "Hacken",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-ifk-goteborg-hacken-2026-04-11-16-00",
-            "startTimestamp": 1775912400000,
-            "duration": 120
         },
         {
             "matchText": "16:15 [Sweden SHL] Hockey: Lulea HF vs Skelleftea AIK [TV4 Hockey SE]",
@@ -6602,6 +6188,34 @@
             "slug": "turkey-super-lig-football-galatasaray-kocaelispor-2026-04-12-20-00",
             "startTimestamp": 1776013200000,
             "duration": 120
+        },
+        {
+            "matchText": "00:00 [Fighting] Boxing: Tyson Fury vs Arslanbek Makhmudov [Netfix US]",
+            "matchstr": "Tyson Fury vs Arslanbek Makhmudov",
+            "time": "00:00",
+            "league": "Fighting",
+            "sport": "Boxing",
+            "team1": "Tyson Fury",
+            "team2": "Arslanbek Makhmudov",
+            "channel": "Netfix US",
+            "important": false,
+            "matchDate": "2026-04-12",
+            "channels": [
+                {
+                    "name": "Netfix",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=94"
+                    ],
+                    "number": 94,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=94"
+                    ]
+                }
+            ],
+            "slug": "fighting-boxing-tyson-fury-arslanbek-makhmudov-2026-04-12-00-00",
+            "startTimestamp": 1775941200000,
+            "duration": 180
         },
         {
             "matchText": "00:00 [Colombia Primera A] Rionegro Aguilas vs Junior [Win Sport ES]",
