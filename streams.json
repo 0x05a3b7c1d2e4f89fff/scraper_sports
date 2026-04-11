@@ -1,73 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:00 [NHL] Hockey: Edmonton Oilers vs Los Angeles Kings [Sportsnet West CA]",
-            "matchstr": "Edmonton Oilers vs Los Angeles Kings",
-            "time": "23:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Edmonton Oilers",
-            "team2": "Los Angeles Kings",
-            "channel": "Sportsnet West CA",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sportsnet West",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-edmonton-oilers-los-angeles-kings-2026-04-11-23-00",
-            "startTimestamp": 1775937600000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:30 [UFC] MMA: UFC Fight Night [RMC Sport 1 FR]",
-            "matchstr": "UFC Fight Night",
-            "time": "23:30",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "UFC Fight Night",
-            "team2": null,
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=52"
-                    ]
-                },
-                {
-                    "name": "UFC Fight Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=96"
-                    ],
-                    "number": 96,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=96"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-ufc-fight-night-2026-04-11-23-30",
-            "startTimestamp": 1775939400000,
-            "duration": 180
-        },
-        {
             "matchText": "02:00 [NHL] Hockey: Philadelphia Flyers vs Winnipeg Jets [Sportsnet One CA]",
             "matchstr": "Philadelphia Flyers vs Winnipeg Jets",
             "time": "02:00",
@@ -1291,45 +1224,6 @@
             ],
             "slug": "germany-bundesliga-football-stuttgart-hamburger-sv-2026-04-12-18-30",
             "startTimestamp": 1776007800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Fluminense vs Flamengo [Sportdigital FUSSBALL DE]",
-            "matchstr": "Fluminense vs Flamengo",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Fluminense",
-            "team2": "Flamengo",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                },
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-fluminense-flamengo-2026-04-12-00-30",
-            "startTimestamp": 1775943000000,
             "duration": 120
         },
         {
@@ -3775,34 +3669,6 @@
             "slug": "fighting-boxing-tyson-fury-arslanbek-makhmudov-2026-04-12-00-00",
             "startTimestamp": 1775941200000,
             "duration": 180
-        },
-        {
-            "matchText": "00:00 [Colombia Primera A] Rionegro Aguilas vs Junior [Win Sport ES]",
-            "matchstr": "Rionegro Aguilas vs Junior",
-            "time": "00:00",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Rionegro Aguilas",
-            "team2": "Junior",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=95"
-                    ],
-                    "number": 95,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=95"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-rionegro-aguilas-junior-2026-04-12-00-00",
-            "startTimestamp": 1775941200000,
-            "duration": 120
         },
         {
             "matchText": "04:20 [Colombia Primera A] Medellin vs Atletico Nacional [Win Sport ES]",
