@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [NHL] Hockey: Washington Capitals vs Pittsburgh Penguins [ABC US]",
-            "matchstr": "Washington Capitals vs Pittsburgh Penguins",
-            "time": "22:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Washington Capitals",
-            "team2": "Pittsburgh Penguins",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "V Sport Extra",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=77"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-washington-capitals-pittsburgh-penguins-2026-04-11-22-00",
-            "startTimestamp": 1775934000000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [NHL] Hockey: Edmonton Oilers vs Los Angeles Kings [Sportsnet West CA]",
             "matchstr": "Edmonton Oilers vs Los Angeles Kings",
             "time": "23:00",
@@ -66,73 +27,6 @@
             "slug": "nhl-hockey-edmonton-oilers-los-angeles-kings-2026-04-11-23-00",
             "startTimestamp": 1775937600000,
             "duration": 180
-        },
-        {
-            "matchText": "23:15 [Argentina Primera Division] Estudiantes vs Union Santa Fe [TNT Sports Argentina ES]",
-            "matchstr": "Estudiantes vs Union Santa Fe",
-            "time": "23:15",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Estudiantes",
-            "team2": "Union Santa Fe",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-estudiantes-union-santa-fe-2026-04-11-23-15",
-            "startTimestamp": 1775938500000,
-            "duration": 120
-        },
-        {
-            "matchText": "23:30 [USA/Canada Major League Soccer] Portland Timbers vs Los Angeles FC [TSN3 CA]",
-            "matchstr": "Portland Timbers vs Los Angeles FC",
-            "time": "23:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Portland Timbers",
-            "team2": "Los Angeles FC",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-portland-timbers-los-angeles-fc-2026-04-11-23-30",
-            "startTimestamp": 1775939400000,
-            "duration": 120
         },
         {
             "matchText": "23:30 [UFC] MMA: UFC Fight Night [RMC Sport 1 FR]",
@@ -171,62 +65,6 @@
             ],
             "slug": "ufc-mma-ufc-fight-night-2026-04-11-23-30",
             "startTimestamp": 1775939400000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:45 [Hexagone] MMA: Hexagone 2026 [RMC Sport 1 FR]",
-            "matchstr": "Hexagone 2026",
-            "time": "21:45",
-            "league": "Hexagone",
-            "sport": "MMA",
-            "team1": "Hexagone 2026",
-            "team2": null,
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=57"
-                    ],
-                    "number": 57,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=57"
-                    ]
-                }
-            ],
-            "slug": "hexagone-mma-hexagone-2026-2026-04-11-21-45",
-            "startTimestamp": 1775933100000,
-            "duration": 180
-        },
-        {
-            "matchText": "22:00 [Cage Warriors] MMA: Cage Warriors 2026 [RMC Sport 2 FR]",
-            "matchstr": "Cage Warriors 2026",
-            "time": "22:00",
-            "league": "Cage Warriors",
-            "sport": "MMA",
-            "team1": "Cage Warriors 2026",
-            "team2": null,
-            "channel": "RMC Sport 2 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "RMC Sport 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=58"
-                    ],
-                    "number": 58,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=58"
-                    ]
-                }
-            ],
-            "slug": "cage-warriors-mma-cage-warriors-2026-2026-04-11-22-00",
-            "startTimestamp": 1775934000000,
             "duration": 180
         },
         {
