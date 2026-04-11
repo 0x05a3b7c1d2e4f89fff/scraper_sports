@@ -79,67 +79,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:30 [Spain La Liga] Barcelona vs Espanyol [Premier Sports 2 GB]",
-            "matchstr": "Barcelona vs Espanyol",
-            "time": "19:30",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Barcelona",
-            "team2": "Espanyol",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                },
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=18"
-                    ],
-                    "number": 18,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=18"
-                    ]
-                },
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-barcelona-espanyol-2026-04-11-19-30",
-            "startTimestamp": 1775925000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [European Challenge Cup] Rugby: Zebre vs Dragons [Premier Sports 2 GB]",
             "matchstr": "Zebre vs Dragons",
             "time": "22:00",
@@ -196,67 +135,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:30 [England Premier League] Liverpool vs Fulham [Sky Sports Premier League GB]",
-            "matchstr": "Liverpool vs Fulham",
-            "time": "19:30",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Liverpool",
-            "team2": "Fulham",
-            "channel": "Sky Sports Premier League GB",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sports Premier League",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                },
-                {
-                    "name": "Universo",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                },
-                {
-                    "name": "Canal+ Foot",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=50"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-liverpool-fulham-2026-04-11-19-30",
-            "startTimestamp": 1775925000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [NHL] Hockey: Ottawa Senators vs New York Islanders [TSN5 CA]",
             "matchstr": "Ottawa Senators vs New York Islanders",
             "time": "20:00",
@@ -294,45 +172,6 @@
             "slug": "nhl-hockey-ottawa-senators-new-york-islanders-2026-04-11-20-00",
             "startTimestamp": 1775926800000,
             "duration": 180
-        },
-        {
-            "matchText": "19:30 [Germany Bundesliga] St. Pauli vs Bayern Munchen [Sky Sport Bundesliga 1 DE]",
-            "matchstr": "St. Pauli vs Bayern Munchen",
-            "time": "19:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "St. Pauli",
-            "team2": "Bayern Munchen",
-            "channel": "Sky Sport Bundesliga 1 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=11"
-                    ]
-                },
-                {
-                    "name": "V Sport Football",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=79"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-st-pauli-bayern-munchen-2026-04-11-19-30",
-            "startTimestamp": 1775925000000,
-            "duration": 120
         },
         {
             "matchText": "21:30 [Germany Bundesliga 2] Darmstadt 98 vs Hannover 96 [Sky Sport Bundesliga 2 DE]",
@@ -502,34 +341,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Switzerland Super League] Winterthur vs Grasshopper [Blue Sport D 1 CH]",
-            "matchstr": "Winterthur vs Grasshopper",
-            "time": "19:00",
-            "league": "Switzerland Super League",
-            "sport": "Football",
-            "team1": "Winterthur",
-            "team2": "Grasshopper",
-            "channel": "Blue Sport D 1 CH",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Blue Sport D 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "CH",
-                    "links": [
-                        "https://l2l2.link/ch?id=20"
-                    ]
-                }
-            ],
-            "slug": "switzerland-super-league-football-winterthur-grasshopper-2026-04-11-19-00",
-            "startTimestamp": 1775923200000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Switzerland Super League] Thun vs Basel [Blue Sport D 1 CH]",
             "matchstr": "Thun vs Basel",
             "time": "21:30",
@@ -583,34 +394,6 @@
             ],
             "slug": "portugal-primeira-liga-football-santa-clara-rio-ave-2026-04-11-20-00",
             "startTimestamp": 1775926800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Spain Segunda Division] Malaga vs Las Palmas [LALIGA TV Hypermotion ES]",
-            "matchstr": "Malaga vs Las Palmas",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Malaga",
-            "team2": "Las Palmas",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-malaga-las-palmas-2026-04-11-19-30",
-            "startTimestamp": 1775925000000,
             "duration": 120
         },
         {
@@ -1055,34 +838,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Czech Republic 1. liga] Slovacko vs Hradec Kralove [Oneplay Sport CZ]",
-            "matchstr": "Slovacko vs Hradec Kralove",
-            "time": "19:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Slovacko",
-            "team2": "Hradec Kralove",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-slovacko-hradec-kralove-2026-04-11-19-00",
-            "startTimestamp": 1775923200000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Czech Republic Extraliga] Hockey: Dynamo Pardubice vs Sparta Praha [Oneplay Sport CZ]",
             "matchstr": "Dynamo Pardubice vs Sparta Praha",
             "time": "20:00",
@@ -1109,84 +864,6 @@
             "slug": "czech-republic-extraliga-hockey-dynamo-pardubice-sparta-praha-2026-04-11-20-00",
             "startTimestamp": 1775926800000,
             "duration": 180
-        },
-        {
-            "matchText": "19:00 [Italy Serie A] Milan vs Udinese [DAZN IT]",
-            "matchstr": "Milan vs Udinese",
-            "time": "19:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Milan",
-            "team2": "Udinese",
-            "channel": "DAZN IT",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=47"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-milan-udinese-2026-04-11-19-00",
-            "startTimestamp": 1775923200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:15 [Belgium Pro League] Standard Liege vs Westerlo [DAZN BE]",
-            "matchstr": "Standard Liege vs Westerlo",
-            "time": "19:15",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "Standard Liege",
-            "team2": "Westerlo",
-            "channel": "DAZN BE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://l2l2.link/ch?id=49"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-standard-liege-westerlo-2026-04-11-19-15",
-            "startTimestamp": 1775924100000,
-            "duration": 120
         },
         {
             "matchText": "21:45 [Belgium Pro League] Sint-Truiden vs Club Brugge [DAZN BE]",
@@ -1282,62 +959,6 @@
             "slug": "ufc-mma-ufc-fight-night-2026-04-11-23-30",
             "startTimestamp": 1775939400000,
             "duration": 180
-        },
-        {
-            "matchText": "19:30 [European Champions Cup] Rugby: Leinster vs Sale Sharks [beIN Sports 3 FR]",
-            "matchstr": "Leinster vs Sale Sharks",
-            "time": "19:30",
-            "league": "European Champions Cup",
-            "sport": "Rugby",
-            "team1": "Leinster",
-            "team2": "Sale Sharks",
-            "channel": "beIN Sports 3 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "beIN Sports 3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=53"
-                    ],
-                    "number": 53,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=53"
-                    ]
-                }
-            ],
-            "slug": "european-champions-cup-rugby-leinster-sale-sharks-2026-04-11-19-30",
-            "startTimestamp": 1775925000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Africa CAF Confederation Cup] USM Alger vs Olympic Safi [Canal+ Sport 5 Afrique FR]",
-            "matchstr": "USM Alger vs Olympic Safi",
-            "time": "19:00",
-            "league": "Africa CAF Confederation Cup",
-            "sport": "Football",
-            "team1": "USM Alger",
-            "team2": "Olympic Safi",
-            "channel": "Canal+ Sport 5 Afrique FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 5 Afrique",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "africa-caf-confederation-cup-football-usm-alger-olympic-safi-2026-04-11-19-00",
-            "startTimestamp": 1775923200000,
-            "duration": 120
         },
         {
             "matchText": "21:45 [Hexagone] MMA: Hexagone 2026 [RMC Sport 1 FR]",
