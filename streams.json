@@ -96,73 +96,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:00 [NHL] Hockey: Ottawa Senators vs New York Islanders [TSN5 CA]",
-            "matchstr": "Ottawa Senators vs New York Islanders",
-            "time": "20:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Ottawa Senators",
-            "team2": "New York Islanders",
-            "channel": "TSN5 CA",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TSN5",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-ottawa-senators-new-york-islanders-2026-04-11-20-00",
-            "startTimestamp": 1775926800000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:30 [Germany Bundesliga 2] Darmstadt 98 vs Hannover 96 [Sky Sport Bundesliga 2 DE]",
-            "matchstr": "Darmstadt 98 vs Hannover 96",
-            "time": "21:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Darmstadt 98",
-            "team2": "Hannover 96",
-            "channel": "Sky Sport Bundesliga 2 DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 2",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=12"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-darmstadt-98-hannover-96-2026-04-11-21-30",
-            "startTimestamp": 1775932200000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Atalanta vs Juventus [DAZN2 DE]",
             "matchstr": "Atalanta vs Juventus",
             "time": "21:45",
@@ -252,34 +185,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:30 [Switzerland Super League] Thun vs Basel [Blue Sport D 1 CH]",
-            "matchstr": "Thun vs Basel",
-            "time": "21:30",
-            "league": "Switzerland Super League",
-            "sport": "Football",
-            "team1": "Thun",
-            "team2": "Basel",
-            "channel": "Blue Sport D 1 CH",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Blue Sport D 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "CH",
-                    "links": [
-                        "https://l2l2.link/ch?id=20"
-                    ]
-                }
-            ],
-            "slug": "switzerland-super-league-football-thun-basel-2026-04-11-21-30",
-            "startTimestamp": 1775932200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Cordoba vs Real Zaragoza [LALIGA TV Hypermotion ES]",
             "matchstr": "Cordoba vs Real Zaragoza",
             "time": "22:00",
@@ -305,62 +210,6 @@
             ],
             "slug": "spain-segunda-division-football-cordoba-real-zaragoza-2026-04-11-22-00",
             "startTimestamp": 1775934000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Argentina Primera Division] Independiente Rivadavia vs Argentinos Juniors [ESPN Premium Argentina ES]",
-            "matchstr": "Independiente Rivadavia vs Argentinos Juniors",
-            "time": "21:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Independiente Rivadavia",
-            "team2": "Argentinos Juniors",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-independiente-rivadavia-argentinos-juniors-2026-04-11-21-30",
-            "startTimestamp": 1775932200000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Argentina Primera Division] Deportivo Riestra vs Instituto [TNT Sports Argentina ES]",
-            "matchstr": "Deportivo Riestra vs Instituto",
-            "time": "21:00",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Deportivo Riestra",
-            "team2": "Instituto",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-deportivo-riestra-instituto-2026-04-11-21-00",
-            "startTimestamp": 1775930400000,
             "duration": 120
         },
         {
@@ -456,34 +305,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-inter-toronto-hfx-wanderers-2026-04-11-22-00",
             "startTimestamp": 1775934000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [USA/Canada Major League Soccer] CF Montreal vs Philadelphia Union [TSN3 CA]",
-            "matchstr": "CF Montreal vs Philadelphia Union",
-            "time": "21:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "CF Montreal",
-            "team2": "Philadelphia Union",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-cf-montreal-philadelphia-union-2026-04-11-21-30",
-            "startTimestamp": 1775932200000,
             "duration": 120
         },
         {
@@ -604,34 +425,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Czech Republic Extraliga] Hockey: Dynamo Pardubice vs Sparta Praha [Oneplay Sport CZ]",
-            "matchstr": "Dynamo Pardubice vs Sparta Praha",
-            "time": "20:00",
-            "league": "Czech Republic Extraliga",
-            "sport": "Hockey",
-            "team1": "Dynamo Pardubice",
-            "team2": "Sparta Praha",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=44"
-                    ],
-                    "number": 44,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=44"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-extraliga-hockey-dynamo-pardubice-sparta-praha-2026-04-11-20-00",
-            "startTimestamp": 1775926800000,
-            "duration": 180
-        },
-        {
             "matchText": "21:45 [Belgium Pro League] Sint-Truiden vs Club Brugge [DAZN BE]",
             "matchstr": "Sint-Truiden vs Club Brugge",
             "time": "21:45",
@@ -657,34 +450,6 @@
             ],
             "slug": "belgium-pro-league-football-sint-truiden-club-brugge-2026-04-11-21-45",
             "startTimestamp": 1775933100000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [France Ligue 2] Saint-Etienne vs Dunkerque [beIN Sports 1 FR]",
-            "matchstr": "Saint-Etienne vs Dunkerque",
-            "time": "21:00",
-            "league": "France Ligue 2",
-            "sport": "Football",
-            "team1": "Saint-Etienne",
-            "team2": "Dunkerque",
-            "channel": "beIN Sports 1 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=51"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-2-football-saint-etienne-dunkerque-2026-04-11-21-00",
-            "startTimestamp": 1775930400000,
             "duration": 120
         },
         {
@@ -783,34 +548,6 @@
             "duration": 180
         },
         {
-            "matchText": "21:15 [Poland Ekstraklasa] Legia Warszawa vs Gornik Zabrze [Canal+ Sport 3 PL]",
-            "matchstr": "Legia Warszawa vs Gornik Zabrze",
-            "time": "21:15",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Legia Warszawa",
-            "team2": "Gornik Zabrze",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-legia-warszawa-gornik-zabrze-2026-04-11-21-15",
-            "startTimestamp": 1775931300000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain La Liga] Sevilla vs Atletico Madrid [TV4 Sport Live 2 SE]",
             "matchstr": "Sevilla vs Atletico Madrid",
             "time": "22:00",
@@ -847,90 +584,6 @@
             ],
             "slug": "spain-la-liga-football-sevilla-atletico-madrid-2026-04-11-22-00",
             "startTimestamp": 1775934000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Saudi Arabia Pro League] Al Akhdoud vs Al Nassr [Fox Soccer Plus US]",
-            "matchstr": "Al Akhdoud vs Al Nassr",
-            "time": "21:00",
-            "league": "Saudi Arabia Pro League",
-            "sport": "Football",
-            "team1": "Al Akhdoud",
-            "team2": "Al Nassr",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "saudi-arabia-pro-league-football-al-akhdoud-al-nassr-2026-04-11-21-00",
-            "startTimestamp": 1775930400000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [USA/Canada Major League Soccer] Austin vs LA Galaxy [Fox Deportes ES]",
-            "matchstr": "Austin vs LA Galaxy",
-            "time": "21:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Austin",
-            "team2": "LA Galaxy",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-austin-la-galaxy-2026-04-11-21-30",
-            "startTimestamp": 1775932200000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Netherlands Eredivisie] Groningen vs Go Ahead Eagles [ESPN NL]",
-            "matchstr": "Groningen vs Go Ahead Eagles",
-            "time": "21:00",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Groningen",
-            "team2": "Go Ahead Eagles",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-groningen-go-ahead-eagles-2026-04-11-21-00",
-            "startTimestamp": 1775930400000,
             "duration": 120
         },
         {
