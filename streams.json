@@ -452,34 +452,6 @@
             "duration": 180
         },
         {
-            "matchText": "03:00 [NBA] Basketball: Orlando Magic vs Chicago Bulls [NBA League Pass US]",
-            "matchstr": "Orlando Magic vs Chicago Bulls",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Orlando Magic",
-            "team2": "Chicago Bulls",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-orlando-magic-chicago-bulls-2026-04-11-03-00",
-            "startTimestamp": 1775865600000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [England Premier League] Burnley vs Brighton & Hove Albion [Sky Sport 7 NZ]",
             "matchstr": "Burnley vs Brighton & Hove Albion",
             "time": "17:00",
@@ -517,62 +489,6 @@
             "slug": "england-premier-league-football-burnley-brighton-hove-albion-2026-04-11-17-00",
             "startTimestamp": 1775916000000,
             "duration": 120
-        },
-        {
-            "matchText": "03:00 [NBA] Basketball: Brooklyn Nets vs Milwaukee Bucks [NBA League Pass US]",
-            "matchstr": "Brooklyn Nets vs Milwaukee Bucks",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Brooklyn Nets",
-            "team2": "Milwaukee Bucks",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=8"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-brooklyn-nets-milwaukee-bucks-2026-04-11-03-00",
-            "startTimestamp": 1775865600000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [NBA] Basketball: Dallas Mavericks vs San Antonio Spurs [NBA League Pass US]",
-            "matchstr": "Dallas Mavericks vs San Antonio Spurs",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Dallas Mavericks",
-            "team2": "San Antonio Spurs",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=9"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-dallas-mavericks-san-antonio-spurs-2026-04-11-03-00",
-            "startTimestamp": 1775865600000,
-            "duration": 180
         },
         {
             "matchText": "14:30 [England Championship] Coventry City vs Sheffield Wednesday [CBS Sports Golazo US]",
@@ -651,34 +567,6 @@
             "slug": "england-championship-football-southampton-derby-county-2026-04-11-17-00",
             "startTimestamp": 1775916000000,
             "duration": 120
-        },
-        {
-            "matchText": "04:00 [NBA] Basketball: Oklahoma City Thunder vs Denver Nuggets [Altitude US]",
-            "matchstr": "Oklahoma City Thunder vs Denver Nuggets",
-            "time": "04:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Oklahoma City Thunder",
-            "team2": "Denver Nuggets",
-            "channel": "Altitude US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Altitude",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=10"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-oklahoma-city-thunder-denver-nuggets-2026-04-11-04-00",
-            "startTimestamp": 1775869200000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [England Premier League] Brentford vs Everton [USA Network US]",
@@ -1019,34 +907,6 @@
             ],
             "slug": "germany-bundesliga-2-football-hertha-bsc-kaiserslautern-2026-04-11-14-00",
             "startTimestamp": 1775905200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [Australia Supercars Championship] Motorsport: ITM Taupo Super 440 [Sportdigital1+ DE]",
-            "matchstr": "ITM Taupo Super 440",
-            "time": "04:00",
-            "league": "Australia Supercars Championship",
-            "sport": "Motorsport",
-            "team1": "ITM Taupo Super 440",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=16"
-                    ],
-                    "number": 16,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=16"
-                    ]
-                }
-            ],
-            "slug": "australia-supercars-championship-motorsport-itm-taupo-super-440-2026-04-11-04-00",
-            "startTimestamp": 1775869200000,
             "duration": 120
         },
         {
@@ -1765,34 +1625,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [Mexico Liga MX] Puebla vs Leon [TUDN ES]",
-            "matchstr": "Puebla vs Leon",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Puebla",
-            "team2": "Leon",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-puebla-leon-2026-04-11-04-00",
-            "startTimestamp": 1775869200000,
-            "duration": 120
-        },
-        {
             "matchText": "06:05 [Mexico Liga MX] Juarez vs Tijuana [Universo ES]",
             "matchstr": "Juarez vs Tijuana",
             "time": "06:05",
@@ -1819,34 +1651,6 @@
             "slug": "mexico-liga-mx-football-juarez-tijuana-2026-04-11-06-05",
             "startTimestamp": 1775876700000,
             "duration": 120
-        },
-        {
-            "matchText": "04:30 [NBA] Basketball: Minnesota Timberwolves vs Houston Rockets [NBA League Pass US]",
-            "matchstr": "Minnesota Timberwolves vs Houston Rockets",
-            "time": "04:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Minnesota Timberwolves",
-            "team2": "Houston Rockets",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-minnesota-timberwolves-houston-rockets-2026-04-11-04-30",
-            "startTimestamp": 1775871000000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [England Championship] Stoke City vs Blackburn Rovers [Sky Sports+ GB]",
@@ -1903,34 +1707,6 @@
             "slug": "canada-canadian-premier-league-football-inter-toronto-hfx-wanderers-2026-04-11-22-00",
             "startTimestamp": 1775934000000,
             "duration": 120
-        },
-        {
-            "matchText": "04:30 [NBA] Basketball: Memphis Grizzlies vs Utah Jazz [NBA League Pass US]",
-            "matchstr": "Memphis Grizzlies vs Utah Jazz",
-            "time": "04:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Memphis Grizzlies",
-            "team2": "Utah Jazz",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-memphis-grizzlies-utah-jazz-2026-04-11-04-30",
-            "startTimestamp": 1775871000000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [England Championship] Leicester City vs Swansea City [Sky Sports+ GB]",
@@ -2967,34 +2743,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [ONE] MMA: Kick boxing ONE Fight Night [RMC Sport 1 FR]",
-            "matchstr": "Kick boxing ONE Fight Night",
-            "time": "03:00",
-            "league": "ONE",
-            "sport": "MMA",
-            "team1": "Kick boxing ONE Fight Night",
-            "team2": null,
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=57"
-                    ],
-                    "number": 57,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=57"
-                    ]
-                }
-            ],
-            "slug": "one-mma-kick-boxing-one-fight-night-2026-04-11-03-00",
-            "startTimestamp": 1775865600000,
-            "duration": 180
-        },
-        {
             "matchText": "21:45 [Hexagone] MMA: Hexagone 2026 [RMC Sport 1 FR]",
             "matchstr": "Hexagone 2026",
             "time": "21:45",
@@ -3815,34 +3563,6 @@
             ],
             "slug": "saudi-arabia-pro-league-football-al-akhdoud-al-nassr-2026-04-11-21-00",
             "startTimestamp": 1775930400000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:05 [Colombia Primera A] Deportivo Pasto vs Deportes Tolima [Win Sport ES]",
-            "matchstr": "Deportivo Pasto vs Deportes Tolima",
-            "time": "04:05",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Deportivo Pasto",
-            "team2": "Deportes Tolima",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-deportivo-pasto-deportes-tolima-2026-04-11-04-05",
-            "startTimestamp": 1775869500000,
             "duration": 120
         },
         {
