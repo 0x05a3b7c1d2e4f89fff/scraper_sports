@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NBA] Basketball: Detroit Pistons vs Charlotte Hornets [NBA League Pass US]",
-            "matchstr": "Detroit Pistons vs Charlotte Hornets",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Detroit Pistons",
-            "team2": "Charlotte Hornets",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-detroit-pistons-charlotte-hornets-2026-04-11-02-00",
-            "startTimestamp": 1775862000000,
-            "duration": 180
-        },
-        {
             "matchText": "14:30 [England Premier League] Arsenal vs AFC Bournemouth [TNT Sports 1 GB]",
             "matchstr": "Arsenal vs AFC Bournemouth",
             "time": "14:30",
@@ -168,34 +140,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [NBA] Basketball: Miami Heat vs Washington Wizards [NBA League Pass US]",
-            "matchstr": "Miami Heat vs Washington Wizards",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Miami Heat",
-            "team2": "Washington Wizards",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-miami-heat-washington-wizards-2026-04-11-02-00",
-            "startTimestamp": 1775862000000,
-            "duration": 180
-        },
-        {
             "matchText": "08:00 [Australia A-League] Auckland vs Melbourne Victory [TNT Sports 2 GB]",
             "matchstr": "Auckland vs Melbourne Victory",
             "time": "08:00",
@@ -313,34 +257,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NBA] Basketball: Cleveland Cavaliers vs Atlanta Hawks [NBA League Pass US]",
-            "matchstr": "Cleveland Cavaliers vs Atlanta Hawks",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Cleveland Cavaliers",
-            "team2": "Atlanta Hawks",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-cleveland-cavaliers-atlanta-hawks-2026-04-11-02-00",
-            "startTimestamp": 1775862000000,
-            "duration": 180
-        },
-        {
             "matchText": "10:00 [Australia A-League] Newcastle Jets vs Adelaide United [TNT Sports 3 GB]",
             "matchstr": "Newcastle Jets vs Adelaide United",
             "time": "10:00",
@@ -394,34 +310,6 @@
             ],
             "slug": "nhl-hockey-edmonton-oilers-los-angeles-kings-2026-04-11-23-00",
             "startTimestamp": 1775937600000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:30 [NBA] Basketball: New Orleans Pelicans vs Boston Celtics [NBA League Pass US]",
-            "matchstr": "New Orleans Pelicans vs Boston Celtics",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "New Orleans Pelicans",
-            "team2": "Boston Celtics",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-new-orleans-pelicans-boston-celtics-2026-04-11-02-30",
-            "startTimestamp": 1775863800000,
             "duration": 180
         },
         {
@@ -484,34 +372,6 @@
             "slug": "england-premier-league-football-liverpool-fulham-2026-04-11-19-30",
             "startTimestamp": 1775925000000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [NBA] Basketball: Philadelphia 76ers vs Indiana Pacers [NBA League Pass US]",
-            "matchstr": "Philadelphia 76ers vs Indiana Pacers",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Philadelphia 76ers",
-            "team2": "Indiana Pacers",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-philadelphia-76ers-indiana-pacers-2026-04-11-02-30",
-            "startTimestamp": 1775863800000,
-            "duration": 180
         },
         {
             "matchText": "14:30 [England Championship] Norwich City vs Ipswich Town [Sky Sports Football GB]",
@@ -589,34 +449,6 @@
             ],
             "slug": "nhl-hockey-ottawa-senators-new-york-islanders-2026-04-11-20-00",
             "startTimestamp": 1775926800000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:30 [NBA] Basketball: Toronto Raptors vs New York Knicks [NBA League Pass US]",
-            "matchstr": "Toronto Raptors vs New York Knicks",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Toronto Raptors",
-            "team2": "New York Knicks",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=6"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-toronto-raptors-new-york-knicks-2026-04-11-02-30",
-            "startTimestamp": 1775863800000,
             "duration": 180
         },
         {
@@ -1796,34 +1628,6 @@
             ],
             "slug": "argentina-primera-division-football-independiente-rivadavia-argentinos-juniors-2026-04-11-21-30",
             "startTimestamp": 1775932200000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [Argentina Primera Division] Belgrano vs Aldosivi [TNT Sports Argentina ES]",
-            "matchstr": "Belgrano vs Aldosivi",
-            "time": "03:00",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Belgrano",
-            "team2": "Aldosivi",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-11",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://upstor.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-belgrano-aldosivi-2026-04-11-03-00",
-            "startTimestamp": 1775865600000,
             "duration": 120
         },
         {
