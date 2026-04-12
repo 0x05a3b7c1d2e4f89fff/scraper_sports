@@ -235,73 +235,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Spain La Liga] Celta de Vigo vs Real Oviedo [DAZN2 PT]",
-            "matchstr": "Celta de Vigo vs Real Oviedo",
-            "time": "19:30",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Celta de Vigo",
-            "team2": "Real Oviedo",
-            "channel": "DAZN2 PT",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=23"
-                    ],
-                    "number": 23,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=23"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-celta-de-vigo-real-oviedo-2026-04-12-19-30",
-            "startTimestamp": 1776011400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Spain Segunda Division] Cadiz vs FC Andorra [LALIGA TV Hypermotion ES]",
-            "matchstr": "Cadiz vs FC Andorra",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Cadiz",
-            "team2": "FC Andorra",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-cadiz-fc-andorra-2026-04-12-19-30",
-            "startTimestamp": 1776011400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Racing Santander vs Almeria [LALIGA TV Hypermotion ES]",
             "matchstr": "Racing Santander vs Almeria",
             "time": "22:00",
@@ -327,34 +260,6 @@
             ],
             "slug": "spain-segunda-division-football-racing-santander-almeria-2026-04-12-22-00",
             "startTimestamp": 1776020400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Spain Segunda Division] Mirandes vs CD Castellon [LALIGA TV Hypermotion 2 ES]",
-            "matchstr": "Mirandes vs CD Castellon",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Mirandes",
-            "team2": "CD Castellon",
-            "channel": "LALIGA TV Hypermotion 2 ES",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-mirandes-cd-castellon-2026-04-12-19-30",
-            "startTimestamp": 1776011400000,
             "duration": 120
         },
         {
@@ -531,73 +436,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Italy Serie A] Bologna vs Lecce [Sky Sport Calcio IT]",
-            "matchstr": "Bologna vs Lecce",
-            "time": "19:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Bologna",
-            "team2": "Lecce",
-            "channel": "Sky Sport Calcio IT",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Sky Sport Calcio",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=47"
-                    ]
-                },
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-bologna-lecce-2026-04-12-19-00",
-            "startTimestamp": 1776009600000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Belgium Pro League] Anderlecht vs Gent [DAZN BE]",
-            "matchstr": "Anderlecht vs Gent",
-            "time": "19:30",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "Anderlecht",
-            "team2": "Gent",
-            "channel": "DAZN BE",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://l2l2.link/ch?id=49"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-anderlecht-gent-2026-04-12-19-30",
-            "startTimestamp": 1776011400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:15 [Norway Eliteserien] Brann vs Sandefjord [TV2 Sport NO]",
             "matchstr": "Brann vs Sandefjord",
             "time": "20:15",
@@ -623,62 +461,6 @@
             ],
             "slug": "norway-eliteserien-football-brann-sandefjord-2026-04-12-20-15",
             "startTimestamp": 1776014100000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Denmark Super Liga] Randers vs K\u00f8benhavn [TV3 Sport DK]",
-            "matchstr": "Randers vs K\u00f8benhavn",
-            "time": "19:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Randers",
-            "team2": "K\u00f8benhavn",
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/ch?id=67"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-randers-kobenhavn-2026-04-12-19-00",
-            "startTimestamp": 1776009600000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Croatia 1. HNL] Hajduk Split vs Gorica [MAX Sport 1 HR]",
-            "matchstr": "Hajduk Split vs Gorica",
-            "time": "19:30",
-            "league": "Croatia 1. HNL",
-            "sport": "Football",
-            "team1": "Hajduk Split",
-            "team2": "Gorica",
-            "channel": "MAX Sport 1 HR",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "MAX Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://l2l2.link/ch?id=70"
-                    ]
-                }
-            ],
-            "slug": "croatia-1-hnl-football-hajduk-split-gorica-2026-04-12-19-30",
-            "startTimestamp": 1776011400000,
             "duration": 120
         },
         {
