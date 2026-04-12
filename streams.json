@@ -1718,34 +1718,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:40 [World Rally Championship] Motorsport: Croatia Rally Stage 19 [Canal+ Sport360 FR]",
-            "matchstr": "Croatia Rally Stage 19",
-            "time": "11:40",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Croatia Rally Stage 19",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-croatia-rally-stage-19-2026-04-12-11-40",
-            "startTimestamp": 1775983200000,
-            "duration": 120
-        },
-        {
             "matchText": "14:00 [World Rally Championship] Motorsport: Croatia Rally Stage20 [Canal+ Sport360 FR]",
             "matchstr": "Croatia Rally Stage20",
             "time": "14:00",
@@ -2334,10 +2306,10 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Africa CAF Champions League] Platense vs Gimnasia Mendoza [TNT Sports Argentina ES]",
+            "matchText": "21:00 [Argentina Primera Divisi\u00f3n] Platense vs Gimnasia Mendoza [TNT Sports Argentina ES]",
             "matchstr": "Platense vs Gimnasia Mendoza",
             "time": "21:00",
-            "league": "Africa CAF Champions League",
+            "league": "Argentina Primera Divisi\u00f3n",
             "sport": "Football",
             "team1": "Platense",
             "team2": "Gimnasia Mendoza",
@@ -2357,15 +2329,15 @@
                     ]
                 }
             ],
-            "slug": "africa-caf-champions-league-football-platense-gimnasia-mendoza-2026-04-12-21-00",
+            "slug": "argentina-primera-division-football-platense-gimnasia-mendoza-2026-04-12-21-00",
             "startTimestamp": 1776016800000,
             "duration": 120
         },
         {
-            "matchText": "23:30 [Africa CAF Champions League] Huracan vs Rosario Central [TNT Sports Argentina ES]",
+            "matchText": "23:30 [Argentina Primera Divisi\u00f3n] Huracan vs Rosario Central [TNT Sports Argentina ES]",
             "matchstr": "Huracan vs Rosario Central",
             "time": "23:30",
-            "league": "Africa CAF Champions League",
+            "league": "Argentina Primera Divisi\u00f3n",
             "sport": "Football",
             "team1": "Huracan",
             "team2": "Rosario Central",
@@ -2385,15 +2357,15 @@
                     ]
                 }
             ],
-            "slug": "africa-caf-champions-league-football-huracan-rosario-central-2026-04-12-23-30",
+            "slug": "argentina-primera-division-football-huracan-rosario-central-2026-04-12-23-30",
             "startTimestamp": 1776025800000,
             "duration": 120
         },
         {
-            "matchText": "21:00 [Africa CAF Champions League] Newell's Old Boys vs San Lorenzo [ESPN Premium Argentina ES]",
+            "matchText": "21:00 [Argentina Primera Divisi\u00f3n] Newell's Old Boys vs San Lorenzo [ESPN Premium Argentina ES]",
             "matchstr": "Newell's Old Boys vs San Lorenzo",
             "time": "21:00",
-            "league": "Africa CAF Champions League",
+            "league": "Argentina Primera Divisi\u00f3n",
             "sport": "Football",
             "team1": "Newell's Old Boys",
             "team2": "San Lorenzo",
@@ -2413,15 +2385,15 @@
                     ]
                 }
             ],
-            "slug": "africa-caf-champions-league-football-newell-s-old-boys-san-lorenzo-2026-04-12-21-00",
+            "slug": "argentina-primera-division-football-newell-s-old-boys-san-lorenzo-2026-04-12-21-00",
             "startTimestamp": 1776016800000,
             "duration": 120
         },
         {
-            "matchText": "23:30 [Africa CAF Champions League] Atletico Tucuman vs Tigre [ESPN Premium Argentina ES]",
+            "matchText": "23:30 [Argentina Primera Divisi\u00f3n] Atletico Tucuman vs Tigre [ESPN Premium Argentina ES]",
             "matchstr": "Atletico Tucuman vs Tigre",
             "time": "23:30",
-            "league": "Africa CAF Champions League",
+            "league": "Argentina Primera Divisi\u00f3n",
             "sport": "Football",
             "team1": "Atletico Tucuman",
             "team2": "Tigre",
@@ -2441,7 +2413,7 @@
                     ]
                 }
             ],
-            "slug": "africa-caf-champions-league-football-atletico-tucuman-tigre-2026-04-12-23-30",
+            "slug": "argentina-primera-division-football-atletico-tucuman-tigre-2026-04-12-23-30",
             "startTimestamp": 1776025800000,
             "duration": 120
         },
