@@ -140,34 +140,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:00 [Australia A-League] Melbourne City vs Wellington Phoenix [TNT Sports 4 GB]",
-            "matchstr": "Melbourne City vs Wellington Phoenix",
-            "time": "08:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Melbourne City",
-            "team2": "Wellington Phoenix",
-            "channel": "TNT Sports 4 GB",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "TNT Sports 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-melbourne-city-wellington-phoenix-2026-04-12-08-00",
-            "startTimestamp": 1775970000000,
-            "duration": 120
-        },
-        {
             "matchText": "14:00 [England Championship] Birmingham City vs Wrexham [Sky Sports Football GB]",
             "matchstr": "Birmingham City vs Wrexham",
             "time": "14:00",
@@ -496,19 +468,19 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Germany Bundesliga 2] Simulcast [Sky Sport Bundesliga 1 DE]",
+            "matchText": "14:30 [Germany Bundesliga 2] Simulcast [Sky Sport Bundesliga DE]",
             "matchstr": "Simulcast",
             "time": "14:30",
             "league": "Germany Bundesliga 2",
             "sport": "Football",
             "team1": "Simulcast",
             "team2": null,
-            "channel": "Sky Sport Bundesliga 1 DE",
+            "channel": "Sky Sport Bundesliga DE",
             "important": false,
             "matchDate": "2026-04-12",
             "channels": [
                 {
-                    "name": "Sky Sport Bundesliga 1",
+                    "name": "Sky Sport Bundesliga",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=11"
                     ],
@@ -524,19 +496,19 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Germany Bundesliga 2] Elversberg vs Schalke 04 [Sky Sport Bundesliga 3 DE]",
+            "matchText": "14:30 [Germany Bundesliga 2] Elversberg vs Schalke 04 [Sky Sport Bundesliga DE]",
             "matchstr": "Elversberg vs Schalke 04",
             "time": "14:30",
             "league": "Germany Bundesliga 2",
             "sport": "Football",
             "team1": "Elversberg",
             "team2": "Schalke 04",
-            "channel": "Sky Sport Bundesliga 3 DE",
+            "channel": "Sky Sport Bundesliga DE",
             "important": false,
             "matchDate": "2026-04-12",
             "channels": [
                 {
-                    "name": "Sky Sport Bundesliga 3",
+                    "name": "Sky Sport Bundesliga",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=12"
                     ],
@@ -552,19 +524,19 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Germany Bundesliga 2] Paderborn vs Magdeburg [Sky Sport Bundesliga 4 DE]",
+            "matchText": "14:30 [Germany Bundesliga 2] Paderborn vs Magdeburg [Sky Sport Bundesliga DE]",
             "matchstr": "Paderborn vs Magdeburg",
             "time": "14:30",
             "league": "Germany Bundesliga 2",
             "sport": "Football",
             "team1": "Paderborn",
             "team2": "Magdeburg",
-            "channel": "Sky Sport Bundesliga 4 DE",
+            "channel": "Sky Sport Bundesliga DE",
             "important": false,
             "matchDate": "2026-04-12",
             "channels": [
                 {
-                    "name": "Sky Sport Bundesliga 4",
+                    "name": "Sky Sport Bundesliga",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=13"
                     ],
@@ -580,19 +552,19 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Germany Bundesliga 2] Bochum vs Eintracht Braunschweig [Sky Sport Bundesliga 2 DE]",
+            "matchText": "14:30 [Germany Bundesliga 2] Bochum vs Eintracht Braunschweig [Sky Sport Bundesliga DE]",
             "matchstr": "Bochum vs Eintracht Braunschweig",
             "time": "14:30",
             "league": "Germany Bundesliga 2",
             "sport": "Football",
             "team1": "Bochum",
             "team2": "Eintracht Braunschweig",
-            "channel": "Sky Sport Bundesliga 2 DE",
+            "channel": "Sky Sport Bundesliga DE",
             "important": false,
             "matchDate": "2026-04-12",
             "channels": [
                 {
-                    "name": "Sky Sport Bundesliga 2",
+                    "name": "Sky Sport Bundesliga",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=14"
                     ],
