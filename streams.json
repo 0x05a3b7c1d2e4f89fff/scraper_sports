@@ -196,34 +196,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Mexico Liga MX] Pumas UNAM vs Mazatlan [TUDN ES]",
-            "matchstr": "Pumas UNAM vs Mazatlan",
-            "time": "21:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Pumas UNAM",
-            "team2": "Mazatlan",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-pumas-unam-mazatlan-2026-04-12-21-00",
-            "startTimestamp": 1776016800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Africa CAF Champions League] ES Tunis vs Mamelodi Sundowns [beIN SPORTS US]",
             "matchstr": "ES Tunis vs Mamelodi Sundowns",
             "time": "22:00",
@@ -414,34 +386,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Argentina Primera Divisi\u00f3n] Platense vs Gimnasia Mendoza [TNT Sports Argentina ES]",
-            "matchstr": "Platense vs Gimnasia Mendoza",
-            "time": "21:00",
-            "league": "Argentina Primera Divisi\u00f3n",
-            "sport": "Football",
-            "team1": "Platense",
-            "team2": "Gimnasia Mendoza",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-platense-gimnasia-mendoza-2026-04-12-21-00",
-            "startTimestamp": 1776016800000,
-            "duration": 120
-        },
-        {
             "matchText": "23:30 [Argentina Primera Divisi\u00f3n] Huracan vs Rosario Central [TNT Sports Argentina ES]",
             "matchstr": "Huracan vs Rosario Central",
             "time": "23:30",
@@ -467,34 +411,6 @@
             ],
             "slug": "argentina-primera-division-football-huracan-rosario-central-2026-04-12-23-30",
             "startTimestamp": 1776025800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Argentina Primera Divisi\u00f3n] Newell's Old Boys vs San Lorenzo [ESPN Premium Argentina ES]",
-            "matchstr": "Newell's Old Boys vs San Lorenzo",
-            "time": "21:00",
-            "league": "Argentina Primera Divisi\u00f3n",
-            "sport": "Football",
-            "team1": "Newell's Old Boys",
-            "team2": "San Lorenzo",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-newell-s-old-boys-san-lorenzo-2026-04-12-21-00",
-            "startTimestamp": 1776016800000,
             "duration": 120
         },
         {
@@ -2522,6 +2438,45 @@
             ],
             "slug": "asia-afc-champions-league-elite-football-al-ittihad-al-wahda-2026-04-14-21-00",
             "startTimestamp": 1776189600000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA Champions League] Simulcast [Cosmote Sport 1 GR]",
+            "matchstr": "Simulcast",
+            "time": "22:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "Simulcast",
+            "team2": null,
+            "channel": "Cosmote Sport 1 GR",
+            "important": false,
+            "matchDate": "2026-04-14",
+            "channels": [
+                {
+                    "name": "Cosmote Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=25"
+                    ],
+                    "number": 25,
+                    "language": "GR",
+                    "links": [
+                        "https://l2l2.link/ch?id=25"
+                    ]
+                },
+                {
+                    "name": "Sky Sport Austria 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "AT",
+                    "links": [
+                        "https://l2l2.link/ch?id=100"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-simulcast-2026-04-14-22-00",
+            "startTimestamp": 1776193200000,
             "duration": 120
         },
         {
