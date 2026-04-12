@@ -364,34 +364,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Brazil Brasileirao] Corinthians vs Palmeiras [Canal 11 PT]",
-            "matchstr": "Corinthians vs Palmeiras",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Corinthians",
-            "team2": "Palmeiras",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-04-13",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=21"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-corinthians-palmeiras-2026-04-13-00-30",
-            "startTimestamp": 1776029400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:15 [Portugal Primeira Liga] Tondela vs Gil Vicente [Sport TV1 PT]",
             "matchstr": "Tondela vs Gil Vicente",
             "time": "22:15",
@@ -1188,34 +1160,6 @@
             ],
             "slug": "argentina-primera-division-football-defensa-y-justicia-talleres-cordoba-2026-04-13-22-30",
             "startTimestamp": 1776108600000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:10 [Colombia Primera A] Deportivo Cali vs Llaneros [Win Sport ES]",
-            "matchstr": "Deportivo Cali vs Llaneros",
-            "time": "00:10",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Deportivo Cali",
-            "team2": "Llaneros",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-13",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-deportivo-cali-llaneros-2026-04-13-00-10",
-            "startTimestamp": 1776028200000,
             "duration": 120
         },
         {
