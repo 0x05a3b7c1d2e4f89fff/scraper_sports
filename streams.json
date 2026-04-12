@@ -112,73 +112,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [England Championship] Birmingham City vs Wrexham [Sky Sports Football GB]",
-            "matchstr": "Birmingham City vs Wrexham",
-            "time": "14:00",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Birmingham City",
-            "team2": "Wrexham",
-            "channel": "Sky Sports Football GB",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Sky Sports Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-birmingham-city-wrexham-2026-04-12-14-00",
-            "startTimestamp": 1775991600000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:00 [Scotland Scottish Premiership] Falkirk vs Rangers [CBS Sports Golazo US]",
-            "matchstr": "Falkirk vs Rangers",
-            "time": "14:00",
-            "league": "Scotland Scottish Premiership",
-            "sport": "Football",
-            "team1": "Falkirk",
-            "team2": "Rangers",
-            "channel": "CBS Sports Golazo US",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "CBS Sports Golazo",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=6"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "scotland-scottish-premiership-football-falkirk-rangers-2026-04-12-14-00",
-            "startTimestamp": 1775991600000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [NHL] Hockey: Pittsburgh Penguins vs Washington Capitals [TNT US]",
             "matchstr": "Pittsburgh Penguins vs Washington Capitals",
             "time": "22:00",
@@ -591,67 +524,6 @@
             "duration": 180
         },
         {
-            "matchText": "13:30 [Italy Serie A] Genoa vs Sassuolo [DAZN1 DE]",
-            "matchstr": "Genoa vs Sassuolo",
-            "time": "13:30",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Genoa",
-            "team2": "Sassuolo",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=17"
-                    ]
-                },
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=47"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=71"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-genoa-sassuolo-2026-04-12-13-30",
-            "startTimestamp": 1775989800000,
-            "duration": 120
-        },
-        {
             "matchText": "16:30 [Germany Bundesliga] Koln vs Werder Bremen [DAZN1 DE]",
             "matchstr": "Koln vs Werder Bremen",
             "time": "16:30",
@@ -961,34 +833,6 @@
             ],
             "slug": "switzerland-super-league-football-young-boys-servette-2026-04-12-17-30",
             "startTimestamp": 1776004200000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [Portugal Segunda liga] Feirense vs Vizela [Sport TV1 PT]",
-            "matchstr": "Feirense vs Vizela",
-            "time": "13:00",
-            "league": "Portugal Segunda liga",
-            "sport": "Football",
-            "team1": "Feirense",
-            "team2": "Vizela",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=21"
-                    ]
-                }
-            ],
-            "slug": "portugal-segunda-liga-football-feirense-vizela-2026-04-12-13-00",
-            "startTimestamp": 1775988000000,
             "duration": 120
         },
         {
@@ -1690,62 +1534,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [World Rally Championship] Motorsport: Croatia Rally Stage20 [Canal+ Sport360 FR]",
-            "matchstr": "Croatia Rally Stage20",
-            "time": "14:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Croatia Rally Stage20",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-croatia-rally-stage20-2026-04-12-14-00",
-            "startTimestamp": 1775991600000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:15 [Poland Ekstraklasa] Cracovia Krakow vs Arka Gdynia [Canal+ Sport 3 PL]",
-            "matchstr": "Cracovia Krakow vs Arka Gdynia",
-            "time": "13:15",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Cracovia Krakow",
-            "team2": "Arka Gdynia",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-cracovia-krakow-arka-gdynia-2026-04-12-13-15",
-            "startTimestamp": 1775988900000,
-            "duration": 120
-        },
-        {
             "matchText": "15:45 [Poland Ekstraklasa] Motor Lublin vs Rakow Czestochowa [Canal+ Sport 3 PL]",
             "matchstr": "Motor Lublin vs Rakow Czestochowa",
             "time": "15:45",
@@ -2222,34 +2010,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:15 [AFL] Australian Football: St. Kilda Saints vs Port Adelaide Power [Fox Soccer Plus US]",
-            "matchstr": "St. Kilda Saints vs Port Adelaide Power",
-            "time": "12:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "St. Kilda Saints",
-            "team2": "Port Adelaide Power",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-st-kilda-saints-port-adelaide-power-2026-04-12-12-15",
-            "startTimestamp": 1775985300000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [Canada Canadian Premier League] Cavalry vs Atl. Ottawa [Fox Soccer Plus US]",
             "matchstr": "Cavalry vs Atl. Ottawa",
             "time": "23:00",
@@ -2415,34 +2175,6 @@
             ],
             "slug": "netherlands-eredivisie-football-nec-feyenoord-2026-04-12-15-30",
             "startTimestamp": 1775997000000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:15 [Netherlands Eredivisie] Fortuna Sittard vs NAC Breda [ESPN2 NL]",
-            "matchstr": "Fortuna Sittard vs NAC Breda",
-            "time": "13:15",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Fortuna Sittard",
-            "team2": "NAC Breda",
-            "channel": "ESPN2 NL",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=89"
-                    ],
-                    "number": 89,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=89"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-fortuna-sittard-nac-breda-2026-04-12-13-15",
-            "startTimestamp": 1775988900000,
             "duration": 120
         },
         {
