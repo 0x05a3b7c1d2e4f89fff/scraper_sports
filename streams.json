@@ -112,34 +112,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:00 [Australia A-League] Perth Glory vs Macarthur [TNT Sports 3 GB]",
-            "matchstr": "Perth Glory vs Macarthur",
-            "time": "12:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Perth Glory",
-            "team2": "Macarthur",
-            "channel": "TNT Sports 3 GB",
-            "important": false,
-            "matchDate": "2026-04-12",
-            "channels": [
-                {
-                    "name": "TNT Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-perth-glory-macarthur-2026-04-12-12-00",
-            "startTimestamp": 1775984400000,
-            "duration": 120
-        },
-        {
             "matchText": "14:00 [England Championship] Birmingham City vs Wrexham [Sky Sports Football GB]",
             "matchstr": "Birmingham City vs Wrexham",
             "time": "14:00",
