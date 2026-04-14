@@ -229,45 +229,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:45 [Asia AFC Champions League Elite] Tractor Sazi vs Shabab Al Ahli [Sportdigital1+ DE]",
-            "matchstr": "Tractor Sazi vs Shabab Al Ahli",
-            "time": "17:45",
-            "league": "Asia AFC Champions League Elite",
-            "sport": "Football",
-            "team1": "Tractor Sazi",
-            "team2": "Shabab Al Ahli",
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-04-14",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=20"
-                    ]
-                },
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "asia-afc-champions-league-elite-football-tractor-sazi-shabab-al-ahli-2026-04-14-17-45",
-            "startTimestamp": 1776177900000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Asia AFC Champions League Elite] Al Ittihad vs Al Wahda [Sportdigital1+ DE]",
             "matchstr": "Al Ittihad vs Al Wahda",
             "time": "21:00",
@@ -343,34 +304,6 @@
             ],
             "slug": "europe-uefa-champions-league-football-simulcast-2026-04-14-22-00",
             "startTimestamp": 1776193200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Bulgaria Parva Liga] Botev Vratsa vs Lokomotiv Sofia 1929 [Diema Sport BG]",
-            "matchstr": "Botev Vratsa vs Lokomotiv Sofia 1929",
-            "time": "18:00",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Botev Vratsa",
-            "team2": "Lokomotiv Sofia 1929",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-14",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-botev-vratsa-lokomotiv-sofia-1929-2026-04-14-18-00",
-            "startTimestamp": 1776178800000,
             "duration": 120
         },
         {
@@ -1771,6 +1704,34 @@
                 }
             ],
             "slug": "sweden-allsvenskan-hockey-if-bjorkloven-bik-karlskoga-2026-04-15-20-00",
+            "startTimestamp": 1776272400000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:00 [Sweden Allsvenskan] Hockey: Skelleftea AIK vs Lulea HF [TV4 Hockey SE]",
+            "matchstr": "Skelleftea AIK vs Lulea HF",
+            "time": "20:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Hockey",
+            "team1": "Skelleftea AIK",
+            "team2": "Lulea HF",
+            "channel": "TV4 Hockey SE",
+            "important": false,
+            "matchDate": "2026-04-15",
+            "channels": [
+                {
+                    "name": "TV4 Hockey",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-hockey-skelleftea-aik-lulea-hf-2026-04-15-20-00",
             "startTimestamp": 1776272400000,
             "duration": 180
         },
