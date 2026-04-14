@@ -458,13 +458,13 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [NBA] Basketball: Orlando Magic vs Philadelphia 76ers [NBA League Pass US]",
-            "matchstr": "Orlando Magic vs Philadelphia 76ers",
+            "matchText": "02:30 [NBA] Basketball: Miami Heat vs Charlotte Hornets [NBA League Pass US]",
+            "matchstr": "Miami Heat vs Charlotte Hornets",
             "time": "02:30",
             "league": "NBA",
             "sport": "Basketball",
-            "team1": "Orlando Magic",
-            "team2": "Philadelphia 76ers",
+            "team1": "Miami Heat",
+            "team2": "Charlotte Hornets",
             "channel": "NBA League Pass US",
             "important": false,
             "matchDate": "2026-04-15",
@@ -481,7 +481,7 @@
                     ]
                 }
             ],
-            "slug": "nba-basketball-orlando-magic-philadelphia-76ers-2026-04-15-02-30",
+            "slug": "nba-basketball-miami-heat-charlotte-hornets-2026-04-15-02-30",
             "startTimestamp": 1776209400000,
             "duration": 180
         },
