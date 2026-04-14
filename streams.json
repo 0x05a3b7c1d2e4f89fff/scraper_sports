@@ -229,45 +229,6 @@
             "duration": 180
         },
         {
-            "matchText": "21:00 [Asia AFC Champions League Elite] Al Ittihad vs Al Wahda [Sportdigital1+ DE]",
-            "matchstr": "Al Ittihad vs Al Wahda",
-            "time": "21:00",
-            "league": "Asia AFC Champions League Elite",
-            "sport": "Football",
-            "team1": "Al Ittihad",
-            "team2": "Al Wahda",
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-04-14",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=20"
-                    ]
-                },
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "asia-afc-champions-league-elite-football-al-ittihad-al-wahda-2026-04-14-21-00",
-            "startTimestamp": 1776189600000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Europe UEFA Champions League] Simulcast [Cosmote Sport 1 GR]",
             "matchstr": "Simulcast",
             "time": "22:00",
@@ -304,90 +265,6 @@
             ],
             "slug": "europe-uefa-champions-league-football-simulcast-2026-04-14-22-00",
             "startTimestamp": 1776193200000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:30 [Bulgaria Parva Liga] Dobrudzha 1919 vs Botev Plovdiv [Diema Sport BG]",
-            "matchstr": "Dobrudzha 1919 vs Botev Plovdiv",
-            "time": "20:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Dobrudzha 1919",
-            "team2": "Botev Plovdiv",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-14",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-dobrudzha-1919-botev-plovdiv-2026-04-14-20-30",
-            "startTimestamp": 1776187800000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden SHL] Hockey: Rogle BK vs Vaxjo Lakers [TV4 Hockey SE]",
-            "matchstr": "Rogle BK vs Vaxjo Lakers",
-            "time": "20:00",
-            "league": "Sweden SHL",
-            "sport": "Hockey",
-            "team1": "Rogle BK",
-            "team2": "Vaxjo Lakers",
-            "channel": "TV4 Hockey SE",
-            "important": false,
-            "matchDate": "2026-04-14",
-            "channels": [
-                {
-                    "name": "TV4 Hockey",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=74"
-                    ]
-                }
-            ],
-            "slug": "sweden-shl-hockey-rogle-bk-vaxjo-lakers-2026-04-14-20-00",
-            "startTimestamp": 1776186000000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:00 [Saudi Arabia Pro League] Al Quadisiya vs Al Shabab [Fox Sports 2 US]",
-            "matchstr": "Al Quadisiya vs Al Shabab",
-            "time": "21:00",
-            "league": "Saudi Arabia Pro League",
-            "sport": "Football",
-            "team1": "Al Quadisiya",
-            "team2": "Al Shabab",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-14",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "saudi-arabia-pro-league-football-al-quadisiya-al-shabab-2026-04-14-21-00",
-            "startTimestamp": 1776189600000,
             "duration": 120
         },
         {
