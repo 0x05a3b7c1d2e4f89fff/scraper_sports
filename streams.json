@@ -296,34 +296,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Bulgaria Parva Liga] Cherno More vs CSKA 1948 [Diema Sport BG]",
-            "matchstr": "Cherno More vs CSKA 1948",
-            "time": "18:00",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Cherno More",
-            "team2": "CSKA 1948",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-cherno-more-cska-1948-2026-04-15-18-00",
-            "startTimestamp": 1776265200000,
-            "duration": 120
-        },
-        {
             "matchText": "20:30 [Bulgaria Parva Liga] Arda vs Ludogorets [Diema Sport BG]",
             "matchstr": "Arda vs Ludogorets",
             "time": "20:30",
@@ -1865,6 +1837,34 @@
             ],
             "slug": "pfl-mma-chris-mixan-eoin-sheridan-2026-04-16-22-00",
             "startTimestamp": 1776366000000,
+            "duration": 180
+        },
+        {
+            "matchText": "18:30 [Finland Liiga] Hockey: Tappara vs Ilves [MTV Urheilu 3 FI]",
+            "matchstr": "Tappara vs Ilves",
+            "time": "18:30",
+            "league": "Finland Liiga",
+            "sport": "Hockey",
+            "team1": "Tappara",
+            "team2": "Ilves",
+            "channel": "MTV Urheilu 3 FI",
+            "important": false,
+            "matchDate": "2026-04-16",
+            "channels": [
+                {
+                    "name": "MTV Urheilu 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://l2l2.link/ch?id=73"
+                    ]
+                }
+            ],
+            "slug": "finland-liiga-hockey-tappara-ilves-2026-04-16-18-30",
+            "startTimestamp": 1776353400000,
             "duration": 180
         },
         {
