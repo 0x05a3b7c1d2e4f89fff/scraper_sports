@@ -21,14 +21,10 @@ https://l2l2.link/ch?id=51
 https://l2l2.link/ch?id=78
 #EXTINF:-1 tvg-id="champions-league-basketball-tenerife-galatasaray-2026-04-15-22-00" group-title="Champions League",Tenerife vs Galatasaray (Cosmote Sport 7)
 https://l2l2.link/ch?id=23
-#EXTINF:-1 tvg-id="champions-league-basketball-aek-athens-joventut-badalona-2026-04-15-19-30" group-title="Champions League",AEK Athens vs Joventut Badalona (Cosmote Sport 4)
-https://l2l2.link/ch?id=24
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-simulcast-2026-04-15-22-00" group-title="Europe UEFA Champions League",Simulcast (Cosmote Sport 1)
 https://l2l2.link/ch?id=25
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-simulcast-2026-04-15-22-00" group-title="Europe UEFA Champions League",Simulcast (Sky Sport Austria)
 https://l2l2.link/ch?id=100
-#EXTINF:-1 tvg-id="euroleague-women-basketball-uni-girona-w-venezia-w-2026-04-15-18-30" group-title="Euroleague Women",Uni Girona W vs Venezia W (M+ Vamos)
-https://l2l2.link/ch?id=28
 #EXTINF:-1 tvg-id="euroleague-women-basketball-landes-w-zaragoza-w-2026-04-15-21-30" group-title="Euroleague Women",Landes W vs Zaragoza W (M+ Vamos)
 https://l2l2.link/ch?id=28
 #EXTINF:-1 tvg-id="bulgaria-parva-liga-football-arda-ludogorets-2026-04-15-20-30" group-title="Bulgaria Parva Liga",Arda vs Ludogorets (Diema Sport)
@@ -349,8 +345,12 @@ https://l2l2.link/ch?id=70
 https://l2l2.link/ch?id=70
 #EXTINF:-1 tvg-id="croatia-1-hnl-football-osijek-varazdin-2026-04-17-21-15" group-title="Croatia 1. HNL",Osijek vs Varazdin (Max Sport 1)
 https://l2l2.link/ch?id=70
+#EXTINF:-1 tvg-id="sweden-allsvenskan-hockey-if-bjorkloven-bik-karlskoga-2026-04-17-20-00" group-title="Sweden Allsvenskan",IF Björklöven vs BIK Karlskoga (TV4 Sport Live 1)
+https://l2l2.link/ch?id=71
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-degerfors-elfsborg-2026-04-17-20-00" group-title="Sweden Allsvenskan",Degerfors vs Elfsborg (TV4 Sport Live 2)
 https://l2l2.link/ch?id=72
+#EXTINF:-1 tvg-id="finland-liiga-hockey-kookoo-saipa-2026-04-17-18-30" group-title="Finland Liiga",Kookoo vs SaiPa (MTV3)
+https://l2l2.link/ch?id=73
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-djurgarden-malmo-ff-2026-04-17-20-00" group-title="Sweden Allsvenskan",Djurgarden vs Malmo FF (TV4 Fotball)
 https://l2l2.link/ch?id=74
 #EXTINF:-1 tvg-id="afl-australian-football-greater-western-sydney-giants-sydney-swans-2026-04-17-12-50" group-title="AFL",Greater Western Sydney Giants vs Sydney Swans (Fox Soccer Plus)
@@ -372,4 +372,336 @@ https://l2l2.link/ch?id=94
 #EXTINF:-1 tvg-id="euroleague-basketball-dubai-valencia-2026-04-17-21-00" group-title="Euroleague",Dubai vs Valencia (Magenta Sport)
 https://l2l2.link/ch?id=97
 #EXTINF:-1 tvg-id="austria-bundesliga-football-grazer-ak-ried-2026-04-17-20-30" group-title="Austria Bundesliga",Grazer AK vs Ried (Sky Sport Austria 1)
+https://l2l2.link/ch?id=100
+#EXTINF:-1 tvg-id="mlb-baseball-atlanta-braves-philadelphia-phillies-2026-04-18-01-30" group-title="MLB",Atlanta Braves vs Philadelphia Phillies (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="afl-australian-football-gold-coast-suns-essendon-2026-04-18-06-00" group-title="AFL",Gold Coast Suns vs Essendon (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="afl-australian-football-gold-coast-suns-essendon-2026-04-18-06-00" group-title="AFL",Gold Coast Suns vs Essendon (Fox Soccer Plus)
+https://l2l2.link/ch?id=83
+#EXTINF:-1 tvg-id="afl-australian-football-hawthorn-port-adelaide-2026-04-18-09-00" group-title="AFL",Hawthorn vs Port Adelaide (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="afl-australian-football-hawthorn-port-adelaide-2026-04-18-09-00" group-title="AFL",Hawthorn vs Port Adelaide (Fox Soccer Plus)
+https://l2l2.link/ch?id=83
+#EXTINF:-1 tvg-id="england-premier-league-football-brentford-fulham-2026-04-18-14-30" group-title="England Premier League",Brentford vs Fulham (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="england-premier-league-football-brentford-fulham-2026-04-18-14-30" group-title="England Premier League",Brentford vs Fulham (USA Network)
+https://l2l2.link/ch?id=10
+#EXTINF:-1 tvg-id="england-premier-league-football-brentford-fulham-2026-04-18-14-30" group-title="England Premier League",Brentford vs Fulham (Universo)
+https://l2l2.link/ch?id=30
+#EXTINF:-1 tvg-id="england-premiership-rugby-leicester-tigers-newcastle-red-bulls-2026-04-18-17-00" group-title="England Premiership",Leicester Tigers vs Newcastle Red Bulls (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="england-premiership-rugby-leicester-tigers-newcastle-red-bulls-2026-04-18-17-00" group-title="England Premiership",Leicester Tigers vs Newcastle Red Bulls (TNT Sports 2)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="italy-serie-a-football-napoli-lazio-2026-04-18-19-00" group-title="Italy Serie A",Napoli vs Lazio (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="italy-serie-a-football-napoli-lazio-2026-04-18-19-00" group-title="Italy Serie A",Napoli vs Lazio (DAZN2)
+https://l2l2.link/ch?id=18
+#EXTINF:-1 tvg-id="italy-serie-a-football-napoli-lazio-2026-04-18-19-00" group-title="Italy Serie A",Napoli vs Lazio (DAZN Zona)
+https://l2l2.link/ch?id=47
+#EXTINF:-1 tvg-id="italy-serie-a-football-napoli-lazio-2026-04-18-19-00" group-title="Italy Serie A",Napoli vs Lazio (Fox Deportes)
+https://l2l2.link/ch?id=87
+#EXTINF:-1 tvg-id="england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00" group-title="England Premier League",Chelsea vs Manchester United (TNT Sports 1)
+https://l2l2.link/ch?id=1
+#EXTINF:-1 tvg-id="england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00" group-title="England Premier League",Chelsea vs Manchester United (HUB Premier)
+https://l2l2.link/ch?id=9
+#EXTINF:-1 tvg-id="england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00" group-title="England Premier League",Chelsea vs Manchester United (Universo)
+https://l2l2.link/ch?id=30
+#EXTINF:-1 tvg-id="england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00" group-title="England Premier League",Chelsea vs Manchester United (Canal+ Foot)
+https://l2l2.link/ch?id=50
+#EXTINF:-1 tvg-id="england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00" group-title="England Premier League",Chelsea vs Manchester United (V Sport Premium)
+https://l2l2.link/ch?id=78
+#EXTINF:-1 tvg-id="nba-basketball-charlotte-hornets-tbd-2026-04-18-02-30" group-title="NBA",Charlotte Hornets vs TBD (NBA League Pass)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="australia-a-league-football-wellington-phoenix-western-sydney-wanderers-2026-04-18-08-00" group-title="Australia A-League",Wellington Phoenix vs Western Sydney Wanderers (TNT Sports 2)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="australia-a-league-football-brisbane-roar-melbourne-city-2026-04-18-10-00" group-title="Australia A-League",Brisbane Roar vs Melbourne City (TNT Sports 2)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="australia-a-league-football-brisbane-roar-melbourne-city-2026-04-18-10-00" group-title="Australia A-League",Brisbane Roar vs Melbourne City (Sportdigital FUSSBALL)
+https://l2l2.link/ch?id=19
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-zlin-teplice-2026-04-18-16-00" group-title="Czech Republic 1. liga",Zlin vs Teplice (Oneplay Sport 2)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="england-premiership-rugby-bath-harlequins-2026-04-18-19-30" group-title="England Premiership",Bath vs Harlequins (TNT Sports 2)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="mlb-baseball-detroit-tigers-boston-red-sox-2026-04-18-23-00" group-title="MLB",Detroit Tigers vs Boston Red Sox (TNT Sports 2)
+https://l2l2.link/ch?id=2
+#EXTINF:-1 tvg-id="supercars-motorsport-supercars-championship-2026-04-18-04-00" group-title="Supercars",Supercars Championship (TNT Sports 3)
+https://l2l2.link/ch?id=3
+#EXTINF:-1 tvg-id="supercars-motorsport-supercars-championship-2026-04-18-07-00" group-title="Supercars",Supercars Championship (TNT Sports 3)
+https://l2l2.link/ch?id=3
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-toronto-fc-austin-2026-04-18-20-00" group-title="USA/Canada Major League Soccer",Toronto FC vs Austin (MLS Season Pass)
+https://l2l2.link/ch?id=3
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-colorado-rapids-inter-miami-2026-04-18-23-30" group-title="USA/Canada Major League Soccer",Colorado Rapids vs Inter Miami (MLS Season Pass)
+https://l2l2.link/ch?id=3
+#EXTINF:-1 tvg-id="nba-basketball-tbd-phoenix-suns-2026-04-18-05-00" group-title="NBA",TBD vs Phoenix Suns (NBA League Pass)
+https://l2l2.link/ch?id=4
+#EXTINF:-1 tvg-id="worldsbk-motorsport-worldsbk-round-3-netherlands-2026-04-18-10-30" group-title="WorldSBK",WorldSBK Round 3 Netherlands (TNT Sports 4)
+https://l2l2.link/ch?id=4
+#EXTINF:-1 tvg-id="worldsbk-motorsport-worldsbk-round-3-netherlands-2026-04-18-12-00" group-title="WorldSBK",WorldSBK Round 3 Netherlands (TNT Sports 4)
+https://l2l2.link/ch?id=4
+#EXTINF:-1 tvg-id="worldsbk-motorsport-worldsbk-round-2-netherlands-2026-04-18-12-45" group-title="WorldSBK",WorldSBK Round 2 Netherlands (TNT Sports 4)
+https://l2l2.link/ch?id=4
+#EXTINF:-1 tvg-id="fim-motorsport-fim-endurance-world-championship-2026-04-18-17-30" group-title="FIM",FIM Endurance World Championship (TNT Sports 4)
+https://l2l2.link/ch?id=4
+#EXTINF:-1 tvg-id="pwhl-hockey-boston-montreal-2026-04-18-02-00" group-title="PWHL",Boston vs Montreal (TSN1)
+https://l2l2.link/ch?id=5
+#EXTINF:-1 tvg-id="england-championship-football-portsmouth-leicester-city-2026-04-18-14-30" group-title="England Championship",Portsmouth vs Leicester City (Sky Sports Football)
+https://l2l2.link/ch?id=5
+#EXTINF:-1 tvg-id="england-championship-football-sheffield-wednesday-charlton-athletic-2026-04-18-17-00" group-title="England Championship",Sheffield Wednesday vs Charlton Athletic (Paramount+)
+https://l2l2.link/ch?id=5
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-cf-montreal-new-york-rb-2026-04-18-21-30" group-title="USA/Canada Major League Soccer",CF Montreal vs New York RB (MLS Season Pass)
+https://l2l2.link/ch?id=5
+#EXTINF:-1 tvg-id="united-rugby-championship-rugby-lions-glasgow-warriors-2026-04-18-16-45" group-title="United Rugby Championship",Lions vs Glasgow Warriors (Premier Sports 2)
+https://l2l2.link/ch?id=6
+#EXTINF:-1 tvg-id="united-rugby-championship-rugby-stormers-connacht-2026-04-18-19-15" group-title="United Rugby Championship",Stormers vs Connacht (Premier Sports 2)
+https://l2l2.link/ch?id=6
+#EXTINF:-1 tvg-id="united-rugby-championship-rugby-ospreys-sharks-2026-04-18-21-45" group-title="United Rugby Championship",Ospreys vs Sharks (Premier Sports 2)
+https://l2l2.link/ch?id=6
+#EXTINF:-1 tvg-id="australia-a-league-football-sydney-fc-perth-glory-2026-04-18-12-35" group-title="Australia A-League",Sydney FC vs Perth Glory (TNT Sports 8)
+https://l2l2.link/ch?id=7
+#EXTINF:-1 tvg-id="england-premier-league-football-leeds-united-wolverhampton-wanderers-2026-04-18-17-00" group-title="England Premier League",Leeds United vs Wolverhampton Wanderers (HUB Premier 2)
+https://l2l2.link/ch?id=7
+#EXTINF:-1 tvg-id="england-premier-league-football-leeds-united-wolverhampton-wanderers-2026-04-18-17-00" group-title="England Premier League",Leeds United vs Wolverhampton Wanderers (DAZN2)
+https://l2l2.link/ch?id=28
+#EXTINF:-1 tvg-id="nba-basketball-toronto-raptors-cleveland-cavaliers-2026-04-18-20-00" group-title="NBA",Toronto Raptors vs Cleveland Cavaliers (RDS)
+https://l2l2.link/ch?id=7
+#EXTINF:-1 tvg-id="nba-basketball-minnesota-timberwolves-denver-nuggets-2026-04-18-22-30" group-title="NBA",Minnesota Timberwolves vs Denver Nuggets (NBA League Pass)
+https://l2l2.link/ch?id=7
+#EXTINF:-1 tvg-id="international-friendly-women-football-united-states-japan-2026-04-18-04-00" group-title="International Friendly Women",United States vs Japan (TNT)
+https://l2l2.link/ch?id=8
+#EXTINF:-1 tvg-id="england-championship-football-millwall-queens-park-rangers-2026-04-18-14-30" group-title="England Championship",Millwall vs Queens Park Rangers (CBS Sports Network)
+https://l2l2.link/ch?id=8
+#EXTINF:-1 tvg-id="england-championship-football-millwall-queens-park-rangers-2026-04-18-14-30" group-title="England Championship",Millwall vs Queens Park Rangers (Viaplay Sport)
+https://l2l2.link/ch?id=80
+#EXTINF:-1 tvg-id="pacific-four-series-rugby-australia-usa-2026-04-18-16-00" group-title="Pacific Four Series",Australia vs USA (CBS Sports Network)
+https://l2l2.link/ch?id=8
+#EXTINF:-1 tvg-id="united-states-usl-championship-football-charleston-battery-tampa-bay-rowdies-2026-04-18-22-00" group-title="United States USL Championship",Charleston Battery vs Tampa Bay Rowdies (CBS Sports Network)
+https://l2l2.link/ch?id=8
+#EXTINF:-1 tvg-id="england-premier-league-football-simulcast-2026-04-18-17-00" group-title="England Premier League",Simulcast (HUB Premier)
+https://l2l2.link/ch?id=9
+#EXTINF:-1 tvg-id="england-premier-league-football-tottenham-hotspur-brighton-hove-albion-2026-04-18-19-30" group-title="England Premier League",Tottenham Hotspur vs Brighton & Hove Albion (HUB Premier)
+https://l2l2.link/ch?id=9
+#EXTINF:-1 tvg-id="england-premier-league-football-tottenham-hotspur-brighton-hove-albion-2026-04-18-19-30" group-title="England Premier League",Tottenham Hotspur vs Brighton & Hove Albion (DAZN1)
+https://l2l2.link/ch?id=22
+#EXTINF:-1 tvg-id="england-premier-league-football-tottenham-hotspur-brighton-hove-albion-2026-04-18-19-30" group-title="England Premier League",Tottenham Hotspur vs Brighton & Hove Albion (Universo)
+https://l2l2.link/ch?id=30
+#EXTINF:-1 tvg-id="england-premier-league-football-newcastle-united-afc-bournemouth-2026-04-18-17-00" group-title="England Premier League",Newcastle United vs AFC Bournemouth (USA Network)
+https://l2l2.link/ch?id=10
+#EXTINF:-1 tvg-id="england-premier-league-football-newcastle-united-afc-bournemouth-2026-04-18-17-00" group-title="England Premier League",Newcastle United vs AFC Bournemouth (Universo)
+https://l2l2.link/ch?id=30
+#EXTINF:-1 tvg-id="england-premier-league-football-newcastle-united-afc-bournemouth-2026-04-18-17-00" group-title="England Premier League",Newcastle United vs AFC Bournemouth (Canal+ Foot)
+https://l2l2.link/ch?id=50
+#EXTINF:-1 tvg-id="ufl-american-football-st-louis-battlehawks-d-c-defenders-2026-04-18-19-30" group-title="UFL",St. Louis Battlehawks vs D.C. Defenders (ABC)
+https://l2l2.link/ch?id=10
+#EXTINF:-1 tvg-id="germany-bundesliga-football-werder-bremen-hamburger-sv-2026-04-18-16-30" group-title="Germany Bundesliga",Werder Bremen vs Hamburger SV (Sky Sport Bundesliga 1)
+https://l2l2.link/ch?id=11
+#EXTINF:-1 tvg-id="germany-bundesliga-football-werder-bremen-hamburger-sv-2026-04-18-16-30" group-title="Germany Bundesliga",Werder Bremen vs Hamburger SV (V Sport 1)
+https://l2l2.link/ch?id=71
+#EXTINF:-1 tvg-id="germany-bundesliga-football-eintracht-frankfurt-rb-leipzig-2026-04-18-19-30" group-title="Germany Bundesliga",Eintracht Frankfurt vs RB Leipzig (Sky Sport Bundesliga 1)
+https://l2l2.link/ch?id=11
+#EXTINF:-1 tvg-id="germany-bundesliga-football-eintracht-frankfurt-rb-leipzig-2026-04-18-19-30" group-title="Germany Bundesliga",Eintracht Frankfurt vs RB Leipzig (Viaplay Sport)
+https://l2l2.link/ch?id=80
+#EXTINF:-1 tvg-id="germany-bundesliga-football-union-berlin-wolfsburg-2026-04-18-16-30" group-title="Germany Bundesliga",Union Berlin vs Wolfsburg (Sky Sport Bundesliga 2)
+https://l2l2.link/ch?id=12
+#EXTINF:-1 tvg-id="germany-bundesliga-2-football-hannover-96-paderborn-2026-04-18-21-30" group-title="Germany Bundesliga 2",Hannover 96 vs Paderborn (Sky Sport Bundesliga 2)
+https://l2l2.link/ch?id=12
+#EXTINF:-1 tvg-id="germany-bundesliga-2-football-magdeburg-fortuna-dusseldorf-2026-04-18-14-00" group-title="Germany Bundesliga 2",Magdeburg vs Fortuna Dusseldorf (Sky Sport Bundesliga 2)
+https://l2l2.link/ch?id=13
+#EXTINF:-1 tvg-id="germany-bundesliga-football-hoffenheim-borussia-dortmund-2026-04-18-16-30" group-title="Germany Bundesliga",Hoffenheim vs Borussia Dortmund (Sky Sport Bundesliga 3)
+https://l2l2.link/ch?id=13
+#EXTINF:-1 tvg-id="germany-bundesliga-football-hoffenheim-borussia-dortmund-2026-04-18-16-30" group-title="Germany Bundesliga",Hoffenheim vs Borussia Dortmund (V Sport Extra)
+https://l2l2.link/ch?id=77
+#EXTINF:-1 tvg-id="germany-bundesliga-2-football-dynamo-dresden-bochum-2026-04-18-14-00" group-title="Germany Bundesliga 2",Dynamo Dresden vs Bochum (Sky Sport Bundesliga 4)
+https://l2l2.link/ch?id=14
+#EXTINF:-1 tvg-id="germany-bundesliga-football-bayer-leverkusen-augsburg-2026-04-18-16-30" group-title="Germany Bundesliga",Bayer Leverkusen vs Augsburg (Sky Sport Bundesliga 4)
+https://l2l2.link/ch?id=14
+#EXTINF:-1 tvg-id="germany-bundesliga-2-football-arminia-bielefeld-nurnberg-2026-04-18-14-00" group-title="Germany Bundesliga 2",Arminia Bielefeld vs Nurnberg (Sky Sport Bundesliga 5)
+https://l2l2.link/ch?id=15
+#EXTINF:-1 tvg-id="germany-bundesliga-football-simulcast-2026-04-18-16-30" group-title="Germany Bundesliga",Simulcast (DAZN1)
+https://l2l2.link/ch?id=17
+#EXTINF:-1 tvg-id="spain-copa-del-rey-football-atletico-madrid-real-sociedad-2026-04-18-22-00" group-title="Spain Copa del Rey",Atletico Madrid vs Real Sociedad (DAZN2)
+https://l2l2.link/ch?id=18
+#EXTINF:-1 tvg-id="spain-copa-del-rey-football-atletico-madrid-real-sociedad-2026-04-18-22-00" group-title="Spain Copa del Rey",Atletico Madrid vs Real Sociedad (ESPN Deportes)
+https://l2l2.link/ch?id=86
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-sparta-praha-jablonec-2026-04-18-19-00" group-title="Czech Republic 1. liga",Sparta Praha vs Jablonec (Sportdigital FUSSBALL)
+https://l2l2.link/ch?id=19
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-sparta-praha-jablonec-2026-04-18-19-00" group-title="Czech Republic 1. liga",Sparta Praha vs Jablonec (Oneplay Sport 1)
+https://l2l2.link/ch?id=41
+#EXTINF:-1 tvg-id="switzerland-super-league-football-thun-basel-2026-04-18-21-30" group-title="Switzerland Super League",Thun vs Basel (Blue Sport D1)
+https://l2l2.link/ch?id=20
+#EXTINF:-1 tvg-id="portugal-segunda-liga-football-pacos-de-ferreira-chaves-2026-04-18-13-00" group-title="Portugal Segunda liga",Pacos de Ferreira vs Chaves (Sport TV1)
+https://l2l2.link/ch?id=21
+#EXTINF:-1 tvg-id="portugal-primeira-liga-football-nacional-alverca-2026-04-18-17-30" group-title="Portugal Primeira Liga",Nacional vs Alverca (Sport TV1)
+https://l2l2.link/ch?id=21
+#EXTINF:-1 tvg-id="portugal-primeira-liga-football-casa-pia-santa-clara-2026-04-18-20-00" group-title="Portugal Primeira Liga",Casa Pia vs Santa Clara (Sport TV1)
+https://l2l2.link/ch?id=21
+#EXTINF:-1 tvg-id="portugal-primeira-liga-football-gil-vicente-vitoria-guimaraes-2026-04-18-22-30" group-title="Portugal Primeira Liga",Gil Vicente vs Vitoria Guimaraes (Sport TV1)
+https://l2l2.link/ch?id=21
+#EXTINF:-1 tvg-id="greece-super-league-football-kifisia-asteras-tripolis-2026-04-18-16-00" group-title="Greece Super League",Kifisia vs Asteras Tripolis (Cosmote Sport 1)
+https://l2l2.link/ch?id=23
+#EXTINF:-1 tvg-id="greece-super-league-football-panaitolikos-panserraikos-2026-04-18-20-00" group-title="Greece Super League",Panaitolikos vs Panserraikos (Cosmote Sport 1)
+https://l2l2.link/ch?id=23
+#EXTINF:-1 tvg-id="greece-super-league-football-ofi-levadiakos-2026-04-18-18-00" group-title="Greece Super League",OFI vs Levadiakos (Cosmote Sport 2)
+https://l2l2.link/ch?id=24
+#EXTINF:-1 tvg-id="greece-super-league-football-atromitos-larissa-2026-04-18-17-00" group-title="Greece Super League",Atromitos vs Larissa (GR)
+https://l2l2.link/ch?id=25
+#EXTINF:-1 tvg-id="greece-super-league-football-aris-volos-nfc-2026-04-18-19-00" group-title="Greece Super League",Aris vs Volos NFC (Nova Sports 2)
+https://l2l2.link/ch?id=25
+#EXTINF:-1 tvg-id="spain-segunda-division-football-real-zaragoza-ceuta-2026-04-18-17-15" group-title="Spain Segunda Division",Real Zaragoza vs Ceuta (LALIGA TV Hypermotion)
+https://l2l2.link/ch?id=26
+#EXTINF:-1 tvg-id="spain-segunda-division-football-cd-castellon-burgos-2026-04-18-19-30" group-title="Spain Segunda Division",CD Castellon vs Burgos (LALIGA TV Hypermotion)
+https://l2l2.link/ch?id=26
+#EXTINF:-1 tvg-id="mexico-liga-mx-football-atletico-san-luis-pumas-unam-2026-04-18-04-00" group-title="Mexico Liga MX",Atletico San Luis vs Pumas UNAM (ESPN2 Mexico)
+https://l2l2.link/ch?id=27
+#EXTINF:-1 tvg-id="spain-segunda-division-football-cultural-leonesa-cordoba-2026-04-18-19-30" group-title="Spain Segunda Division",Cultural Leonesa vs Cordoba (LALIGA TV Hypermotion 2)
+https://l2l2.link/ch?id=27
+#EXTINF:-1 tvg-id="mexico-liga-mx-football-mazatlan-queretaro-2026-04-18-04-00" group-title="Mexico Liga MX",Mazatlan vs Queretaro (TUDN)
+https://l2l2.link/ch?id=30
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-vancouver-whitecaps-sporting-kc-2026-04-18-05-30" group-title="USA/Canada Major League Soccer",Vancouver Whitecaps vs Sporting KC (TSN1)
+https://l2l2.link/ch?id=31
+#EXTINF:-1 tvg-id="super-featherweight-boxing-alycia-baumgardner-bo-mi-re-shin-2026-04-18-05-00" group-title="Super Featherweight",Alycia Baumgardner vs Bo Mi Re Shin (ESPN)
+https://l2l2.link/ch?id=32
+#EXTINF:-1 tvg-id="england-championship-football-swansea-city-southampton-2026-04-18-17-00" group-title="England Championship",Swansea City vs Southampton (Paramount+)
+https://l2l2.link/ch?id=32
+#EXTINF:-1 tvg-id="italy-serie-a-football-udinese-parma-2026-04-18-16-00" group-title="Italy Serie A",Udinese vs Parma (beIN SPORTS 3)
+https://l2l2.link/ch?id=33
+#EXTINF:-1 tvg-id="italy-serie-a-football-udinese-parma-2026-04-18-16-00" group-title="Italy Serie A",Udinese vs Parma (DAZN Zona)
+https://l2l2.link/ch?id=47
+#EXTINF:-1 tvg-id="italy-serie-a-football-udinese-parma-2026-04-18-16-00" group-title="Italy Serie A",Udinese vs Parma (Fox Deportes)
+https://l2l2.link/ch?id=87
+#EXTINF:-1 tvg-id="italy-serie-a-football-roma-atalanta-2026-04-18-21-45" group-title="Italy Serie A",Roma vs Atalanta (beIN SPORTS 3)
+https://l2l2.link/ch?id=33
+#EXTINF:-1 tvg-id="italy-serie-a-football-roma-atalanta-2026-04-18-21-45" group-title="Italy Serie A",Roma vs Atalanta (Sky Sport Calcio)
+https://l2l2.link/ch?id=47
+#EXTINF:-1 tvg-id="england-championship-football-watford-sheffield-united-2026-04-18-17-00" group-title="England Championship",Watford vs Sheffield United (Paramount+)
+https://l2l2.link/ch?id=34
+#EXTINF:-1 tvg-id="england-championship-football-hull-city-birmingham-city-2026-04-18-17-00" group-title="England Championship",Hull City vs Birmingham City (Paramount+)
+https://l2l2.link/ch?id=35
+#EXTINF:-1 tvg-id="england-championship-football-preston-north-end-west-bromwich-albion-2026-04-18-17-00" group-title="England Championship",Preston North End vs West Bromwich Albion (Paramount+)
+https://l2l2.link/ch?id=36
+#EXTINF:-1 tvg-id="england-championship-football-bristol-city-norwich-city-2026-04-18-17-00" group-title="England Championship",Bristol City vs Norwich City (Paramount+)
+https://l2l2.link/ch?id=37
+#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-hfx-wanderers-pacific-fc-2026-04-18-20-00" group-title="Canada Canadian Premier League",HFX Wanderers vs Pacific FC (OneSoccer)
+https://l2l2.link/ch?id=37
+#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-forge-cavalry-2026-04-18-23-00" group-title="Canada Canadian Premier League",Forge vs Cavalry (OneSoccer)
+https://l2l2.link/ch?id=37
+#EXTINF:-1 tvg-id="united-rugby-championship-rugby-scarlets-cardiff-rugby-2026-04-18-19-30" group-title="United Rugby Championship",Scarlets vs Cardiff Rugby (Premier Sports 1)
+https://l2l2.link/ch?id=38
+#EXTINF:-1 tvg-id="united-rugby-championship-rugby-benetton-rugby-munster-2026-04-18-21-45" group-title="United Rugby Championship",Benetton Rugby vs Munster (Premier Sports 1)
+https://l2l2.link/ch?id=38
+#EXTINF:-1 tvg-id="africa-caf-champions-league-football-mamelodi-sundowns-es-tunis-2026-04-18-16-00" group-title="Africa CAF Champions League",Mamelodi Sundowns vs ES Tunis (beIN SPORTS)
+https://l2l2.link/ch?id=39
+#EXTINF:-1 tvg-id="africa-caf-champions-league-football-mamelodi-sundowns-es-tunis-2026-04-18-16-00" group-title="Africa CAF Champions League",Mamelodi Sundowns vs ES Tunis (beIN SPORTS en Espanol)
+https://l2l2.link/ch?id=40
+#EXTINF:-1 tvg-id="france-ligue-1-football-lorient-olympique-marseille-2026-04-18-18-00" group-title="France Ligue 1",Lorient vs Olympique Marseille (beIN SPORTS)
+https://l2l2.link/ch?id=39
+#EXTINF:-1 tvg-id="france-ligue-1-football-lorient-olympique-marseille-2026-04-18-18-00" group-title="France Ligue 1",Lorient vs Olympique Marseille (beIN SPORTS en Espanol)
+https://l2l2.link/ch?id=40
+#EXTINF:-1 tvg-id="france-ligue-1-football-lorient-olympique-marseille-2026-04-18-18-00" group-title="France Ligue 1",Lorient vs Olympique Marseille (beIN Sports 1)
+https://l2l2.link/ch?id=51
+#EXTINF:-1 tvg-id="africa-caf-champions-league-football-rsb-berkane-far-rabat-2026-04-18-22-00" group-title="Africa CAF Champions League",RSB Berkane vs FAR Rabat (beIN SPORTS)
+https://l2l2.link/ch?id=39
+#EXTINF:-1 tvg-id="africa-caf-champions-league-football-rsb-berkane-far-rabat-2026-04-18-22-00" group-title="Africa CAF Champions League",RSB Berkane vs FAR Rabat (beIN SPORTS en Espanol)
+https://l2l2.link/ch?id=40
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-banik-ostrava-bohemians-1905-2026-04-18-16-00" group-title="Czech Republic 1. liga",Banik Ostrava vs Bohemians 1905 (Oneplay Sport 1)
+https://l2l2.link/ch?id=41
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-slovan-liberec-mlada-boleslav-2026-04-18-16-00" group-title="Czech Republic 1. liga",Slovan Liberec vs Mlada Boleslav (Oneplay Sport 3)
+https://l2l2.link/ch?id=43
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-dukla-praha-karvina-2026-04-18-16-00" group-title="Czech Republic 1. liga",Dukla Praha vs Karvina (Oneplay Sport)
+https://l2l2.link/ch?id=44
+#EXTINF:-1 tvg-id="belgium-pro-league-football-antwerp-oh-leuven-2026-04-18-17-00" group-title="Belgium Pro League",Antwerp vs OH Leuven (DAZN)
+https://l2l2.link/ch?id=49
+#EXTINF:-1 tvg-id="belgium-pro-league-football-sporting-charleroi-standard-liege-2026-04-18-19-15" group-title="Belgium Pro League",Sporting Charleroi vs Standard Liege (DAZN)
+https://l2l2.link/ch?id=49
+#EXTINF:-1 tvg-id="belgium-pro-league-football-mechelen-anderlecht-2026-04-18-21-45" group-title="Belgium Pro League",Mechelen vs Anderlecht (DAZN)
+https://l2l2.link/ch?id=49
+#EXTINF:-1 tvg-id="france-ligue-2-football-reims-red-star-2026-04-18-15-00" group-title="France Ligue 2",Reims vs Red Star (beIN Sports 1)
+https://l2l2.link/ch?id=51
+#EXTINF:-1 tvg-id="france-ligue-2-football-bastia-saint-etienne-2026-04-18-21-00" group-title="France Ligue 2",Bastia vs Saint-Etienne (beIN Sports 1)
+https://l2l2.link/ch?id=51
+#EXTINF:-1 tvg-id="france-ligue-1-football-angers-sco-le-havre-2026-04-18-20-00" group-title="France Ligue 1",Angers SCO vs Le Havre (Ligue1+)
+https://l2l2.link/ch?id=55
+#EXTINF:-1 tvg-id="france-ligue-1-football-angers-sco-le-havre-2026-04-18-20-00" group-title="France Ligue 1",Angers SCO vs Le Havre (V Sport Football)
+https://l2l2.link/ch?id=79
+#EXTINF:-1 tvg-id="france-ligue-1-football-lille-nice-2026-04-18-22-05" group-title="France Ligue 1",Lille vs Nice (Ligue1+)
+https://l2l2.link/ch?id=55
+#EXTINF:-1 tvg-id="france-ligue-1-football-lille-nice-2026-04-18-22-05" group-title="France Ligue 1",Lille vs Nice (Viaplay Sport)
+https://l2l2.link/ch?id=80
+#EXTINF:-1 tvg-id="poland-ekstraklasa-football-radomiak-radom-widzew-lodz-2026-04-18-15-45" group-title="Poland Ekstraklasa",Radomiak Radom vs Widzew Łodz (Canal+ Sport 3)
+https://l2l2.link/ch?id=60
+#EXTINF:-1 tvg-id="poland-ekstraklasa-football-gornik-zabrze-korona-kielce-2026-04-18-18-30" group-title="Poland Ekstraklasa",Gornik Zabrze vs Korona Kielce (Canal+ Sport 3)
+https://l2l2.link/ch?id=60
+#EXTINF:-1 tvg-id="poland-ekstraklasa-football-pogon-szczecin-lech-poznan-2026-04-18-21-15" group-title="Poland Ekstraklasa",Pogon Szczecin vs Lech Poznan (Canal+ Sport 3)
+https://l2l2.link/ch?id=60
+#EXTINF:-1 tvg-id="poland-i-liga-football-slask-wroclaw-znicz-pruszkow-2026-04-18-14-00" group-title="Poland I Liga",Slask Wrocław vs Znicz Pruszkow (TVP Sport)
+https://l2l2.link/ch?id=61
+#EXTINF:-1 tvg-id="norway-eliteserien-football-sandefjord-rosenborg-2026-04-18-17-00" group-title="Norway Eliteserien",Sandefjord vs Rosenborg (TV2 Sport)
+https://l2l2.link/ch?id=68
+#EXTINF:-1 tvg-id="croatia-1-hnl-football-dinamo-zagreb-rijeka-2026-04-18-17-00" group-title="Croatia 1. HNL",Dinamo Zagreb vs Rijeka (MAX Sport 1)
+https://l2l2.link/ch?id=70
+#EXTINF:-1 tvg-id="croatia-1-hnl-football-istra-1961-vukovar-2026-04-18-19-45" group-title="Croatia 1. HNL",Istra 1961 vs Vukovar (MAX Sport 1)
+https://l2l2.link/ch?id=70
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-hammarby-orgryte-2026-04-18-16-00" group-title="Sweden Allsvenskan",Hammarby vs Orgryte (TV4 Sport Live 2)
+https://l2l2.link/ch?id=72
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-mjallby-brommapojkarnae-2026-04-18-16-00" group-title="Sweden Allsvenskan",Mjallby vs Brommapojkarnae (TV4 Sport Live 3)
+https://l2l2.link/ch?id=73
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-halmstad-ifk-goteborg-2026-04-18-16-00" group-title="Sweden Allsvenskan",Halmstad vs IFK Goteborg (TV4 Fotball)
+https://l2l2.link/ch?id=74
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-sirius-vasteras-sk-2026-04-18-16-00" group-title="Sweden Allsvenskan",Sirius vs Vasteras SK (TV4 Sportkanalen)
+https://l2l2.link/ch?id=75
+#EXTINF:-1 tvg-id="switzerland-national-league-hockey-hc-davos-hc-fribourg-gotteron-2026-04-18-21-00" group-title="Switzerland National League",Hc Davos vs Hc Fribourg Gotteron (TV4 Sportkanalen)
+https://l2l2.link/ch?id=75
+#EXTINF:-1 tvg-id="switzerland-national-league-hockey-hc-davos-hc-fribourg-gotteron-2026-04-18-21-00" group-title="Switzerland National League",Hc Davos vs Hc Fribourg Gotteron (MTV Urheilu 3)
+https://l2l2.link/ch?id=76
+#EXTINF:-1 tvg-id="finland-liiga-hockey-saipa-kookoo-2026-04-18-17-00" group-title="Finland Liiga",SaiPa vs Kookoo (MTV Urheilu 3)
+https://l2l2.link/ch?id=76
+#EXTINF:-1 tvg-id="england-championship-football-derby-county-oxford-united-2026-04-18-14-30" group-title="England Championship",Derby County vs Oxford United (V Sport Premium)
+https://l2l2.link/ch?id=78
+#EXTINF:-1 tvg-id="england-championship-football-wrexham-stoke-city-2026-04-18-17-00" group-title="England Championship",Wrexham vs Stoke City (Viaplay Sport)
+https://l2l2.link/ch?id=80
+#EXTINF:-1 tvg-id="indycar-motorsport-acura-grand-prix-of-long-beach-2026-04-18-01-00" group-title="IndyCar",Acura Grand Prix of Long Beach (Fox Sports 1)
+https://l2l2.link/ch?id=81
+#EXTINF:-1 tvg-id="nrl-rugby-gold-coast-titans-new-zealand-warriors-2026-04-18-08-00" group-title="NRL",Gold Coast Titans vs New Zealand Warriors (Fox Sports 2)
+https://l2l2.link/ch?id=82
+#EXTINF:-1 tvg-id="afl-australian-football-st-kilda-saints-adelaide-crows-2026-04-18-12-35" group-title="AFL",St. Kilda Saints vs Adelaide Crows (Fox Sports 2)
+https://l2l2.link/ch?id=82
+#EXTINF:-1 tvg-id="super-league-rugby-warrington-wolves-catalans-dragons-2026-04-18-20-00" group-title="Super League",Warrington Wolves vs Catalans Dragons (Fox Soccer Plus)
+https://l2l2.link/ch?id=83
+#EXTINF:-1 tvg-id="argentina-primera-division-football-union-santa-fe-newell-s-old-boys-2026-04-18-02-30" group-title="Argentina Primera Division",Union Santa Fe vs Newell's Old Boys (ESPN Premium Argentina)
+https://l2l2.link/ch?id=84
+#EXTINF:-1 tvg-id="argentina-primera-division-football-gimnasia-la-plata-estudiantes-rio-cuarto-2026-04-18-21-00" group-title="Argentina Primera Division",Gimnasia La Plata vs Estudiantes Rio Cuarto (ES)
+https://l2l2.link/ch?id=84
+#EXTINF:-1 tvg-id="argentina-primera-division-football-instituto-estudiantes-2026-04-18-23-15" group-title="Argentina Primera Division",Instituto vs Estudiantes (ES)
+https://l2l2.link/ch?id=84
+#EXTINF:-1 tvg-id="colombia-primera-a-football-jaguares-de-cordoba-deportivo-pasto-2026-04-18-02-20" group-title="Colombia Primera A",Jaguares de Cordoba vs Deportivo Pasto (Win Sport)
+https://l2l2.link/ch?id=85
+#EXTINF:-1 tvg-id="colombia-primera-a-football-boyaca-chico-deportivo-cali-2026-04-18-04-30" group-title="Colombia Primera A",Boyaca Chico vs Deportivo Cali (Win Sport)
+https://l2l2.link/ch?id=85
+#EXTINF:-1 tvg-id="light-heavyweight-boxing-ben-whittaker-braian-nahuel-suarez-2026-04-18-21-00" group-title="Light Heavyweight",Ben Whittaker vs Braian Nahuel Suarez (ESPN3)
+https://l2l2.link/ch?id=85
+#EXTINF:-1 tvg-id="ufl-american-football-dallas-renegades-columbus-aviators-2026-04-18-03-00" group-title="UFL",Dallas Renegades vs Columbus Aviators (Fox Deportes)
+https://l2l2.link/ch?id=87
+#EXTINF:-1 tvg-id="turkey-super-lig-football-fatih-karagumruk-eyupspor-2026-04-18-14-30" group-title="Turkey Super Lig",Fatih Karagumruk vs Eyupspor (beIN Sports)
+https://l2l2.link/ch?id=91
+#EXTINF:-1 tvg-id="turkey-super-lig-football-kocaelispor-goztepe-2026-04-18-17-00" group-title="Turkey Super Lig",Kocaelispor vs Goztepe (beIN Sports)
+https://l2l2.link/ch?id=91
+#EXTINF:-1 tvg-id="turkey-super-lig-football-genclerbirligi-galatasaray-2026-04-18-20-00" group-title="Turkey Super Lig",Genclerbirligi vs Galatasaray (beIN Sports 1)
+https://l2l2.link/ch?id=91
+#EXTINF:-1 tvg-id="germany-3-liga-football-msv-duisburg-hoffenheim-ii-2026-04-18-15-00" group-title="Germany 3. Liga",MSV Duisburg vs Hoffenheim II (Magenta Sport)
+https://l2l2.link/ch?id=93
+#EXTINF:-1 tvg-id="germany-3-liga-football-ingolstadt-osnabruck-2026-04-18-15-00" group-title="Germany 3. Liga",Ingolstadt vs Osnabruck (Magenta Sport)
+https://l2l2.link/ch?id=94
+#EXTINF:-1 tvg-id="germany-3-liga-football-verl-viktoria-koln-2026-04-18-15-00" group-title="Germany 3. Liga",Verl vs Viktoria Koln (Magenta Sport)
+https://l2l2.link/ch?id=95
+#EXTINF:-1 tvg-id="germany-3-liga-football-saarbrucken-1860-munchen-2026-04-18-15-00" group-title="Germany 3. Liga",Saarbrucken vs 1860 Munchen (Magenta Sport)
+https://l2l2.link/ch?id=96
+#EXTINF:-1 tvg-id="germany-3-liga-football-schweinfurt-hansa-rostock-2026-04-18-15-00" group-title="Germany 3. Liga",Schweinfurt vs Hansa Rostock (Magenta Sport)
+https://l2l2.link/ch?id=97
+#EXTINF:-1 tvg-id="germany-3-liga-football-ulm-havelse-2026-04-18-17-30" group-title="Germany 3. Liga",Ulm vs Havelse (Magenta Sport)
+https://l2l2.link/ch?id=97
+#EXTINF:-1 tvg-id="austria-bundesliga-football-wsg-tirol-rheindorf-altach-2026-04-18-18-00" group-title="Austria Bundesliga",WSG Tirol vs Rheindorf Altach (Sky Sport Austria 3)
+https://l2l2.link/ch?id=98
+#EXTINF:-1 tvg-id="austria-bundesliga-football-wolfsberger-ac-blau-weiss-linz-2026-04-18-18-00" group-title="Austria Bundesliga",Wolfsberger AC vs Blau-Weiß Linz (Sky Sport Austria 2)
+https://l2l2.link/ch?id=99
+#EXTINF:-1 tvg-id="austria-bundesliga-football-simulcast-2026-04-18-18-00" group-title="Austria Bundesliga",Simulcast (Sky Sport Austria 1)
 https://l2l2.link/ch?id=100
