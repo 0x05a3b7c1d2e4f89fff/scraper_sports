@@ -3,7 +3,7 @@
     {
       "id": "8378",
       "name": "Sporting CP at Arsenal (English)",
-      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=E5awU30wT1XgzUx1XPznOqTAGm736fTF9VYkOs_pXfs&e=1776233976",
+      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Ryym7dcUnDfNhB9lweXrq6YV-5zgSZHfyVanIg07RHk&e=1776243812",
       "start": "2026-04-15T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
@@ -11,7 +11,7 @@
     {
       "id": "8378",
       "name": "Sporting CP at Arsenal (Arabic)",
-      "url": "https://edgestreams.pro/hls/hflfkrtib42.m3u8?st=N4xkFuf9T8IqFnfwvqXoEFbWO8ZYJrc5OT6Y6HqDI-k&e=1776233976",
+      "url": "https://edgestreams.pro/hls/hflfkrtib42.m3u8?st=lZ9JU2NMwFwqakwT1-0rBAeSyZ28KpgI6EqLVZ9DIjU&e=1776243812",
       "start": "2026-04-15T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
@@ -19,7 +19,7 @@
     {
       "id": "8379",
       "name": "Real Madrid at Bayern Munich (English)",
-      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=BjDCqyY8RPASN4KYvWykAhX0pkXHxQGsDBIWS0tuwWs&e=1776233976",
+      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=8LZ8us-sgg5n6jFSavZ9YY3P318MX-m6bTNeLxOMI6E&e=1776243812",
       "start": "2026-04-15T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
@@ -27,7 +27,7 @@
     {
       "id": "8379",
       "name": "Real Madrid at Bayern Munich (Spanish)",
-      "url": "https://edgestreams.pro/hls/377qj1h2727.m3u8?st=T0f7vA8VmwiGqZoVGgqTitn8Tc1vnimj5Ru7EJVkxJg&e=1776233976",
+      "url": "https://edgestreams.pro/hls/377qj1h2727.m3u8?st=mPhNcGyiEtl64K7YvnG5IhlU4abRtdFSBQOqNLKoq9M&e=1776243812",
       "start": "2026-04-15T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
@@ -35,7 +35,7 @@
     {
       "id": "8379",
       "name": "Real Madrid at Bayern Munich (Arabic)",
-      "url": "https://edgestreams.pro/hls/2rB5nTKlP8mE.m3u8?st=dab1nqR9W5O85TYPWoRLgtW3Ci8xesB2tImiHXcA8-4&e=1776233976",
+      "url": "https://edgestreams.pro/hls/2rB5nTKlP8mE.m3u8?st=f_XzNNPxJiNsjrZ-dSTwgzsGV1zhm3w0rjPSMw-jcks&e=1776243812",
       "start": "2026-04-15T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
@@ -43,83 +43,27 @@
   ],
   "Basketball": [
     {
-      "id": "8382",
-      "name": "Miami Heat at Charlotte Hornets (English)",
-      "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=78k_qXJZwtheRi6dy-xmMDCf3h1ettys6XX7ZlVHRJk&e=1776233978",
-      "start": "2026-04-15T00:30:00",
+      "id": "8408",
+      "name": "Orlando Magic at Philadelphia 76ers (English)",
+      "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=Yvp9UI_9kMqfZ-Zeec2u3v5oUsWuHFUyiUE0Mrrv5k4&e=1776243810",
+      "start": "2026-04-16T00:30:00",
       "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
     },
     {
-      "id": "8383",
-      "name": "Portland Trail Blazers at Phoenix Suns (English)",
-      "url": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?st=p6xYnpkiozwcZlCp_QCCpC-pq5VbXbHM2dJ5wpQgRco&e=1776233976",
-      "start": "2026-04-15T03:00:00",
+      "id": "8409",
+      "name": "Golden State Warriors at LA Clippers (English)",
+      "url": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?st=iQjRI2nIdR_vQzEkjhKaVK1F2Cwdgcnd49IZnKXIxiE&e=1776243810",
+      "start": "2026-04-16T03:00:00",
       "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
     }
   ],
   "Baseball": [
     {
-      "id": "8400",
-      "name": "Boston Red Sox at Minnesota Twins (English)",
-      "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=pGqbejmfOgPWdCCHJIxYBvdPpkihf-hELH7reJoobI4&e=1776233978",
-      "start": "2026-04-15T00:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
-    },
-    {
-      "id": "8401",
-      "name": "Tampa Bay Rays at Chicago White Sox (English)",
-      "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=ltujpRDFALpR08Z3vyCnd6s26ilZgBdnpLeJjkvgDLQ&e=1776233978",
-      "start": "2026-04-15T00:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
-    },
-    {
-      "id": "8402",
-      "name": "Toronto Blue Jays at Milwaukee Brewers (English)",
-      "url": "https://edgestreams.pro/hls/fskjanach24.m3u8?st=46qvsMbMavudSIFbGoHjIXujbM9U1TLkIqS6ioaTx1M&e=1776233978",
-      "start": "2026-04-15T00:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
-    },
-    {
-      "id": "8403",
-      "name": "Cleveland Guardians at St. Louis Cardinals (English)",
-      "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?st=ssHu2goofva80NmgLHRBklOWLqCTzqD66r-wGTxqEDI&e=1776233977",
-      "start": "2026-04-15T00:45:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
-    },
-    {
-      "id": "8404",
-      "name": "Colorado Rockies at Houston Astros (English)",
-      "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=-1bNYCnfE5JKHiOmBaHTMgW6ej8YyC5m57DJSWHpX2A&e=1776233977",
-      "start": "2026-04-15T01:10:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    {
-      "id": "8405",
-      "name": "Seattle Mariners at San Diego Padres (English)",
-      "url": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=szEeliAKwF23j2dFVcQmbMi_llfAMenPxdDxjrXNC4U&e=1776233977",
-      "start": "2026-04-15T02:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
-    },
-    {
-      "id": "8406",
-      "name": "Texas Rangers at Athletics Athletics (English)",
-      "url": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=WSmgAepkDxjGyuZd17TTWTU16dJpbPsOBw_xXjH52ns&e=1776233977",
-      "start": "2026-04-15T02:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
-    },
-    {
       "id": "8407",
       "name": "New York Mets at Los Angeles Dodgers (English)",
-      "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=WMxolOePy5nCJrJrCiaoDx9Holv0N6R5H7b3obtUIX0&e=1776233976",
+      "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=8ZD7jengbo-S3kGagXcyRbIIh0E_vO2dp8OMkvu0Dsc&e=1776243813",
       "start": "2026-04-15T03:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
@@ -127,44 +71,52 @@
   ],
   "Hockey": [
     {
-      "id": "8388",
-      "name": "Anaheim Ducks at Minnesota Wild (English)",
-      "url": "https://edgestreams.pro/hls/bnvcxwhfg54.m3u8?st=-p5YexwRYa2A6G72BVp3Jc_ahorXMDh9BFa359j75Q0&e=1776233977",
-      "start": "2026-04-15T01:00:00",
+      "id": "8410",
+      "name": "Dallas Stars at Buffalo Sabres (English)",
+      "url": "https://edgestreams.pro/hls/uyopzarf50.m3u8?st=zEew1xsTeUKTNbgMrCaCuNJDTZMHPAeasmeMSonjNAw&e=1776243811",
+      "start": "2026-04-16T00:00:00",
       "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
     },
     {
-      "id": "8389",
-      "name": "Winnipeg Jets at Utah Mammoth (English)",
-      "url": "https://edgestreams.pro/hls/sdezqfza55.m3u8?st=2vUmPJlDEfxMAGB6XLQ7CPQplPcwUy7tUcieXwXBbcc&e=1776233977",
-      "start": "2026-04-15T02:00:00",
+      "id": "8411",
+      "name": "New York Rangers at Tampa Bay Lightning (English)",
+      "url": "https://edgestreams.pro/hls/hjksgdfauzy51.m3u8?st=Ygn0hyWTcsU0eRxtj3VnzGtpseY1RdZeJV0nFA1t9fo&e=1776243811",
+      "start": "2026-04-16T00:00:00",
       "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
     },
     {
-      "id": "8390",
-      "name": "Colorado Avalanche at Calgary Flames (English)",
-      "url": "https://edgestreams.pro/hls/poiryezafv56.m3u8?st=nDmGGtLq4QHK7HAFhuMQTnXN-fkmKzKq9BG-1qrvXpc&e=1776233977",
-      "start": "2026-04-15T02:00:00",
+      "id": "8412",
+      "name": "Detroit Red Wings at Florida Panthers (English)",
+      "url": "https://edgestreams.pro/hls/lmdsjkfgv52.m3u8?st=2BAF0ULdJV4AnSFiNO-woXiH9jUtSk2A-pcJ7AhzFbc&e=1776243811",
+      "start": "2026-04-16T00:00:00",
       "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png"
     },
     {
-      "id": "8391",
-      "name": "Pittsburgh Penguins at St. Louis Blues (English)",
-      "url": "https://edgestreams.pro/hls/rzavbdyua57.m3u8?st=BdHy8Gr6QVrjAcYCsrSplmbm_bp0zRQkI6ZFkVcMpBA&e=1776233977",
-      "start": "2026-04-15T02:30:00",
+      "id": "8413",
+      "name": "Toronto Maple Leafs at Ottawa Senators (English)",
+      "url": "https://edgestreams.pro/hls/rtzaeyvhb53.m3u8?st=z9RD6Cw_n2l1CvQSewdGgLhxYJGFA2fw-BRjWGRBRiM&e=1776243811",
+      "start": "2026-04-16T00:30:00",
       "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png"
     },
     {
-      "id": "8392",
-      "name": "Los Angeles Kings at Vancouver Canucks (English)",
-      "url": "https://edgestreams.pro/hls/earzfddshg58.m3u8?st=SbbXP9HmDZBrJuMo925lTzKMZ66vEnenzLw2Ue0rYPc&e=1776233976",
-      "start": "2026-04-15T03:00:00",
+      "id": "8414",
+      "name": "San Jose Sharks at Chicago Blackhawks (English)",
+      "url": "https://edgestreams.pro/hls/bnvcxwhfg54.m3u8?st=ljx8Xhuu9Mbw5b5F429iTwdHNzwsY6iej3rp8YLTTpw&e=1776243810",
+      "start": "2026-04-16T01:30:00",
       "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+    },
+    {
+      "id": "8415",
+      "name": "Seattle Kraken at Vegas Golden Knights (English)",
+      "url": "https://edgestreams.pro/hls/sdezqfza55.m3u8?st=6KSJYUSibHlLLBrtFSVIUBfMBzeKyVSjAecovZfARjc&e=1776243810",
+      "start": "2026-04-16T03:00:00",
+      "categoryId": 16,
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png"
     }
   ]
 }
