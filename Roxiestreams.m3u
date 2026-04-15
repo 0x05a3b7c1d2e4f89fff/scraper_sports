@@ -1,38 +1,42 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Seattle Mariners vs San Diego Padres
-https://602.underupturnip.net/mlb13.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Miami Marlins vs Atlanta Braves
-https://602.underupturnip.net/mlb9.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Washington Nationals vs Pittsburgh Pirates
-https://602.underupturnip.net/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",San Francisco Giants vs Cincinnati Reds
-https://602.underupturnip.net/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Los Angeles Angels vs New York Yankees
-https://602.underupturnip.net/mlb8.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Arsenal vs Sporting CP
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/f6f236cb01bdb58bbb446d70f9b9c759/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Bayern MÃ¼nchen vs Real Madrid
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/888440f832c675999cba4d810e1462cf/manifest/video.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Tampa Bay Rays vs Chicago White Sox
 https://602.underupturnip.net/mlb10.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Toronto Blue Jays vs Milwaukee Brewers
-https://602.underupturnip.net/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Miami Marlins vs Atlanta Braves
+https://602.underupturnip.net/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Los Angeles Angels vs New York Yankees
+https://602.underupturnip.net/mlb8.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Texas Rangers vs Athletics
 https://602.underupturnip.net/mlb14.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Mets vs Los Angeles Dodgers
-https://602.underupturnip.net/mlb15.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Boston Red Sox vs Minnesota Twins
-https://602.underupturnip.net/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Washington Nationals vs Pittsburgh Pirates
+https://602.underupturnip.net/mlb5.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Chicago Cubs vs Philadelphia Phillies
 https://602.underupturnip.net/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Toronto Blue Jays vs Milwaukee Brewers
+https://602.underupturnip.net/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Seattle Mariners vs San Diego Padres
+https://602.underupturnip.net/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",San Francisco Giants vs Cincinnati Reds
+https://602.underupturnip.net/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",New York Mets vs Los Angeles Dodgers
+https://602.underupturnip.net/mlb15.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Colorado Rockies vs Houston Astros
 https://602.underupturnip.net/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="Baseball",Boston Red Sox vs Minnesota Twins
+https://602.underupturnip.net/mlb3.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Seattle Kraken vs Vegas Golden Knights
 https://602.underupturnip.net/nhl6.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",New York Rangers vs Tampa Bay Lightning
+https://602.underupturnip.net/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Detroit Red Wings vs Florida Panthers
 https://602.underupturnip.net/nhl3.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Toronto Maple Leafs vs Ottawa Senators
 https://602.underupturnip.net/nhl4.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",Dallas Stars vs Buffalo Sabres
 https://602.underupturnip.net/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",New York Rangers vs Tampa Bay Lightning
-https://602.underupturnip.net/nhl2.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/hockey.png?raw=true" group-title="Hockey",San Jose Sharks vs Chicago Blackhawks
 https://602.underupturnip.net/nhl5.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",Indycar Series
