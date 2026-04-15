@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:30 [NBA] Basketball: Miami Heat vs Charlotte Hornets [NBA League Pass US]",
-            "matchstr": "Miami Heat vs Charlotte Hornets",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Miami Heat",
-            "team2": "Charlotte Hornets",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-miami-heat-charlotte-hornets-2026-04-15-02-30",
-            "startTimestamp": 1776209400000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Champions League] Arsenal vs Sporting CP [TNT Sports 1 GB]",
             "matchstr": "Arsenal vs Sporting CP",
             "time": "22:00",
@@ -201,45 +173,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NHL] Hockey: New Jersey Devils vs Boston Bruins [Sportsnet Pacific CA]",
-            "matchstr": "New Jersey Devils vs Boston Bruins",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "New Jersey Devils",
-            "team2": "Boston Bruins",
-            "channel": "Sportsnet Pacific CA",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Sportsnet Pacific",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-new-jersey-devils-boston-bruins-2026-04-15-02-00",
-            "startTimestamp": 1776207600000,
-            "duration": 180
-        },
-        {
             "matchText": "05:00 [NHL] Hockey: Los Angeles Kings vs Vancouver Canucks [Sportsnet Pacific CA]",
             "matchstr": "Los Angeles Kings vs Vancouver Canucks",
             "time": "05:00",
@@ -279,101 +212,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [NHL] Hockey: Carolina Hurricanes vs New York Islanders [Sportsnet+ CA]",
-            "matchstr": "Carolina Hurricanes vs New York Islanders",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Carolina Hurricanes",
-            "team2": "New York Islanders",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-carolina-hurricanes-new-york-islanders-2026-04-15-02-00",
-            "startTimestamp": 1776207600000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Montreal Canadiens vs Philadelphia Flyers [TSN2 CA]",
-            "matchstr": "Montreal Canadiens vs Philadelphia Flyers",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Montreal Canadiens",
-            "team2": "Philadelphia Flyers",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-montreal-canadiens-philadelphia-flyers-2026-04-15-02-00",
-            "startTimestamp": 1776207600000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Washington Capitals vs Columbus Blue Jackets [ESPN US]",
-            "matchstr": "Washington Capitals vs Columbus Blue Jackets",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Washington Capitals",
-            "team2": "Columbus Blue Jackets",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=6"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-washington-capitals-columbus-blue-jackets-2026-04-15-02-00",
-            "startTimestamp": 1776207600000,
-            "duration": 180
-        },
-        {
             "matchText": "04:30 [NHL] Hockey: Pittsburgh Penguins vs St. Louis Blues [ESPN US]",
             "matchstr": "Pittsburgh Penguins vs St. Louis Blues",
             "time": "04:30",
@@ -399,45 +237,6 @@
             ],
             "slug": "nhl-hockey-pittsburgh-penguins-st-louis-blues-2026-04-15-04-30",
             "startTimestamp": 1776216600000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [NHL] Hockey: Anaheim Ducks vs Minnesota Wild [Sportsnet+ CA]",
-            "matchstr": "Anaheim Ducks vs Minnesota Wild",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Anaheim Ducks",
-            "team2": "Minnesota Wild",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                },
-                {
-                    "name": "V Sport Extra",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=77"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-anaheim-ducks-minnesota-wild-2026-04-15-03-00",
-            "startTimestamp": 1776211200000,
             "duration": 180
         },
         {
@@ -508,62 +307,6 @@
             "duration": 180
         },
         {
-            "matchText": "01:00 [South America Copa Sudamericana] Sao Paulo vs O'Higgins [Sportdigital FUSSBALL DE]",
-            "matchstr": "Sao Paulo vs O'Higgins",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Sao Paulo",
-            "team2": "O'Higgins",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-sao-paulo-o-higgins-2026-04-15-01-00",
-            "startTimestamp": 1776204000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Sudamericana] Santos vs Deportivo Recoleta [Sportdigital FUSSBALL DE]",
-            "matchstr": "Santos vs Deportivo Recoleta",
-            "time": "03:30",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Santos",
-            "team2": "Deportivo Recoleta",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-santos-deportivo-recoleta-2026-04-15-03-30",
-            "startTimestamp": 1776213000000,
-            "duration": 120
-        },
-        {
             "matchText": "15:15 [Asia AFC Champions League Two] Bangkok United vs Gamba Osaka [Sportdigital FUSSBALL DE]",
             "matchstr": "Bangkok United vs Gamba Osaka",
             "time": "15:15",
@@ -589,34 +332,6 @@
             ],
             "slug": "asia-afc-champions-league-two-football-bangkok-united-gamba-osaka-2026-04-15-15-15",
             "startTimestamp": 1776255300000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [South America Copa Sudamericana] Vasco da Gama vs Audax Italiano [Sport TV2 PT]",
-            "matchstr": "Vasco da Gama vs Audax Italiano",
-            "time": "03:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Vasco da Gama",
-            "team2": "Audax Italiano",
-            "channel": "Sport TV2 PT",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Sport TV2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=22"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-vasco-da-gama-audax-italiano-2026-04-15-03-00",
-            "startTimestamp": 1776211200000,
             "duration": 120
         },
         {
@@ -715,134 +430,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [South America Copa Libertadores] Cerro Porteno vs Junior [ESPN2 MX]",
-            "matchstr": "Cerro Porteno vs Junior",
-            "time": "01:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Cerro Porteno",
-            "team2": "Junior",
-            "channel": "ESPN2 MX",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "MX",
-                    "links": [
-                        "https://l2l2.link/ch?id=26"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-cerro-porteno-junior-2026-04-15-01-00",
-            "startTimestamp": 1776204000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Sudamericana] Gremio vs Deportivo Riestra [beIN SPORTS XTRA en Espanol ES]",
-            "matchstr": "Gremio vs Deportivo Riestra",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Gremio",
-            "team2": "Deportivo Riestra",
-            "channel": "beIN SPORTS XTRA en Espanol ES",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=38"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-gremio-deportivo-riestra-2026-04-15-01-00",
-            "startTimestamp": 1776204000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Sudamericana] Palestino vs Torque [beIN SPORTS XTRA en Espanol ES]",
-            "matchstr": "Palestino vs Torque",
-            "time": "03:30",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Palestino",
-            "team2": "Torque",
-            "channel": "beIN SPORTS XTRA en Espanol ES",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=38"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-palestino-torque-2026-04-15-03-30",
-            "startTimestamp": 1776213000000,
-            "duration": 120
-        },
-        {
             "matchText": "05:00 [South America Copa Libertadores] LDU Quito vs Mirassol [beIN SPORTS XTRA en Espanol ES]",
             "matchstr": "LDU Quito vs Mirassol",
             "time": "05:00",
@@ -879,34 +466,6 @@
             ],
             "slug": "south-america-copa-libertadores-football-ldu-quito-mirassol-2026-04-15-05-00",
             "startTimestamp": 1776218400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [South America Copa Libertadores] Bolivar vs Deportivo La Guaira [Fox Sports 2 Argentina ES]",
-            "matchstr": "Bolivar vs Deportivo La Guaira",
-            "time": "03:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Bolivar",
-            "team2": "Deportivo La Guaira",
-            "channel": "Fox Sports 2 Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "Fox Sports 2 Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-bolivar-deportivo-la-guaira-2026-04-15-03-00",
-            "startTimestamp": 1776211200000,
             "duration": 120
         },
         {
@@ -966,45 +525,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [North America CONCACAF Champions Cup] Cruz Azul vs Los Angeles FC [TUDN ES]",
-            "matchstr": "Cruz Azul vs Los Angeles FC",
-            "time": "04:00",
-            "league": "North America CONCACAF Champions Cup",
-            "sport": "Football",
-            "team1": "Cruz Azul",
-            "team2": "Los Angeles FC",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "north-america-concacaf-champions-cup-football-cruz-azul-los-angeles-fc-2026-04-15-04-00",
-            "startTimestamp": 1776214800000,
-            "duration": 120
-        },
-        {
             "matchText": "06:30 [North America CONCACAF Champions Cup] America vs Nashville SC [TUDN ES]",
             "matchstr": "America vs Nashville SC",
             "time": "06:30",
@@ -1044,34 +564,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [U.S. Open Cup] Louisville City vs Austin [CBS Sports Network US]",
-            "matchstr": "Louisville City vs Austin",
-            "time": "02:00",
-            "league": "U.S. Open Cup",
-            "sport": "Football",
-            "team1": "Louisville City",
-            "team2": "Austin",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "u-s-open-cup-football-louisville-city-austin-2026-04-15-02-00",
-            "startTimestamp": 1776207600000,
-            "duration": 120
-        },
-        {
             "matchText": "04:30 [U.S. Open Cup] Colorado Rapids vs Union Omaha [CBS Sports Network US]",
             "matchstr": "Colorado Rapids vs Union Omaha",
             "time": "04:30",
@@ -1100,34 +592,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [U.S. Open Cup] Detroit City vs Chicago Fire [CBS Sports Golazo Network US]",
-            "matchstr": "Detroit City vs Chicago Fire",
-            "time": "02:30",
-            "league": "U.S. Open Cup",
-            "sport": "Football",
-            "team1": "Detroit City",
-            "team2": "Chicago Fire",
-            "channel": "CBS Sports Golazo Network US",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "CBS Sports Golazo Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "u-s-open-cup-football-detroit-city-chicago-fire-2026-04-15-02-30",
-            "startTimestamp": 1776209400000,
-            "duration": 120
-        },
-        {
             "matchText": "05:00 [U.S. Open Cup] Sacramento Republic vs Minnesota United [CBS Sports Golazo Network US]",
             "matchstr": "Sacramento Republic vs Minnesota United",
             "time": "05:00",
@@ -1153,45 +617,6 @@
             ],
             "slug": "u-s-open-cup-football-sacramento-republic-minnesota-united-2026-04-15-05-00",
             "startTimestamp": 1776218400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [South America Copa Libertadores] Boca Juniors vs Barcelona [beIN SPORTS US]",
-            "matchstr": "Boca Juniors vs Barcelona",
-            "time": "03:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Boca Juniors",
-            "team2": "Barcelona",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-boca-juniors-barcelona-2026-04-15-03-00",
-            "startTimestamp": 1776211200000,
             "duration": 120
         },
         {
@@ -1371,34 +796,6 @@
             ],
             "slug": "saudi-arabia-pro-league-football-al-nassr-al-ittifaq-2026-04-15-21-00",
             "startTimestamp": 1776276000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Libertadores] Nacional vs Deportes Tolima [beIN SPORTS 3 AU]",
-            "matchstr": "Nacional vs Deportes Tolima",
-            "time": "01:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Nacional",
-            "team2": "Deportes Tolima",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-04-15",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-nacional-deportes-tolima-2026-04-15-01-00",
-            "startTimestamp": 1776204000000,
             "duration": 120
         },
         {
