@@ -173,34 +173,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:45 [England League One] Peterborough United vs Port Vale [Paramount+ US]",
-            "matchstr": "Peterborough United vs Port Vale",
-            "time": "21:45",
-            "league": "England League One",
-            "sport": "Football",
-            "team1": "Peterborough United",
-            "team2": "Port Vale",
-            "channel": "Paramount+ US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Paramount+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "england-league-one-football-peterborough-united-port-vale-2026-04-16-21-45",
-            "startTimestamp": 1776365100000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Real Betis vs Sporting Braga [TNT Sports 6 GB]",
             "matchstr": "Real Betis vs Sporting Braga",
             "time": "22:00",
@@ -362,151 +334,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [PDC] Darts: Premier League Darts [Sport1 DE]",
-            "matchstr": "Premier League Darts",
-            "time": "20:00",
-            "league": "PDC",
-            "sport": "Darts",
-            "team1": "Premier League Darts",
-            "team2": null,
-            "channel": "Sport1 DE",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Sport1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=16"
-                    ],
-                    "number": 16,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=16"
-                    ]
-                }
-            ],
-            "slug": "pdc-darts-premier-league-darts-2026-04-16-20-00",
-            "startTimestamp": 1776358800000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:15 [Euroleague] Basketball: Olympiakos Piraus vs Olimpia Milano [Nova Sports Prime GR]",
-            "matchstr": "Olympiakos Piraus vs Olimpia Milano",
-            "time": "21:15",
-            "league": "Euroleague",
-            "sport": "Basketball",
-            "team1": "Olympiakos Piraus",
-            "team2": "Olimpia Milano",
-            "channel": "Nova Sports Prime GR",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Nova Sports Prime",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=25"
-                    ],
-                    "number": 25,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/ch?id=25"
-                    ]
-                },
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=97"
-                    ],
-                    "number": 97,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=97"
-                    ]
-                }
-            ],
-            "slug": "euroleague-basketball-olympiakos-piraus-olimpia-milano-2026-04-16-21-15",
-            "startTimestamp": 1776363300000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Euroleague] Basketball: Partizan Mozzart Bet vs Saski Baskonia [M. Deportes ES]",
-            "matchstr": "Partizan Mozzart Bet vs Saski Baskonia",
-            "time": "21:30",
-            "league": "Euroleague",
-            "sport": "Basketball",
-            "team1": "Partizan Mozzart Bet",
-            "team2": "Saski Baskonia",
-            "channel": "M. Deportes ES",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "M. Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=26"
-                    ]
-                },
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=96"
-                    ],
-                    "number": 96,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=96"
-                    ]
-                }
-            ],
-            "slug": "euroleague-basketball-partizan-mozzart-bet-saski-baskonia-2026-04-16-21-30",
-            "startTimestamp": 1776364200000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:45 [Euroleague] Basketball: Real Madrid vs Crvena Zvezda Meridianbet [Vamos ES]",
-            "matchstr": "Real Madrid vs Crvena Zvezda Meridianbet",
-            "time": "21:45",
-            "league": "Euroleague",
-            "sport": "Basketball",
-            "team1": "Real Madrid",
-            "team2": "Crvena Zvezda Meridianbet",
-            "channel": "Vamos ES",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Vamos",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=40"
-                    ]
-                },
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=95"
-                    ],
-                    "number": 95,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=95"
-                    ]
-                }
-            ],
-            "slug": "euroleague-basketball-real-madrid-crvena-zvezda-meridianbet-2026-04-16-21-45",
-            "startTimestamp": 1776365100000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [PFL] MMA: Chris Mixan vs Eoin Sheridan [RMC Sport 1 FR]",
             "matchstr": "Chris Mixan vs Eoin Sheridan",
             "time": "22:00",
@@ -588,84 +415,6 @@
             ],
             "slug": "super-league-rugby-st-helens-hull-fc-2026-04-16-22-00",
             "startTimestamp": 1776366000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:05 [Euroleague] Basketball: Maccabi Tel Aviv vs Virtus Bologna [M. Deportes 5 ES]",
-            "matchstr": "Maccabi Tel Aviv vs Virtus Bologna",
-            "time": "21:05",
-            "league": "Euroleague",
-            "sport": "Basketball",
-            "team1": "Maccabi Tel Aviv",
-            "team2": "Virtus Bologna",
-            "channel": "M. Deportes 5 ES",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "M. Deportes 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=93"
-                    ],
-                    "number": 93,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=93"
-                    ]
-                },
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=98"
-                    ],
-                    "number": 98,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=98"
-                    ]
-                }
-            ],
-            "slug": "euroleague-basketball-maccabi-tel-aviv-virtus-bologna-2026-04-16-21-05",
-            "startTimestamp": 1776362700000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Euroleague] Basketball: Lyon Villeurbanne vs Fenerbahce [M. Deportes 6 ES]",
-            "matchstr": "Lyon Villeurbanne vs Fenerbahce",
-            "time": "21:00",
-            "league": "Euroleague",
-            "sport": "Basketball",
-            "team1": "Lyon Villeurbanne",
-            "team2": "Fenerbahce",
-            "channel": "M. Deportes 6 ES",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "M. Deportes 6",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=94"
-                    ],
-                    "number": 94,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=94"
-                    ]
-                },
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=99"
-                    ]
-                }
-            ],
-            "slug": "euroleague-basketball-lyon-villeurbanne-fenerbahce-2026-04-16-21-00",
-            "startTimestamp": 1776362400000,
             "duration": 120
         },
         {
@@ -2468,9 +2217,9 @@
             "duration": 180
         },
         {
-            "matchText": "12:50 [Super League] Rugby: Leeds Rhinos vs Huddersfield Giants [Fox Soccer Plus US]",
+            "matchText": "22:00 [Super League] Rugby: Leeds Rhinos vs Huddersfield Giants [Fox Soccer Plus US]",
             "matchstr": "Leeds Rhinos vs Huddersfield Giants",
-            "time": "12:50",
+            "time": "22:00",
             "league": "Super League",
             "sport": "Rugby",
             "team1": "Leeds Rhinos",
@@ -2491,8 +2240,8 @@
                     ]
                 }
             ],
-            "slug": "super-league-rugby-leeds-rhinos-huddersfield-giants-2026-04-17-12-50",
-            "startTimestamp": 1776419400000,
+            "slug": "super-league-rugby-leeds-rhinos-huddersfield-giants-2026-04-17-22-00",
+            "startTimestamp": 1776452400000,
             "duration": 120
         },
         {
