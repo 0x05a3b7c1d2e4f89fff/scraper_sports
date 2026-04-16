@@ -803,34 +803,6 @@
             "duration": 180
         },
         {
-            "matchText": "12:50 [NRL] Rugby: Manly Sea Eagles vs NQ Cowboys [Fox Soccer Plus US]",
-            "matchstr": "Manly Sea Eagles vs NQ Cowboys",
-            "time": "12:50",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Manly Sea Eagles",
-            "team2": "NQ Cowboys",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-manly-sea-eagles-nq-cowboys-2026-04-16-12-50",
-            "startTimestamp": 1776333000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Super League] Rugby: St Helens vs Hull FC [Fox Soccer Plus US]",
             "matchstr": "St Helens vs Hull FC",
             "time": "22:00",
