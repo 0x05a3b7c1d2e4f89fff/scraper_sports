@@ -635,34 +635,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Bulgaria Parva Liga] Septemvri Sofia vs Spartak Varna [Diema Sport BG]",
-            "matchstr": "Septemvri Sofia vs Spartak Varna",
-            "time": "17:00",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Septemvri Sofia",
-            "team2": "Spartak Varna",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-septemvri-sofia-spartak-varna-2026-04-16-17-00",
-            "startTimestamp": 1776348000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Bulgaria Parva Liga] Montana vs Slavia Sofia [Diema Sport BG]",
             "matchstr": "Montana vs Slavia Sofia",
             "time": "19:30",
@@ -3254,13 +3226,13 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [NBA] Basketball: Charlotte Hornets vs TBD [NBA League Pass US]",
-            "matchstr": "Charlotte Hornets vs TBD",
+            "matchText": "02:30 [NBA] Basketball: Charlotte Hornets vs Orlando Magic [NBA League Pass US]",
+            "matchstr": "Charlotte Hornets vs Orlando Magic",
             "time": "02:30",
             "league": "NBA",
             "sport": "Basketball",
             "team1": "Charlotte Hornets",
-            "team2": "TBD",
+            "team2": "Orlando Magic",
             "channel": "NBA League Pass US",
             "important": false,
             "matchDate": "2026-04-18",
@@ -3277,7 +3249,7 @@
                     ]
                 }
             ],
-            "slug": "nba-basketball-charlotte-hornets-tbd-2026-04-18-02-30",
+            "slug": "nba-basketball-charlotte-hornets-orlando-magic-2026-04-18-02-30",
             "startTimestamp": 1776468600000,
             "duration": 180
         },
@@ -3517,12 +3489,12 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [NBA] Basketball: TBD vs Phoenix Suns [NBA League Pass US]",
-            "matchstr": "TBD vs Phoenix Suns",
+            "matchText": "05:00 [NBA] Basketball: Golden State vs Phoenix Suns [NBA League Pass US]",
+            "matchstr": "Golden State vs Phoenix Suns",
             "time": "05:00",
             "league": "NBA",
             "sport": "Basketball",
-            "team1": "TBD",
+            "team1": "Golden State",
             "team2": "Phoenix Suns",
             "channel": "NBA League Pass US",
             "important": false,
@@ -3540,7 +3512,7 @@
                     ]
                 }
             ],
-            "slug": "nba-basketball-tbd-phoenix-suns-2026-04-18-05-00",
+            "slug": "nba-basketball-golden-state-phoenix-suns-2026-04-18-05-00",
             "startTimestamp": 1776477600000,
             "duration": 180
         },
