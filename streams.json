@@ -201,67 +201,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:45 [Europe UEFA Europa League] Celta de Vigo vs Freiburg [TNT Sports 5 GB]",
-            "matchstr": "Celta de Vigo vs Freiburg",
-            "time": "19:45",
-            "league": "Europe UEFA Europa League",
-            "sport": "Football",
-            "team1": "Celta de Vigo",
-            "team2": "Freiburg",
-            "channel": "TNT Sports 5 GB",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "TNT Sports 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                },
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=10"
-                    ]
-                },
-                {
-                    "name": "RTL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=11"
-                    ]
-                },
-                {
-                    "name": "M. Liga de Campeones",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=29"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-europa-league-football-celta-de-vigo-freiburg-2026-04-16-19-45",
-            "startTimestamp": 1776357900000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Real Betis vs Sporting Braga [TNT Sports 6 GB]",
             "matchstr": "Real Betis vs Sporting Braga",
             "time": "22:00",
@@ -320,45 +259,6 @@
             ],
             "slug": "europe-uefa-europa-league-football-real-betis-sporting-braga-2026-04-16-22-00",
             "startTimestamp": 1776366000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:45 [Europe UEFA Conference League] AZ vs Shakhtar Donetsk [TNT Sports 7 GB]",
-            "matchstr": "AZ vs Shakhtar Donetsk",
-            "time": "19:45",
-            "league": "Europe UEFA Conference League",
-            "sport": "Football",
-            "team1": "AZ",
-            "team2": "Shakhtar Donetsk",
-            "channel": "TNT Sports 7 GB",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "TNT Sports 7",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                },
-                {
-                    "name": "Ziggo Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-conference-league-football-az-shakhtar-donetsk-2026-04-16-19-45",
-            "startTimestamp": 1776357900000,
             "duration": 120
         },
         {
@@ -460,34 +360,6 @@
             "slug": "europe-uefa-conference-league-football-aek-athens-rayo-vallecano-2026-04-16-22-00",
             "startTimestamp": 1776366000000,
             "duration": 120
-        },
-        {
-            "matchText": "18:30 [International Friendly] Hockey: Czech Republic vs Germany [Magenta Sport DE]",
-            "matchstr": "Czech Republic vs Germany",
-            "time": "18:30",
-            "league": "International Friendly",
-            "sport": "Hockey",
-            "team1": "Czech Republic",
-            "team2": "Germany",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=15"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-hockey-czech-republic-germany-2026-04-16-18-30",
-            "startTimestamp": 1776353400000,
-            "duration": 180
         },
         {
             "matchText": "20:00 [PDC] Darts: Premier League Darts [Sport1 DE]",
@@ -635,34 +507,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Bulgaria Parva Liga] Montana vs Slavia Sofia [Diema Sport BG]",
-            "matchstr": "Montana vs Slavia Sofia",
-            "time": "19:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Montana",
-            "team2": "Slavia Sofia",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/ch?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-montana-slavia-sofia-2026-04-16-19-30",
-            "startTimestamp": 1776357000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [PFL] MMA: Chris Mixan vs Eoin Sheridan [RMC Sport 1 FR]",
             "matchstr": "Chris Mixan vs Eoin Sheridan",
             "time": "22:00",
@@ -688,34 +532,6 @@
             ],
             "slug": "pfl-mma-chris-mixan-eoin-sheridan-2026-04-16-22-00",
             "startTimestamp": 1776366000000,
-            "duration": 180
-        },
-        {
-            "matchText": "18:30 [Finland Liiga] Hockey: Tappara vs Ilves [MTV Urheilu 3 FI]",
-            "matchstr": "Tappara vs Ilves",
-            "time": "18:30",
-            "league": "Finland Liiga",
-            "sport": "Hockey",
-            "team1": "Tappara",
-            "team2": "Ilves",
-            "channel": "MTV Urheilu 3 FI",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "MTV Urheilu 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "FI",
-                    "links": [
-                        "https://l2l2.link/ch?id=73"
-                    ]
-                }
-            ],
-            "slug": "finland-liiga-hockey-tappara-ilves-2026-04-16-18-30",
-            "startTimestamp": 1776353400000,
             "duration": 180
         },
         {
@@ -850,34 +666,6 @@
             ],
             "slug": "euroleague-basketball-lyon-villeurbanne-fenerbahce-2026-04-16-21-00",
             "startTimestamp": 1776362400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:45 [Europe UEFA Europa League] Simulcast [Sky Sport Austria 1 AT]",
-            "matchstr": "Simulcast",
-            "time": "19:45",
-            "league": "Europe UEFA Europa League",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=100"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-europa-league-football-simulcast-2026-04-16-19-45",
-            "startTimestamp": 1776357900000,
             "duration": 120
         },
         {
