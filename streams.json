@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [PFL] MMA: Chris Mixan vs Eoin Sheridan [RMC Sport 1 FR]",
-            "matchstr": "Chris Mixan vs Eoin Sheridan",
-            "time": "22:00",
-            "league": "PFL",
-            "sport": "MMA",
-            "team1": "Chris Mixan",
-            "team2": "Eoin Sheridan",
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=59"
-                    ],
-                    "number": 59,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=59"
-                    ]
-                }
-            ],
-            "slug": "pfl-mma-chris-mixan-eoin-sheridan-2026-04-16-22-00",
-            "startTimestamp": 1776366000000,
-            "duration": 180
-        },
-        {
             "matchText": "02:30 [NHL] Hockey: St. Louis Blues vs Utah Mammoth [ESPN US]",
             "matchstr": "St. Louis Blues vs Utah Mammoth",
             "time": "02:30",
