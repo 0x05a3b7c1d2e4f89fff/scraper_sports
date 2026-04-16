@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:30 [NBA] Basketball: Orlando Magic vs Philadelphia 76ers [NBA League Pass US]",
-            "matchstr": "Orlando Magic vs Philadelphia 76ers",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Orlando Magic",
-            "team2": "Philadelphia 76ers",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-orlando-magic-philadelphia-76ers-2026-04-16-02-30",
-            "startTimestamp": 1776295800000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Nottingham Forest vs Porto [TNT Sports 1 GB]",
             "matchstr": "Nottingham Forest vs Porto",
             "time": "22:00",
@@ -179,45 +151,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NHL] Hockey: Dallas Stars vs Buffalo Sabres [TNT US]",
-            "matchstr": "Dallas Stars vs Buffalo Sabres",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Dallas Stars",
-            "team2": "Buffalo Sabres",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                },
-                {
-                    "name": "V Sport Extra",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=77"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-dallas-stars-buffalo-sabres-2026-04-16-02-00",
-            "startTimestamp": 1776294000000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Conference League] Fiorentina vs Crystal Palace [TNT Sports 3 GB]",
             "matchstr": "Fiorentina vs Crystal Palace",
             "time": "22:00",
@@ -268,45 +201,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NHL] Hockey: New York Rangers vs Tampa Bay Lightning [Sportsnet+ CA]",
-            "matchstr": "New York Rangers vs Tampa Bay Lightning",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "New York Rangers",
-            "team2": "Tampa Bay Lightning",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-new-york-rangers-tampa-bay-lightning-2026-04-16-02-00",
-            "startTimestamp": 1776294000000,
-            "duration": 180
-        },
-        {
             "matchText": "21:45 [England League One] Peterborough United vs Port Vale [Paramount+ US]",
             "matchstr": "Peterborough United vs Port Vale",
             "time": "21:45",
@@ -333,45 +227,6 @@
             "slug": "england-league-one-football-peterborough-united-port-vale-2026-04-16-21-45",
             "startTimestamp": 1776365100000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Detroit Red Wings vs Florida Panthers [Sportsnet+ CA]",
-            "matchstr": "Detroit Red Wings vs Florida Panthers",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Detroit Red Wings",
-            "team2": "Florida Panthers",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-detroit-red-wings-florida-panthers-2026-04-16-02-00",
-            "startTimestamp": 1776294000000,
-            "duration": 180
         },
         {
             "matchText": "19:45 [Europe UEFA Europa League] Celta de Vigo vs Freiburg [TNT Sports 5 GB]",
@@ -433,45 +288,6 @@
             "slug": "europe-uefa-europa-league-football-celta-de-vigo-freiburg-2026-04-16-19-45",
             "startTimestamp": 1776357900000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [NHL] Hockey: Toronto Maple Leafs vs Ottawa Senators [TVA Sports CA]",
-            "matchstr": "Toronto Maple Leafs vs Ottawa Senators",
-            "time": "02:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Toronto Maple Leafs",
-            "team2": "Ottawa Senators",
-            "channel": "TVA Sports CA",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=6"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=70"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-toronto-maple-leafs-ottawa-senators-2026-04-16-02-30",
-            "startTimestamp": 1776295800000,
-            "duration": 180
         },
         {
             "matchText": "22:00 [Europe UEFA Europa League] Real Betis vs Sporting Braga [TNT Sports 6 GB]",
@@ -797,45 +613,6 @@
             "duration": 180
         },
         {
-            "matchText": "01:00 [South America Copa Sudamericana] Racing Club vs Botafogo [Sportdigital FUSSBALL DE]",
-            "matchstr": "Racing Club vs Botafogo",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Racing Club",
-            "team2": "Botafogo",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-racing-club-botafogo-2026-04-16-01-00",
-            "startTimestamp": 1776290400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:15 [Euroleague] Basketball: Olympiakos Piraus vs Olimpia Milano [Nova Sports Prime GR]",
             "matchstr": "Olympiakos Piraus vs Olimpia Milano",
             "time": "21:15",
@@ -914,45 +691,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [North America CONCACAF Champions Cup] LA Galaxy vs Toluca [TUDN ES]",
-            "matchstr": "LA Galaxy vs Toluca",
-            "time": "04:00",
-            "league": "North America CONCACAF Champions Cup",
-            "sport": "Football",
-            "team1": "LA Galaxy",
-            "team2": "Toluca",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "north-america-concacaf-champions-cup-football-la-galaxy-toluca-2026-04-16-04-00",
-            "startTimestamp": 1776301200000,
-            "duration": 120
-        },
-        {
             "matchText": "06:30 [North America CONCACAF Champions Cup] Seattle Sounders FC vs Tigres UANL [TUDN ES]",
             "matchstr": "Seattle Sounders FC vs Tigres UANL",
             "time": "06:30",
@@ -992,168 +730,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:30 [South America Copa Libertadores] Corinthians vs Santa Fe [beIN SPORTS 2 AU]",
-            "matchstr": "Corinthians vs Santa Fe",
-            "time": "03:30",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Corinthians",
-            "team2": "Santa Fe",
-            "channel": "beIN SPORTS 2 AU",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-corinthians-santa-fe-2026-04-16-03-30",
-            "startTimestamp": 1776299400000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Libertadores] Cruzeiro vs Universidad Catolica [beIN SPORTS 3 AU]",
-            "matchstr": "Cruzeiro vs Universidad Catolica",
-            "time": "01:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Cruzeiro",
-            "team2": "Universidad Catolica",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-cruzeiro-universidad-catolica-2026-04-16-01-00",
-            "startTimestamp": 1776290400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Libertadores] Fluminense vs Independiente Rivadavia [beIN SPORTS 3 AU]",
-            "matchstr": "Fluminense vs Independiente Rivadavia",
-            "time": "03:30",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Fluminense",
-            "team2": "Independiente Rivadavia",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-fluminense-independiente-rivadavia-2026-04-16-03-30",
-            "startTimestamp": 1776299400000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Sudamericana] Caracas vs Independiente Petrolero [beIN SPORTS XTRA US]",
-            "matchstr": "Caracas vs Independiente Petrolero",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Caracas",
-            "team2": "Independiente Petrolero",
-            "channel": "beIN SPORTS XTRA US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=38"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS XTRA en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=41"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-caracas-independiente-petrolero-2026-04-16-01-00",
-            "startTimestamp": 1776290400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [South America Copa Sudamericana] Olimpia vs Barracas Central [beIN SPORTS XTRA US]",
-            "matchstr": "Olimpia vs Barracas Central",
-            "time": "03:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Olimpia",
-            "team2": "Barracas Central",
-            "channel": "beIN SPORTS XTRA US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=38"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS XTRA en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=41"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-olimpia-barracas-central-2026-04-16-03-00",
-            "startTimestamp": 1776297600000,
-            "duration": 120
-        },
-        {
             "matchText": "05:00 [South America Copa Sudamericana] Millonarios vs Boston River [beIN SPORTS XTRA US]",
             "matchstr": "Millonarios vs Boston River",
             "time": "05:00",
@@ -1190,84 +766,6 @@
             ],
             "slug": "south-america-copa-sudamericana-football-millonarios-boston-river-2026-04-16-05-00",
             "startTimestamp": 1776304800000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Libertadores] Libertad vs Rosario Central [beIN SPORTS US]",
-            "matchstr": "Libertad vs Rosario Central",
-            "time": "01:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Libertad",
-            "team2": "Rosario Central",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-libertad-rosario-central-2026-04-16-01-00",
-            "startTimestamp": 1776290400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Sudamericana] River Plate vs Carabobo [beIN SPORTS US]",
-            "matchstr": "River Plate vs Carabobo",
-            "time": "03:30",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "River Plate",
-            "team2": "Carabobo",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-river-plate-carabobo-2026-04-16-03-30",
-            "startTimestamp": 1776299400000,
             "duration": 120
         },
         {
