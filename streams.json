@@ -775,34 +775,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:30 [AFL] Australian Football: Collingwood Magpies vs Carlton Blues [Fox Sports 2 US]",
-            "matchstr": "Collingwood Magpies vs Carlton Blues",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Collingwood Magpies",
-            "team2": "Carlton Blues",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-16",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-collingwood-magpies-carlton-blues-2026-04-16-12-30",
-            "startTimestamp": 1776331800000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Super League] Rugby: St Helens vs Hull FC [Fox Soccer Plus US]",
             "matchstr": "St Helens vs Hull FC",
             "time": "22:00",
