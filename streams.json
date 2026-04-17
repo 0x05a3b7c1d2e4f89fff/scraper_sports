@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "12:35 [Australia A-League] Melbourne Victory vs Newcastle Jets [TNT Sports 1 GB]",
-            "matchstr": "Melbourne Victory vs Newcastle Jets",
-            "time": "12:35",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Melbourne Victory",
-            "team2": "Newcastle Jets",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-17",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-melbourne-victory-newcastle-jets-2026-04-17-12-35",
-            "startTimestamp": 1776418500000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [England Championship] Blackburn Rovers vs Coventry City [Sky Sports Football GB]",
             "matchstr": "Blackburn Rovers vs Coventry City",
             "time": "22:00",
@@ -788,6 +749,34 @@
             "duration": 120
         },
         {
+            "matchText": "20:00 [Czech Republic Extraliga] Hockey: Litvinov vs Dukla Jihlava [Oneplay Sport CZ]",
+            "matchstr": "Litvinov vs Dukla Jihlava",
+            "time": "20:00",
+            "league": "Czech Republic Extraliga",
+            "sport": "Hockey",
+            "team1": "Litvinov",
+            "team2": "Dukla Jihlava",
+            "channel": "Oneplay Sport CZ",
+            "important": false,
+            "matchDate": "2026-04-17",
+            "channels": [
+                {
+                    "name": "Oneplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=42"
+                    ]
+                }
+            ],
+            "slug": "czech-republic-extraliga-hockey-litvinov-dukla-jihlava-2026-04-17-20-00",
+            "startTimestamp": 1776445200000,
+            "duration": 180
+        },
+        {
             "matchText": "21:00 [France Ligue 2] Montpellier vs Grenoble Foot 38 [beIN Sports MAX 4 FR]",
             "matchstr": "Montpellier vs Grenoble Foot 38",
             "time": "21:00",
@@ -1236,34 +1225,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:50 [AFL] Australian Football: Greater Western Sydney Giants vs Sydney Swans [Fox Soccer Plus US]",
-            "matchstr": "Greater Western Sydney Giants vs Sydney Swans",
-            "time": "12:50",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Greater Western Sydney Giants",
-            "team2": "Sydney Swans",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-17",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-greater-western-sydney-giants-sydney-swans-2026-04-17-12-50",
-            "startTimestamp": 1776419400000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Super League] Rugby: Leeds Rhinos vs Huddersfield Giants [Fox Soccer Plus US]",
             "matchstr": "Leeds Rhinos vs Huddersfield Giants",
             "time": "22:00",
@@ -1290,34 +1251,6 @@
             "slug": "super-league-rugby-leeds-rhinos-huddersfield-giants-2026-04-17-22-00",
             "startTimestamp": 1776452400000,
             "duration": 120
-        },
-        {
-            "matchText": "12:20 [AFL] Australian Football: Western Bulldogs vs Geelong Cats [Fox Sports 2 US]",
-            "matchstr": "Western Bulldogs vs Geelong Cats",
-            "time": "12:20",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Western Bulldogs",
-            "team2": "Geelong Cats",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-17",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-western-bulldogs-geelong-cats-2026-04-17-12-20",
-            "startTimestamp": 1776417600000,
-            "duration": 180
         },
         {
             "matchText": "20:00 [Turkey Super Lig] Fenerbahce vs Rizespor [beIN Sports 1 TR]",
@@ -5577,6 +5510,4208 @@
             ],
             "slug": "austria-bundesliga-football-simulcast-2026-04-18-18-00",
             "startTimestamp": 1776524400000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:00 [UFC] MMA: Charles Jourdain vs Kyler Phillips [TNT Sports 1 GB]",
+            "matchstr": "Charles Jourdain vs Kyler Phillips",
+            "time": "00:00",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Charles Jourdain",
+            "team2": "Kyler Phillips",
+            "channel": "TNT Sports 1 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=1"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-charles-jourdain-kyler-phillips-2026-04-19-00-00",
+            "startTimestamp": 1776546000000,
+            "duration": 180
+        },
+        {
+            "matchText": "05:30 [UFC] MMA: Mike Malott vs Gilbert Burns [TNT Sports 1 GB]",
+            "matchstr": "Mike Malott vs Gilbert Burns",
+            "time": "05:30",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Mike Malott",
+            "team2": "Gilbert Burns",
+            "channel": "TNT Sports 1 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=1"
+                    ]
+                },
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-mike-malott-gilbert-burns-2026-04-19-05-30",
+            "startTimestamp": 1776565800000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:30 [NBA] Basketball: Houston Rockets vs Los Angeles Lakers [ABC US]",
+            "matchstr": "Houston Rockets vs Los Angeles Lakers",
+            "time": "03:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Houston Rockets",
+            "team2": "Los Angeles Lakers",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=2"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-houston-rockets-los-angeles-lakers-2026-04-19-03-30",
+            "startTimestamp": 1776558600000,
+            "duration": 180
+        },
+        {
+            "matchText": "08:30 [Australia A-League] Adelaide United vs Macarthur [TNT Sports 2 GB]",
+            "matchstr": "Adelaide United vs Macarthur",
+            "time": "08:30",
+            "league": "Australia A-League",
+            "sport": "Football",
+            "team1": "Adelaide United",
+            "team2": "Macarthur",
+            "channel": "TNT Sports 2 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=2"
+                    ]
+                }
+            ],
+            "slug": "australia-a-league-football-adelaide-united-macarthur-2026-04-19-08-30",
+            "startTimestamp": 1776576600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [NBA] Basketball: Boston Celtics vs Philadelphia 76ers [ABC US]",
+            "matchstr": "Boston Celtics vs Philadelphia 76ers",
+            "time": "20:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Boston Celtics",
+            "team2": "Philadelphia 76ers",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=2"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-boston-celtics-philadelphia-76ers-2026-04-19-20-00",
+            "startTimestamp": 1776618000000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:30 [NBA] Basketball: TBD vs Oklahoma City Thunder [ABC US]",
+            "matchstr": "TBD vs Oklahoma City Thunder",
+            "time": "22:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "TBD",
+            "team2": "Oklahoma City Thunder",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=2"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-tbd-oklahoma-city-thunder-2026-04-19-22-30",
+            "startTimestamp": 1776627000000,
+            "duration": 180
+        },
+        {
+            "matchText": "06:00 [Australia A-League] Auckland vs Central Coast Mariners [TNT Sports 3 GB]",
+            "matchstr": "Auckland vs Central Coast Mariners",
+            "time": "06:00",
+            "league": "Australia A-League",
+            "sport": "Football",
+            "team1": "Auckland",
+            "team2": "Central Coast Mariners",
+            "channel": "TNT Sports 3 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT Sports 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=3"
+                    ]
+                }
+            ],
+            "slug": "australia-a-league-football-auckland-central-coast-mariners-2026-04-19-06-00",
+            "startTimestamp": 1776567600000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:30 [NHL] Hockey: Minnesota Wild vs Dallas Stars [ESPN US]",
+            "matchstr": "Minnesota Wild vs Dallas Stars",
+            "time": "00:30",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Minnesota Wild",
+            "team2": "Dallas Stars",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=4"
+                    ]
+                },
+                {
+                    "name": "V Sport Vinter",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=76"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-minnesota-wild-dallas-stars-2026-04-19-00-30",
+            "startTimestamp": 1776547800000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:00 [NHL] Hockey: Philadelphia Flyers vs Pittsburgh Penguins [ESPN US]",
+            "matchstr": "Philadelphia Flyers vs Pittsburgh Penguins",
+            "time": "03:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Philadelphia Flyers",
+            "team2": "Pittsburgh Penguins",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=4"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=78"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-philadelphia-flyers-pittsburgh-penguins-2026-04-19-03-00",
+            "startTimestamp": 1776556800000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:00 [England Premier League] Everton vs Liverpool [Sky Sport 4 NZ]",
+            "matchstr": "Everton vs Liverpool",
+            "time": "16:00",
+            "league": "England Premier League",
+            "sport": "Football",
+            "team1": "Everton",
+            "team2": "Liverpool",
+            "channel": "Sky Sport 4 NZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport 4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "NZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=4"
+                    ]
+                },
+                {
+                    "name": "USA Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=10"
+                    ]
+                },
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=29"
+                    ]
+                },
+                {
+                    "name": "Canal+ Foot",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=50"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=78"
+                    ]
+                }
+            ],
+            "slug": "england-premier-league-football-everton-liverpool-2026-04-19-16-00",
+            "startTimestamp": 1776603600000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [NHL] Hockey: Los Angeles Kings vs Colorado Avalanche [TNT US]",
+            "matchstr": "Los Angeles Kings vs Colorado Avalanche",
+            "time": "22:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Los Angeles Kings",
+            "team2": "Colorado Avalanche",
+            "channel": "TNT US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=4"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-los-angeles-kings-colorado-avalanche-2026-04-19-22-00",
+            "startTimestamp": 1776625200000,
+            "duration": 180
+        },
+        {
+            "matchText": "01:00 [NBA] Basketball: Atlanta Hawks vs New York Knicks [NBA League Pass US]",
+            "matchstr": "Atlanta Hawks vs New York Knicks",
+            "time": "01:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Atlanta Hawks",
+            "team2": "New York Knicks",
+            "channel": "NBA League Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "NBA League Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=5"
+                    ],
+                    "number": 5,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=5"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-atlanta-hawks-new-york-knicks-2026-04-19-01-00",
+            "startTimestamp": 1776549600000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:00 [England Premier League] Aston Villa vs Sunderland [Sky Sport 5 NZ]",
+            "matchstr": "Aston Villa vs Sunderland",
+            "time": "16:00",
+            "league": "England Premier League",
+            "sport": "Football",
+            "team1": "Aston Villa",
+            "team2": "Sunderland",
+            "channel": "Sky Sport 5 NZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport 5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=5"
+                    ],
+                    "number": 5,
+                    "language": "NZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=5"
+                    ]
+                },
+                {
+                    "name": "Sky Sport Mix",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=16"
+                    ],
+                    "number": 16,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=16"
+                    ]
+                },
+                {
+                    "name": "V Sport Football",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=79"
+                    ],
+                    "number": 79,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=79"
+                    ]
+                }
+            ],
+            "slug": "england-premier-league-football-aston-villa-sunderland-2026-04-19-16-00",
+            "startTimestamp": 1776603600000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:30 [IndyCar] Motorsport: Acura Grand Prix of Long Beach [Sky Sports F1 GB]",
+            "matchstr": "Acura Grand Prix of Long Beach",
+            "time": "01:30",
+            "league": "IndyCar",
+            "sport": "Motorsport",
+            "team1": "Acura Grand Prix of Long Beach",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=6"
+                    ],
+                    "number": 6,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=6"
+                    ]
+                },
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=11"
+                    ]
+                }
+            ],
+            "slug": "indycar-motorsport-acura-grand-prix-of-long-beach-2026-04-19-01-30",
+            "startTimestamp": 1776551400000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:00 [England Championship] Ipswich Town vs Middlesbrough [Sky Sports Football GB]",
+            "matchstr": "Ipswich Town vs Middlesbrough",
+            "time": "14:00",
+            "league": "England Championship",
+            "sport": "Football",
+            "team1": "Ipswich Town",
+            "team2": "Middlesbrough",
+            "channel": "Sky Sports Football GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sports Football",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=6"
+                    ],
+                    "number": 6,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=6"
+                    ]
+                }
+            ],
+            "slug": "england-championship-football-ipswich-town-middlesbrough-2026-04-19-14-00",
+            "startTimestamp": 1776596400000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [England Premier League] Nottingham Forest vs Burnley [Sky Sport 7 NZ]",
+            "matchstr": "Nottingham Forest vs Burnley",
+            "time": "16:00",
+            "league": "England Premier League",
+            "sport": "Football",
+            "team1": "Nottingham Forest",
+            "team2": "Burnley",
+            "channel": "Sky Sport 7 NZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport 7",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "NZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=28"
+                    ],
+                    "number": 28,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=28"
+                    ]
+                },
+                {
+                    "name": "Canal+ Sport360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=57"
+                    ],
+                    "number": 57,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=57"
+                    ]
+                },
+                {
+                    "name": "V Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=70"
+                    ]
+                }
+            ],
+            "slug": "england-premier-league-football-nottingham-forest-burnley-2026-04-19-16-00",
+            "startTimestamp": 1776603600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [England Premier League] Manchester City vs Arsenal [Sky Sport 8 NZ]",
+            "matchstr": "Manchester City vs Arsenal",
+            "time": "18:30",
+            "league": "England Premier League",
+            "sport": "Football",
+            "team1": "Manchester City",
+            "team2": "Arsenal",
+            "channel": "Sky Sport 8 NZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport 8",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "NZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=29"
+                    ]
+                },
+                {
+                    "name": "Canal+ Foot",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=50"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=78"
+                    ]
+                }
+            ],
+            "slug": "england-premier-league-football-manchester-city-arsenal-2026-04-19-18-30",
+            "startTimestamp": 1776612600000,
+            "duration": 120
+        },
+        {
+            "matchText": "06:10 [Mexico Liga MX] America vs Toluca [CBS Sports Network US]",
+            "matchstr": "America vs Toluca",
+            "time": "06:10",
+            "league": "Mexico Liga MX",
+            "sport": "Football",
+            "team1": "America",
+            "team2": "Toluca",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=8"
+                    ]
+                },
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=30"
+                    ]
+                }
+            ],
+            "slug": "mexico-liga-mx-football-america-toluca-2026-04-19-06-10",
+            "startTimestamp": 1776568200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
+            "matchstr": "MX2",
+            "time": "17:00",
+            "league": "Motocross World Championship",
+            "sport": "Motorsport",
+            "team1": "MX2",
+            "team2": null,
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=8"
+                    ]
+                }
+            ],
+            "slug": "motocross-world-championship-motorsport-mx2-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
+            "matchstr": "MX2",
+            "time": "18:00",
+            "league": "Motocross World Championship",
+            "sport": "Motorsport",
+            "team1": "MX2",
+            "team2": null,
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=8"
+                    ]
+                }
+            ],
+            "slug": "motocross-world-championship-motorsport-mx2-2026-04-19-18-00",
+            "startTimestamp": 1776610800000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [England League One] Peterborough United vs Burton Albion [CBS Sports Golazo US]",
+            "matchstr": "Peterborough United vs Burton Albion",
+            "time": "15:00",
+            "league": "England League One",
+            "sport": "Football",
+            "team1": "Peterborough United",
+            "team2": "Burton Albion",
+            "channel": "CBS Sports Golazo US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "CBS Sports Golazo",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=9"
+                    ]
+                }
+            ],
+            "slug": "england-league-one-football-peterborough-united-burton-albion-2026-04-19-15-00",
+            "startTimestamp": 1776600000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [England League One] Port Vale vs Wigan Athletic [CBS Sports Golazo US]",
+            "matchstr": "Port Vale vs Wigan Athletic",
+            "time": "17:00",
+            "league": "England League One",
+            "sport": "Football",
+            "team1": "Port Vale",
+            "team2": "Wigan Athletic",
+            "channel": "CBS Sports Golazo US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "CBS Sports Golazo",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=9"
+                    ]
+                }
+            ],
+            "slug": "england-league-one-football-port-vale-wigan-athletic-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Germany Bundesliga 2] Simulcast [Sky Sport Bundesliga 1 DE]",
+            "matchstr": "Simulcast",
+            "time": "14:30",
+            "league": "Germany Bundesliga 2",
+            "sport": "Football",
+            "team1": "Simulcast",
+            "team2": null,
+            "channel": "Sky Sport Bundesliga 1 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=11"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-2-football-simulcast-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Germany Bundesliga 2] Schalke 04 vs Preu\u00dfen Munster [Sky Sport Bundesliga 2 DE]",
+            "matchstr": "Schalke 04 vs Preu\u00dfen Munster",
+            "time": "14:30",
+            "league": "Germany Bundesliga 2",
+            "sport": "Football",
+            "team1": "Schalke 04",
+            "team2": "Preu\u00dfen Munster",
+            "channel": "Sky Sport Bundesliga 2 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=12"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=34"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-2-football-schalke-04-preussen-munster-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Germany Bundesliga 2] Greuther Furth vs Darmstadt 98 [Sky Sport Bundesliga 3 DE]",
+            "matchstr": "Greuther Furth vs Darmstadt 98",
+            "time": "14:30",
+            "league": "Germany Bundesliga 2",
+            "sport": "Football",
+            "team1": "Greuther Furth",
+            "team2": "Darmstadt 98",
+            "channel": "Sky Sport Bundesliga 3 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=13"
+                    ],
+                    "number": 13,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=13"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-2-football-greuther-furth-darmstadt-98-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Germany Bundesliga 2] Eintracht Braunschweig vs Hertha BSC [Sky Sport Bundesliga 4 DE]",
+            "matchstr": "Eintracht Braunschweig vs Hertha BSC",
+            "time": "14:30",
+            "league": "Germany Bundesliga 2",
+            "sport": "Football",
+            "team1": "Eintracht Braunschweig",
+            "team2": "Hertha BSC",
+            "channel": "Sky Sport Bundesliga 4 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=14"
+                    ],
+                    "number": 14,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=14"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-2-football-eintracht-braunschweig-hertha-bsc-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "06:05 [Australia Supercars Championship] Motorsport: Christchurch Super 440 [Sportdigital1+ DE]",
+            "matchstr": "Christchurch Super 440",
+            "time": "06:05",
+            "league": "Australia Supercars Championship",
+            "sport": "Motorsport",
+            "team1": "Christchurch Super 440",
+            "team2": null,
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=15"
+                    ],
+                    "number": 15,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=15"
+                    ]
+                }
+            ],
+            "slug": "australia-supercars-championship-motorsport-christchurch-super-440-2026-04-19-06-05",
+            "startTimestamp": 1776567900000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [PDC European Tour] Darts: European Darts: Grand Prix [Sport1 DE]",
+            "matchstr": "European Darts: Grand Prix",
+            "time": "15:00",
+            "league": "PDC European Tour",
+            "sport": "Darts",
+            "team1": "European Darts: Grand Prix",
+            "team2": null,
+            "channel": "Sport1 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=15"
+                    ],
+                    "number": 15,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=15"
+                    ]
+                }
+            ],
+            "slug": "pdc-european-tour-darts-european-darts-grand-prix-2026-04-19-15-00",
+            "startTimestamp": 1776600000000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:00 [PDC European Tour] Darts: European Darts: Grand Prix [Sport1 DE]",
+            "matchstr": "European Darts: Grand Prix",
+            "time": "20:00",
+            "league": "PDC European Tour",
+            "sport": "Darts",
+            "team1": "European Darts: Grand Prix",
+            "team2": null,
+            "channel": "Sport1 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=15"
+                    ],
+                    "number": 15,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=15"
+                    ]
+                }
+            ],
+            "slug": "pdc-european-tour-darts-european-darts-grand-prix-2026-04-19-20-00",
+            "startTimestamp": 1776618000000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:30 [Germany Bundesliga] Freiburg vs Heidenheim [DAZN1 DE]",
+            "matchstr": "Freiburg vs Heidenheim",
+            "time": "16:30",
+            "league": "Germany Bundesliga",
+            "sport": "Football",
+            "team1": "Freiburg",
+            "team2": "Heidenheim",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=17"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=34"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-football-freiburg-heidenheim-2026-04-19-16-30",
+            "startTimestamp": 1776605400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [Germany Bundesliga] Borussia M'gladbach vs Mainz 05 [DAZN1 DE]",
+            "matchstr": "Borussia M'gladbach vs Mainz 05",
+            "time": "20:30",
+            "league": "Germany Bundesliga",
+            "sport": "Football",
+            "team1": "Borussia M'gladbach",
+            "team2": "Mainz 05",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=17"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=34"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-football-borussia-m-gladbach-mainz-05-2026-04-19-20-30",
+            "startTimestamp": 1776619800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [Germany Bundesliga] Bayern Munchen vs Stuttgart [DAZN2 DE]",
+            "matchstr": "Bayern Munchen vs Stuttgart",
+            "time": "18:30",
+            "league": "Germany Bundesliga",
+            "sport": "Football",
+            "team1": "Bayern Munchen",
+            "team2": "Stuttgart",
+            "channel": "DAZN2 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=18"
+                    ],
+                    "number": 18,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=18"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=34"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-football-bayern-munchen-stuttgart-2026-04-19-18-30",
+            "startTimestamp": 1776612600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [Italy Serie A] Juventus vs Bologna [DAZN2 DE]",
+            "matchstr": "Juventus vs Bologna",
+            "time": "21:45",
+            "league": "Italy Serie A",
+            "sport": "Football",
+            "team1": "Juventus",
+            "team2": "Bologna",
+            "channel": "DAZN2 DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=18"
+                    ],
+                    "number": 18,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=18"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "AU",
+                    "links": [
+                        "https://l2l2.link/ch?id=33"
+                    ]
+                },
+                {
+                    "name": "DAZN Zona",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://l2l2.link/ch?id=47"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=87"
+                    ]
+                }
+            ],
+            "slug": "italy-serie-a-football-juventus-bologna-2026-04-19-21-45",
+            "startTimestamp": 1776624300000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:30 [Brazil Brasileirao] Vasco da Gama vs Sao Paulo [Sportdigital FUSSBALL DE]",
+            "matchstr": "Vasco da Gama vs Sao Paulo",
+            "time": "00:30",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Vasco da Gama",
+            "team2": "Sao Paulo",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=19"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-vasco-da-gama-sao-paulo-2026-04-19-00-30",
+            "startTimestamp": 1776547800000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:00 [Argentina Primera Division] River Plate vs Boca Juniors [Sportdigital FUSSBALL DE]",
+            "matchstr": "River Plate vs Boca Juniors",
+            "time": "23:00",
+            "league": "Argentina Primera Division",
+            "sport": "Football",
+            "team1": "River Plate",
+            "team2": "Boca Juniors",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=19"
+                    ]
+                },
+                {
+                    "name": "TNT Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-primera-division-football-river-plate-boca-juniors-2026-04-19-23-00",
+            "startTimestamp": 1776628800000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:30 [Brazil Brasileirao] Chapecoense vs Botafogo [Canal 11 PT]",
+            "matchstr": "Chapecoense vs Botafogo",
+            "time": "00:30",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Chapecoense",
+            "team2": "Botafogo",
+            "channel": "Canal 11 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Canal 11",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=21"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-chapecoense-botafogo-2026-04-19-00-30",
+            "startTimestamp": 1776547800000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [Brazil Brasileirao] Cruzeiro vs Gremio [Canal 11 PT]",
+            "matchstr": "Cruzeiro vs Gremio",
+            "time": "02:30",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Cruzeiro",
+            "team2": "Gremio",
+            "channel": "Canal 11 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Canal 11",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=21"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-cruzeiro-gremio-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:00 [Portugal Segunda liga] Portimonense vs Lusitania FC Lourosa [Sport TV1 PT]",
+            "matchstr": "Portimonense vs Lusitania FC Lourosa",
+            "time": "13:00",
+            "league": "Portugal Segunda liga",
+            "sport": "Football",
+            "team1": "Portimonense",
+            "team2": "Lusitania FC Lourosa",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=21"
+                    ]
+                }
+            ],
+            "slug": "portugal-segunda-liga-football-portimonense-lusitania-fc-lourosa-2026-04-19-13-00",
+            "startTimestamp": 1776592800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Portugal Primeira Liga] Sporting CP vs Benfica [Sport TV1 PT]",
+            "matchstr": "Sporting CP vs Benfica",
+            "time": "20:00",
+            "league": "Portugal Primeira Liga",
+            "sport": "Football",
+            "team1": "Sporting CP",
+            "team2": "Benfica",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=21"
+                    ]
+                }
+            ],
+            "slug": "portugal-primeira-liga-football-sporting-cp-benfica-2026-04-19-20-00",
+            "startTimestamp": 1776618000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:30 [Portugal Primeira Liga] Sporting Braga vs Famalicao [Sport TV3 PT]",
+            "matchstr": "Sporting Braga vs Famalicao",
+            "time": "22:30",
+            "league": "Portugal Primeira Liga",
+            "sport": "Football",
+            "team1": "Sporting Braga",
+            "team2": "Famalicao",
+            "channel": "Sport TV3 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport TV3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=21"
+                    ]
+                }
+            ],
+            "slug": "portugal-primeira-liga-football-sporting-braga-famalicao-2026-04-19-22-30",
+            "startTimestamp": 1776627000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [Portugal Primeira Liga] Arouca vs Estrela [Sport TV2 PT]",
+            "matchstr": "Arouca vs Estrela",
+            "time": "17:30",
+            "league": "Portugal Primeira Liga",
+            "sport": "Football",
+            "team1": "Arouca",
+            "team2": "Estrela",
+            "channel": "Sport TV2 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport TV2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=22"
+                    ]
+                }
+            ],
+            "slug": "portugal-primeira-liga-football-arouca-estrela-2026-04-19-17-30",
+            "startTimestamp": 1776609000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:30 [Portugal Primeira Liga] Porto vs Tondela [Sport TV2 PT]",
+            "matchstr": "Porto vs Tondela",
+            "time": "22:30",
+            "league": "Portugal Primeira Liga",
+            "sport": "Football",
+            "team1": "Porto",
+            "team2": "Tondela",
+            "channel": "Sport TV2 PT",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sport TV2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://l2l2.link/ch?id=22"
+                    ]
+                }
+            ],
+            "slug": "portugal-primeira-liga-football-porto-tondela-2026-04-19-22-30",
+            "startTimestamp": 1776627000000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Greece Super League] AEK Athens vs PAOK [Nova Sport BG]",
+            "matchstr": "AEK Athens vs PAOK",
+            "time": "18:00",
+            "league": "Greece Super League",
+            "sport": "Football",
+            "team1": "AEK Athens",
+            "team2": "PAOK",
+            "channel": "Nova Sport BG",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Nova Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "BG",
+                    "links": [
+                        "https://l2l2.link/ch?id=23"
+                    ]
+                },
+                {
+                    "name": "GR",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=25"
+                    ],
+                    "number": 25,
+                    "language": null,
+                    "links": [
+                        "https://l2l2.link/ch?id=25"
+                    ]
+                }
+            ],
+            "slug": "greece-super-league-football-aek-athens-paok-2026-04-19-18-00",
+            "startTimestamp": 1776610800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Greece Super League] Panathinaikos vs Olympiakos Piraeus [GR]",
+            "matchstr": "Panathinaikos vs Olympiakos Piraeus",
+            "time": "21:00",
+            "league": "Greece Super League",
+            "sport": "Football",
+            "team1": "Panathinaikos",
+            "team2": "Olympiakos Piraeus",
+            "channel": "GR",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "GR",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=24"
+                    ],
+                    "number": 24,
+                    "language": null,
+                    "links": [
+                        "https://l2l2.link/ch?id=24"
+                    ]
+                },
+                {
+                    "name": "Diema Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://l2l2.link/ch?id=48"
+                    ]
+                }
+            ],
+            "slug": "greece-super-league-football-panathinaikos-olympiakos-piraeus-2026-04-19-21-00",
+            "startTimestamp": 1776621600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [Mexico Liga MX] Necaxa vs Tigres UANL [Azteca 7 MX]",
+            "matchstr": "Necaxa vs Tigres UANL",
+            "time": "02:00",
+            "league": "Mexico Liga MX",
+            "sport": "Football",
+            "team1": "Necaxa",
+            "team2": "Tigres UANL",
+            "channel": "Azteca 7 MX",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Azteca 7",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "MX",
+                    "links": [
+                        "https://l2l2.link/ch?id=26"
+                    ]
+                }
+            ],
+            "slug": "mexico-liga-mx-football-necaxa-tigres-uanl-2026-04-19-02-00",
+            "startTimestamp": 1776553200000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Spain Segunda Division] FC Andorra vs Real Valladolid [LALIGA TV Hypermotion ES]",
+            "matchstr": "FC Andorra vs Real Valladolid",
+            "time": "15:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "FC Andorra",
+            "team2": "Real Valladolid",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=26"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-fc-andorra-real-valladolid-2026-04-19-15-00",
+            "startTimestamp": 1776600000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:15 [Spain Segunda Division] Sporting Gijon vs Cadiz [LALIGA TV Hypermotion ES]",
+            "matchstr": "Sporting Gijon vs Cadiz",
+            "time": "17:15",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Sporting Gijon",
+            "team2": "Cadiz",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=26"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-sporting-gijon-cadiz-2026-04-19-17-15",
+            "startTimestamp": 1776608100000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Albacete vs Granada [LALIGA TV Hypermotion ES]",
+            "matchstr": "Albacete vs Granada",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Albacete",
+            "team2": "Granada",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=26"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-albacete-granada-2026-04-19-19-30",
+            "startTimestamp": 1776616200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Spain Segunda Division] Almeria vs Malaga [LALIGA TV Hypermotion ES]",
+            "matchstr": "Almeria vs Malaga",
+            "time": "22:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Almeria",
+            "team2": "Malaga",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=26"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-almeria-malaga-2026-04-19-22-00",
+            "startTimestamp": 1776625200000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:05 [Mexico Liga MX] Guadalajara vs Puebla [Universo ES]",
+            "matchstr": "Guadalajara vs Puebla",
+            "time": "04:05",
+            "league": "Mexico Liga MX",
+            "sport": "Football",
+            "team1": "Guadalajara",
+            "team2": "Puebla",
+            "channel": "Universo ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Universo",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=27"
+                    ]
+                }
+            ],
+            "slug": "mexico-liga-mx-football-guadalajara-puebla-2026-04-19-04-05",
+            "startTimestamp": 1776560700000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [Italy Serie A] Verona vs Milan [M. Liga de Campeones ES]",
+            "matchstr": "Verona vs Milan",
+            "time": "16:00",
+            "league": "Italy Serie A",
+            "sport": "Football",
+            "team1": "Verona",
+            "team2": "Milan",
+            "channel": "M. Liga de Campeones ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "M. Liga de Campeones",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=27"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "AU",
+                    "links": [
+                        "https://l2l2.link/ch?id=33"
+                    ]
+                },
+                {
+                    "name": "DAZN Zona",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://l2l2.link/ch?id=47"
+                    ]
+                }
+            ],
+            "slug": "italy-serie-a-football-verona-milan-2026-04-19-16-00",
+            "startTimestamp": 1776603600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Eibar vs Huesca [LALIGA TV Hypermotion 2 ES]",
+            "matchstr": "Eibar vs Huesca",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Eibar",
+            "team2": "Huesca",
+            "channel": "LALIGA TV Hypermotion 2 ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=27"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-eibar-huesca-2026-04-19-19-30",
+            "startTimestamp": 1776616200000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [Fighting] Boxing: Jose Miguel Borrego vs MarioPerez [ESPN MX]",
+            "matchstr": "Jose Miguel Borrego vs MarioPerez",
+            "time": "05:00",
+            "league": "Fighting",
+            "sport": "Boxing",
+            "team1": "Jose Miguel Borrego",
+            "team2": "MarioPerez",
+            "channel": "ESPN MX",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=28"
+                    ],
+                    "number": 28,
+                    "language": "MX",
+                    "links": [
+                        "https://l2l2.link/ch?id=28"
+                    ]
+                }
+            ],
+            "slug": "fighting-boxing-jose-miguel-borrego-marioperez-2026-04-19-05-00",
+            "startTimestamp": 1776564000000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:00 [Mexico Liga MX] Cruz Azul vs Tijuana [TUDN ES]",
+            "matchstr": "Cruz Azul vs Tijuana",
+            "time": "02:00",
+            "league": "Mexico Liga MX",
+            "sport": "Football",
+            "team1": "Cruz Azul",
+            "team2": "Tijuana",
+            "channel": "TUDN ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=30"
+                    ]
+                }
+            ],
+            "slug": "mexico-liga-mx-football-cruz-azul-tijuana-2026-04-19-02-00",
+            "startTimestamp": 1776553200000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:05 [Mexico Liga MX] Monterrey vs Pachuca [TUDN ES]",
+            "matchstr": "Monterrey vs Pachuca",
+            "time": "04:05",
+            "league": "Mexico Liga MX",
+            "sport": "Football",
+            "team1": "Monterrey",
+            "team2": "Pachuca",
+            "channel": "TUDN ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=30"
+                    ]
+                }
+            ],
+            "slug": "mexico-liga-mx-football-monterrey-pachuca-2026-04-19-04-05",
+            "startTimestamp": 1776560700000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [USA/Canada Major League Soccer] Atlanta United vs Nashville SC [MLS Season Pass US]",
+            "matchstr": "Atlanta United vs Nashville SC",
+            "time": "02:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Atlanta United",
+            "team2": "Nashville SC",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=31"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-atlanta-united-nashville-sc-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:30 [USA/Canada Major League Soccer] Real Salt Lake vs San Diego [MLS Season Pass US]",
+            "matchstr": "Real Salt Lake vs San Diego",
+            "time": "04:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Real Salt Lake",
+            "team2": "San Diego",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=31"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-real-salt-lake-san-diego-2026-04-19-04-30",
+            "startTimestamp": 1776562200000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [Scotland Scottish Cup] Celtic vs St. Mirren [Premier Sports 1 GB]",
+            "matchstr": "Celtic vs St. Mirren",
+            "time": "16:00",
+            "league": "Scotland Scottish Cup",
+            "sport": "Football",
+            "team1": "Celtic",
+            "team2": "St. Mirren",
+            "channel": "Premier Sports 1 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Premier Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=31"
+                    ]
+                }
+            ],
+            "slug": "scotland-scottish-cup-football-celtic-st-mirren-2026-04-19-16-00",
+            "startTimestamp": 1776603600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [USA/Canada Major League Soccer] Cincinnati vs Chicago Fire [MLS Season Pass US]",
+            "matchstr": "Cincinnati vs Chicago Fire",
+            "time": "02:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Cincinnati",
+            "team2": "Chicago Fire",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=32"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-cincinnati-chicago-fire-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:30 [USA/Canada Major League Soccer] Seattle Sounders FC vs St. Louis City [MLS Season Pass US]",
+            "matchstr": "Seattle Sounders FC vs St. Louis City",
+            "time": "04:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Seattle Sounders FC",
+            "team2": "St. Louis City",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=32"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-seattle-sounders-fc-st-louis-city-2026-04-19-04-30",
+            "startTimestamp": 1776562200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Turkey Super Lig] Samsunspor vs Besiktas [beIN Sports 2 PH]",
+            "matchstr": "Samsunspor vs Besiktas",
+            "time": "17:00",
+            "league": "Turkey Super Lig",
+            "sport": "Football",
+            "team1": "Samsunspor",
+            "team2": "Besiktas",
+            "channel": "beIN Sports 2 PH",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=32"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://l2l2.link/ch?id=91"
+                    ]
+                }
+            ],
+            "slug": "turkey-super-lig-football-samsunspor-besiktas-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Turkey Super Lig] Trabzonspor vs Istanbul Basaksehir [beIN Sports 3 PH]",
+            "matchstr": "Trabzonspor vs Istanbul Basaksehir",
+            "time": "20:00",
+            "league": "Turkey Super Lig",
+            "sport": "Football",
+            "team1": "Trabzonspor",
+            "team2": "Istanbul Basaksehir",
+            "channel": "beIN Sports 3 PH",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN Sports 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=32"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://l2l2.link/ch?id=91"
+                    ]
+                }
+            ],
+            "slug": "turkey-super-lig-football-trabzonspor-istanbul-basaksehir-2026-04-19-20-00",
+            "startTimestamp": 1776618000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Africa CAF Confederation Cup] Olympic Safi vs USM Alger [beIN Sports 2 PH]",
+            "matchstr": "Olympic Safi vs USM Alger",
+            "time": "22:00",
+            "league": "Africa CAF Confederation Cup",
+            "sport": "Football",
+            "team1": "Olympic Safi",
+            "team2": "USM Alger",
+            "channel": "beIN Sports 2 PH",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "PH",
+                    "links": [
+                        "https://l2l2.link/ch?id=32"
+                    ]
+                }
+            ],
+            "slug": "africa-caf-confederation-cup-football-olympic-safi-usm-alger-2026-04-19-22-00",
+            "startTimestamp": 1776625200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [USA/Canada Major League Soccer] New England vs Columbus Crew [MLS Season Pass US]",
+            "matchstr": "New England vs Columbus Crew",
+            "time": "02:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "New England",
+            "team2": "Columbus Crew",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=33"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-new-england-columbus-crew-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:30 [Italy Serie A] Cremonese vs Torino [beIN SPORTS 3 AU]",
+            "matchstr": "Cremonese vs Torino",
+            "time": "13:30",
+            "league": "Italy Serie A",
+            "sport": "Football",
+            "team1": "Cremonese",
+            "team2": "Torino",
+            "channel": "beIN SPORTS 3 AU",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN SPORTS 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "AU",
+                    "links": [
+                        "https://l2l2.link/ch?id=33"
+                    ]
+                },
+                {
+                    "name": "DAZN Zona",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://l2l2.link/ch?id=47"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=87"
+                    ]
+                }
+            ],
+            "slug": "italy-serie-a-football-cremonese-torino-2026-04-19-13-30",
+            "startTimestamp": 1776594600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Italy Serie A] Pisa vs Genoa [beIN SPORTS 3 AU]",
+            "matchstr": "Pisa vs Genoa",
+            "time": "19:00",
+            "league": "Italy Serie A",
+            "sport": "Football",
+            "team1": "Pisa",
+            "team2": "Genoa",
+            "channel": "beIN SPORTS 3 AU",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN SPORTS 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "AU",
+                    "links": [
+                        "https://l2l2.link/ch?id=33"
+                    ]
+                },
+                {
+                    "name": "Sky Sport Calcio",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://l2l2.link/ch?id=47"
+                    ]
+                }
+            ],
+            "slug": "italy-serie-a-football-pisa-genoa-2026-04-19-19-00",
+            "startTimestamp": 1776614400000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [USA/Canada Major League Soccer] New York City vs Charlotte [MLS Season Pass US]",
+            "matchstr": "New York City vs Charlotte",
+            "time": "02:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "New York City",
+            "team2": "Charlotte",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=34"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-new-york-city-charlotte-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [USA/Canada Major League Soccer] Orlando City SC vs Houston Dynamo [MLS Season Pass US]",
+            "matchstr": "Orlando City SC vs Houston Dynamo",
+            "time": "02:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Orlando City SC",
+            "team2": "Houston Dynamo",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=35"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-orlando-city-sc-houston-dynamo-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [NASCAR Cup Series] Motorsport: AdventHealth 400 [TSN5 CA]",
+            "matchstr": "AdventHealth 400",
+            "time": "21:00",
+            "league": "NASCAR Cup Series",
+            "sport": "Motorsport",
+            "team1": "AdventHealth 400",
+            "team2": null,
+            "channel": "TSN5 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TSN5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=35"
+                    ]
+                }
+            ],
+            "slug": "nascar-cup-series-motorsport-adventhealth-400-2026-04-19-21-00",
+            "startTimestamp": 1776621600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [USA/Canada Major League Soccer] Philadelphia Union vs DC United [MLS Season Pass US]",
+            "matchstr": "Philadelphia Union vs DC United",
+            "time": "02:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Philadelphia Union",
+            "team2": "DC United",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=36"
+                    ],
+                    "number": 36,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=36"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-philadelphia-union-dc-united-2026-04-19-02-30",
+            "startTimestamp": 1776555000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Premiership] Rugby: Saracens vs Sale Sharks [Sportsnet World CA]",
+            "matchstr": "Saracens vs Sale Sharks",
+            "time": "17:00",
+            "league": "Premiership",
+            "sport": "Rugby",
+            "team1": "Saracens",
+            "team2": "Sale Sharks",
+            "channel": "Sportsnet World CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet World",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=36"
+                    ],
+                    "number": 36,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=36"
+                    ]
+                }
+            ],
+            "slug": "premiership-rugby-saracens-sale-sharks-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [USA/Canada Major League Soccer] Dallas vs LA Galaxy [MLS Season Pass US]",
+            "matchstr": "Dallas vs LA Galaxy",
+            "time": "03:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Dallas",
+            "team2": "LA Galaxy",
+            "channel": "MLS Season Pass US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MLS Season Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=37"
+                    ],
+                    "number": 37,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=37"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-dallas-la-galaxy-2026-04-19-03-30",
+            "startTimestamp": 1776558600000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [USA/Canada Major League Soccer] Minnesota United vs Portland Timbers [TSN2 CA]",
+            "matchstr": "Minnesota United vs Portland Timbers",
+            "time": "03:30",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Minnesota United",
+            "team2": "Portland Timbers",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=38"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-minnesota-united-portland-timbers-2026-04-19-03-30",
+            "startTimestamp": 1776558600000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [France Ligue 1] Monaco vs Auxerre [beIN SPORTS US]",
+            "matchstr": "Monaco vs Auxerre",
+            "time": "16:00",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "Monaco",
+            "team2": "Auxerre",
+            "channel": "beIN SPORTS US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN SPORTS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=40"
+                    ]
+                },
+                {
+                    "name": "Ligue1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=51"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-monaco-auxerre-2026-04-19-16-00",
+            "startTimestamp": 1776603600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:15 [France Ligue 1] Strasbourg vs Rennes [beIN SPORTS US]",
+            "matchstr": "Strasbourg vs Rennes",
+            "time": "18:15",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "Strasbourg",
+            "team2": "Rennes",
+            "channel": "beIN SPORTS US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN SPORTS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=40"
+                    ]
+                },
+                {
+                    "name": "Ligue1+ 4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=54"
+                    ],
+                    "number": 54,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=54"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-strasbourg-rennes-2026-04-19-18-15",
+            "startTimestamp": 1776611700000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [France Ligue 1] PSG vs Olympique Lyonnais [beIN SPORTS US]",
+            "matchstr": "PSG vs Olympique Lyonnais",
+            "time": "21:45",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "PSG",
+            "team2": "Olympique Lyonnais",
+            "channel": "beIN SPORTS US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN SPORTS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=40"
+                    ]
+                },
+                {
+                    "name": "Ligue1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=51"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-psg-olympique-lyonnais-2026-04-19-21-45",
+            "startTimestamp": 1776624300000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:30 [Czech Republic 1. liga] Hradec Kralove vs Slavia Praha [Oneplay Sport 1 CZ]",
+            "matchstr": "Hradec Kralove vs Slavia Praha",
+            "time": "16:30",
+            "league": "Czech Republic 1. liga",
+            "sport": "Football",
+            "team1": "Hradec Kralove",
+            "team2": "Slavia Praha",
+            "channel": "Oneplay Sport 1 CZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Oneplay Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=41"
+                    ]
+                }
+            ],
+            "slug": "czech-republic-1-liga-football-hradec-kralove-slavia-praha-2026-04-19-16-30",
+            "startTimestamp": 1776605400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Czech Republic 1. liga] Viktoria Plzen vs FK Pardubice [Oneplay Sport 1 CZ]",
+            "matchstr": "Viktoria Plzen vs FK Pardubice",
+            "time": "19:30",
+            "league": "Czech Republic 1. liga",
+            "sport": "Football",
+            "team1": "Viktoria Plzen",
+            "team2": "FK Pardubice",
+            "channel": "Oneplay Sport 1 CZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Oneplay Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=41"
+                    ]
+                }
+            ],
+            "slug": "czech-republic-1-liga-football-viktoria-plzen-fk-pardubice-2026-04-19-19-30",
+            "startTimestamp": 1776616200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:00 [Czech Republic 1. liga] Sigma Olomouc vs Slovacko [Oneplay Sport 3 CZ]",
+            "matchstr": "Sigma Olomouc vs Slovacko",
+            "time": "14:00",
+            "league": "Czech Republic 1. liga",
+            "sport": "Football",
+            "team1": "Sigma Olomouc",
+            "team2": "Slovacko",
+            "channel": "Oneplay Sport 3 CZ",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Oneplay Sport 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=43"
+                    ],
+                    "number": 43,
+                    "language": "CZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=43"
+                    ]
+                }
+            ],
+            "slug": "czech-republic-1-liga-football-sigma-olomouc-slovacko-2026-04-19-14-00",
+            "startTimestamp": 1776596400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:15 [Belgium Pro League] RAAL La Louviere vs Zulte-Waregem [DAZN BE]",
+            "matchstr": "RAAL La Louviere vs Zulte-Waregem",
+            "time": "20:15",
+            "league": "Belgium Pro League",
+            "sport": "Football",
+            "team1": "RAAL La Louviere",
+            "team2": "Zulte-Waregem",
+            "channel": "DAZN BE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=46"
+                    ],
+                    "number": 46,
+                    "language": "BE",
+                    "links": [
+                        "https://l2l2.link/ch?id=46"
+                    ]
+                }
+            ],
+            "slug": "belgium-pro-league-football-raal-la-louviere-zulte-waregem-2026-04-19-20-15",
+            "startTimestamp": 1776618900000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Belgium Pro League] Gent vs Sint-Truiden [DAZN BE]",
+            "matchstr": "Gent vs Sint-Truiden",
+            "time": "14:30",
+            "league": "Belgium Pro League",
+            "sport": "Football",
+            "team1": "Gent",
+            "team2": "Sint-Truiden",
+            "channel": "DAZN BE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BE",
+                    "links": [
+                        "https://l2l2.link/ch?id=49"
+                    ]
+                }
+            ],
+            "slug": "belgium-pro-league-football-gent-sint-truiden-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Belgium Pro League] Dender vs Cercle Brugge [DAZN BE]",
+            "matchstr": "Dender vs Cercle Brugge",
+            "time": "17:00",
+            "league": "Belgium Pro League",
+            "sport": "Football",
+            "team1": "Dender",
+            "team2": "Cercle Brugge",
+            "channel": "DAZN BE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BE",
+                    "links": [
+                        "https://l2l2.link/ch?id=49"
+                    ]
+                }
+            ],
+            "slug": "belgium-pro-league-football-dender-cercle-brugge-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Belgium Pro League] Union Saint-Gilloise vs Club Brugge [DAZN BE]",
+            "matchstr": "Union Saint-Gilloise vs Club Brugge",
+            "time": "19:30",
+            "league": "Belgium Pro League",
+            "sport": "Football",
+            "team1": "Union Saint-Gilloise",
+            "team2": "Club Brugge",
+            "channel": "DAZN BE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BE",
+                    "links": [
+                        "https://l2l2.link/ch?id=49"
+                    ]
+                }
+            ],
+            "slug": "belgium-pro-league-football-union-saint-gilloise-club-brugge-2026-04-19-19-30",
+            "startTimestamp": 1776616200000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:15 [France Ligue 1] Simulcast [Ligue1+ FR]",
+            "matchstr": "Simulcast",
+            "time": "18:15",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "Simulcast",
+            "team2": null,
+            "channel": "Ligue1+ FR",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Ligue1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=51"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-simulcast-2026-04-19-18-15",
+            "startTimestamp": 1776611700000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:15 [France Ligue 1] Nantes vs Brest [Ligue1+ 5 FR]",
+            "matchstr": "Nantes vs Brest",
+            "time": "18:15",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "Nantes",
+            "team2": "Brest",
+            "channel": "Ligue1+ 5 FR",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Ligue1+ 5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=55"
+                    ],
+                    "number": 55,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=55"
+                    ]
+                },
+                {
+                    "name": "V Sport Football",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=79"
+                    ],
+                    "number": 79,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=79"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-nantes-brest-2026-04-19-18-15",
+            "startTimestamp": 1776611700000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:15 [France Ligue 1] Metz vs Paris [Ligue1+ 6 FR]",
+            "matchstr": "Metz vs Paris",
+            "time": "18:15",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "Metz",
+            "team2": "Paris",
+            "channel": "Ligue1+ 6 FR",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Ligue1+ 6",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=56"
+                    ]
+                },
+                {
+                    "name": "V Sport Extra",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=77"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-metz-paris-2026-04-19-18-15",
+            "startTimestamp": 1776611700000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:15 [Poland Ekstraklasa] Nieciecza vs Wis\u0142a P\u0142ock [Canal+ Sport 3 PL]",
+            "matchstr": "Nieciecza vs Wis\u0142a P\u0142ock",
+            "time": "13:15",
+            "league": "Poland Ekstraklasa",
+            "sport": "Football",
+            "team1": "Nieciecza",
+            "team2": "Wis\u0142a P\u0142ock",
+            "channel": "Canal+ Sport 3 PL",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Canal+ Sport 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://l2l2.link/ch?id=60"
+                    ]
+                }
+            ],
+            "slug": "poland-ekstraklasa-football-nieciecza-wisla-plock-2026-04-19-13-15",
+            "startTimestamp": 1776593700000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:45 [Poland Ekstraklasa] Rakow Czestochowa vs Cracovia Krakow [Canal+ Sport 3 PL]",
+            "matchstr": "Rakow Czestochowa vs Cracovia Krakow",
+            "time": "15:45",
+            "league": "Poland Ekstraklasa",
+            "sport": "Football",
+            "team1": "Rakow Czestochowa",
+            "team2": "Cracovia Krakow",
+            "channel": "Canal+ Sport 3 PL",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Canal+ Sport 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://l2l2.link/ch?id=60"
+                    ]
+                }
+            ],
+            "slug": "poland-ekstraklasa-football-rakow-czestochowa-cracovia-krakow-2026-04-19-15-45",
+            "startTimestamp": 1776602700000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [Poland Ekstraklasa] Arka Gdynia vs Jagiellonia Bia\u0142ystok [Canal+ Sport 3 PL]",
+            "matchstr": "Arka Gdynia vs Jagiellonia Bia\u0142ystok",
+            "time": "18:30",
+            "league": "Poland Ekstraklasa",
+            "sport": "Football",
+            "team1": "Arka Gdynia",
+            "team2": "Jagiellonia Bia\u0142ystok",
+            "channel": "Canal+ Sport 3 PL",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Canal+ Sport 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://l2l2.link/ch?id=60"
+                    ]
+                }
+            ],
+            "slug": "poland-ekstraklasa-football-arka-gdynia-jagiellonia-bialystok-2026-04-19-18-30",
+            "startTimestamp": 1776612600000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:30 [Poland I Liga] Ruch Chorzow vs Wis\u0142a Krakow [TVP Sport PL]",
+            "matchstr": "Ruch Chorzow vs Wis\u0142a Krakow",
+            "time": "15:30",
+            "league": "Poland I Liga",
+            "sport": "Football",
+            "team1": "Ruch Chorzow",
+            "team2": "Wis\u0142a Krakow",
+            "channel": "TVP Sport PL",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=61"
+                    ],
+                    "number": 61,
+                    "language": "PL",
+                    "links": [
+                        "https://l2l2.link/ch?id=61"
+                    ]
+                }
+            ],
+            "slug": "poland-i-liga-football-ruch-chorzow-wisla-krakow-2026-04-19-15-30",
+            "startTimestamp": 1776601800000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Denmark Handball League] Handball: Bjerringbro vs Silkeborg vs Mors vs Thy [TV 2 Sport DK]",
+            "matchstr": "Bjerringbro vs Silkeborg vs Mors vs Thy",
+            "time": "19:00",
+            "league": "Denmark Handball League",
+            "sport": "Handball",
+            "team1": "Bjerringbro",
+            "team2": "Silkeborg vs Mors vs Thy",
+            "channel": "TV 2 Sport DK",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV 2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "DK",
+                    "links": [
+                        "https://l2l2.link/ch?id=65"
+                    ]
+                }
+            ],
+            "slug": "denmark-handball-league-handball-bjerringbro-silkeborg-vs-mors-vs-thy-2026-04-19-19-00",
+            "startTimestamp": 1776614400000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Denmark Handball League] Handball: Holstebro vs Skanderborg Aarhus [TV 2 Sport DK]",
+            "matchstr": "Holstebro vs Skanderborg Aarhus",
+            "time": "21:00",
+            "league": "Denmark Handball League",
+            "sport": "Handball",
+            "team1": "Holstebro",
+            "team2": "Skanderborg Aarhus",
+            "channel": "TV 2 Sport DK",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV 2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "DK",
+                    "links": [
+                        "https://l2l2.link/ch?id=65"
+                    ]
+                }
+            ],
+            "slug": "denmark-handball-league-handball-holstebro-skanderborg-aarhus-2026-04-19-21-00",
+            "startTimestamp": 1776621600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Norway Eliteserien] HamKam vs KFUM [TV 2 Direkte NO]",
+            "matchstr": "HamKam vs KFUM",
+            "time": "18:00",
+            "league": "Norway Eliteserien",
+            "sport": "Football",
+            "team1": "HamKam",
+            "team2": "KFUM",
+            "channel": "TV 2 Direkte NO",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV 2 Direkte",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "NO",
+                    "links": [
+                        "https://l2l2.link/ch?id=66"
+                    ]
+                }
+            ],
+            "slug": "norway-eliteserien-football-hamkam-kfum-2026-04-19-18-00",
+            "startTimestamp": 1776610800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:15 [Norway Eliteserien] Start vs Molde [TV2 Sport NO]",
+            "matchstr": "Start vs Molde",
+            "time": "20:15",
+            "league": "Norway Eliteserien",
+            "sport": "Football",
+            "team1": "Start",
+            "team2": "Molde",
+            "channel": "TV2 Sport NO",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "NO",
+                    "links": [
+                        "https://l2l2.link/ch?id=66"
+                    ]
+                }
+            ],
+            "slug": "norway-eliteserien-football-start-molde-2026-04-19-20-15",
+            "startTimestamp": 1776618900000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:15 [Hungary NB1] Paksi SE vs Puskas [M4 Sports HU]",
+            "matchstr": "Paksi SE vs Puskas",
+            "time": "15:15",
+            "league": "Hungary NB1",
+            "sport": "Football",
+            "team1": "Paksi SE",
+            "team2": "Puskas",
+            "channel": "M4 Sports HU",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "M4 Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "HU",
+                    "links": [
+                        "https://l2l2.link/ch?id=67"
+                    ]
+                }
+            ],
+            "slug": "hungary-nb1-football-paksi-se-puskas-2026-04-19-15-15",
+            "startTimestamp": 1776600900000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [Hungary NB1] Gyori ETO vs Ferencvaros [M4 Sports HU]",
+            "matchstr": "Gyori ETO vs Ferencvaros",
+            "time": "20:30",
+            "league": "Hungary NB1",
+            "sport": "Football",
+            "team1": "Gyori ETO",
+            "team2": "Ferencvaros",
+            "channel": "M4 Sports HU",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "M4 Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "HU",
+                    "links": [
+                        "https://l2l2.link/ch?id=67"
+                    ]
+                }
+            ],
+            "slug": "hungary-nb1-football-gyori-eto-ferencvaros-2026-04-19-20-30",
+            "startTimestamp": 1776619800000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Denmark Super Liga] Silkeborg vs Fredericia [TV2 Sport X DK]",
+            "matchstr": "Silkeborg vs Fredericia",
+            "time": "15:00",
+            "league": "Denmark Super Liga",
+            "sport": "Football",
+            "team1": "Silkeborg",
+            "team2": "Fredericia",
+            "channel": "TV2 Sport X DK",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV2 Sport X",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "DK",
+                    "links": [
+                        "https://l2l2.link/ch?id=68"
+                    ]
+                }
+            ],
+            "slug": "denmark-super-liga-football-silkeborg-fredericia-2026-04-19-15-00",
+            "startTimestamp": 1776600000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Denmark Super Liga] Nordsj\u00e6lland vs Viborg [TV2 Sport X DK]",
+            "matchstr": "Nordsj\u00e6lland vs Viborg",
+            "time": "17:00",
+            "league": "Denmark Super Liga",
+            "sport": "Football",
+            "team1": "Nordsj\u00e6lland",
+            "team2": "Viborg",
+            "channel": "TV2 Sport X DK",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV2 Sport X",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "DK",
+                    "links": [
+                        "https://l2l2.link/ch?id=68"
+                    ]
+                }
+            ],
+            "slug": "denmark-super-liga-football-nordsjaelland-viborg-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Denmark Super Liga] OB vs Randers [TV3 Sport DK]",
+            "matchstr": "OB vs Randers",
+            "time": "15:00",
+            "league": "Denmark Super Liga",
+            "sport": "Football",
+            "team1": "OB",
+            "team2": "Randers",
+            "channel": "TV3 Sport DK",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV3 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://l2l2.link/ch?id=69"
+                    ]
+                }
+            ],
+            "slug": "denmark-super-liga-football-ob-randers-2026-04-19-15-00",
+            "startTimestamp": 1776600000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Denmark Super Liga] Vejle vs K\u00f8benhavn [TV3+ DK]",
+            "matchstr": "Vejle vs K\u00f8benhavn",
+            "time": "19:00",
+            "league": "Denmark Super Liga",
+            "sport": "Football",
+            "team1": "Vejle",
+            "team2": "K\u00f8benhavn",
+            "channel": "TV3+ DK",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV3+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://l2l2.link/ch?id=69"
+                    ]
+                }
+            ],
+            "slug": "denmark-super-liga-football-vejle-kobenhavn-2026-04-19-19-00",
+            "startTimestamp": 1776614400000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [Sweden Allsvenskan] Hacken vs GAIS [TV4 Sport Live 1 SE]",
+            "matchstr": "Hacken vs GAIS",
+            "time": "17:30",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Hacken",
+            "team2": "GAIS",
+            "channel": "TV4 Sport Live 1 SE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV4 Sport Live 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=71"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-hacken-gais-2026-04-19-17-30",
+            "startTimestamp": 1776609000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Finland Liiga] Hockey: Ilves vs Tappara [MTV Urheilu 1 FI]",
+            "matchstr": "Ilves vs Tappara",
+            "time": "17:00",
+            "league": "Finland Liiga",
+            "sport": "Hockey",
+            "team1": "Ilves",
+            "team2": "Tappara",
+            "channel": "MTV Urheilu 1 FI",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://l2l2.link/ch?id=72"
+                    ]
+                }
+            ],
+            "slug": "finland-liiga-hockey-ilves-tappara-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 180
+        },
+        {
+            "matchText": "15:00 [Sweden Allsvenskan] AIK vs Kalmar [TV4 Fotball SE]",
+            "matchstr": "AIK vs Kalmar",
+            "time": "15:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "AIK",
+            "team2": "Kalmar",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-aik-kalmar-2026-04-19-15-00",
+            "startTimestamp": 1776600000000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [UFC] MMA: Allan Nascimento vs Mitch Raposo [Sportsnet 360 CA]",
+            "matchstr": "Allan Nascimento vs Mitch Raposo",
+            "time": "01:00",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Allan Nascimento",
+            "team2": "Mitch Raposo",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-allan-nascimento-mitch-raposo-2026-04-19-01-00",
+            "startTimestamp": 1776549600000,
+            "duration": 180
+        },
+        {
+            "matchText": "01:20 [UFC] MMA: Daria Zheleznyakova vs Melissa Croden [Sportsnet 360 CA]",
+            "matchstr": "Daria Zheleznyakova vs Melissa Croden",
+            "time": "01:20",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Daria Zheleznyakova",
+            "team2": "Melissa Croden",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-daria-zheleznyakova-melissa-croden-2026-04-19-01-20",
+            "startTimestamp": 1776550800000,
+            "duration": 180
+        },
+        {
+            "matchText": "01:40 [UFC] MMA: Gokhan Saricam vs Tanner Boser [Sportsnet 360 CA]",
+            "matchstr": "Gokhan Saricam vs Tanner Boser",
+            "time": "01:40",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Gokhan Saricam",
+            "team2": "Tanner Boser",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-gokhan-saricam-tanner-boser-2026-04-19-01-40",
+            "startTimestamp": 1776552000000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:00 [UFC] MMA: Robert Valentin vs Julien Leblanc [Sportsnet 360 CA]",
+            "matchstr": "Robert Valentin vs Julien Leblanc",
+            "time": "02:00",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Robert Valentin",
+            "team2": "Julien Leblanc",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-robert-valentin-julien-leblanc-2026-04-19-02-00",
+            "startTimestamp": 1776553200000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:00 [UFC] MMA: Marcio Barbosa vs Dennis Buzukja [Sportsnet 360 CA]",
+            "matchstr": "Marcio Barbosa vs Dennis Buzukja",
+            "time": "03:00",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Marcio Barbosa",
+            "team2": "Dennis Buzukja",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-marcio-barbosa-dennis-buzukja-2026-04-19-03-00",
+            "startTimestamp": 1776556800000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:30 [UFC] MMA: Gauge Young vs Thiago Moises [Sportsnet 360 CA]",
+            "matchstr": "Gauge Young vs Thiago Moises",
+            "time": "03:30",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Gauge Young",
+            "team2": "Thiago Moises",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-gauge-young-thiago-moises-2026-04-19-03-30",
+            "startTimestamp": 1776558600000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:00 [UFC] MMA: Karine Silva vs Jasmine Jasudavicius [Sportsnet 360 CA]",
+            "matchstr": "Karine Silva vs Jasmine Jasudavicius",
+            "time": "04:00",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Karine Silva",
+            "team2": "Jasmine Jasudavicius",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-karine-silva-jasmine-jasudavicius-2026-04-19-04-00",
+            "startTimestamp": 1776560400000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:30 [UFC] MMA: Jai Herbert vs Mandel Nallo [Sportsnet 360 CA]",
+            "matchstr": "Jai Herbert vs Mandel Nallo",
+            "time": "04:30",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Jai Herbert",
+            "team2": "Mandel Nallo",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-jai-herbert-mandel-nallo-2026-04-19-04-30",
+            "startTimestamp": 1776562200000,
+            "duration": 180
+        },
+        {
+            "matchText": "05:00 [UFC] MMA: Charles Jourdain vs Kyler Phillips [Sportsnet 360 CA]",
+            "matchstr": "Charles Jourdain vs Kyler Phillips",
+            "time": "05:00",
+            "league": "UFC",
+            "sport": "MMA",
+            "team1": "Charles Jourdain",
+            "team2": "Kyler Phillips",
+            "channel": "Sportsnet 360 CA",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sportsnet 360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "CA",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "ufc-mma-charles-jourdain-kyler-phillips-2026-04-19-05-00",
+            "startTimestamp": 1776564000000,
+            "duration": 180
+        },
+        {
+            "matchText": "06:10 [AFL] Australian Footbal: Richmond Tigers vs North Melbourne Kangaroos [Fox Sports 2 US]",
+            "matchstr": "Richmond Tigers vs North Melbourne Kangaroos",
+            "time": "06:10",
+            "league": "AFL",
+            "sport": "Australian Footbal",
+            "team1": "Richmond Tigers",
+            "team2": "North Melbourne Kangaroos",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=82"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-footbal-richmond-tigers-north-melbourne-kangaroos-2026-04-19-06-10",
+            "startTimestamp": 1776568200000,
+            "duration": 180
+        },
+        {
+            "matchText": "10:10 [AFL] Australian Footbal: Fremantle Dockers vs West Coast Eagles [Fox Sports 2 US]",
+            "matchstr": "Fremantle Dockers vs West Coast Eagles",
+            "time": "10:10",
+            "league": "AFL",
+            "sport": "Australian Footbal",
+            "team1": "Fremantle Dockers",
+            "team2": "West Coast Eagles",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=82"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-footbal-fremantle-dockers-west-coast-eagles-2026-04-19-10-10",
+            "startTimestamp": 1776582600000,
+            "duration": 180
+        },
+        {
+            "matchText": "08:15 [AFL] Australian Footbal: Brisbane Lions vs Melbourne Demons [Fox Soccer Plus US]",
+            "matchstr": "Brisbane Lions vs Melbourne Demons",
+            "time": "08:15",
+            "league": "AFL",
+            "sport": "Australian Footbal",
+            "team1": "Brisbane Lions",
+            "team2": "Melbourne Demons",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-footbal-brisbane-lions-melbourne-demons-2026-04-19-08-15",
+            "startTimestamp": 1776575700000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:00 [Super League] Rugby: Castleford Tigers vs Wigan Warriors [Fox Soccer Plus US]",
+            "matchstr": "Castleford Tigers vs Wigan Warriors",
+            "time": "17:00",
+            "league": "Super League",
+            "sport": "Rugby",
+            "team1": "Castleford Tigers",
+            "team2": "Wigan Warriors",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=83"
+                    ]
+                }
+            ],
+            "slug": "super-league-rugby-castleford-tigers-wigan-warriors-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Canada Canadian Premier League] Supra du Quebec vs Atl. Ottawa [Fox Soccer Plus US]",
+            "matchstr": "Supra du Quebec vs Atl. Ottawa",
+            "time": "21:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Supra du Quebec",
+            "team2": "Atl. Ottawa",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://l2l2.link/ch?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-supra-du-quebec-atl-ottawa-2026-04-19-21-00",
+            "startTimestamp": 1776621600000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:30 [Argentina Primera Division] Independiente vs Defensa y Justicia [ESPN Premium Argentina ES]",
+            "matchstr": "Independiente vs Defensa y Justicia",
+            "time": "01:30",
+            "league": "Argentina Primera Division",
+            "sport": "Football",
+            "team1": "Independiente",
+            "team2": "Defensa y Justicia",
+            "channel": "ESPN Premium Argentina ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ESPN Premium Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-primera-division-football-independiente-defensa-y-justicia-2026-04-19-01-30",
+            "startTimestamp": 1776551400000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:45 [Argentina Primera Division] Argentinos Juniors vs Atletico Tucuman [TNT Sports Argentina ES]",
+            "matchstr": "Argentinos Juniors vs Atletico Tucuman",
+            "time": "03:45",
+            "league": "Argentina Primera Division",
+            "sport": "Football",
+            "team1": "Argentinos Juniors",
+            "team2": "Atletico Tucuman",
+            "channel": "TNT Sports Argentina ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-primera-division-football-argentinos-juniors-atletico-tucuman-2026-04-19-03-45",
+            "startTimestamp": 1776559500000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Argentina Primera Division] Aldosivi vs Racing Club [TNT Sports Argentina ES]",
+            "matchstr": "Aldosivi vs Racing Club",
+            "time": "19:30",
+            "league": "Argentina Primera Division",
+            "sport": "Football",
+            "team1": "Aldosivi",
+            "team2": "Racing Club",
+            "channel": "TNT Sports Argentina ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "TNT Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-primera-division-football-aldosivi-racing-club-2026-04-19-19-30",
+            "startTimestamp": 1776616200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:10 [Colombia Primera A] Deportes Tolima vs Deportivo Pereira [Win+ Futbol ES]",
+            "matchstr": "Deportes Tolima vs Deportivo Pereira",
+            "time": "02:10",
+            "league": "Colombia Primera A",
+            "sport": "Football",
+            "team1": "Deportes Tolima",
+            "team2": "Deportivo Pereira",
+            "channel": "Win+ Futbol ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Win+ Futbol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=85"
+                    ]
+                }
+            ],
+            "slug": "colombia-primera-a-football-deportes-tolima-deportivo-pereira-2026-04-19-02-10",
+            "startTimestamp": 1776553800000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:30 [Colombia Primera A] Fortaleza CEIF vs Rionegro Aguilas [Win+ Futbol ES]",
+            "matchstr": "Fortaleza CEIF vs Rionegro Aguilas",
+            "time": "04:30",
+            "league": "Colombia Primera A",
+            "sport": "Football",
+            "team1": "Fortaleza CEIF",
+            "team2": "Rionegro Aguilas",
+            "channel": "Win+ Futbol ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Win+ Futbol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=85"
+                    ]
+                }
+            ],
+            "slug": "colombia-primera-a-football-fortaleza-ceif-rionegro-aguilas-2026-04-19-04-30",
+            "startTimestamp": 1776562200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Colombia Primera A] Santa Fe vs Cucuta Deportivo [Win+ Futbol ES]",
+            "matchstr": "Santa Fe vs Cucuta Deportivo",
+            "time": "22:00",
+            "league": "Colombia Primera A",
+            "sport": "Football",
+            "team1": "Santa Fe",
+            "team2": "Cucuta Deportivo",
+            "channel": "Win+ Futbol ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Win+ Futbol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=85"
+                    ]
+                }
+            ],
+            "slug": "colombia-primera-a-football-santa-fe-cucuta-deportivo-2026-04-19-22-00",
+            "startTimestamp": 1776625200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Netherlands KNVB Beker] AZ vs NEC [ESPN NL]",
+            "matchstr": "AZ vs NEC",
+            "time": "19:00",
+            "league": "Netherlands KNVB Beker",
+            "sport": "Football",
+            "team1": "AZ",
+            "team2": "NEC",
+            "channel": "ESPN NL",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://l2l2.link/ch?id=88"
+                    ]
+                }
+            ],
+            "slug": "netherlands-knvb-beker-football-az-nec-2026-04-19-19-00",
+            "startTimestamp": 1776614400000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [EHF Champions League Women] Handball: Odense W vs Gyor W [Ziggo Sport 3 NL]",
+            "matchstr": "Odense W vs Gyor W",
+            "time": "17:00",
+            "league": "EHF Champions League Women",
+            "sport": "Handball",
+            "team1": "Odense W",
+            "team2": "Gyor W",
+            "channel": "Ziggo Sport 3 NL",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Ziggo Sport 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=89"
+                    ],
+                    "number": 89,
+                    "language": "NL",
+                    "links": [
+                        "https://l2l2.link/ch?id=89"
+                    ]
+                }
+            ],
+            "slug": "ehf-champions-league-women-handball-odense-w-gyor-w-2026-04-19-17-00",
+            "startTimestamp": 1776607200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Turkey Super Lig] Kas\u0131mpasa vs Alanyaspor [beIN Sports 2 TR]",
+            "matchstr": "Kas\u0131mpasa vs Alanyaspor",
+            "time": "14:30",
+            "league": "Turkey Super Lig",
+            "sport": "Football",
+            "team1": "Kas\u0131mpasa",
+            "team2": "Alanyaspor",
+            "channel": "beIN Sports 2 TR",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "beIN Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=92"
+                    ],
+                    "number": 92,
+                    "language": "TR",
+                    "links": [
+                        "https://l2l2.link/ch?id=92"
+                    ]
+                }
+            ],
+            "slug": "turkey-super-lig-football-kasimpasa-alanyaspor-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Germany 3. Liga] Energie Cottbus vs Rot-Weiss Essen [Magenta Sport DE]",
+            "matchstr": "Energie Cottbus vs Rot-Weiss Essen",
+            "time": "14:30",
+            "league": "Germany 3. Liga",
+            "sport": "Football",
+            "team1": "Energie Cottbus",
+            "team2": "Rot-Weiss Essen",
+            "channel": "Magenta Sport DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Magenta Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=97"
+                    ],
+                    "number": 97,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=97"
+                    ]
+                }
+            ],
+            "slug": "germany-3-liga-football-energie-cottbus-rot-weiss-essen-2026-04-19-14-30",
+            "startTimestamp": 1776598200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [Germany 3. Liga] Stuttgart II vs Erzgebirge Aue [Magenta Sport DE]",
+            "matchstr": "Stuttgart II vs Erzgebirge Aue",
+            "time": "17:30",
+            "league": "Germany 3. Liga",
+            "sport": "Football",
+            "team1": "Stuttgart II",
+            "team2": "Erzgebirge Aue",
+            "channel": "Magenta Sport DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Magenta Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=97"
+                    ],
+                    "number": 97,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=97"
+                    ]
+                }
+            ],
+            "slug": "germany-3-liga-football-stuttgart-ii-erzgebirge-aue-2026-04-19-17-30",
+            "startTimestamp": 1776609000000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Germany 3. Liga] Wehen Wiesbaden vs Waldhof Mannheim [Magenta Sport DE]",
+            "matchstr": "Wehen Wiesbaden vs Waldhof Mannheim",
+            "time": "20:00",
+            "league": "Germany 3. Liga",
+            "sport": "Football",
+            "team1": "Wehen Wiesbaden",
+            "team2": "Waldhof Mannheim",
+            "channel": "Magenta Sport DE",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Magenta Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=97"
+                    ],
+                    "number": 97,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=97"
+                    ]
+                }
+            ],
+            "slug": "germany-3-liga-football-wehen-wiesbaden-waldhof-mannheim-2026-04-19-20-00",
+            "startTimestamp": 1776618000000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:30 [Austria Bundesliga] Hartberg vs Rapid Wien [Sky Sport Austria 3 GB]",
+            "matchstr": "Hartberg vs Rapid Wien",
+            "time": "15:30",
+            "league": "Austria Bundesliga",
+            "sport": "Football",
+            "team1": "Hartberg",
+            "team2": "Rapid Wien",
+            "channel": "Sky Sport Austria 3 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Austria 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=98"
+                    ],
+                    "number": 98,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=98"
+                    ]
+                }
+            ],
+            "slug": "austria-bundesliga-football-hartberg-rapid-wien-2026-04-19-15-30",
+            "startTimestamp": 1776601800000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:30 [Austria Bundesliga] Austria Wien vs Salzburg [Sky Sport Austria 2 GB]",
+            "matchstr": "Austria Wien vs Salzburg",
+            "time": "15:30",
+            "league": "Austria Bundesliga",
+            "sport": "Football",
+            "team1": "Austria Wien",
+            "team2": "Salzburg",
+            "channel": "Sky Sport Austria 2 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Austria 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=99"
+                    ]
+                },
+                {
+                    "name": "Sky Sport Austria 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=100"
+                    ]
+                }
+            ],
+            "slug": "austria-bundesliga-football-austria-wien-salzburg-2026-04-19-15-30",
+            "startTimestamp": 1776601800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Austria Bundesliga] LASK Linz vs Sturm Graz [Sky Sport Austria 1 GB]",
+            "matchstr": "LASK Linz vs Sturm Graz",
+            "time": "18:00",
+            "league": "Austria Bundesliga",
+            "sport": "Football",
+            "team1": "LASK Linz",
+            "team2": "Sturm Graz",
+            "channel": "Sky Sport Austria 1 GB",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "Sky Sport Austria 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=100"
+                    ]
+                }
+            ],
+            "slug": "austria-bundesliga-football-lask-linz-sturm-graz-2026-04-19-18-00",
+            "startTimestamp": 1776610800000,
             "duration": 120
         }
     ]
