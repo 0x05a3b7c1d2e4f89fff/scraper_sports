@@ -49,8 +49,6 @@ https://l2l2.link/ch?id=27
 https://l2l2.link/ch?id=28
 #EXTINF:-1 tvg-id="euroleague-basketball-barcelona-fc-bayern-munchen-2026-04-17-21-30" group-title="Euroleague",Barcelona vs FC Bayern Munchen (Magenta Sport)
 https://l2l2.link/ch?id=95
-#EXTINF:-1 tvg-id="europe-uefa-youth-league-football-benfica-u19-club-brugge-u19-2026-04-17-15-00" group-title="Europe UEFA Youth League",Benfica U19 vs Club Brugge U19 (M. Liga de Campeones)
-https://l2l2.link/ch?id=29
 #EXTINF:-1 tvg-id="europe-uefa-youth-league-football-real-madrid-u19-psg-u19-2026-04-17-19-45" group-title="Europe UEFA Youth League",Real Madrid U19 vs PSG U19 (M. Liga de Campeones)
 https://l2l2.link/ch?id=29
 #EXTINF:-1 tvg-id="africa-caf-confederation-cup-football-zamalek-cr-belouizdad-2026-04-17-19-00" group-title="Africa CAF Confederation Cup",Zamalek vs CR Belouizdad (beIN SPORTS)
@@ -349,7 +347,11 @@ https://l2l2.link/ch?id=40
 https://l2l2.link/ch?id=41
 #EXTINF:-1 tvg-id="czech-republic-1-liga-football-zlin-teplice-2026-04-18-16-00" group-title="Czech Republic 1. liga",Zlin vs Teplice (Oneplay Sport 2)
 https://l2l2.link/ch?id=42
-#EXTINF:-1 tvg-id="czech-republic-1-liga-football-slovan-liberec-mlada-boleslav-2026-04-18-16-00" group-title="Czech Republic 1. liga",Slovan Liberec vs Mlada Boleslav (Oneplay Sport 3)
+#EXTINF:-1 tvg-id="czech-republic-extraliga-hockey-dynamo-pardubice-ocelari-trinec-2026-04-18-18-30" group-title="Czech Republic Extraliga",Dynamo Pardubice vs Ocelari Trinec (Oneplay Sport)
+https://l2l2.link/ch?id=42
+#EXTINF:-1 tvg-id="czech-republic-1-liga-football-slovan-liberec-mlada-boleslav-2026-04-18-16-00" group-title="Czech Republic 1. liga",Slovan Liberec vs Mladá Boleslav (Oneplay Sport 3)
+https://l2l2.link/ch?id=43
+#EXTINF:-1 tvg-id="czech-republic-extraliga-hockey-litvinov-dukla-jihlava-2026-04-18-18-30" group-title="Czech Republic Extraliga",Litvinov vs Dukla Jihlava (Oneplay Sport)
 https://l2l2.link/ch?id=43
 #EXTINF:-1 tvg-id="czech-republic-1-liga-football-dukla-praha-karvina-2026-04-18-16-00" group-title="Czech Republic 1. liga",Dukla Praha vs Karvina (Oneplay Sport)
 https://l2l2.link/ch?id=44
@@ -493,6 +495,8 @@ https://l2l2.link/ch?id=50
 https://l2l2.link/ch?id=78
 #EXTINF:-1 tvg-id="nhl-hockey-los-angeles-kings-colorado-avalanche-2026-04-19-22-00" group-title="NHL",Los Angeles Kings vs Colorado Avalanche (TNT)
 https://l2l2.link/ch?id=4
+#EXTINF:-1 tvg-id="nhl-hockey-los-angeles-kings-colorado-avalanche-2026-04-19-22-00" group-title="NHL",Los Angeles Kings vs Colorado Avalanche (Viaplay Sport)
+https://l2l2.link/ch?id=80
 #EXTINF:-1 tvg-id="nba-basketball-atlanta-hawks-new-york-knicks-2026-04-19-01-00" group-title="NBA",Atlanta Hawks vs New York Knicks (NBA League Pass)
 https://l2l2.link/ch?id=5
 #EXTINF:-1 tvg-id="england-premier-league-football-aston-villa-sunderland-2026-04-19-16-00" group-title="England Premier League",Aston Villa vs Sunderland (Sky Sport 5)
@@ -501,10 +505,6 @@ https://l2l2.link/ch?id=5
 https://l2l2.link/ch?id=16
 #EXTINF:-1 tvg-id="england-premier-league-football-aston-villa-sunderland-2026-04-19-16-00" group-title="England Premier League",Aston Villa vs Sunderland (V Sport Football)
 https://l2l2.link/ch?id=79
-#EXTINF:-1 tvg-id="indycar-motorsport-acura-grand-prix-of-long-beach-2026-04-19-01-30" group-title="IndyCar",Acura Grand Prix of Long Beach (Sky Sports F1)
-https://l2l2.link/ch?id=6
-#EXTINF:-1 tvg-id="indycar-motorsport-acura-grand-prix-of-long-beach-2026-04-19-01-30" group-title="IndyCar",Acura Grand Prix of Long Beach (Sky Sports F1)
-https://l2l2.link/ch?id=11
 #EXTINF:-1 tvg-id="england-championship-football-ipswich-town-middlesbrough-2026-04-19-14-00" group-title="England Championship",Ipswich Town vs Middlesbrough (Sky Sports Football)
 https://l2l2.link/ch?id=6
 #EXTINF:-1 tvg-id="england-premier-league-football-nottingham-forest-burnley-2026-04-19-16-00" group-title="England Premier League",Nottingham Forest vs Burnley (Sky Sport 7)
@@ -619,7 +619,7 @@ https://l2l2.link/ch?id=33
 https://l2l2.link/ch?id=47
 #EXTINF:-1 tvg-id="spain-segunda-division-football-eibar-huesca-2026-04-19-19-30" group-title="Spain Segunda Division",Eibar vs Huesca (LALIGA TV Hypermotion 2)
 https://l2l2.link/ch?id=27
-#EXTINF:-1 tvg-id="fighting-boxing-jose-miguel-borrego-marioperez-2026-04-19-05-00" group-title="Fighting",Jose Miguel Borrego vs MarioPerez (ESPN)
+#EXTINF:-1 tvg-id="fighting-boxing-jose-miguel-borrego-mario-perez-2026-04-19-05-00" group-title="Fighting",Jose Miguel Borrego vs Mario Perez (ESPN)
 https://l2l2.link/ch?id=28
 #EXTINF:-1 tvg-id="mexico-liga-mx-football-cruz-azul-tijuana-2026-04-19-02-00" group-title="Mexico Liga MX",Cruz Azul vs Tijuana (TUDN)
 https://l2l2.link/ch?id=30
@@ -694,6 +694,8 @@ https://l2l2.link/ch?id=41
 #EXTINF:-1 tvg-id="czech-republic-1-liga-football-viktoria-plzen-fk-pardubice-2026-04-19-19-30" group-title="Czech Republic 1. liga",Viktoria Plzen vs FK Pardubice (Oneplay Sport 1)
 https://l2l2.link/ch?id=41
 #EXTINF:-1 tvg-id="czech-republic-1-liga-football-sigma-olomouc-slovacko-2026-04-19-14-00" group-title="Czech Republic 1. liga",Sigma Olomouc vs Slovacko (Oneplay Sport 3)
+https://l2l2.link/ch?id=43
+#EXTINF:-1 tvg-id="czech-republic-extraliga-hockey-dynamo-pardubice-ocelari-trinec-2026-04-19-18-00" group-title="Czech Republic Extraliga",Dynamo Pardubice vs Ocelari Trinec (Oneplay Sport)
 https://l2l2.link/ch?id=43
 #EXTINF:-1 tvg-id="belgium-pro-league-football-raal-la-louviere-zulte-waregem-2026-04-19-20-15" group-title="Belgium Pro League",RAAL La Louviere vs Zulte-Waregem (DAZN)
 https://l2l2.link/ch?id=46
@@ -803,7 +805,7 @@ https://l2l2.link/ch?id=97
 https://l2l2.link/ch?id=98
 #EXTINF:-1 tvg-id="austria-bundesliga-football-austria-wien-salzburg-2026-04-19-15-30" group-title="Austria Bundesliga",Austria Wien vs Salzburg (Sky Sport Austria 2)
 https://l2l2.link/ch?id=99
-#EXTINF:-1 tvg-id="austria-bundesliga-football-austria-wien-salzburg-2026-04-19-15-30" group-title="Austria Bundesliga",Austria Wien vs Salzburg (Sky Sport Austria 1)
+#EXTINF:-1 tvg-id="austria-bundesliga-football-simulcast-2026-04-19-15-30" group-title="Austria Bundesliga",Simulcast (Sky Sport Austria 1)
 https://l2l2.link/ch?id=100
 #EXTINF:-1 tvg-id="austria-bundesliga-football-lask-linz-sturm-graz-2026-04-19-18-00" group-title="Austria Bundesliga",LASK Linz vs Sturm Graz (Sky Sport Austria 1)
 https://l2l2.link/ch?id=100
