@@ -749,34 +749,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Greece Super League] OFI vs Levadiakos [Cosmote Sport 2 GR]",
-            "matchstr": "OFI vs Levadiakos",
-            "time": "18:00",
-            "league": "Greece Super League",
-            "sport": "Football",
-            "team1": "OFI",
-            "team2": "Levadiakos",
-            "channel": "Cosmote Sport 2 GR",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Cosmote Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=24"
-                    ],
-                    "number": 24,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/ch?id=24"
-                    ]
-                }
-            ],
-            "slug": "greece-super-league-football-ofi-levadiakos-2026-04-18-18-00",
-            "startTimestamp": 1776524400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Greece Super League] Aris vs Volos NFC [Nova Sports 2 GR]",
             "matchstr": "Aris vs Volos NFC",
             "time": "19:00",
@@ -1009,56 +981,6 @@
             ],
             "slug": "united-rugby-championship-rugby-benetton-rugby-munster-2026-04-18-21-45",
             "startTimestamp": 1776537900000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [France Ligue 1] Lorient vs Olympique Marseille [beIN SPORTS US]",
-            "matchstr": "Lorient vs Olympique Marseille",
-            "time": "18:00",
-            "league": "France Ligue 1",
-            "sport": "Football",
-            "team1": "Lorient",
-            "team2": "Olympique Marseille",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=40"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=51"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-1-football-lorient-olympique-marseille-2026-04-18-18-00",
-            "startTimestamp": 1776524400000,
             "duration": 120
         },
         {
@@ -1319,34 +1241,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:30 [Poland Ekstraklasa] Gornik Zabrze vs Korona Kielce [Canal+ Sport 3 PL]",
-            "matchstr": "Gornik Zabrze vs Korona Kielce",
-            "time": "18:30",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Gornik Zabrze",
-            "team2": "Korona Kielce",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-gornik-zabrze-korona-kielce-2026-04-18-18-30",
-            "startTimestamp": 1776526200000,
-            "duration": 120
-        },
-        {
             "matchText": "21:15 [Poland Ekstraklasa] Pogon Szczecin vs Lech Poznan [Canal+ Sport 3 PL]",
             "matchstr": "Pogon Szczecin vs Lech Poznan",
             "time": "21:15",
@@ -1439,34 +1333,6 @@
             ],
             "slug": "switzerland-national-league-hockey-hc-davos-hc-fribourg-gotteron-2026-04-18-21-00",
             "startTimestamp": 1776535200000,
-            "duration": 180
-        },
-        {
-            "matchText": "17:00 [Finland Liiga] Hockey: SaiPa vs Kookoo [MTV Urheilu 3 FI]",
-            "matchstr": "SaiPa vs Kookoo",
-            "time": "17:00",
-            "league": "Finland Liiga",
-            "sport": "Hockey",
-            "team1": "SaiPa",
-            "team2": "Kookoo",
-            "channel": "MTV Urheilu 3 FI",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "MTV Urheilu 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "FI",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "finland-liiga-hockey-saipa-kookoo-2026-04-18-17-00",
-            "startTimestamp": 1776520800000,
             "duration": 180
         },
         {
@@ -1607,90 +1473,6 @@
             ],
             "slug": "turkey-super-lig-football-genclerbirligi-galatasaray-2026-04-18-20-00",
             "startTimestamp": 1776531600000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] WSG Tirol vs Rheindorf Altach [Sky Sport Austria 3 AT]",
-            "matchstr": "WSG Tirol vs Rheindorf Altach",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "WSG Tirol",
-            "team2": "Rheindorf Altach",
-            "channel": "Sky Sport Austria 3 AT",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=98"
-                    ],
-                    "number": 98,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=98"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-wsg-tirol-rheindorf-altach-2026-04-18-18-00",
-            "startTimestamp": 1776524400000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] Wolfsberger AC vs Blau-Wei\u00df Linz [Sky Sport Austria 2 AT]",
-            "matchstr": "Wolfsberger AC vs Blau-Wei\u00df Linz",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Wolfsberger AC",
-            "team2": "Blau-Wei\u00df Linz",
-            "channel": "Sky Sport Austria 2 AT",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=99"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-wolfsberger-ac-blau-weiss-linz-2026-04-18-18-00",
-            "startTimestamp": 1776524400000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] Simulcast [Sky Sport Austria 1 AT]",
-            "matchstr": "Simulcast",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=100"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-simulcast-2026-04-18-18-00",
-            "startTimestamp": 1776524400000,
             "duration": 120
         },
         {
