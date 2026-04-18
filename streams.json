@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "09:00 [AFL] Australian Football: Hawthorn vs Port Adelaide [TNT Sports 1 GB]",
-            "matchstr": "Hawthorn vs Port Adelaide",
-            "time": "09:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Hawthorn",
-            "team2": "Port Adelaide",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-hawthorn-port-adelaide-2026-04-18-09-00",
-            "startTimestamp": 1776492000000,
-            "duration": 180
-        },
-        {
             "matchText": "14:30 [England Premier League] Brentford vs Fulham [TNT Sports 1 GB]",
             "matchstr": "Brentford vs Fulham",
             "time": "14:30",
@@ -262,45 +223,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [Australia A-League] Brisbane Roar vs Melbourne City [TNT Sports 2 GB]",
-            "matchstr": "Brisbane Roar vs Melbourne City",
-            "time": "10:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Brisbane Roar",
-            "team2": "Melbourne City",
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-brisbane-roar-melbourne-city-2026-04-18-10-00",
-            "startTimestamp": 1776495600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [England Premiership] Rugby: Bath vs Harlequins [TNT Sports 2 GB]",
             "matchstr": "Bath vs Harlequins",
             "time": "19:30",
@@ -410,34 +332,6 @@
             ],
             "slug": "usa-canada-major-league-soccer-football-colorado-rapids-inter-miami-2026-04-18-23-30",
             "startTimestamp": 1776544200000,
-            "duration": 120
-        },
-        {
-            "matchText": "10:30 [WorldSBK] Motorsport: WorldSBK Round 3 Netherlands [TNT Sports 4 GB]",
-            "matchstr": "WorldSBK Round 3 Netherlands",
-            "time": "10:30",
-            "league": "WorldSBK",
-            "sport": "Motorsport",
-            "team1": "WorldSBK Round 3 Netherlands",
-            "team2": null,
-            "channel": "TNT Sports 4 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "worldsbk-motorsport-worldsbk-round-3-netherlands-2026-04-18-10-30",
-            "startTimestamp": 1776497400000,
             "duration": 120
         },
         {
