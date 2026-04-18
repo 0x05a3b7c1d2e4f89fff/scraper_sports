@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "01:30 [MLB] Baseball: Atlanta Braves vs Philadelphia Phillies [TNT Sports 1 GB]",
-            "matchstr": "Atlanta Braves vs Philadelphia Phillies",
-            "time": "01:30",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Atlanta Braves",
-            "team2": "Philadelphia Phillies",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-atlanta-braves-philadelphia-phillies-2026-04-18-01-30",
-            "startTimestamp": 1776465000000,
-            "duration": 180
-        },
-        {
             "matchText": "06:00 [AFL] Australian Football: Gold Coast Suns vs Essendon [TNT Sports 1 GB]",
             "matchstr": "Gold Coast Suns vs Essendon",
             "time": "06:00",
@@ -327,34 +299,6 @@
             "slug": "england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00",
             "startTimestamp": 1776538800000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [NBA] Basketball: Charlotte Hornets vs Orlando Magic [NBA League Pass US]",
-            "matchstr": "Charlotte Hornets vs Orlando Magic",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Charlotte Hornets",
-            "team2": "Orlando Magic",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-charlotte-hornets-orlando-magic-2026-04-18-02-30",
-            "startTimestamp": 1776468600000,
-            "duration": 180
         },
         {
             "matchText": "08:00 [Australia A-League] Wellington Phoenix vs Western Sydney Wanderers [TNT Sports 2 GB]",
@@ -730,34 +674,6 @@
             "slug": "fim-motorsport-fim-endurance-world-championship-2026-04-18-17-30",
             "startTimestamp": 1776522600000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [PWHL] Hockey: Boston vs Montreal [TSN1 CA]",
-            "matchstr": "Boston vs Montreal",
-            "time": "02:00",
-            "league": "PWHL",
-            "sport": "Hockey",
-            "team1": "Boston",
-            "team2": "Montreal",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "pwhl-hockey-boston-montreal-2026-04-18-02-00",
-            "startTimestamp": 1776466800000,
-            "duration": 180
         },
         {
             "matchText": "14:30 [England Championship] Portsmouth vs Leicester City [Sky Sports Football GB]",
@@ -3483,34 +3399,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [IndyCar] Motorsport: Acura Grand Prix of Long Beach [Fox Sports 1 US]",
-            "matchstr": "Acura Grand Prix of Long Beach",
-            "time": "01:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Acura Grand Prix of Long Beach",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-acura-grand-prix-of-long-beach-2026-04-18-01-00",
-            "startTimestamp": 1776463200000,
-            "duration": 120
-        },
-        {
             "matchText": "08:00 [NRL] Rugby: Gold Coast Titans vs New Zealand Warriors [Fox Sports 2 US]",
             "matchstr": "Gold Coast Titans vs New Zealand Warriors",
             "time": "08:00",
@@ -3595,34 +3483,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [Argentina Primera Division] Union Santa Fe vs Newell's Old Boys [ESPN Premium Argentina ES]",
-            "matchstr": "Union Santa Fe vs Newell's Old Boys",
-            "time": "02:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Union Santa Fe",
-            "team2": "Newell's Old Boys",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-union-santa-fe-newell-s-old-boys-2026-04-18-02-30",
-            "startTimestamp": 1776468600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Argentina Primera Division] Gimnasia La Plata vs Estudiantes Rio Cuarto [ES]",
             "matchstr": "Gimnasia La Plata vs Estudiantes Rio Cuarto",
             "time": "21:00",
@@ -3676,34 +3536,6 @@
             ],
             "slug": "argentina-primera-division-football-instituto-estudiantes-2026-04-18-23-15",
             "startTimestamp": 1776543300000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:20 [Colombia Primera A] Jaguares de Cordoba vs Deportivo Pasto [Win Sport ES]",
-            "matchstr": "Jaguares de Cordoba vs Deportivo Pasto",
-            "time": "02:20",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Jaguares de Cordoba",
-            "team2": "Deportivo Pasto",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-jaguares-de-cordoba-deportivo-pasto-2026-04-18-02-20",
-            "startTimestamp": 1776468000000,
             "duration": 120
         },
         {
@@ -3761,34 +3593,6 @@
             "slug": "light-heavyweight-boxing-ben-whittaker-braian-nahuel-suarez-2026-04-18-21-00",
             "startTimestamp": 1776535200000,
             "duration": 180
-        },
-        {
-            "matchText": "03:00 [UFL] American Football: Dallas Renegades vs Columbus Aviators [Fox Deportes ES]",
-            "matchstr": "Dallas Renegades vs Columbus Aviators",
-            "time": "03:00",
-            "league": "UFL",
-            "sport": "American Football",
-            "team1": "Dallas Renegades",
-            "team2": "Columbus Aviators",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "ufl-american-football-dallas-renegades-columbus-aviators-2026-04-18-03-00",
-            "startTimestamp": 1776470400000,
-            "duration": 120
         },
         {
             "matchText": "14:30 [Turkey Super Lig] Fatih Karagumruk vs Eyupspor [beIN Sports TR]",
