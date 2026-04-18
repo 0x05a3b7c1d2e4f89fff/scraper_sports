@@ -424,34 +424,6 @@
             "duration": 180
         },
         {
-            "matchText": "04:00 [Supercars] Motorsport: Supercars Championship [TNT Sports 3 GB]",
-            "matchstr": "Supercars Championship",
-            "time": "04:00",
-            "league": "Supercars",
-            "sport": "Motorsport",
-            "team1": "Supercars Championship",
-            "team2": null,
-            "channel": "TNT Sports 3 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "supercars-motorsport-supercars-championship-2026-04-18-04-00",
-            "startTimestamp": 1776474000000,
-            "duration": 120
-        },
-        {
             "matchText": "07:00 [Supercars] Motorsport: Supercars Championship [TNT Sports 3 GB]",
             "matchstr": "Supercars Championship",
             "time": "07:00",
@@ -534,34 +506,6 @@
             "slug": "usa-canada-major-league-soccer-football-colorado-rapids-inter-miami-2026-04-18-23-30",
             "startTimestamp": 1776544200000,
             "duration": 120
-        },
-        {
-            "matchText": "05:00 [NBA] Basketball: Golden State vs Phoenix Suns [NBA League Pass US]",
-            "matchstr": "Golden State vs Phoenix Suns",
-            "time": "05:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Golden State",
-            "team2": "Phoenix Suns",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-golden-state-phoenix-suns-2026-04-18-05-00",
-            "startTimestamp": 1776477600000,
-            "duration": 180
         },
         {
             "matchText": "10:30 [WorldSBK] Motorsport: WorldSBK Round 3 Netherlands [TNT Sports 4 GB]",
@@ -965,34 +909,6 @@
             "slug": "nba-basketball-minnesota-timberwolves-denver-nuggets-2026-04-18-22-30",
             "startTimestamp": 1776540600000,
             "duration": 180
-        },
-        {
-            "matchText": "04:00 [International Friendly Women] United States vs Japan [TNT US]",
-            "matchstr": "United States vs Japan",
-            "time": "04:00",
-            "league": "International Friendly Women",
-            "sport": "Football",
-            "team1": "United States",
-            "team2": "Japan",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=8"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-women-football-united-states-japan-2026-04-18-04-00",
-            "startTimestamp": 1776474000000,
-            "duration": 120
         },
         {
             "matchText": "14:30 [England Championship] Millwall vs Queens Park Rangers [CBS Sports Network US]",
@@ -1973,34 +1889,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [Mexico Liga MX] Atletico San Luis vs Pumas UNAM [ESPN2 Mexico ES]",
-            "matchstr": "Atletico San Luis vs Pumas UNAM",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Atletico San Luis",
-            "team2": "Pumas UNAM",
-            "channel": "ESPN2 Mexico ES",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "ESPN2 Mexico",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-atletico-san-luis-pumas-unam-2026-04-18-04-00",
-            "startTimestamp": 1776474000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain Segunda Division] Cultural Leonesa vs Cordoba [LALIGA TV Hypermotion 2 ES]",
             "matchstr": "Cultural Leonesa vs Cordoba",
             "time": "19:30",
@@ -2027,90 +1915,6 @@
             "slug": "spain-segunda-division-football-cultural-leonesa-cordoba-2026-04-18-19-30",
             "startTimestamp": 1776529800000,
             "duration": 120
-        },
-        {
-            "matchText": "04:00 [Mexico Liga MX] Mazatlan vs Queretaro [TUDN ES]",
-            "matchstr": "Mazatlan vs Queretaro",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Mazatlan",
-            "team2": "Queretaro",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-mazatlan-queretaro-2026-04-18-04-00",
-            "startTimestamp": 1776474000000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:30 [USA/Canada Major League Soccer] Vancouver Whitecaps vs Sporting KC [TSN1 CA]",
-            "matchstr": "Vancouver Whitecaps vs Sporting KC",
-            "time": "05:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Vancouver Whitecaps",
-            "team2": "Sporting KC",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-vancouver-whitecaps-sporting-kc-2026-04-18-05-30",
-            "startTimestamp": 1776479400000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [Super Featherweight] Boxing: Alycia Baumgardner vs Bo Mi Re Shin [ESPN US]",
-            "matchstr": "Alycia Baumgardner vs Bo Mi Re Shin",
-            "time": "05:00",
-            "league": "Super Featherweight",
-            "sport": "Boxing",
-            "team1": "Alycia Baumgardner",
-            "team2": "Bo Mi Re Shin",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "super-featherweight-boxing-alycia-baumgardner-bo-mi-re-shin-2026-04-18-05-00",
-            "startTimestamp": 1776477600000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [England Championship] Swansea City vs Southampton [Paramount+ US]",
@@ -3536,34 +3340,6 @@
             ],
             "slug": "argentina-primera-division-football-instituto-estudiantes-2026-04-18-23-15",
             "startTimestamp": 1776543300000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [Colombia Primera A] Boyaca Chico vs Deportivo Cali [Win Sport ES]",
-            "matchstr": "Boyaca Chico vs Deportivo Cali",
-            "time": "04:30",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Boyaca Chico",
-            "team2": "Deportivo Cali",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-boyaca-chico-deportivo-cali-2026-04-18-04-30",
-            "startTimestamp": 1776475800000,
             "duration": 120
         },
         {
