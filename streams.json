@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:00 [MLB] Baseball: Detroit Tigers vs Boston Red Sox [TNT Sports 2 GB]",
-            "matchstr": "Detroit Tigers vs Boston Red Sox",
-            "time": "23:00",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Detroit Tigers",
-            "team2": "Boston Red Sox",
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-detroit-tigers-boston-red-sox-2026-04-18-23-00",
-            "startTimestamp": 1776542400000,
-            "duration": 180
-        },
-        {
             "matchText": "00:00 [UFC] MMA: Charles Jourdain vs Kyler Phillips [TNT Sports 1 GB]",
             "matchstr": "Charles Jourdain vs Kyler Phillips",
             "time": "00:00",
@@ -1222,34 +1194,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Brazil Brasileirao] Vasco da Gama vs Sao Paulo [Sportdigital FUSSBALL DE]",
-            "matchstr": "Vasco da Gama vs Sao Paulo",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Vasco da Gama",
-            "team2": "Sao Paulo",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-vasco-da-gama-sao-paulo-2026-04-19-00-30",
-            "startTimestamp": 1776547800000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [Argentina Primera Division] River Plate vs Boca Juniors [Sportdigital FUSSBALL DE]",
             "matchstr": "River Plate vs Boca Juniors",
             "time": "23:00",
@@ -1286,34 +1230,6 @@
             ],
             "slug": "argentina-primera-division-football-river-plate-boca-juniors-2026-04-19-23-00",
             "startTimestamp": 1776628800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Chapecoense vs Botafogo [Canal 11 PT]",
-            "matchstr": "Chapecoense vs Botafogo",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Chapecoense",
-            "team2": "Botafogo",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=21"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-chapecoense-botafogo-2026-04-19-00-30",
-            "startTimestamp": 1776547800000,
             "duration": 120
         },
         {
