@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "06:00 [AFL] Australian Football: Gold Coast Suns vs Essendon [TNT Sports 1 GB]",
-            "matchstr": "Gold Coast Suns vs Essendon",
-            "time": "06:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Gold Coast Suns",
-            "team2": "Essendon",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-gold-coast-suns-essendon-2026-04-18-06-00",
-            "startTimestamp": 1776481200000,
-            "duration": 180
-        },
-        {
             "matchText": "09:00 [AFL] Australian Football: Hawthorn vs Port Adelaide [TNT Sports 1 GB]",
             "matchstr": "Hawthorn vs Port Adelaide",
             "time": "09:00",
@@ -301,34 +262,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:00 [Australia A-League] Wellington Phoenix vs Western Sydney Wanderers [TNT Sports 2 GB]",
-            "matchstr": "Wellington Phoenix vs Western Sydney Wanderers",
-            "time": "08:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Wellington Phoenix",
-            "team2": "Western Sydney Wanderers",
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-wellington-phoenix-western-sydney-wanderers-2026-04-18-08-00",
-            "startTimestamp": 1776488400000,
-            "duration": 120
-        },
-        {
             "matchText": "10:00 [Australia A-League] Brisbane Roar vs Melbourne City [TNT Sports 2 GB]",
             "matchstr": "Brisbane Roar vs Melbourne City",
             "time": "10:00",
@@ -422,34 +355,6 @@
             "slug": "mlb-baseball-detroit-tigers-boston-red-sox-2026-04-18-23-00",
             "startTimestamp": 1776542400000,
             "duration": 180
-        },
-        {
-            "matchText": "07:00 [Supercars] Motorsport: Supercars Championship [TNT Sports 3 GB]",
-            "matchstr": "Supercars Championship",
-            "time": "07:00",
-            "league": "Supercars",
-            "sport": "Motorsport",
-            "team1": "Supercars Championship",
-            "team2": null,
-            "channel": "TNT Sports 3 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "supercars-motorsport-supercars-championship-2026-04-18-07-00",
-            "startTimestamp": 1776484800000,
-            "duration": 120
         },
         {
             "matchText": "20:00 [USA/Canada Major League Soccer] Toronto FC vs Austin [MLS Season Pass US]",
@@ -1240,6 +1145,34 @@
             "duration": 120
         },
         {
+            "matchText": "14:00 [Germany Bundesliga 2] Simulcast [Sky Sport Bundesliga 2 DE]",
+            "matchstr": "Simulcast",
+            "time": "14:00",
+            "league": "Germany Bundesliga 2",
+            "sport": "Football",
+            "team1": "Simulcast",
+            "team2": null,
+            "channel": "Sky Sport Bundesliga 2 DE",
+            "important": false,
+            "matchDate": "2026-04-18",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=12"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-2-football-simulcast-2026-04-18-14-00",
+            "startTimestamp": 1776510000000,
+            "duration": 120
+        },
+        {
             "matchText": "16:30 [Germany Bundesliga] Union Berlin vs Wolfsburg [Sky Sport Bundesliga 2 DE]",
             "matchstr": "Union Berlin vs Wolfsburg",
             "time": "16:30",
@@ -1296,19 +1229,19 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [Germany Bundesliga 2] Magdeburg vs Fortuna Dusseldorf [Sky Sport Bundesliga 2 DE]",
+            "matchText": "14:00 [Germany Bundesliga 2] Magdeburg vs Fortuna Dusseldorf [Sky Sport Bundesliga 3 DE]",
             "matchstr": "Magdeburg vs Fortuna Dusseldorf",
             "time": "14:00",
             "league": "Germany Bundesliga 2",
             "sport": "Football",
             "team1": "Magdeburg",
             "team2": "Fortuna Dusseldorf",
-            "channel": "Sky Sport Bundesliga 2 DE",
+            "channel": "Sky Sport Bundesliga 3 DE",
             "important": false,
             "matchDate": "2026-04-18",
             "channels": [
                 {
-                    "name": "Sky Sport Bundesliga 2",
+                    "name": "Sky Sport Bundesliga 3",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=13"
                     ],
@@ -3200,34 +3133,6 @@
             ],
             "slug": "england-championship-football-wrexham-stoke-city-2026-04-18-17-00",
             "startTimestamp": 1776520800000,
-            "duration": 120
-        },
-        {
-            "matchText": "08:00 [NRL] Rugby: Gold Coast Titans vs New Zealand Warriors [Fox Sports 2 US]",
-            "matchstr": "Gold Coast Titans vs New Zealand Warriors",
-            "time": "08:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Gold Coast Titans",
-            "team2": "New Zealand Warriors",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-gold-coast-titans-new-zealand-warriors-2026-04-18-08-00",
-            "startTimestamp": 1776488400000,
             "duration": 120
         },
         {

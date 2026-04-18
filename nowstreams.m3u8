@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="afl-australian-football-gold-coast-suns-essendon-2026-04-18-06-00" group-title="AFL",Gold Coast Suns vs Essendon (TNT Sports 1)
-https://l2l2.link/ch?id=1
-#EXTINF:-1 tvg-id="afl-australian-football-gold-coast-suns-essendon-2026-04-18-06-00" group-title="AFL",Gold Coast Suns vs Essendon (Fox Soccer Plus)
-https://l2l2.link/ch?id=83
 #EXTINF:-1 tvg-id="afl-australian-football-hawthorn-port-adelaide-2026-04-18-09-00" group-title="AFL",Hawthorn vs Port Adelaide (TNT Sports 1)
 https://l2l2.link/ch?id=1
 #EXTINF:-1 tvg-id="afl-australian-football-hawthorn-port-adelaide-2026-04-18-09-00" group-title="AFL",Hawthorn vs Port Adelaide (Fox Soccer Plus)
@@ -35,8 +31,6 @@ https://l2l2.link/ch?id=30
 https://l2l2.link/ch?id=50
 #EXTINF:-1 tvg-id="england-premier-league-football-chelsea-manchester-united-2026-04-18-22-00" group-title="England Premier League",Chelsea vs Manchester United (V Sport Premium)
 https://l2l2.link/ch?id=78
-#EXTINF:-1 tvg-id="australia-a-league-football-wellington-phoenix-western-sydney-wanderers-2026-04-18-08-00" group-title="Australia A-League",Wellington Phoenix vs Western Sydney Wanderers (TNT Sports 2)
-https://l2l2.link/ch?id=2
 #EXTINF:-1 tvg-id="australia-a-league-football-brisbane-roar-melbourne-city-2026-04-18-10-00" group-title="Australia A-League",Brisbane Roar vs Melbourne City (TNT Sports 2)
 https://l2l2.link/ch?id=2
 #EXTINF:-1 tvg-id="australia-a-league-football-brisbane-roar-melbourne-city-2026-04-18-10-00" group-title="Australia A-League",Brisbane Roar vs Melbourne City (Sportdigital FUSSBALL)
@@ -45,8 +39,6 @@ https://l2l2.link/ch?id=19
 https://l2l2.link/ch?id=2
 #EXTINF:-1 tvg-id="mlb-baseball-detroit-tigers-boston-red-sox-2026-04-18-23-00" group-title="MLB",Detroit Tigers vs Boston Red Sox (TNT Sports 2)
 https://l2l2.link/ch?id=2
-#EXTINF:-1 tvg-id="supercars-motorsport-supercars-championship-2026-04-18-07-00" group-title="Supercars",Supercars Championship (TNT Sports 3)
-https://l2l2.link/ch?id=3
 #EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-toronto-fc-austin-2026-04-18-20-00" group-title="USA/Canada Major League Soccer",Toronto FC vs Austin (MLS Season Pass)
 https://l2l2.link/ch?id=3
 #EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-colorado-rapids-inter-miami-2026-04-18-23-30" group-title="USA/Canada Major League Soccer",Colorado Rapids vs Inter Miami (MLS Season Pass)
@@ -113,11 +105,13 @@ https://l2l2.link/ch?id=71
 https://l2l2.link/ch?id=11
 #EXTINF:-1 tvg-id="germany-bundesliga-football-eintracht-frankfurt-rb-leipzig-2026-04-18-19-30" group-title="Germany Bundesliga",Eintracht Frankfurt vs RB Leipzig (Viaplay Sport)
 https://l2l2.link/ch?id=80
+#EXTINF:-1 tvg-id="germany-bundesliga-2-football-simulcast-2026-04-18-14-00" group-title="Germany Bundesliga 2",Simulcast (Sky Sport Bundesliga 2)
+https://l2l2.link/ch?id=12
 #EXTINF:-1 tvg-id="germany-bundesliga-football-union-berlin-wolfsburg-2026-04-18-16-30" group-title="Germany Bundesliga",Union Berlin vs Wolfsburg (Sky Sport Bundesliga 2)
 https://l2l2.link/ch?id=12
 #EXTINF:-1 tvg-id="germany-bundesliga-2-football-hannover-96-paderborn-2026-04-18-21-30" group-title="Germany Bundesliga 2",Hannover 96 vs Paderborn (Sky Sport Bundesliga 2)
 https://l2l2.link/ch?id=12
-#EXTINF:-1 tvg-id="germany-bundesliga-2-football-magdeburg-fortuna-dusseldorf-2026-04-18-14-00" group-title="Germany Bundesliga 2",Magdeburg vs Fortuna Dusseldorf (Sky Sport Bundesliga 2)
+#EXTINF:-1 tvg-id="germany-bundesliga-2-football-magdeburg-fortuna-dusseldorf-2026-04-18-14-00" group-title="Germany Bundesliga 2",Magdeburg vs Fortuna Dusseldorf (Sky Sport Bundesliga 3)
 https://l2l2.link/ch?id=13
 #EXTINF:-1 tvg-id="germany-bundesliga-football-hoffenheim-borussia-dortmund-2026-04-18-16-30" group-title="Germany Bundesliga",Hoffenheim vs Borussia Dortmund (Sky Sport Bundesliga 3)
 https://l2l2.link/ch?id=13
@@ -269,8 +263,6 @@ https://l2l2.link/ch?id=76
 https://l2l2.link/ch?id=78
 #EXTINF:-1 tvg-id="england-championship-football-wrexham-stoke-city-2026-04-18-17-00" group-title="England Championship",Wrexham vs Stoke City (Viaplay Sport)
 https://l2l2.link/ch?id=80
-#EXTINF:-1 tvg-id="nrl-rugby-gold-coast-titans-new-zealand-warriors-2026-04-18-08-00" group-title="NRL",Gold Coast Titans vs New Zealand Warriors (Fox Sports 2)
-https://l2l2.link/ch?id=82
 #EXTINF:-1 tvg-id="afl-australian-football-st-kilda-saints-adelaide-crows-2026-04-18-12-35" group-title="AFL",St. Kilda Saints vs Adelaide Crows (Fox Sports 2)
 https://l2l2.link/ch?id=82
 #EXTINF:-1 tvg-id="super-league-rugby-warrington-wolves-catalans-dragons-2026-04-18-20-00" group-title="Super League",Warrington Wolves vs Catalans Dragons (Fox Soccer Plus)
