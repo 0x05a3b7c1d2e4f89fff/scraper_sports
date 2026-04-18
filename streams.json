@@ -1710,24 +1710,24 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Greece Super League] Atromitos vs Larissa [GR]",
+            "matchText": "17:00 [Greece Super League] Atromitos vs Larissa [Nova Sports 4 GR]",
             "matchstr": "Atromitos vs Larissa",
             "time": "17:00",
             "league": "Greece Super League",
             "sport": "Football",
             "team1": "Atromitos",
             "team2": "Larissa",
-            "channel": "GR",
+            "channel": "Nova Sports 4 GR",
             "important": false,
             "matchDate": "2026-04-18",
             "channels": [
                 {
-                    "name": "GR",
+                    "name": "Nova Sports 4",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=25"
                     ],
                     "number": 25,
-                    "language": null,
+                    "language": "GR",
                     "links": [
                         "https://l2l2.link/ch?id=25"
                     ]
@@ -3192,24 +3192,24 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Argentina Primera Division] Gimnasia La Plata vs Estudiantes Rio Cuarto [ES]",
+            "matchText": "21:00 [Argentina Primera Division] Gimnasia La Plata vs Estudiantes Rio Cuarto [ESPN Premium Argentina ES]",
             "matchstr": "Gimnasia La Plata vs Estudiantes Rio Cuarto",
             "time": "21:00",
             "league": "Argentina Primera Division",
             "sport": "Football",
             "team1": "Gimnasia La Plata",
             "team2": "Estudiantes Rio Cuarto",
-            "channel": "ES",
+            "channel": "ESPN Premium Argentina ES",
             "important": false,
             "matchDate": "2026-04-18",
             "channels": [
                 {
-                    "name": "ES",
+                    "name": "ESPN Premium Argentina",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=84"
                     ],
                     "number": 84,
-                    "language": null,
+                    "language": "ES",
                     "links": [
                         "https://l2l2.link/ch?id=84"
                     ]
@@ -3220,24 +3220,24 @@
             "duration": 120
         },
         {
-            "matchText": "23:15 [Argentina Primera Division] Instituto vs Estudiantes [ES]",
+            "matchText": "23:15 [Argentina Primera Division] Instituto vs Estudiantes [TNT Sports Argentina ES]",
             "matchstr": "Instituto vs Estudiantes",
             "time": "23:15",
             "league": "Argentina Primera Division",
             "sport": "Football",
             "team1": "Instituto",
             "team2": "Estudiantes",
-            "channel": "ES",
+            "channel": "TNT Sports Argentina ES",
             "important": false,
             "matchDate": "2026-04-18",
             "channels": [
                 {
-                    "name": "ES",
+                    "name": "TNT Sports Argentina",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=84"
                     ],
                     "number": 84,
-                    "language": null,
+                    "language": "ES",
                     "links": [
                         "https://l2l2.link/ch?id=84"
                     ]
