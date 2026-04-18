@@ -335,34 +335,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:00 [WorldSBK] Motorsport: WorldSBK Round 3 Netherlands [TNT Sports 4 GB]",
-            "matchstr": "WorldSBK Round 3 Netherlands",
-            "time": "12:00",
-            "league": "WorldSBK",
-            "sport": "Motorsport",
-            "team1": "WorldSBK Round 3 Netherlands",
-            "team2": null,
-            "channel": "TNT Sports 4 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "worldsbk-motorsport-worldsbk-round-3-netherlands-2026-04-18-12-00",
-            "startTimestamp": 1776502800000,
-            "duration": 120
-        },
-        {
             "matchText": "12:45 [WorldSBK] Motorsport: WorldSBK Round 2 Netherlands [TNT Sports 4 GB]",
             "matchstr": "WorldSBK Round 2 Netherlands",
             "time": "12:45",
@@ -584,34 +556,6 @@
             ],
             "slug": "united-rugby-championship-rugby-ospreys-sharks-2026-04-18-21-45",
             "startTimestamp": 1776537900000,
-            "duration": 120
-        },
-        {
-            "matchText": "12:35 [Australia A-League] Sydney FC vs Perth Glory [TNT Sports 8 GB]",
-            "matchstr": "Sydney FC vs Perth Glory",
-            "time": "12:35",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Sydney FC",
-            "team2": "Perth Glory",
-            "channel": "TNT Sports 8 GB",
-            "important": false,
-            "matchDate": "2026-04-18",
-            "channels": [
-                {
-                    "name": "TNT Sports 8",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-sydney-fc-perth-glory-2026-04-18-12-35",
-            "startTimestamp": 1776504900000,
             "duration": 120
         },
         {
@@ -3254,12 +3198,12 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Germany 3. Liga] MSV Simulcast [Magenta Sport DE]",
-            "matchstr": "MSV Simulcast",
+            "matchText": "15:00 [Germany 3. Liga] Simulcast [Magenta Sport DE]",
+            "matchstr": "Simulcast",
             "time": "15:00",
             "league": "Germany 3. Liga",
             "sport": "Football",
-            "team1": "MSV Simulcast",
+            "team1": "Simulcast",
             "team2": null,
             "channel": "Magenta Sport DE",
             "important": false,
@@ -3277,7 +3221,7 @@
                     ]
                 }
             ],
-            "slug": "germany-3-liga-football-msv-simulcast-2026-04-18-15-00",
+            "slug": "germany-3-liga-football-simulcast-2026-04-18-15-00",
             "startTimestamp": 1776513600000,
             "duration": 120
         },
