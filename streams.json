@@ -1,84 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "05:30 [UFC] MMA: Mike Malott vs Gilbert Burns [TNT Sports 1 GB]",
-            "matchstr": "Mike Malott vs Gilbert Burns",
-            "time": "05:30",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Mike Malott",
-            "team2": "Gilbert Burns",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-mike-malott-gilbert-burns-2026-04-19-05-30",
-            "startTimestamp": 1776565800000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:30 [NBA] Basketball: Houston Rockets vs Los Angeles Lakers [ABC US]",
-            "matchstr": "Houston Rockets vs Los Angeles Lakers",
-            "time": "03:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Houston Rockets",
-            "team2": "Los Angeles Lakers",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-houston-rockets-los-angeles-lakers-2026-04-19-03-30",
-            "startTimestamp": 1776558600000,
-            "duration": 180
-        },
-        {
             "matchText": "08:30 [Australia A-League] Adelaide United vs Macarthur [TNT Sports 2 GB]",
             "matchstr": "Adelaide United vs Macarthur",
             "time": "08:30",
@@ -183,34 +105,6 @@
             "slug": "nba-basketball-tbd-oklahoma-city-thunder-2026-04-19-22-30",
             "startTimestamp": 1776627000000,
             "duration": 180
-        },
-        {
-            "matchText": "06:00 [Australia A-League] Auckland vs Central Coast Mariners [TNT Sports 3 GB]",
-            "matchstr": "Auckland vs Central Coast Mariners",
-            "time": "06:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Auckland",
-            "team2": "Central Coast Mariners",
-            "channel": "TNT Sports 3 GB",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TNT Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-auckland-central-coast-mariners-2026-04-19-06-00",
-            "startTimestamp": 1776567600000,
-            "duration": 120
         },
         {
             "matchText": "16:00 [England Premier League] Everton vs Liverpool [Sky Sport 4 NZ]",
@@ -524,45 +418,6 @@
             "duration": 120
         },
         {
-            "matchText": "06:10 [Mexico Liga MX] America vs Toluca [CBS Sports Network US]",
-            "matchstr": "America vs Toluca",
-            "time": "06:10",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "America",
-            "team2": "Toluca",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=8"
-                    ]
-                },
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-america-toluca-2026-04-19-06-10",
-            "startTimestamp": 1776568200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
             "matchstr": "MX2",
             "time": "17:00",
@@ -795,34 +650,6 @@
             ],
             "slug": "germany-bundesliga-2-football-eintracht-braunschweig-hertha-bsc-2026-04-19-14-30",
             "startTimestamp": 1776598200000,
-            "duration": 120
-        },
-        {
-            "matchText": "06:05 [Australia Supercars Championship] Motorsport: Christchurch Super 440 [Sportdigital1+ DE]",
-            "matchstr": "Christchurch Super 440",
-            "time": "06:05",
-            "league": "Australia Supercars Championship",
-            "sport": "Motorsport",
-            "team1": "Christchurch Super 440",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=15"
-                    ]
-                }
-            ],
-            "slug": "australia-supercars-championship-motorsport-christchurch-super-440-2026-04-19-06-05",
-            "startTimestamp": 1776567900000,
             "duration": 120
         },
         {
@@ -1507,62 +1334,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [Fighting] Boxing: Jose Miguel Borrego vs Mario Perez [ESPN MX]",
-            "matchstr": "Jose Miguel Borrego vs Mario Perez",
-            "time": "05:00",
-            "league": "Fighting",
-            "sport": "Boxing",
-            "team1": "Jose Miguel Borrego",
-            "team2": "Mario Perez",
-            "channel": "ESPN MX",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "MX",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "fighting-boxing-jose-miguel-borrego-mario-perez-2026-04-19-05-00",
-            "startTimestamp": 1776564000000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:30 [USA/Canada Major League Soccer] Real Salt Lake vs San Diego [MLS Season Pass US]",
-            "matchstr": "Real Salt Lake vs San Diego",
-            "time": "04:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Real Salt Lake",
-            "team2": "San Diego",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-real-salt-lake-san-diego-2026-04-19-04-30",
-            "startTimestamp": 1776562200000,
-            "duration": 120
-        },
-        {
             "matchText": "16:00 [Scotland Scottish Cup] Celtic vs St. Mirren [Premier Sports 1 GB]",
             "matchstr": "Celtic vs St. Mirren",
             "time": "16:00",
@@ -1588,34 +1359,6 @@
             ],
             "slug": "scotland-scottish-cup-football-celtic-st-mirren-2026-04-19-16-00",
             "startTimestamp": 1776603600000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [USA/Canada Major League Soccer] Seattle Sounders FC vs St. Louis City [MLS Season Pass US]",
-            "matchstr": "Seattle Sounders FC vs St. Louis City",
-            "time": "04:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Seattle Sounders FC",
-            "team2": "St. Louis City",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-seattle-sounders-fc-st-louis-city-2026-04-19-04-30",
-            "startTimestamp": 1776562200000,
             "duration": 120
         },
         {
@@ -2826,118 +2569,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:30 [UFC] MMA: Gauge Young vs Thiago Moises [Sportsnet 360 CA]",
-            "matchstr": "Gauge Young vs Thiago Moises",
-            "time": "03:30",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Gauge Young",
-            "team2": "Thiago Moises",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-gauge-young-thiago-moises-2026-04-19-03-30",
-            "startTimestamp": 1776558600000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:00 [UFC] MMA: Karine Silva vs Jasmine Jasudavicius [Sportsnet 360 CA]",
-            "matchstr": "Karine Silva vs Jasmine Jasudavicius",
-            "time": "04:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Karine Silva",
-            "team2": "Jasmine Jasudavicius",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-karine-silva-jasmine-jasudavicius-2026-04-19-04-00",
-            "startTimestamp": 1776560400000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:30 [UFC] MMA: Jai Herbert vs Mandel Nallo [Sportsnet 360 CA]",
-            "matchstr": "Jai Herbert vs Mandel Nallo",
-            "time": "04:30",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Jai Herbert",
-            "team2": "Mandel Nallo",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-jai-herbert-mandel-nallo-2026-04-19-04-30",
-            "startTimestamp": 1776562200000,
-            "duration": 180
-        },
-        {
-            "matchText": "05:00 [UFC] MMA: Charles Jourdain vs Kyler Phillips [Sportsnet 360 CA]",
-            "matchstr": "Charles Jourdain vs Kyler Phillips",
-            "time": "05:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Charles Jourdain",
-            "team2": "Kyler Phillips",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-charles-jourdain-kyler-phillips-2026-04-19-05-00",
-            "startTimestamp": 1776564000000,
-            "duration": 180
-        },
-        {
             "matchText": "06:10 [AFL] Australian Footbal: Richmond Tigers vs North Melbourne Kangaroos [Fox Sports 2 US]",
             "matchstr": "Richmond Tigers vs North Melbourne Kangaroos",
             "time": "06:10",
@@ -3103,34 +2734,6 @@
             ],
             "slug": "argentina-primera-division-football-aldosivi-racing-club-2026-04-19-19-30",
             "startTimestamp": 1776616200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [Colombia Primera A] Fortaleza CEIF vs Rionegro Aguilas [Win+ Futbol ES]",
-            "matchstr": "Fortaleza CEIF vs Rionegro Aguilas",
-            "time": "04:30",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Fortaleza CEIF",
-            "team2": "Rionegro Aguilas",
-            "channel": "Win+ Futbol ES",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Win+ Futbol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-fortaleza-ceif-rionegro-aguilas-2026-04-19-04-30",
-            "startTimestamp": 1776562200000,
             "duration": 120
         },
         {
