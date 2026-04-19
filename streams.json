@@ -40,12 +40,12 @@
             "duration": 180
         },
         {
-            "matchText": "22:30 [NBA] Basketball: TBD vs Oklahoma City Thunder [ABC US]",
-            "matchstr": "TBD vs Oklahoma City Thunder",
+            "matchText": "22:30 [NBA] Basketball: Phoenix Suns vs Oklahoma City Thunder [ABC US]",
+            "matchstr": "Phoenix Suns vs Oklahoma City Thunder",
             "time": "22:30",
             "league": "NBA",
             "sport": "Basketball",
-            "team1": "TBD",
+            "team1": "Phoenix Suns",
             "team2": "Oklahoma City Thunder",
             "channel": "ABC US",
             "important": false,
@@ -61,20 +61,9 @@
                     "links": [
                         "https://l2l2.link/ch?id=2"
                     ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
                 }
             ],
-            "slug": "nba-basketball-tbd-oklahoma-city-thunder-2026-04-19-22-30",
+            "slug": "nba-basketball-phoenix-suns-oklahoma-city-thunder-2026-04-19-22-30",
             "startTimestamp": 1776627000000,
             "duration": 180
         },
@@ -2541,34 +2530,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:10 [AFL] Australian Footbal: Fremantle Dockers vs West Coast Eagles [Fox Sports 2 US]",
-            "matchstr": "Fremantle Dockers vs West Coast Eagles",
-            "time": "10:10",
-            "league": "AFL",
-            "sport": "Australian Footbal",
-            "team1": "Fremantle Dockers",
-            "team2": "West Coast Eagles",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-footbal-fremantle-dockers-west-coast-eagles-2026-04-19-10-10",
-            "startTimestamp": 1776582600000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [Super League] Rugby: Castleford Tigers vs Wigan Warriors [Fox Soccer Plus US]",
             "matchstr": "Castleford Tigers vs Wigan Warriors",
             "time": "17:00",
@@ -2679,6 +2640,34 @@
             "slug": "colombia-primera-a-football-santa-fe-cucuta-deportivo-2026-04-19-22-00",
             "startTimestamp": 1776625200000,
             "duration": 120
+        },
+        {
+            "matchText": "22:30 [NBA] Basketball: TBD vs Oklahoma City Thunder [ESPN Deportes ES]",
+            "matchstr": "TBD vs Oklahoma City Thunder",
+            "time": "22:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "TBD",
+            "team2": "Oklahoma City Thunder",
+            "channel": "ESPN Deportes ES",
+            "important": false,
+            "matchDate": "2026-04-19",
+            "channels": [
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-tbd-oklahoma-city-thunder-2026-04-19-22-30",
+            "startTimestamp": 1776627000000,
+            "duration": 180
         },
         {
             "matchText": "19:00 [Netherlands KNVB Beker] AZ vs NEC [ESPN NL]",
