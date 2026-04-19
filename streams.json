@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "08:30 [Australia A-League] Adelaide United vs Macarthur [TNT Sports 2 GB]",
-            "matchstr": "Adelaide United vs Macarthur",
-            "time": "08:30",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Adelaide United",
-            "team2": "Macarthur",
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-adelaide-united-macarthur-2026-04-19-08-30",
-            "startTimestamp": 1776576600000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [NBA] Basketball: Boston Celtics vs Philadelphia 76ers [ABC US]",
             "matchstr": "Boston Celtics vs Philadelphia 76ers",
             "time": "20:00",
@@ -1089,12 +1061,12 @@
                     ]
                 },
                 {
-                    "name": "GR",
+                    "name": "Cosmote Sport 2",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=25"
                     ],
                     "number": 25,
-                    "language": null,
+                    "language": "GR",
                     "links": [
                         "https://l2l2.link/ch?id=25"
                     ]
@@ -1105,24 +1077,24 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Greece Super League] Panathinaikos vs Olympiakos Piraeus [GR]",
+            "matchText": "21:00 [Greece Super League] Panathinaikos vs Olympiakos Piraeus [Cosmote Sport 1 GR]",
             "matchstr": "Panathinaikos vs Olympiakos Piraeus",
             "time": "21:00",
             "league": "Greece Super League",
             "sport": "Football",
             "team1": "Panathinaikos",
             "team2": "Olympiakos Piraeus",
-            "channel": "GR",
+            "channel": "Cosmote Sport 1 GR",
             "important": false,
             "matchDate": "2026-04-19",
             "channels": [
                 {
-                    "name": "GR",
+                    "name": "Cosmote Sport 1",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=24"
                     ],
                     "number": 24,
-                    "language": null,
+                    "language": "GR",
                     "links": [
                         "https://l2l2.link/ch?id=24"
                     ]
@@ -2567,34 +2539,6 @@
             "slug": "sweden-allsvenskan-football-aik-kalmar-2026-04-19-15-00",
             "startTimestamp": 1776600000000,
             "duration": 120
-        },
-        {
-            "matchText": "06:10 [AFL] Australian Footbal: Richmond Tigers vs North Melbourne Kangaroos [Fox Sports 2 US]",
-            "matchstr": "Richmond Tigers vs North Melbourne Kangaroos",
-            "time": "06:10",
-            "league": "AFL",
-            "sport": "Australian Footbal",
-            "team1": "Richmond Tigers",
-            "team2": "North Melbourne Kangaroos",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-footbal-richmond-tigers-north-melbourne-kangaroos-2026-04-19-06-10",
-            "startTimestamp": 1776568200000,
-            "duration": 180
         },
         {
             "matchText": "10:10 [AFL] Australian Footbal: Fremantle Dockers vs West Coast Eagles [Fox Sports 2 US]",
