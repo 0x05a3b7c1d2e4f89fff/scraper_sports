@@ -576,34 +576,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:10 [Colombia Primera A] Alianza vs Medellin [Win Sport ES]",
-            "matchstr": "Alianza vs Medellin",
-            "time": "00:10",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Alianza",
-            "team2": "Medellin",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-20",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-alianza-medellin-2026-04-20-00-10",
-            "startTimestamp": 1776633000000,
-            "duration": 120
-        },
-        {
             "matchText": "02:30 [Colombia Primera A] Junior vs Llaneros [Win Sport ES]",
             "matchstr": "Junior vs Llaneros",
             "time": "02:30",
@@ -657,34 +629,6 @@
             ],
             "slug": "colombia-primera-a-football-america-de-cali-millonarios-2026-04-20-04-30",
             "startTimestamp": 1776648600000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Palmeiras vs Athletico-PR [M. Liga de Campeones 2 ES]",
-            "matchstr": "Palmeiras vs Athletico-PR",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Palmeiras",
-            "team2": "Athletico-PR",
-            "channel": "M. Liga de Campeones 2 ES",
-            "important": false,
-            "matchDate": "2026-04-20",
-            "channels": [
-                {
-                    "name": "M. Liga de Campeones 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-palmeiras-athletico-pr-2026-04-20-00-30",
-            "startTimestamp": 1776634200000,
             "duration": 120
         },
         {
@@ -962,34 +906,6 @@
             "duration": 180
         },
         {
-            "matchText": "00:00 [Canada Canadian Premier League] Inter Toronto vs Vancouver FC [Fox Soccer Plus US]",
-            "matchstr": "Inter Toronto vs Vancouver FC",
-            "time": "00:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Inter Toronto",
-            "team2": "Vancouver FC",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-20",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-inter-toronto-vancouver-fc-2026-04-20-00-00",
-            "startTimestamp": 1776632400000,
-            "duration": 120
-        },
-        {
             "matchText": "02:30 [Argentina Primera Division] Rosario Central vs Sarmiento [ESPN Premium Argentina ES]",
             "matchstr": "Rosario Central vs Sarmiento",
             "time": "02:30",
@@ -1127,34 +1043,6 @@
             ],
             "slug": "argentina-primera-division-football-central-cordoba-sde-platense-2026-04-20-23-15",
             "startTimestamp": 1776716100000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [IndyCar] Motorsport: Acura Grand Prix of Long Beach [Fox Deportes ES]",
-            "matchstr": "Acura Grand Prix of Long Beach",
-            "time": "00:30",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Acura Grand Prix of Long Beach",
-            "team2": null,
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-04-20",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-acura-grand-prix-of-long-beach-2026-04-20-00-30",
-            "startTimestamp": 1776634200000,
             "duration": 120
         },
         {
