@@ -146,45 +146,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:30 [Germany Bundesliga] Borussia M'gladbach vs Mainz 05 [DAZN1 DE]",
-            "matchstr": "Borussia M'gladbach vs Mainz 05",
-            "time": "20:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Borussia M'gladbach",
-            "team2": "Mainz 05",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=17"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "PH",
-                    "links": [
-                        "https://l2l2.link/ch?id=34"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-borussia-m-gladbach-mainz-05-2026-04-19-20-30",
-            "startTimestamp": 1776619800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Juventus vs Bologna [DAZN2 DE]",
             "matchstr": "Juventus vs Bologna",
             "time": "21:45",
@@ -282,34 +243,6 @@
             ],
             "slug": "argentina-primera-division-football-river-plate-boca-juniors-2026-04-19-23-00",
             "startTimestamp": 1776628800000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Portugal Primeira Liga] Sporting CP vs Benfica [Sport TV1 PT]",
-            "matchstr": "Sporting CP vs Benfica",
-            "time": "20:00",
-            "league": "Portugal Primeira Liga",
-            "sport": "Football",
-            "team1": "Sporting CP",
-            "team2": "Benfica",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=21"
-                    ]
-                }
-            ],
-            "slug": "portugal-primeira-liga-football-sporting-cp-benfica-2026-04-19-20-00",
-            "startTimestamp": 1776618000000,
             "duration": 120
         },
         {
@@ -436,45 +369,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Turkey Super Lig] Trabzonspor vs Istanbul Basaksehir [beIN Sports 3 PH]",
-            "matchstr": "Trabzonspor vs Istanbul Basaksehir",
-            "time": "20:00",
-            "league": "Turkey Super Lig",
-            "sport": "Football",
-            "team1": "Trabzonspor",
-            "team2": "Istanbul Basaksehir",
-            "channel": "beIN Sports 3 PH",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "beIN Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "PH",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "TR",
-                    "links": [
-                        "https://l2l2.link/ch?id=91"
-                    ]
-                }
-            ],
-            "slug": "turkey-super-lig-football-trabzonspor-istanbul-basaksehir-2026-04-19-20-00",
-            "startTimestamp": 1776618000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Africa CAF Confederation Cup] Olympic Safi vs USM Alger [beIN Sports 2 PH]",
             "matchstr": "Olympic Safi vs USM Alger",
             "time": "22:00",
@@ -581,34 +475,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:15 [Belgium Pro League] RAAL La Louviere vs Zulte-Waregem [DAZN BE]",
-            "matchstr": "RAAL La Louviere vs Zulte-Waregem",
-            "time": "20:15",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "RAAL La Louviere",
-            "team2": "Zulte-Waregem",
-            "channel": "DAZN BE",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "BE",
-                    "links": [
-                        "https://l2l2.link/ch?id=46"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-raal-la-louviere-zulte-waregem-2026-04-19-20-15",
-            "startTimestamp": 1776618900000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Denmark Handball League] Handball: Holstebro vs Skanderborg Aarhus [TV 2 Sport DK]",
             "matchstr": "Holstebro vs Skanderborg Aarhus",
             "time": "21:00",
@@ -634,62 +500,6 @@
             ],
             "slug": "denmark-handball-league-handball-holstebro-skanderborg-aarhus-2026-04-19-21-00",
             "startTimestamp": 1776621600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:15 [Norway Eliteserien] Start vs Molde [TV2 Sport NO]",
-            "matchstr": "Start vs Molde",
-            "time": "20:15",
-            "league": "Norway Eliteserien",
-            "sport": "Football",
-            "team1": "Start",
-            "team2": "Molde",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "NO",
-                    "links": [
-                        "https://l2l2.link/ch?id=66"
-                    ]
-                }
-            ],
-            "slug": "norway-eliteserien-football-start-molde-2026-04-19-20-15",
-            "startTimestamp": 1776618900000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:30 [Hungary NB1] Gyori ETO vs Ferencvaros [M4 Sports HU]",
-            "matchstr": "Gyori ETO vs Ferencvaros",
-            "time": "20:30",
-            "league": "Hungary NB1",
-            "sport": "Football",
-            "team1": "Gyori ETO",
-            "team2": "Ferencvaros",
-            "channel": "M4 Sports HU",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "M4 Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "HU",
-                    "links": [
-                        "https://l2l2.link/ch?id=67"
-                    ]
-                }
-            ],
-            "slug": "hungary-nb1-football-gyori-eto-ferencvaros-2026-04-19-20-30",
-            "startTimestamp": 1776619800000,
             "duration": 120
         },
         {
@@ -746,34 +556,6 @@
             ],
             "slug": "colombia-primera-a-football-santa-fe-cucuta-deportivo-2026-04-19-22-00",
             "startTimestamp": 1776625200000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Germany 3. Liga] Wehen Wiesbaden vs Waldhof Mannheim [Magenta Sport DE]",
-            "matchstr": "Wehen Wiesbaden vs Waldhof Mannheim",
-            "time": "20:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Wehen Wiesbaden",
-            "team2": "Waldhof Mannheim",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=97"
-                    ],
-                    "number": 97,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=97"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-wehen-wiesbaden-waldhof-mannheim-2026-04-19-20-00",
-            "startTimestamp": 1776618000000,
             "duration": 120
         },
         {
