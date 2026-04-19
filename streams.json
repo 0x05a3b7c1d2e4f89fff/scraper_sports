@@ -408,34 +408,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Spain Segunda Division] Albacete vs Granada [LALIGA TV Hypermotion ES]",
-            "matchstr": "Albacete vs Granada",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Albacete",
-            "team2": "Granada",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-albacete-granada-2026-04-19-19-30",
-            "startTimestamp": 1776616200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Almeria vs Malaga [LALIGA TV Hypermotion ES]",
             "matchstr": "Almeria vs Malaga",
             "time": "22:00",
@@ -461,34 +433,6 @@
             ],
             "slug": "spain-segunda-division-football-almeria-malaga-2026-04-19-22-00",
             "startTimestamp": 1776625200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Spain Segunda Division] Eibar vs Huesca [LALIGA TV Hypermotion 2 ES]",
-            "matchstr": "Eibar vs Huesca",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Eibar",
-            "team2": "Huesca",
-            "channel": "LALIGA TV Hypermotion 2 ES",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-eibar-huesca-2026-04-19-19-30",
-            "startTimestamp": 1776616200000,
             "duration": 120
         },
         {
@@ -556,45 +500,6 @@
             ],
             "slug": "africa-caf-confederation-cup-football-olympic-safi-usm-alger-2026-04-19-22-00",
             "startTimestamp": 1776625200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Italy Serie A] Pisa vs Genoa [beIN SPORTS 3 AU]",
-            "matchstr": "Pisa vs Genoa",
-            "time": "19:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Pisa",
-            "team2": "Genoa",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Calcio",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=47"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-pisa-genoa-2026-04-19-19-00",
-            "startTimestamp": 1776614400000,
             "duration": 120
         },
         {
@@ -676,62 +581,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Czech Republic 1. liga] Viktoria Plzen vs FK Pardubice [Oneplay Sport 1 CZ]",
-            "matchstr": "Viktoria Plzen vs FK Pardubice",
-            "time": "19:30",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Viktoria Plzen",
-            "team2": "FK Pardubice",
-            "channel": "Oneplay Sport 1 CZ",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-viktoria-plzen-fk-pardubice-2026-04-19-19-30",
-            "startTimestamp": 1776616200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Czech Republic Extraliga] Hockey: Dynamo Pardubice vs Ocelari Trinec [Oneplay Sport CZ]",
-            "matchstr": "Dynamo Pardubice vs Ocelari Trinec",
-            "time": "18:00",
-            "league": "Czech Republic Extraliga",
-            "sport": "Hockey",
-            "team1": "Dynamo Pardubice",
-            "team2": "Ocelari Trinec",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=43"
-                    ],
-                    "number": 43,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=43"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-extraliga-hockey-dynamo-pardubice-ocelari-trinec-2026-04-19-18-00",
-            "startTimestamp": 1776610800000,
-            "duration": 180
-        },
-        {
             "matchText": "20:15 [Belgium Pro League] RAAL La Louviere vs Zulte-Waregem [DAZN BE]",
             "matchstr": "RAAL La Louviere vs Zulte-Waregem",
             "time": "20:15",
@@ -757,62 +606,6 @@
             ],
             "slug": "belgium-pro-league-football-raal-la-louviere-zulte-waregem-2026-04-19-20-15",
             "startTimestamp": 1776618900000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Belgium Pro League] Union Saint-Gilloise vs Club Brugge [DAZN BE]",
-            "matchstr": "Union Saint-Gilloise vs Club Brugge",
-            "time": "19:30",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "Union Saint-Gilloise",
-            "team2": "Club Brugge",
-            "channel": "DAZN BE",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://l2l2.link/ch?id=49"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-union-saint-gilloise-club-brugge-2026-04-19-19-30",
-            "startTimestamp": 1776616200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Denmark Handball League] Handball: Bjerringbro vs Silkeborg vs Mors vs Thy [TV 2 Sport DK]",
-            "matchstr": "Bjerringbro vs Silkeborg vs Mors vs Thy",
-            "time": "19:00",
-            "league": "Denmark Handball League",
-            "sport": "Handball",
-            "team1": "Bjerringbro",
-            "team2": "Silkeborg vs Mors vs Thy",
-            "channel": "TV 2 Sport DK",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TV 2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=65"
-                    ],
-                    "number": 65,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/ch?id=65"
-                    ]
-                }
-            ],
-            "slug": "denmark-handball-league-handball-bjerringbro-silkeborg-vs-mors-vs-thy-2026-04-19-19-00",
-            "startTimestamp": 1776614400000,
             "duration": 120
         },
         {
@@ -900,34 +693,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Denmark Super Liga] Vejle vs K\u00f8benhavn [TV3+ DK]",
-            "matchstr": "Vejle vs K\u00f8benhavn",
-            "time": "19:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Vejle",
-            "team2": "K\u00f8benhavn",
-            "channel": "TV3+ DK",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TV3+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/ch?id=69"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-vejle-kobenhavn-2026-04-19-19-00",
-            "startTimestamp": 1776614400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Canada Canadian Premier League] Supra du Quebec vs Atl. Ottawa [Fox Soccer Plus US]",
             "matchstr": "Supra du Quebec vs Atl. Ottawa",
             "time": "21:00",
@@ -956,34 +721,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Argentina Primera Division] Aldosivi vs Racing Club [TNT Sports Argentina ES]",
-            "matchstr": "Aldosivi vs Racing Club",
-            "time": "19:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Aldosivi",
-            "team2": "Racing Club",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-aldosivi-racing-club-2026-04-19-19-30",
-            "startTimestamp": 1776616200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Colombia Primera A] Santa Fe vs Cucuta Deportivo [Win+ Futbol ES]",
             "matchstr": "Santa Fe vs Cucuta Deportivo",
             "time": "22:00",
@@ -1009,34 +746,6 @@
             ],
             "slug": "colombia-primera-a-football-santa-fe-cucuta-deportivo-2026-04-19-22-00",
             "startTimestamp": 1776625200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Netherlands KNVB Beker] AZ vs NEC [ESPN NL]",
-            "matchstr": "AZ vs NEC",
-            "time": "19:00",
-            "league": "Netherlands KNVB Beker",
-            "sport": "Football",
-            "team1": "AZ",
-            "team2": "NEC",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-04-19",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-knvb-beker-football-az-nec-2026-04-19-19-00",
-            "startTimestamp": 1776614400000,
             "duration": 120
         },
         {
@@ -3744,6 +3453,34 @@
             "duration": 120
         },
         {
+            "matchText": "21:30 [Austria Bundesliga] Ried vs Grazer AK [Sport Austria 1 AT]",
+            "matchstr": "Ried vs Grazer AK",
+            "time": "21:30",
+            "league": "Austria Bundesliga",
+            "sport": "Football",
+            "team1": "Ried",
+            "team2": "Grazer AK",
+            "channel": "Sport Austria 1 AT",
+            "important": false,
+            "matchDate": "2026-04-21",
+            "channels": [
+                {
+                    "name": "Sport Austria 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "AT",
+                    "links": [
+                        "https://l2l2.link/ch?id=99"
+                    ]
+                }
+            ],
+            "slug": "austria-bundesliga-football-ried-grazer-ak-2026-04-21-21-30",
+            "startTimestamp": 1776796200000,
+            "duration": 120
+        },
+        {
             "matchText": "19:30 [Austria Bundesliga] Simulcast [Sport Austria 1 AT]",
             "matchstr": "Simulcast",
             "time": "19:30",
@@ -3769,34 +3506,6 @@
             ],
             "slug": "austria-bundesliga-football-simulcast-2026-04-21-19-30",
             "startTimestamp": 1776789000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Austria Bundesliga] Ried vs Grazer AK [Sport Austria 1 AT]",
-            "matchstr": "Ried vs Grazer AK",
-            "time": "21:30",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Ried",
-            "team2": "Grazer AK",
-            "channel": "Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=199"
-                    ],
-                    "number": 199,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=199"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-ried-grazer-ak-2026-04-21-21-30",
-            "startTimestamp": 1776796200000,
             "duration": 120
         }
     ]
