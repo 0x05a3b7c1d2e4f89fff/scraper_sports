@@ -207,6 +207,34 @@
             "duration": 120
         },
         {
+            "matchText": "19:00 [Asia AFC Champions League Elite] Vissel Kobe vs Al-Ahli [sportdigital1+ DE]",
+            "matchstr": "Vissel Kobe vs Al-Ahli",
+            "time": "19:00",
+            "league": "Asia AFC Champions League Elite",
+            "sport": "Football",
+            "team1": "Vissel Kobe",
+            "team2": "Al-Ahli",
+            "channel": "sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-04-20",
+            "channels": [
+                {
+                    "name": "sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=19"
+                    ]
+                }
+            ],
+            "slug": "asia-afc-champions-league-elite-football-vissel-kobe-al-ahli-2026-04-20-19-00",
+            "startTimestamp": 1776700800000,
+            "duration": 120
+        },
+        {
             "matchText": "20:45 [Portugal Segunda liga] Sporting CP II vs Felgueiras 1932 [Sporting TV PT]",
             "matchstr": "Sporting CP II vs Felgueiras 1932",
             "time": "20:45",
