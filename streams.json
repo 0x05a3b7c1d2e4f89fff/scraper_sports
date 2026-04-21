@@ -1,62 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NBA] Basketball: Toronto Raptors vs Cleveland Cavaliers [RDS CA]",
-            "matchstr": "Toronto Raptors vs Cleveland Cavaliers",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Toronto Raptors",
-            "team2": "Cleveland Cavaliers",
-            "channel": "RDS CA",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "RDS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-toronto-raptors-cleveland-cavaliers-2026-04-21-02-00",
-            "startTimestamp": 1776726000000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [NBA] Basketball: Atlanta Hawks vs New York Knicks [NBA Game Pass US]",
-            "matchstr": "Atlanta Hawks vs New York Knicks",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Atlanta Hawks",
-            "team2": "New York Knicks",
-            "channel": "NBA Game Pass US",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "NBA Game Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-atlanta-hawks-new-york-knicks-2026-04-21-03-00",
-            "startTimestamp": 1776729600000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Italy Coppa Italia] Internazionale vs Como [Premier Sports 2 GB]",
             "matchstr": "Internazionale vs Como",
             "time": "22:00",
@@ -146,45 +90,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [NHL] Hockey: Philadelphia Flyers vs Pittsburgh Penguins [ESPN US]",
-            "matchstr": "Philadelphia Flyers vs Pittsburgh Penguins",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Philadelphia Flyers",
-            "team2": "Pittsburgh Penguins",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-philadelphia-flyers-pittsburgh-penguins-2026-04-21-02-00",
-            "startTimestamp": 1776726000000,
-            "duration": 180
-        },
-        {
             "matchText": "04:30 [NHL] Hockey: Minnesota Wild vs Dallas Stars [ESPN US]",
             "matchstr": "Minnesota Wild vs Dallas Stars",
             "time": "04:30",
@@ -221,45 +126,6 @@
             ],
             "slug": "nhl-hockey-minnesota-wild-dallas-stars-2026-04-21-04-30",
             "startTimestamp": 1776735000000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:30 [NHL] Hockey: Ottawa Senators vs Carolina Hurricanes [ESPN2 US]",
-            "matchstr": "Ottawa Senators vs Carolina Hurricanes",
-            "time": "02:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Ottawa Senators",
-            "team2": "Carolina Hurricanes",
-            "channel": "ESPN2 US",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-ottawa-senators-carolina-hurricanes-2026-04-21-02-30",
-            "startTimestamp": 1776727800000,
             "duration": 180
         },
         {
@@ -644,34 +510,6 @@
             ],
             "slug": "turkey-turkish-cup-football-konyaspor-fenerbahce-2026-04-21-20-30",
             "startTimestamp": 1776792600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [Colombia Primera A] Once Caldas vs Inter Bogota [Win Sports ES]",
-            "matchstr": "Once Caldas vs Inter Bogota",
-            "time": "02:30",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Once Caldas",
-            "team2": "Inter Bogota",
-            "channel": "Win Sports ES",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "Win Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-once-caldas-inter-bogota-2026-04-21-02-30",
-            "startTimestamp": 1776727800000,
             "duration": 120
         },
         {
@@ -1321,90 +1159,6 @@
             ],
             "slug": "england-championship-football-coventry-city-portsmouth-2026-04-21-21-45",
             "startTimestamp": 1776797100000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:30 [Argentina Primera Division] San Lorenzo vs Velez Sarsfield [TNT Sports Argentina ES]",
-            "matchstr": "San Lorenzo vs Velez Sarsfield",
-            "time": "01:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "San Lorenzo",
-            "team2": "Velez Sarsfield",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-san-lorenzo-velez-sarsfield-2026-04-21-01-30",
-            "startTimestamp": 1776724200000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:45 [Argentina Primera Division] Tigre vs Huracan [TNT Sports Argentina ES]",
-            "matchstr": "Tigre vs Huracan",
-            "time": "03:45",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Tigre",
-            "team2": "Huracan",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-tigre-huracan-2026-04-21-03-45",
-            "startTimestamp": 1776732300000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:45 [Argentina Primera Division] Gimnasia Mendoza vs Lanus [ESPN Premium Argentina ES]",
-            "matchstr": "Gimnasia Mendoza vs Lanus",
-            "time": "03:45",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Gimnasia Mendoza",
-            "team2": "Lanus",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-21",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-gimnasia-mendoza-lanus-2026-04-21-03-45",
-            "startTimestamp": 1776732300000,
             "duration": 120
         },
         {
