@@ -424,34 +424,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Greece Super League] Larissa vs Kifisia [GR]",
-            "matchstr": "Larissa vs Kifisia",
-            "time": "17:00",
-            "league": "Greece Super League",
-            "sport": "Football",
-            "team1": "Larissa",
-            "team2": "Kifisia",
-            "channel": "GR",
-            "important": false,
-            "matchDate": "2026-04-22",
-            "channels": [
-                {
-                    "name": "GR",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=23"
-                    ],
-                    "number": 23,
-                    "language": null,
-                    "links": [
-                        "https://l2l2.link/ch?id=23"
-                    ]
-                }
-            ],
-            "slug": "greece-super-league-football-larissa-kifisia-2026-04-22-17-00",
-            "startTimestamp": 1776866400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Greece Super League] Asteras Tripolis vs Panaitolikos [GR]",
             "matchstr": "Asteras Tripolis vs Panaitolikos",
             "time": "20:00",
@@ -477,34 +449,6 @@
             ],
             "slug": "greece-super-league-football-asteras-tripolis-panaitolikos-2026-04-22-20-00",
             "startTimestamp": 1776877200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Greece Super League] Panserraikos vs Atromitos [Nova Sports Prime GR]",
-            "matchstr": "Panserraikos vs Atromitos",
-            "time": "16:00",
-            "league": "Greece Super League",
-            "sport": "Football",
-            "team1": "Panserraikos",
-            "team2": "Atromitos",
-            "channel": "Nova Sports Prime GR",
-            "important": false,
-            "matchDate": "2026-04-22",
-            "channels": [
-                {
-                    "name": "Nova Sports Prime",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=25"
-                    ],
-                    "number": 25,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/ch?id=25"
-                    ]
-                }
-            ],
-            "slug": "greece-super-league-football-panserraikos-atromitos-2026-04-22-16-00",
-            "startTimestamp": 1776862800000,
             "duration": 120
         },
         {
@@ -969,34 +913,6 @@
             ],
             "slug": "denmark-super-liga-football-kobenhavn-ob-2026-04-22-19-00",
             "startTimestamp": 1776873600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Croatia 1. HNL] Vukovar vs Gorica [MAX Sport 1 HR]",
-            "matchstr": "Vukovar vs Gorica",
-            "time": "16:30",
-            "league": "Croatia 1. HNL",
-            "sport": "Football",
-            "team1": "Vukovar",
-            "team2": "Gorica",
-            "channel": "MAX Sport 1 HR",
-            "important": false,
-            "matchDate": "2026-04-22",
-            "channels": [
-                {
-                    "name": "MAX Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://l2l2.link/ch?id=70"
-                    ]
-                }
-            ],
-            "slug": "croatia-1-hnl-football-vukovar-gorica-2026-04-22-16-30",
-            "startTimestamp": 1776864600000,
             "duration": 120
         },
         {
