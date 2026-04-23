@@ -107,34 +107,6 @@
             "duration": 180
         },
         {
-            "matchText": "18:45 [Turkey Turkish Cup] Samsunspor vs Trabzonspor [Sportdigital FUSSBALL DE]",
-            "matchstr": "Samsunspor vs Trabzonspor",
-            "time": "18:45",
-            "league": "Turkey Turkish Cup",
-            "sport": "Football",
-            "team1": "Samsunspor",
-            "team2": "Trabzonspor",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "turkey-turkish-cup-football-samsunspor-trabzonspor-2026-04-23-18-45",
-            "startTimestamp": 1776959100000,
-            "duration": 120
-        },
-        {
             "matchText": "20:45 [Turkey Turkish Cup] Besiktas vs Alanyaspor [Sportdigital FUSSBALL DE]",
             "matchstr": "Besiktas vs Alanyaspor",
             "time": "20:45",
@@ -308,56 +280,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Spain La Liga] Levante vs Sevilla [DAZN LaLiga ES]",
-            "matchstr": "Levante vs Sevilla",
-            "time": "20:00",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Levante",
-            "team2": "Sevilla",
-            "channel": "DAZN LaLiga ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "DAZN LaLiga",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=29"
-                    ]
-                },
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=71"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-levante-sevilla-2026-04-23-20-00",
-            "startTimestamp": 1776963600000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Netherlands Eredivisie] PSV vs PEC Zwolle [Premier Sports 2 GB]",
             "matchstr": "PSV vs PEC Zwolle",
             "time": "22:00",
@@ -481,34 +403,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:10 [Saudi Arabia Pro League] Al Najma vs Al Taawon [Thmanyah SA]",
-            "matchstr": "Al Najma vs Al Taawon",
-            "time": "19:10",
-            "league": "Saudi Arabia Pro League",
-            "sport": "Football",
-            "team1": "Al Najma",
-            "team2": "Al Taawon",
-            "channel": "Thmanyah SA",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Thmanyah",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=65"
-                    ],
-                    "number": 65,
-                    "language": "SA",
-                    "links": [
-                        "https://l2l2.link/ch?id=65"
-                    ]
-                }
-            ],
-            "slug": "saudi-arabia-pro-league-football-al-najma-al-taawon-2026-04-23-19-10",
-            "startTimestamp": 1776960600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Saudi Arabia Pro League] Damac vs Al Akhdoud [Thmanyah SA]",
             "matchstr": "Damac vs Al Akhdoud",
             "time": "21:00",
@@ -565,62 +459,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Denmark Super Liga] Nordsj\u00e6lland vs AGF [TV3+ DK]",
-            "matchstr": "Nordsj\u00e6lland vs AGF",
-            "time": "19:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Nordsj\u00e6lland",
-            "team2": "AGF",
-            "channel": "TV3+ DK",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TV3+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/ch?id=68"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-nordsjaelland-agf-2026-04-23-19-00",
-            "startTimestamp": 1776960000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Denmark Super Liga] Randers vs Fredericia [TV2 Sport X DK]",
-            "matchstr": "Randers vs Fredericia",
-            "time": "19:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Randers",
-            "team2": "Fredericia",
-            "channel": "TV2 Sport X DK",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TV2 Sport X",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/ch?id=69"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-randers-fredericia-2026-04-23-19-00",
-            "startTimestamp": 1776960000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Denmark Super Liga] S\u00f8nderjyskE vs Midtjylland [TV2 Sport X DK]",
             "matchstr": "S\u00f8nderjyskE vs Midtjylland",
             "time": "21:00",
@@ -646,90 +484,6 @@
             ],
             "slug": "denmark-super-liga-football-sonderjyske-midtjylland-2026-04-23-21-00",
             "startTimestamp": 1776967200000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Degerfors vs AIK [TV4 Sport Live 2 SE]",
-            "matchstr": "Degerfors vs AIK",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Degerfors",
-            "team2": "AIK",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-degerfors-aik-2026-04-23-20-00",
-            "startTimestamp": 1776963600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Kalmar vs IFK Goteborg [TV4 Sport Live 3 SE]",
-            "matchstr": "Kalmar vs IFK Goteborg",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Kalmar",
-            "team2": "IFK Goteborg",
-            "channel": "TV4 Sport Live 3 SE",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=73"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-kalmar-ifk-goteborg-2026-04-23-20-00",
-            "startTimestamp": 1776963600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Malmo FF vs Sirius [TV4 Fotball SE]",
-            "matchstr": "Malmo FF vs Sirius",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Malmo FF",
-            "team2": "Sirius",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=74"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-malmo-ff-sirius-2026-04-23-20-00",
-            "startTimestamp": 1776963600000,
             "duration": 120
         },
         {
@@ -772,34 +526,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:00 [Sweden Allsvenskan] GAIS vs Mjallby [TV4 Sportkanalen SE]",
-            "matchstr": "GAIS vs Mjallby",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "GAIS",
-            "team2": "Mjallby",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-gais-mjallby-2026-04-23-20-00",
-            "startTimestamp": 1776963600000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Sweden SHL] Hockey: Skellefte\u00e5 AIK vs R\u00f6gle BK [TV4 Hockey SE]",
             "matchstr": "Skellefte\u00e5 AIK vs R\u00f6gle BK",
             "time": "20:00",
@@ -826,62 +552,6 @@
             "slug": "sweden-shl-hockey-skelleftea-aik-rogle-bk-2026-04-23-20-00",
             "startTimestamp": 1776963600000,
             "duration": 180
-        },
-        {
-            "matchText": "18:30 [Finland Liiga] Hockey: Ilves vs Tappara [MTV Urheilu 1 FI]",
-            "matchstr": "Ilves vs Tappara",
-            "time": "18:30",
-            "league": "Finland Liiga",
-            "sport": "Hockey",
-            "team1": "Ilves",
-            "team2": "Tappara",
-            "channel": "MTV Urheilu 1 FI",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MTV Urheilu 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "FI",
-                    "links": [
-                        "https://l2l2.link/ch?id=80"
-                    ]
-                }
-            ],
-            "slug": "finland-liiga-hockey-ilves-tappara-2026-04-23-18-30",
-            "startTimestamp": 1776958200000,
-            "duration": 180
-        },
-        {
-            "matchText": "19:45 [Netherlands Eredivisie] Go Ahead Eagles vs AZ [ESPN NL]",
-            "matchstr": "Go Ahead Eagles vs AZ",
-            "time": "19:45",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Go Ahead Eagles",
-            "team2": "AZ",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-go-ahead-eagles-az-2026-04-23-19-45",
-            "startTimestamp": 1776962700000,
-            "duration": 120
         },
         {
             "matchText": "02:00 [NBA] Basketball: New York Knicks vs Atlanta Hawks [NBA League Pass US]",
@@ -6381,9 +6051,9 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Argentina Primera Division] Platense vs San Lorenzo [ESPN Premium Argentina ES]",
+            "matchText": "03:30 [Argentina Primera Division] Platense vs San Lorenzo [ESPN Premium Argentina ES]",
             "matchstr": "Platense vs San Lorenzo",
-            "time": "20:00",
+            "time": "03:30",
             "league": "Argentina Primera Division",
             "sport": "Football",
             "team1": "Platense",
@@ -6404,8 +6074,8 @@
                     ]
                 }
             ],
-            "slug": "argentina-primera-division-football-platense-san-lorenzo-2026-04-25-20-00",
-            "startTimestamp": 1777136400000,
+            "slug": "argentina-primera-division-football-platense-san-lorenzo-2026-04-25-03-30",
+            "startTimestamp": 1777077000000,
             "duration": 120
         },
         {
