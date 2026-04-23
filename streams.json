@@ -884,34 +884,6 @@
             "duration": 180
         },
         {
-            "matchText": "12:50 [NRL] Rugby: Canberra Raiders vs Wests Tigers [Fox Sports 2 US]",
-            "matchstr": "Canberra Raiders vs Wests Tigers",
-            "time": "12:50",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Canberra Raiders",
-            "team2": "Wests Tigers",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-canberra-raiders-wests-tigers-2026-04-23-12-50",
-            "startTimestamp": 1776937800000,
-            "duration": 120
-        },
-        {
             "matchText": "12:30 [AFL] Australian Football: Sydney Swans vs Western Bulldogs [Fox Soccer Plus US]",
             "matchstr": "Sydney Swans vs Western Bulldogs",
             "time": "12:30",
