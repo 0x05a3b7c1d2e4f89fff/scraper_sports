@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NBA] Basketball: Orlando Magic vs Detroit Pistons [ESPN US]",
-            "matchstr": "Orlando Magic vs Detroit Pistons",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Orlando Magic",
-            "team2": "Detroit Pistons",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-orlando-magic-detroit-pistons-2026-04-23-02-00",
-            "startTimestamp": 1776898800000,
-            "duration": 180
-        },
-        {
             "matchText": "04:30 [NBA] Basketball: Phoenix Suns vs Oklahoma City Thunder [ESPN US]",
             "matchstr": "Phoenix Suns vs Oklahoma City Thunder",
             "time": "04:30",
@@ -76,45 +37,6 @@
             ],
             "slug": "nba-basketball-phoenix-suns-oklahoma-city-thunder-2026-04-23-04-30",
             "startTimestamp": 1776907800000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Pittsburgh Penguins vs Philadelphia Flyers [TNT US]",
-            "matchstr": "Pittsburgh Penguins vs Philadelphia Flyers",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Pittsburgh Penguins",
-            "team2": "Philadelphia Flyers",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-pittsburgh-penguins-philadelphia-flyers-2026-04-23-02-00",
-            "startTimestamp": 1776898800000,
             "duration": 180
         },
         {
@@ -570,62 +492,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [Mexico Liga MX] Atletico San Luis vs Santos Laguna [ESPN Mexico ES]",
-            "matchstr": "Atletico San Luis vs Santos Laguna",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Atletico San Luis",
-            "team2": "Santos Laguna",
-            "channel": "ESPN Mexico ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "ESPN Mexico",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=28"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-atletico-san-luis-santos-laguna-2026-04-23-04-00",
-            "startTimestamp": 1776906000000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [Mexico Liga MX] Mazatlan vs Toluca [Azteca 7 ES]",
-            "matchstr": "Mazatlan vs Toluca",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Mazatlan",
-            "team2": "Toluca",
-            "channel": "Azteca 7 ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Azteca 7",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=29"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-mazatlan-toluca-2026-04-23-04-00",
-            "startTimestamp": 1776906000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Spain La Liga] Levante vs Sevilla [DAZN LaLiga ES]",
             "matchstr": "Levante vs Sevilla",
             "time": "20:00",
@@ -676,62 +542,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [Mexico Liga MX] Atlas vs Tigres UANL [TUDN ES]",
-            "matchstr": "Atlas vs Tigres UANL",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Atlas",
-            "team2": "Tigres UANL",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-atlas-tigres-uanl-2026-04-23-04-00",
-            "startTimestamp": 1776906000000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Columbus Crew vs LA Galaxy [MLS Season Pass US]",
-            "matchstr": "Columbus Crew vs LA Galaxy",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Columbus Crew",
-            "team2": "LA Galaxy",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-columbus-crew-la-galaxy-2026-04-23-02-30",
-            "startTimestamp": 1776900600000,
-            "duration": 120
-        },
-        {
             "matchText": "05:30 [USA/Canada Major League Soccer] Los Angeles FC vs Colorado Rapids [MLS Season Pass US]",
             "matchstr": "Los Angeles FC vs Colorado Rapids",
             "time": "05:30",
@@ -757,34 +567,6 @@
             ],
             "slug": "usa-canada-major-league-soccer-football-los-angeles-fc-colorado-rapids-2026-04-23-05-30",
             "startTimestamp": 1776911400000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] New York City vs Cincinnati [MLS Season Pass US]",
-            "matchstr": "New York City vs Cincinnati",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "New York City",
-            "team2": "Cincinnati",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-new-york-city-cincinnati-2026-04-23-02-30",
-            "startTimestamp": 1776900600000,
             "duration": 120
         },
         {
@@ -824,146 +606,6 @@
             ],
             "slug": "netherlands-eredivisie-football-psv-pec-zwolle-2026-04-23-22-00",
             "startTimestamp": 1776970800000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] New York RB vs DC United [MLS Season Pass US]",
-            "matchstr": "New York RB vs DC United",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "New York RB",
-            "team2": "DC United",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-new-york-rb-dc-united-2026-04-23-02-30",
-            "startTimestamp": 1776900600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Orlando City SC vs Charlotte [MLS Season Pass US]",
-            "matchstr": "Orlando City SC vs Charlotte",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Orlando City SC",
-            "team2": "Charlotte",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=34"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-orlando-city-sc-charlotte-2026-04-23-02-30",
-            "startTimestamp": 1776900600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Toronto FC vs Philadelphia Union [MLS Season Pass US]",
-            "matchstr": "Toronto FC vs Philadelphia Union",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Toronto FC",
-            "team2": "Philadelphia Union",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=35"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-toronto-fc-philadelphia-union-2026-04-23-02-30",
-            "startTimestamp": 1776900600000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Houston Dynamo vs San Diego [MLS Season Pass US]",
-            "matchstr": "Houston Dynamo vs San Diego",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Houston Dynamo",
-            "team2": "San Diego",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=36"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-houston-dynamo-san-diego-2026-04-23-03-30",
-            "startTimestamp": 1776904200000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Dallas vs Minnesota United [MLS Season Pass US]",
-            "matchstr": "Dallas vs Minnesota United",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Dallas",
-            "team2": "Minnesota United",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=37"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-dallas-minnesota-united-2026-04-23-03-30",
-            "startTimestamp": 1776904200000,
             "duration": 120
         },
         {
@@ -1482,45 +1124,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:45 [USA/Canada Major League Soccer] Atlanta United vs New England [Fox Sports 1 US]",
-            "matchstr": "Atlanta United vs New England",
-            "time": "02:45",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Atlanta United",
-            "team2": "New England",
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-atlanta-united-new-england-2026-04-23-02-45",
-            "startTimestamp": 1776901500000,
-            "duration": 120
-        },
-        {
             "matchText": "12:50 [NRL] Rugby: Canberra Raiders vs Wests Tigers [Fox Sports 2 US]",
             "matchstr": "Canberra Raiders vs Wests Tigers",
             "time": "12:50",
@@ -1575,90 +1178,6 @@
             "slug": "afl-australian-football-sydney-swans-western-bulldogs-2026-04-23-12-30",
             "startTimestamp": 1776936600000,
             "duration": 180
-        },
-        {
-            "matchText": "01:00 [Argentina Copa Argentina] Acassuso vs Gimnasia La Plata [TyC Sports Argentina ES]",
-            "matchstr": "Acassuso vs Gimnasia La Plata",
-            "time": "01:00",
-            "league": "Argentina Copa Argentina",
-            "sport": "Football",
-            "team1": "Acassuso",
-            "team2": "Gimnasia La Plata",
-            "channel": "TyC Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TyC Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-copa-argentina-football-acassuso-gimnasia-la-plata-2026-04-23-01-00",
-            "startTimestamp": 1776895200000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:15 [Argentina Copa Argentina] Deportivo Moron vs Midland [TyC Sports Argentina ES]",
-            "matchstr": "Deportivo Moron vs Midland",
-            "time": "03:15",
-            "league": "Argentina Copa Argentina",
-            "sport": "Football",
-            "team1": "Deportivo Moron",
-            "team2": "Midland",
-            "channel": "TyC Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TyC Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-copa-argentina-football-deportivo-moron-midland-2026-04-23-03-15",
-            "startTimestamp": 1776903300000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:20 [Colombia Primera A] Medellin vs Boyaca Chico [Win Sport ES]",
-            "matchstr": "Medellin vs Boyaca Chico",
-            "time": "02:20",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Medellin",
-            "team2": "Boyaca Chico",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-medellin-boyaca-chico-2026-04-23-02-20",
-            "startTimestamp": 1776900000000,
-            "duration": 120
         },
         {
             "matchText": "04:30 [Colombia Primera A] Fortaleza CEIF vs America de Cali [Win Sport ES]",
