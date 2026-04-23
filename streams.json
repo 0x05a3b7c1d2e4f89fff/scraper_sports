@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "15:00 [World Championships U18] Hockey: Latvia U18 vs Canada U18 [TSN4 CA]",
-            "matchstr": "Latvia U18 vs Canada U18",
-            "time": "15:00",
-            "league": "World Championships U18",
-            "sport": "Hockey",
-            "team1": "Latvia U18",
-            "team2": "Canada U18",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "world-championships-u18-hockey-latvia-u18-canada-u18-2026-04-23-15-00",
-            "startTimestamp": 1776945600000,
-            "duration": 180
-        },
-        {
             "matchText": "21:45 [Germany DFB Pokal] Stuttgart vs Freiburg [ESPNU US]",
             "matchstr": "Stuttgart vs Freiburg",
             "time": "21:45",
@@ -881,34 +853,6 @@
             ],
             "slug": "finland-liiga-hockey-ilves-tappara-2026-04-23-18-30",
             "startTimestamp": 1776958200000,
-            "duration": 180
-        },
-        {
-            "matchText": "12:30 [AFL] Australian Football: Sydney Swans vs Western Bulldogs [Fox Soccer Plus US]",
-            "matchstr": "Sydney Swans vs Western Bulldogs",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Sydney Swans",
-            "team2": "Western Bulldogs",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-23",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-sydney-swans-western-bulldogs-2026-04-23-12-30",
-            "startTimestamp": 1776936600000,
             "duration": 180
         },
         {
