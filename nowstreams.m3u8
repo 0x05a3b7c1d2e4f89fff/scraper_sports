@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="nba-basketball-new-york-knicks-atlanta-hawks-2026-04-24-02-00" group-title="NBA",New York Knicks vs Atlanta Hawks (NBA League Pass)
-https://l2l2.link/ch?id=1
 #EXTINF:-1 tvg-id="world-championships-u18-hockey-denmark-u18-usa-u18-2026-04-24-17-00" group-title="World Championships U18",Denmark U18 vs USA U18 (NHL Network)
 https://l2l2.link/ch?id=1
-#EXTINF:-1 tvg-id="nba-basketball-cleveland-cavaliers-toronto-raptors-2026-04-24-03-00" group-title="NBA",Cleveland Cavaliers vs Toronto Raptors (Sportsnet One)
-https://l2l2.link/ch?id=2
 #EXTINF:-1 tvg-id="motogp-motorsport-grand-prix-of-spain-2026-04-24-10-45" group-title="MotoGP",Grand Prix of Spain (TNT Sports 2)
 https://l2l2.link/ch?id=2
 #EXTINF:-1 tvg-id="motogp-motorsport-grand-prix-of-spain-2026-04-24-10-45" group-title="MotoGP",Grand Prix of Spain (Sky Sport Mix)
@@ -21,18 +17,10 @@ https://l2l2.link/ch?id=4
 https://l2l2.link/ch?id=5
 #EXTINF:-1 tvg-id="england-championship-football-leicester-city-millwall-2026-04-24-22-00" group-title="England Championship",Leicester City vs Millwall (Viaplay Sport)
 https://l2l2.link/ch?id=80
-#EXTINF:-1 tvg-id="nhl-hockey-buffalo-sabres-boston-bruins-2026-04-24-02-00" group-title="NHL",Buffalo Sabres vs Boston Bruins (TNT)
-https://l2l2.link/ch?id=6
-#EXTINF:-1 tvg-id="nhl-hockey-buffalo-sabres-boston-bruins-2026-04-24-02-00" group-title="NHL",Buffalo Sabres vs Boston Bruins (V Sport Vinter)
-https://l2l2.link/ch?id=75
 #EXTINF:-1 tvg-id="nhl-hockey-colorado-avalanche-los-angeles-kings-2026-04-24-05-00" group-title="NHL",Colorado Avalanche vs Los Angeles Kings (TNT)
 https://l2l2.link/ch?id=6
 #EXTINF:-1 tvg-id="nhl-hockey-colorado-avalanche-los-angeles-kings-2026-04-24-05-00" group-title="NHL",Colorado Avalanche vs Los Angeles Kings (V Sport Extra)
 https://l2l2.link/ch?id=77
-#EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-ottawa-senators-2026-04-24-02-30" group-title="NHL",Carolina Hurricanes vs Ottawa Senators (TVA Sports)
-https://l2l2.link/ch?id=7
-#EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-ottawa-senators-2026-04-24-02-30" group-title="NHL",Carolina Hurricanes vs Ottawa Senators (V Sport Premium)
-https://l2l2.link/ch?id=78
 #EXTINF:-1 tvg-id="australia-a-league-football-macarthur-wellington-phoenix-2026-04-24-12-35" group-title="Australia A-League",Macarthur vs Wellington Phoenix (TNT Sports 7)
 https://l2l2.link/ch?id=7
 #EXTINF:-1 tvg-id="england-premier-league-football-sunderland-nottingham-forest-2026-04-24-22-00" group-title="England Premier League",Sunderland vs Nottingham Forest (USA Network)
@@ -147,12 +135,6 @@ https://l2l2.link/ch?id=83
 https://l2l2.link/ch?id=83
 #EXTINF:-1 tvg-id="super-league-rugby-wigan-warriors-warrington-wolves-2026-04-24-22-00" group-title="Super League",Wigan Warriors vs Warrington Wolves (Fox Soccer Plus)
 https://l2l2.link/ch?id=83
-#EXTINF:-1 tvg-id="colombia-primera-a-football-deportivo-pasto-santa-fe-2026-04-24-02-00" group-title="Colombia Primera A",Deportivo Pasto vs Santa Fe (Win Sport)
-https://l2l2.link/ch?id=85
-#EXTINF:-1 tvg-id="colombia-primera-a-football-millonarios-deportes-tolima-2026-04-24-04-00" group-title="Colombia Primera A",Millonarios vs Deportes Tolima (Win Sport)
-https://l2l2.link/ch?id=85
-#EXTINF:-1 tvg-id="brazil-copa-do-brasil-football-operario-pr-fluminense-2026-04-24-03-30" group-title="Brazil Copa do Brasil",Operario PR vs Fluminense (Fox Deportes)
-https://l2l2.link/ch?id=87
 #EXTINF:-1 tvg-id="turkey-super-lig-football-istanbul-basaksehir-kasimpasa-2026-04-24-20-00" group-title="Turkey Super Lig",Istanbul Basaksehir vs Kasımpasa (beIN Sports 1)
 https://l2l2.link/ch?id=91
 #EXTINF:-1 tvg-id="germany-3-liga-football-alemannia-aachen-msv-duisburg-2026-04-24-20-00" group-title="Germany 3. Liga",Alemannia Aachen vs MSV Duisburg (Magenta Sport)

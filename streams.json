@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NBA] Basketball: New York Knicks vs Atlanta Hawks [NBA League Pass US]",
-            "matchstr": "New York Knicks vs Atlanta Hawks",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "New York Knicks",
-            "team2": "Atlanta Hawks",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-new-york-knicks-atlanta-hawks-2026-04-24-02-00",
-            "startTimestamp": 1776985200000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [World Championships U18] Hockey: Denmark U18 vs USA U18 [NHL Network US]",
             "matchstr": "Denmark U18 vs USA U18",
             "time": "17:00",
@@ -54,34 +26,6 @@
             ],
             "slug": "world-championships-u18-hockey-denmark-u18-usa-u18-2026-04-24-17-00",
             "startTimestamp": 1777039200000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [NBA] Basketball: Cleveland Cavaliers vs Toronto Raptors [Sportsnet One CA]",
-            "matchstr": "Cleveland Cavaliers vs Toronto Raptors",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Cleveland Cavaliers",
-            "team2": "Toronto Raptors",
-            "channel": "Sportsnet One CA",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Sportsnet One",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-cleveland-cavaliers-toronto-raptors-2026-04-24-03-00",
-            "startTimestamp": 1776988800000,
             "duration": 180
         },
         {
@@ -258,45 +202,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NHL] Hockey: Buffalo Sabres vs Boston Bruins [TNT US]",
-            "matchstr": "Buffalo Sabres vs Boston Bruins",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Buffalo Sabres",
-            "team2": "Boston Bruins",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=6"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-buffalo-sabres-boston-bruins-2026-04-24-02-00",
-            "startTimestamp": 1776985200000,
-            "duration": 180
-        },
-        {
             "matchText": "05:00 [NHL] Hockey: Colorado Avalanche vs Los Angeles Kings [TNT US]",
             "matchstr": "Colorado Avalanche vs Los Angeles Kings",
             "time": "05:00",
@@ -333,45 +238,6 @@
             ],
             "slug": "nhl-hockey-colorado-avalanche-los-angeles-kings-2026-04-24-05-00",
             "startTimestamp": 1776996000000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:30 [NHL] Hockey: Carolina Hurricanes vs Ottawa Senators [TVA Sports CA]",
-            "matchstr": "Carolina Hurricanes vs Ottawa Senators",
-            "time": "02:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Carolina Hurricanes",
-            "team2": "Ottawa Senators",
-            "channel": "TVA Sports CA",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-carolina-hurricanes-ottawa-senators-2026-04-24-02-30",
-            "startTimestamp": 1776987000000,
             "duration": 180
         },
         {
@@ -1662,90 +1528,6 @@
             ],
             "slug": "super-league-rugby-wigan-warriors-warrington-wolves-2026-04-24-22-00",
             "startTimestamp": 1777057200000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Colombia Primera A] Deportivo Pasto vs Santa Fe [Win Sport ES]",
-            "matchstr": "Deportivo Pasto vs Santa Fe",
-            "time": "02:00",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Deportivo Pasto",
-            "team2": "Santa Fe",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-deportivo-pasto-santa-fe-2026-04-24-02-00",
-            "startTimestamp": 1776985200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [Colombia Primera A] Millonarios vs Deportes Tolima [Win Sport ES]",
-            "matchstr": "Millonarios vs Deportes Tolima",
-            "time": "04:00",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Millonarios",
-            "team2": "Deportes Tolima",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-millonarios-deportes-tolima-2026-04-24-04-00",
-            "startTimestamp": 1776992400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [Brazil Copa do Brasil] Operario PR vs Fluminense [Fox Deportes ES]",
-            "matchstr": "Operario PR vs Fluminense",
-            "time": "03:30",
-            "league": "Brazil Copa do Brasil",
-            "sport": "Football",
-            "team1": "Operario PR",
-            "team2": "Fluminense",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "brazil-copa-do-brasil-football-operario-pr-fluminense-2026-04-24-03-30",
-            "startTimestamp": 1776990600000,
             "duration": 120
         },
         {
