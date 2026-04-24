@@ -1,62 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "17:00 [World Championships U18] Hockey: Denmark U18 vs USA U18 [NHL Network US]",
-            "matchstr": "Denmark U18 vs USA U18",
-            "time": "17:00",
-            "league": "World Championships U18",
-            "sport": "Hockey",
-            "team1": "Denmark U18",
-            "team2": "USA U18",
-            "channel": "NHL Network US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "NHL Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "world-championships-u18-hockey-denmark-u18-usa-u18-2026-04-24-17-00",
-            "startTimestamp": 1777039200000,
-            "duration": 180
-        },
-        {
-            "matchText": "18:00 [Africa League] Basketball: Club Africain [Tun] vs Ville de Dakar [Sen] [NBA TV US]",
-            "matchstr": "Club Africain [Tun] vs Ville de Dakar [Sen]",
-            "time": "18:00",
-            "league": "Africa League",
-            "sport": "Basketball",
-            "team1": "Club Africain [Tun]",
-            "team2": "Ville de Dakar [Sen]",
-            "channel": "NBA TV US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "NBA TV",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "africa-league-basketball-club-africain-tun-ville-de-dakar-sen-2026-04-24-18-00",
-            "startTimestamp": 1777042800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Africa League] Basketball: FUS Rabat vs JCA Kings [Ivo] [NBA TV US]",
             "matchstr": "FUS Rabat vs JCA Kings [Ivo]",
             "time": "21:00",
@@ -475,34 +419,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Portugal Liga Revelacao] Sporting CP U23 vs Benfica U23 [Canal 11 PT]",
-            "matchstr": "Sporting CP U23 vs Benfica U23",
-            "time": "18:00",
-            "league": "Portugal Liga Revelacao",
-            "sport": "Football",
-            "team1": "Sporting CP U23",
-            "team2": "Benfica U23",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=22"
-                    ]
-                }
-            ],
-            "slug": "portugal-liga-revelacao-football-sporting-cp-u23-benfica-u23-2026-04-24-18-00",
-            "startTimestamp": 1777042800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Spain Segunda Division] Albacete vs Eibar [LALIGA TV Hypermotion ES]",
             "matchstr": "Albacete vs Eibar",
             "time": "21:30",
@@ -529,34 +445,6 @@
             "slug": "spain-segunda-division-football-albacete-eibar-2026-04-24-21-30",
             "startTimestamp": 1777055400000,
             "duration": 120
-        },
-        {
-            "matchText": "16:30 [ONE] MMA: One Friday Fights [beIN Sport Canada CA]",
-            "matchstr": "One Friday Fights",
-            "time": "16:30",
-            "league": "ONE",
-            "sport": "MMA",
-            "team1": "One Friday Fights",
-            "team2": null,
-            "channel": "beIN Sport Canada CA",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "beIN Sport Canada",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=38"
-                    ]
-                }
-            ],
-            "slug": "one-mma-one-friday-fights-2026-04-24-16-30",
-            "startTimestamp": 1777037400000,
-            "duration": 180
         },
         {
             "matchText": "19:00 [Poland Ekstraklasa] Zag\u0142ebie Lubin vs Nieciecza [beIN SPORTS US]",
@@ -712,45 +600,6 @@
             ],
             "slug": "belgium-pro-league-football-cercle-brugge-dender-2026-04-24-21-45",
             "startTimestamp": 1777056300000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "16:30",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=52"
-                    ]
-                },
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-24-16-30",
-            "startTimestamp": 1777037400000,
             "duration": 120
         },
         {
