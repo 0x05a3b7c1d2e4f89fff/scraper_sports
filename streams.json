@@ -793,45 +793,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "10:00",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=52"
-                    ]
-                },
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-24-10-00",
-            "startTimestamp": 1777014000000,
-            "duration": 120
-        },
-        {
             "matchText": "12:45 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
             "matchstr": "Rally Islas Canarias",
             "time": "12:45",
