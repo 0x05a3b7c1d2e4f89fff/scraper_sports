@@ -79,34 +79,6 @@
             "duration": 400
         },
         {
-            "matchText": "04:30 [NBA] Basketball: Denver Nuggets vs Minnesota Timberwolves [NBA League Pass US]",
-            "matchstr": "Denver Nuggets vs Minnesota Timberwolves",
-            "time": "04:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Denver Nuggets",
-            "team2": "Minnesota Timberwolves",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-denver-nuggets-minnesota-timberwolves-2026-04-24-04-30",
-            "startTimestamp": 1776994200000,
-            "duration": 180
-        },
-        {
             "matchText": "18:00 [Africa League] Basketball: Club Africain [Tun] vs Ville de Dakar [Sen] [NBA TV US]",
             "matchstr": "Club Africain [Tun] vs Ville de Dakar [Sen]",
             "time": "18:00",
@@ -200,45 +172,6 @@
             "slug": "england-championship-football-leicester-city-millwall-2026-04-24-22-00",
             "startTimestamp": 1777057200000,
             "duration": 120
-        },
-        {
-            "matchText": "05:00 [NHL] Hockey: Colorado Avalanche vs Los Angeles Kings [TNT US]",
-            "matchstr": "Colorado Avalanche vs Los Angeles Kings",
-            "time": "05:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Colorado Avalanche",
-            "team2": "Los Angeles Kings",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=6"
-                    ]
-                },
-                {
-                    "name": "V Sport Extra",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=77"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-colorado-avalanche-los-angeles-kings-2026-04-24-05-00",
-            "startTimestamp": 1776996000000,
-            "duration": 180
         },
         {
             "matchText": "12:35 [Australia A-League] Macarthur vs Wellington Phoenix [TNT Sports 7 GB]",
