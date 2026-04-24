@@ -174,34 +174,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:35 [Australia A-League] Macarthur vs Wellington Phoenix [TNT Sports 7 GB]",
-            "matchstr": "Macarthur vs Wellington Phoenix",
-            "time": "12:35",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Macarthur",
-            "team2": "Wellington Phoenix",
-            "channel": "TNT Sports 7 GB",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "TNT Sports 7",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-macarthur-wellington-phoenix-2026-04-24-12-35",
-            "startTimestamp": 1777023300000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [England Premier League] Sunderland vs Nottingham Forest [USA Network US]",
             "matchstr": "Sunderland vs Nottingham Forest",
             "time": "22:00",
@@ -793,45 +765,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:45 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "12:45",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=52"
-                    ]
-                },
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-24-12-45",
-            "startTimestamp": 1777023900000,
-            "duration": 120
-        },
-        {
             "matchText": "16:30 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
             "matchstr": "Rally Islas Canarias",
             "time": "16:30",
@@ -1311,62 +1244,6 @@
             "slug": "switzerland-national-league-hockey-hc-fribourg-gotteron-hc-davos-2026-04-24-21-00",
             "startTimestamp": 1777053600000,
             "duration": 180
-        },
-        {
-            "matchText": "12:40 [AFL] Australian Football: Melbourne Demons vs Richmond Tigers [Fox Sports 2 US]",
-            "matchstr": "Melbourne Demons vs Richmond Tigers",
-            "time": "12:40",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Melbourne Demons",
-            "team2": "Richmond Tigers",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-melbourne-demons-richmond-tigers-2026-04-24-12-40",
-            "startTimestamp": 1777023600000,
-            "duration": 180
-        },
-        {
-            "matchText": "13:00 [NRL] Rugby: Canterbury Bulldogs vs Brisbane Broncos [Fox Soccer Plus US]",
-            "matchstr": "Canterbury Bulldogs vs Brisbane Broncos",
-            "time": "13:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Canterbury Bulldogs",
-            "team2": "Brisbane Broncos",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-canterbury-bulldogs-brisbane-broncos-2026-04-24-13-00",
-            "startTimestamp": 1777024800000,
-            "duration": 120
         },
         {
             "matchText": "22:00 [Super League] Rugby: Wigan Warriors vs Warrington Wolves [Fox Soccer Plus US]",
