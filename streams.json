@@ -1341,34 +1341,6 @@
             "duration": 180
         },
         {
-            "matchText": "11:00 [NRL] Rugby: Cronulla Sharks vs NQ Cowboys [Fox Soccer Plus US]",
-            "matchstr": "Cronulla Sharks vs NQ Cowboys",
-            "time": "11:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Cronulla Sharks",
-            "team2": "NQ Cowboys",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-24",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-cronulla-sharks-nq-cowboys-2026-04-24-11-00",
-            "startTimestamp": 1777017600000,
-            "duration": 120
-        },
-        {
             "matchText": "13:00 [NRL] Rugby: Canterbury Bulldogs vs Brisbane Broncos [Fox Soccer Plus US]",
             "matchstr": "Canterbury Bulldogs vs Brisbane Broncos",
             "time": "13:00",
