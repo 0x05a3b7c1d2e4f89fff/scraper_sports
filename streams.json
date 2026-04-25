@@ -441,24 +441,24 @@
             "duration": 180
         },
         {
-            "matchText": "17:00 [England Premier League] Wolverhampton Wanderers vs Tottenham Hotspur [Sky Sport 6 NZ]",
+            "matchText": "17:00 [England Premier League] Wolverhampton Wanderers vs Tottenham Hotspur [HUB Premier GB]",
             "matchstr": "Wolverhampton Wanderers vs Tottenham Hotspur",
             "time": "17:00",
             "league": "England Premier League",
             "sport": "Football",
             "team1": "Wolverhampton Wanderers",
             "team2": "Tottenham Hotspur",
-            "channel": "Sky Sport 6 NZ",
+            "channel": "HUB Premier GB",
             "important": false,
             "matchDate": "2026-04-25",
             "channels": [
                 {
-                    "name": "Sky Sport 6",
+                    "name": "HUB Premier",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=6"
                     ],
                     "number": 6,
-                    "language": "NZ",
+                    "language": "GB",
                     "links": [
                         "https://l2l2.link/ch?id=6"
                     ]
@@ -519,24 +519,24 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [England Premier League] West Ham United vs Everton [Sky Sport 7 NZ]",
+            "matchText": "17:00 [England Premier League] West Ham United vs Everton [HUB Premier GB]",
             "matchstr": "West Ham United vs Everton",
             "time": "17:00",
             "league": "England Premier League",
             "sport": "Football",
             "team1": "West Ham United",
             "team2": "Everton",
-            "channel": "Sky Sport 7 NZ",
+            "channel": "HUB Premier GB",
             "important": false,
             "matchDate": "2026-04-25",
             "channels": [
                 {
-                    "name": "Sky Sport 7",
+                    "name": "HUB Premier",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=7"
                     ],
                     "number": 7,
-                    "language": "NZ",
+                    "language": "GB",
                     "links": [
                         "https://l2l2.link/ch?id=7"
                     ]
@@ -2569,90 +2569,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:20 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "10:20",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-25-10-20",
-            "startTimestamp": 1777101600000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:30 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "11:30",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-25-11-30",
-            "startTimestamp": 1777105800000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:50 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "11:50",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-25-11-50",
-            "startTimestamp": 1777107000000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
             "matchstr": "Rally Islas Canarias",
             "time": "17:00",
@@ -3045,19 +2961,19 @@
             "duration": 120
         },
         {
-            "matchText": "16:15 [Sweden SHL] Hochey: Skelleftea AIK vs Rogle BK [V4 Hockey SE]",
+            "matchText": "16:15 [Sweden SHL] Hochey: Skelleftea AIK vs Rogle BK [TV4 Hockey SE]",
             "matchstr": "Skelleftea AIK vs Rogle BK",
             "time": "16:15",
             "league": "Sweden SHL",
             "sport": "Hochey",
             "team1": "Skelleftea AIK",
             "team2": "Rogle BK",
-            "channel": "V4 Hockey SE",
+            "channel": "TV4 Hockey SE",
             "important": false,
             "matchDate": "2026-04-25",
             "channels": [
                 {
-                    "name": "V4 Hockey",
+                    "name": "TV4 Hockey",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=74"
                     ],
@@ -3183,6 +3099,34 @@
             "slug": "afl-australian-football-geelong-cats-port-adelaide-power-2026-04-25-11-35",
             "startTimestamp": 1777106100000,
             "duration": 180
+        },
+        {
+            "matchText": "17:00 [England Premier League] Simulcast [HUB Premier GB]",
+            "matchstr": "Simulcast",
+            "time": "17:00",
+            "league": "England Premier League",
+            "sport": "Football",
+            "team1": "Simulcast",
+            "team2": null,
+            "channel": "HUB Premier GB",
+            "important": false,
+            "matchDate": "2026-04-25",
+            "channels": [
+                {
+                    "name": "HUB Premier",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=81"
+                    ]
+                }
+            ],
+            "slug": "england-premier-league-football-simulcast-2026-04-25-17-00",
+            "startTimestamp": 1777125600000,
+            "duration": 120
         },
         {
             "matchText": "13:15 [AFL] Australian Football: Carlton Blues vs Fremantle Dockers [Fox Sports 2 US]",
