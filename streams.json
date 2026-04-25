@@ -346,34 +346,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [Australia A-League] Newcastle Jets vs Central Coast Mariners [Sky Sport 5 NZ]",
-            "matchstr": "Newcastle Jets vs Central Coast Mariners",
-            "time": "10:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Newcastle Jets",
-            "team2": "Central Coast Mariners",
-            "channel": "Sky Sport 5 NZ",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "NZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-newcastle-jets-central-coast-mariners-2026-04-25-10-00",
-            "startTimestamp": 1777100400000,
-            "duration": 120
-        },
-        {
             "matchText": "12:35 [Australia A-League] Western Sydney Wanderers vs Melbourne Victory [Sky Sport 5 NZ]",
             "matchstr": "Western Sydney Wanderers vs Melbourne Victory",
             "time": "12:35",
@@ -3238,34 +3210,6 @@
             ],
             "slug": "afl-australian-football-carlton-blues-fremantle-dockers-2026-04-25-13-15",
             "startTimestamp": 1777112100000,
-            "duration": 180
-        },
-        {
-            "matchText": "08:15 [AFL] Australian Football: Collingwood Magpies vs Essendon Bombers [Fox Soccer Plus US]",
-            "matchstr": "Collingwood Magpies vs Essendon Bombers",
-            "time": "08:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Collingwood Magpies",
-            "team2": "Essendon Bombers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-collingwood-magpies-essendon-bombers-2026-04-25-08-15",
-            "startTimestamp": 1777094100000,
             "duration": 180
         },
         {
