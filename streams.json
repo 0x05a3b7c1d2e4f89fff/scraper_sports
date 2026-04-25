@@ -112,34 +112,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [NBA] Basketball: Los Angeles Lakers vs Houston Rockets [NBA Leaguie Pass US]",
-            "matchstr": "Los Angeles Lakers vs Houston Rockets",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Los Angeles Lakers",
-            "team2": "Houston Rockets",
-            "channel": "NBA Leaguie Pass US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "NBA Leaguie Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-los-angeles-lakers-houston-rockets-2026-04-25-03-00",
-            "startTimestamp": 1777075200000,
-            "duration": 180
-        },
-        {
             "matchText": "09:40 [MotoGP] Motorsport: Spanish Grand Prix [TNT Sports 2 GB]",
             "matchstr": "Spanish Grand Prix",
             "time": "09:40",
@@ -346,45 +318,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [NHL] Hockey: Edmonton Oilers vs Anaheim Ducks [TNT US]",
-            "matchstr": "Edmonton Oilers vs Anaheim Ducks",
-            "time": "05:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Edmonton Oilers",
-            "team2": "Anaheim Ducks",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Extra",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=77"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-edmonton-oilers-anaheim-ducks-2026-04-25-05-00",
-            "startTimestamp": 1777082400000,
-            "duration": 180
-        },
-        {
             "matchText": "14:30 [England Championship] West Bromwich Albion vs Ipswich Town [Sky Sports Football GB]",
             "matchstr": "West Bromwich Albion vs Ipswich Town",
             "time": "14:30",
@@ -439,45 +372,6 @@
             "slug": "scotland-scottish-premiership-football-celtic-falkirk-2026-04-25-19-30",
             "startTimestamp": 1777134600000,
             "duration": 120
-        },
-        {
-            "matchText": "04:30 [NHL] Hockey: Vegas Golden Knights vs Utah Mammoth [TVA Sports 2 CA]",
-            "matchstr": "Vegas Golden Knights vs Utah Mammoth",
-            "time": "04:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Vegas Golden Knights",
-            "team2": "Utah Mammoth",
-            "channel": "TVA Sports 2 CA",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TVA Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-vegas-golden-knights-utah-mammoth-2026-04-25-04-30",
-            "startTimestamp": 1777080600000,
-            "duration": 180
         },
         {
             "matchText": "10:00 [Australia A-League] Newcastle Jets vs Central Coast Mariners [Sky Sport 5 NZ]",
@@ -1595,34 +1489,6 @@
             ],
             "slug": "spain-la-liga-football-valencia-girona-2026-04-25-19-30",
             "startTimestamp": 1777134600000,
-            "duration": 120
-        },
-        {
-            "matchText": "06:00 [Mexico Liga MX] Puebla vs Queretaro [TUDN ES]",
-            "matchstr": "Puebla vs Queretaro",
-            "time": "06:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Puebla",
-            "team2": "Queretaro",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-puebla-queretaro-2026-04-25-06-00",
-            "startTimestamp": 1777086000000,
             "duration": 120
         },
         {
@@ -3372,34 +3238,6 @@
             ],
             "slug": "afl-australian-football-geelong-cats-port-adelaide-power-2026-04-25-11-35",
             "startTimestamp": 1777106100000,
-            "duration": 180
-        },
-        {
-            "matchText": "05:15 [AFL] Australian Football: Gold Coast Suns vs Hawthorn Hawks [Fox Sports 2 US]",
-            "matchstr": "Gold Coast Suns vs Hawthorn Hawks",
-            "time": "05:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Gold Coast Suns",
-            "team2": "Hawthorn Hawks",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-gold-coast-suns-hawthorn-hawks-2026-04-25-05-15",
-            "startTimestamp": 1777083300000,
             "duration": 180
         },
         {
