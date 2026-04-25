@@ -346,45 +346,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:35 [Australia A-League] Western Sydney Wanderers vs Melbourne Victory [Sky Sport 5 NZ]",
-            "matchstr": "Western Sydney Wanderers vs Melbourne Victory",
-            "time": "12:35",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Western Sydney Wanderers",
-            "team2": "Melbourne Victory",
-            "channel": "Sky Sport 5 NZ",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "NZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-western-sydney-wanderers-melbourne-victory-2026-04-25-12-35",
-            "startTimestamp": 1777109700000,
-            "duration": 120
-        },
-        {
             "matchText": "14:45 [Australia A-League] Perth Glory vs Brisbane Roar [Sky Sport 5 NZ]",
             "matchstr": "Perth Glory vs Brisbane Roar",
             "time": "14:45",
@@ -3071,34 +3032,6 @@
             "slug": "germany-bundesliga-football-mainz-05-bayern-munchen-2026-04-25-16-30",
             "startTimestamp": 1777123800000,
             "duration": 120
-        },
-        {
-            "matchText": "11:35 [AFL] Australian Football: Geelong Cats vs Port Adelaide Power [Fox Sports 1 US]",
-            "matchstr": "Geelong Cats vs Port Adelaide Power",
-            "time": "11:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Geelong Cats",
-            "team2": "Port Adelaide Power",
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-geelong-cats-port-adelaide-power-2026-04-25-11-35",
-            "startTimestamp": 1777106100000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [England Premier League] Simulcast [HUB Premier GB]",
