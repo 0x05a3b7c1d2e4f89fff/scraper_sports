@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "14:30 [England Premier League] Fulham vs Aston Villa [TNT Sports 1 GB]",
-            "matchstr": "Fulham vs Aston Villa",
-            "time": "14:30",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Fulham",
-            "team2": "Aston Villa",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                },
-                {
-                    "name": "USA Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=10"
-                    ]
-                },
-                {
-                    "name": "Universo",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=30"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-fulham-aston-villa-2026-04-25-14-30",
-            "startTimestamp": 1777116600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:15 [England FA Cup] Manchester City vs Southampton [TNT Sports 1 GB]",
             "matchstr": "Manchester City vs Southampton",
             "time": "19:15",
@@ -110,45 +60,6 @@
             "slug": "england-fa-cup-football-manchester-city-southampton-2026-04-25-19-15",
             "startTimestamp": 1777133700000,
             "duration": 120
-        },
-        {
-            "matchText": "09:40 [MotoGP] Motorsport: Spanish Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Spanish Grand Prix",
-            "time": "09:40",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Spanish Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-spanish-grand-prix-2026-04-25-09-40",
-            "startTimestamp": 1777099200000,
-            "duration": 400
         },
         {
             "matchText": "20:00 [NBA] Basketball: Detroit Pistons vs Orlando Magic [Sportsnet 360 CA]",
@@ -290,34 +201,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] West Bromwich Albion vs Ipswich Town [Sky Sports Football GB]",
-            "matchstr": "West Bromwich Albion vs Ipswich Town",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "West Bromwich Albion",
-            "team2": "Ipswich Town",
-            "channel": "Sky Sports Football GB",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sports Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-west-bromwich-albion-ipswich-town-2026-04-25-14-30",
-            "startTimestamp": 1777116600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Scotland Scottish Premiership] Celtic vs Falkirk [Sky Sports Football GB]",
             "matchstr": "Celtic vs Falkirk",
             "time": "19:30",
@@ -343,34 +226,6 @@
             ],
             "slug": "scotland-scottish-premiership-football-celtic-falkirk-2026-04-25-19-30",
             "startTimestamp": 1777134600000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:45 [Australia A-League] Perth Glory vs Brisbane Roar [Sky Sport 5 NZ]",
-            "matchstr": "Perth Glory vs Brisbane Roar",
-            "time": "14:45",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Perth Glory",
-            "team2": "Brisbane Roar",
-            "channel": "Sky Sport 5 NZ",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "NZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-perth-glory-brisbane-roar-2026-04-25-14-45",
-            "startTimestamp": 1777117500000,
             "duration": 120
         },
         {
@@ -1268,34 +1123,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] Middlesbrough vs Watford [Sky Sports+ GB]",
-            "matchstr": "Middlesbrough vs Watford",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Middlesbrough",
-            "team2": "Watford",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=31"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-middlesbrough-watford-2026-04-25-14-30",
-            "startTimestamp": 1777116600000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [England Championship] Stoke City vs Portsmouth [Sky Sports+ GB]",
             "matchstr": "Stoke City vs Portsmouth",
             "time": "17:00",
@@ -1321,56 +1148,6 @@
             ],
             "slug": "england-championship-football-stoke-city-portsmouth-2026-04-25-17-00",
             "startTimestamp": 1777125600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Spain La Liga] Deportivo Alaves vs Mallorca [beIN SPORTS 2 AU]",
-            "matchstr": "Deportivo Alaves vs Mallorca",
-            "time": "15:00",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Deportivo Alaves",
-            "team2": "Mallorca",
-            "channel": "beIN SPORTS 2 AU",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                },
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=86"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-deportivo-alaves-mallorca-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
             "duration": 120
         },
         {
@@ -1683,34 +1460,6 @@
             ],
             "slug": "england-championship-football-birmingham-city-bristol-city-2026-04-25-17-00",
             "startTimestamp": 1777125600000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:45 [United Rugby Championship] Rugby: Glasgow Warriors vs Stormers [Sportsnet World CA]",
-            "matchstr": "Glasgow Warriors vs Stormers",
-            "time": "14:45",
-            "league": "United Rugby Championship",
-            "sport": "Rugby",
-            "team1": "Glasgow Warriors",
-            "team2": "Stormers",
-            "channel": "Sportsnet World CA",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=37"
-                    ]
-                }
-            ],
-            "slug": "united-rugby-championship-rugby-glasgow-warriors-stormers-2026-04-25-14-45",
-            "startTimestamp": 1777117500000,
             "duration": 120
         },
         {
@@ -2300,34 +2049,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [France Ligue 2] Reims vs Nancy [beIN Sports 2 FR]",
-            "matchstr": "Reims vs Nancy",
-            "time": "15:00",
-            "league": "France Ligue 2",
-            "sport": "Football",
-            "team1": "Reims",
-            "team2": "Nancy",
-            "channel": "beIN Sports 2 FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "beIN Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=52"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-2-football-reims-nancy-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Czech Republic 1. liga] Banik Ostrava vs Viktoria Plzen [Oneplay Sport 3 MD CZ]",
             "matchstr": "Banik Ostrava vs Viktoria Plzen",
             "time": "17:00",
@@ -2353,34 +2074,6 @@
             ],
             "slug": "czech-republic-1-liga-football-banik-ostrava-viktoria-plzen-2026-04-25-17-00",
             "startTimestamp": 1777125600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [France Ligue 2] Grenoble Foot 38 vs Le Mans [beIN Sports MAX 5 FR]",
-            "matchstr": "Grenoble Foot 38 vs Le Mans",
-            "time": "15:00",
-            "league": "France Ligue 2",
-            "sport": "Football",
-            "team1": "Grenoble Foot 38",
-            "team2": "Le Mans",
-            "channel": "beIN Sports MAX 5 FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "beIN Sports MAX 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=55"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-2-football-grenoble-foot-38-le-mans-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
             "duration": 120
         },
         {
@@ -2552,34 +2245,6 @@
             "duration": 180
         },
         {
-            "matchText": "15:45 [Poland Ekstraklasa] Korona Kielce vs Katowice [Canal+ Sport 3 PL]",
-            "matchstr": "Korona Kielce vs Katowice",
-            "time": "15:45",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Korona Kielce",
-            "team2": "Katowice",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-korona-kielce-katowice-2026-04-25-15-45",
-            "startTimestamp": 1777121100000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [Poland Ekstraklasa] Lechia Gdansk vs Rakow Czestochowa [Canal+ Sport 3 PL]",
             "matchstr": "Lechia Gdansk vs Rakow Czestochowa",
             "time": "18:30",
@@ -2633,34 +2298,6 @@
             ],
             "slug": "poland-ekstraklasa-football-cracovia-krakow-pogon-szczecin-2026-04-25-21-15",
             "startTimestamp": 1777140900000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Charlton Athletic vs Hull City [V Sport 1 SE]",
-            "matchstr": "Charlton Athletic vs Hull City",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Charlton Athletic",
-            "team2": "Hull City",
-            "channel": "V Sport 1 SE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=69"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-charlton-athletic-hull-city-2026-04-25-14-30",
-            "startTimestamp": 1777116600000,
             "duration": 120
         },
         {
@@ -3028,34 +2665,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Turkey Super Lig] Eyupspor vs Gaziantep FK [beIN Sports 1 TR]",
-            "matchstr": "Eyupspor vs Gaziantep FK",
-            "time": "14:30",
-            "league": "Turkey Super Lig",
-            "sport": "Football",
-            "team1": "Eyupspor",
-            "team2": "Gaziantep FK",
-            "channel": "beIN Sports 1 TR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "TR",
-                    "links": [
-                        "https://l2l2.link/ch?id=91"
-                    ]
-                }
-            ],
-            "slug": "turkey-super-lig-football-eyupspor-gaziantep-fk-2026-04-25-14-30",
-            "startTimestamp": 1777116600000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Turkey Super Lig] Kayserispor vs Rizespor [beIN Sports 1 TR]",
             "matchstr": "Kayserispor vs Rizespor",
             "time": "17:00",
@@ -3112,146 +2721,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Germany 3. Liga] Simulcast [Magenta Sport DE]",
-            "matchstr": "Simulcast",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=92"
-                    ],
-                    "number": 92,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=92"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-simulcast-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Hoffenheim II vs Ingolstadt [Magenta Sport DE]",
-            "matchstr": "Hoffenheim II vs Ingolstadt",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Hoffenheim II",
-            "team2": "Ingolstadt",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=93"
-                    ],
-                    "number": 93,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=93"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-hoffenheim-ii-ingolstadt-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Osnabruck vs Verl [Magenta Sport DE]",
-            "matchstr": "Osnabruck vs Verl",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Osnabruck",
-            "team2": "Verl",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=94"
-                    ],
-                    "number": 94,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=94"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-osnabruck-verl-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Hansa Rostock vs Jahn Regensburg [Magenta Sport DE]",
-            "matchstr": "Hansa Rostock vs Jahn Regensburg",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Hansa Rostock",
-            "team2": "Jahn Regensburg",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=95"
-                    ],
-                    "number": 95,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=95"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-hansa-rostock-jahn-regensburg-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] 1860 Munchen vs Ulm [Magenta Sport DE]",
-            "matchstr": "1860 Munchen vs Ulm",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "1860 Munchen",
-            "team2": "Ulm",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=96"
-                    ],
-                    "number": 96,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=96"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-1860-munchen-ulm-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [International Friendly] Hochey: Germany vs vs Slovakia [Magenta Sport DE]",
             "matchstr": "Germany vs vs Slovakia",
             "time": "18:00",
@@ -3277,34 +2746,6 @@
             ],
             "slug": "international-friendly-hochey-germany-vs-slovakia-2026-04-25-18-00",
             "startTimestamp": 1777129200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Erzgebirge Aue vs Wehen Wiesbaden [Magenta Sport DE]",
-            "matchstr": "Erzgebirge Aue vs Wehen Wiesbaden",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Erzgebirge Aue",
-            "team2": "Wehen Wiesbaden",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=97"
-                    ],
-                    "number": 97,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=97"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-erzgebirge-aue-wehen-wiesbaden-2026-04-25-15-00",
-            "startTimestamp": 1777118400000,
             "duration": 120
         },
         {
