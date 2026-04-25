@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NBA] Basketball: Boston Celtics vs Philadelphia 76ers [NBA Leaguie Pass US]",
-            "matchstr": "Boston Celtics vs Philadelphia 76ers",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Boston Celtics",
-            "team2": "Philadelphia 76ers",
-            "channel": "NBA Leaguie Pass US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "NBA Leaguie Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-boston-celtics-philadelphia-76ers-2026-04-25-02-00",
-            "startTimestamp": 1777071600000,
-            "duration": 180
-        },
-        {
             "matchText": "14:30 [England Premier League] Fulham vs Aston Villa [TNT Sports 1 GB]",
             "matchstr": "Fulham vs Aston Villa",
             "time": "14:30",
@@ -372,45 +344,6 @@
             "slug": "england-premier-league-football-arsenal-newcastle-united-2026-04-25-19-30",
             "startTimestamp": 1777134600000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Tampa Bay Lightning vs Montreal Canadiens [TNT US]",
-            "matchstr": "Tampa Bay Lightning vs Montreal Canadiens",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Tampa Bay Lightning",
-            "team2": "Montreal Canadiens",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-tampa-bay-lightning-montreal-canadiens-2026-04-25-02-00",
-            "startTimestamp": 1777071600000,
-            "duration": 180
         },
         {
             "matchText": "05:00 [NHL] Hockey: Edmonton Oilers vs Anaheim Ducks [TNT US]",
@@ -3442,34 +3375,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [Canada Canadian Premier League] Supra du Quebec vs HFX Wanderers [Fox Sports 2 US]",
-            "matchstr": "Supra du Quebec vs HFX Wanderers",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Supra du Quebec",
-            "team2": "HFX Wanderers",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-supra-du-quebec-hfx-wanderers-2026-04-25-02-00",
-            "startTimestamp": 1777071600000,
-            "duration": 120
-        },
-        {
             "matchText": "05:15 [AFL] Australian Football: Gold Coast Suns vs Hawthorn Hawks [Fox Sports 2 US]",
             "matchstr": "Gold Coast Suns vs Hawthorn Hawks",
             "time": "05:15",
@@ -3554,62 +3459,6 @@
             "duration": 180
         },
         {
-            "matchText": "01:15 [Argentina Primera Division] Estudiantes Rio Cuarto vs Rosario Central [TNT Sports Argentina ES]",
-            "matchstr": "Estudiantes Rio Cuarto vs Rosario Central",
-            "time": "01:15",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Estudiantes Rio Cuarto",
-            "team2": "Rosario Central",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-estudiantes-rio-cuarto-rosario-central-2026-04-25-01-15",
-            "startTimestamp": 1777068900000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [Argentina Primera Division] Racing Club vs Barracas Central [TNT Sports Argentina ES]",
-            "matchstr": "Racing Club vs Barracas Central",
-            "time": "03:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Racing Club",
-            "team2": "Barracas Central",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-racing-club-barracas-central-2026-04-25-03-30",
-            "startTimestamp": 1777077000000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [Argentina Primera Division] Estudiantes vs Talleres Cordoba [TNT Sports Argentina ES]",
             "matchstr": "Estudiantes vs Talleres Cordoba",
             "time": "23:00",
@@ -3635,62 +3484,6 @@
             ],
             "slug": "argentina-primera-division-football-estudiantes-talleres-cordoba-2026-04-25-23-00",
             "startTimestamp": 1777147200000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:15 [Argentina Primera Division] Lanus vs Central Cordoba SdE [ESPN Premium Argentina ES]",
-            "matchstr": "Lanus vs Central Cordoba SdE",
-            "time": "01:15",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Lanus",
-            "team2": "Central Cordoba SdE",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-lanus-central-cordoba-sde-2026-04-25-01-15",
-            "startTimestamp": 1777068900000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [Argentina Primera Division] Platense vs San Lorenzo [ESPN Premium Argentina ES]",
-            "matchstr": "Platense vs San Lorenzo",
-            "time": "03:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Platense",
-            "team2": "San Lorenzo",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-platense-san-lorenzo-2026-04-25-03-30",
-            "startTimestamp": 1777077000000,
             "duration": 120
         },
         {
