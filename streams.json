@@ -1139,34 +1139,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
-            "matchstr": "Rally Islas Canarias",
-            "time": "18:00",
-            "league": "WRC",
-            "sport": "Motorsport",
-            "team1": "Rally Islas Canarias",
-            "team2": null,
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=56"
-                    ]
-                }
-            ],
-            "slug": "wrc-motorsport-rally-islas-canarias-2026-04-25-18-00",
-            "startTimestamp": 1777129200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:20 [WRC] Motorsport: Rally Islas Canarias [Canal+ Sport FR]",
             "matchstr": "Rally Islas Canarias",
             "time": "19:20",
@@ -1221,34 +1193,6 @@
             "slug": "czech-republic-extraliga-hockey-litvinov-dukla-jihlava-2026-04-25-18-30",
             "startTimestamp": 1777131000000,
             "duration": 180
-        },
-        {
-            "matchText": "18:30 [Poland Ekstraklasa] Lechia Gdansk vs Rakow Czestochowa [Canal+ Sport 3 PL]",
-            "matchstr": "Lechia Gdansk vs Rakow Czestochowa",
-            "time": "18:30",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Lechia Gdansk",
-            "team2": "Rakow Czestochowa",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-lechia-gdansk-rakow-czestochowa-2026-04-25-18-30",
-            "startTimestamp": 1777131000000,
-            "duration": 120
         },
         {
             "matchText": "21:15 [Poland Ekstraklasa] Cracovia Krakow vs Pogon Szczecin [Canal+ Sport 3 PL]",
@@ -1307,34 +1251,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:30 [Finland Liiga] Hochey: Kookoo vs SaiPa [MTV Urheilu 1 FI]",
-            "matchstr": "Kookoo vs SaiPa",
-            "time": "18:30",
-            "league": "Finland Liiga",
-            "sport": "Hochey",
-            "team1": "Kookoo",
-            "team2": "SaiPa",
-            "channel": "MTV Urheilu 1 FI",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "MTV Urheilu 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://l2l2.link/ch?id=72"
-                    ]
-                }
-            ],
-            "slug": "finland-liiga-hochey-kookoo-saipa-2026-04-25-18-30",
-            "startTimestamp": 1777131000000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [Argentina Primera Division] Estudiantes vs Talleres Cordoba [TNT Sports Argentina ES]",
             "matchstr": "Estudiantes vs Talleres Cordoba",
             "time": "23:00",
@@ -1360,34 +1276,6 @@
             ],
             "slug": "argentina-primera-division-football-estudiantes-talleres-cordoba-2026-04-25-23-00",
             "startTimestamp": 1777147200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Uruguay Primera Division] Juventud vs Liverpool [DIRECTV Sports ES]",
-            "matchstr": "Juventud vs Liverpool",
-            "time": "18:00",
-            "league": "Uruguay Primera Division",
-            "sport": "Football",
-            "team1": "Juventud",
-            "team2": "Liverpool",
-            "channel": "DIRECTV Sports ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "DIRECTV Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "uruguay-primera-division-football-juventud-liverpool-2026-04-25-18-00",
-            "startTimestamp": 1777129200000,
             "duration": 120
         },
         {
@@ -1528,118 +1416,6 @@
             ],
             "slug": "turkey-super-lig-football-goztepe-antalyaspor-2026-04-25-20-00",
             "startTimestamp": 1777136400000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [International Friendly] Hochey: Germany vs vs Slovakia [Magenta Sport DE]",
-            "matchstr": "Germany vs vs Slovakia",
-            "time": "18:00",
-            "league": "International Friendly",
-            "sport": "Hochey",
-            "team1": "Germany",
-            "team2": "vs Slovakia",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=96"
-                    ],
-                    "number": 96,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=96"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-hochey-germany-vs-slovakia-2026-04-25-18-00",
-            "startTimestamp": 1777129200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] WSG Tirol vs Ried [Sky Sport Austria 3 AT]",
-            "matchstr": "WSG Tirol vs Ried",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "WSG Tirol",
-            "team2": "Ried",
-            "channel": "Sky Sport Austria 3 AT",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=98"
-                    ],
-                    "number": 98,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=98"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-wsg-tirol-ried-2026-04-25-18-00",
-            "startTimestamp": 1777129200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] Wolfsberger AC vs Grazer AK [Sky Sport Austria 2 AT]",
-            "matchstr": "Wolfsberger AC vs Grazer AK",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Wolfsberger AC",
-            "team2": "Grazer AK",
-            "channel": "Sky Sport Austria 2 AT",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=99"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-wolfsberger-ac-grazer-ak-2026-04-25-18-00",
-            "startTimestamp": 1777129200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] Simulcast [Sky Sport Austria 1 AT]",
-            "matchstr": "Simulcast",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/ch?id=100"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-simulcast-2026-04-25-18-00",
-            "startTimestamp": 1777129200000,
             "duration": 120
         },
         {
