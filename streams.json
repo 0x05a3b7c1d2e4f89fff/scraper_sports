@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:45 [USA/Canada Major League Soccer] Minnesota United vs Los Angeles FC [TSN5 CA]",
-            "matchstr": "Minnesota United vs Los Angeles FC",
-            "time": "23:45",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Minnesota United",
-            "team2": "Los Angeles FC",
-            "channel": "TSN5 CA",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "TSN5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=35"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-minnesota-united-los-angeles-fc-2026-04-25-23-45",
-            "startTimestamp": 1777149900000,
-            "duration": 120
-        },
-        {
             "matchText": "01:00 [NBA] Basketball: New York Knicks vs Atlanta Hawks [NBA League Pass US]",
             "matchstr": "New York Knicks vs Atlanta Hawks",
             "time": "01:00",
@@ -954,34 +915,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Brazil Brasileirao] Botafogo vs Internacional [Sportdigital FUSSBALL DE]",
-            "matchstr": "Botafogo vs Internacional",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Botafogo",
-            "team2": "Internacional",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=19"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-botafogo-internacional-2026-04-26-00-30",
-            "startTimestamp": 1777152600000,
-            "duration": 120
-        },
-        {
             "matchText": "10:30 [Australia A-League] Melbourne City vs Adelaide United [Sportdigital FUSSBALL DE]",
             "matchstr": "Melbourne City vs Adelaide United",
             "time": "10:30",
@@ -1180,34 +1113,6 @@
             ],
             "slug": "portugal-primeira-liga-football-estrela-porto-2026-04-26-20-00",
             "startTimestamp": 1777222800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Remo vs Cruzeiro [Canal 11 PT]",
-            "matchstr": "Remo vs Cruzeiro",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Remo",
-            "team2": "Cruzeiro",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/ch?id=22"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-remo-cruzeiro-2026-04-26-00-30",
-            "startTimestamp": 1777152600000,
             "duration": 120
         },
         {
@@ -1516,34 +1421,6 @@
             ],
             "slug": "spain-segunda-division-football-ceuta-racing-santander-2026-04-26-22-00",
             "startTimestamp": 1777230000000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:00 [Colombia Primera A] Deportivo Pereira vs Atletico Nacional [Win Sport ES]",
-            "matchstr": "Deportivo Pereira vs Atletico Nacional",
-            "time": "00:00",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Deportivo Pereira",
-            "team2": "Atletico Nacional",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=27"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-deportivo-pereira-atletico-nacional-2026-04-26-00-00",
-            "startTimestamp": 1777150800000,
             "duration": 120
         },
         {
@@ -1885,34 +1762,6 @@
             ],
             "slug": "spain-la-liga-football-osasuna-sevilla-2026-04-26-19-30",
             "startTimestamp": 1777221000000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Bahia vs Santos [Premier Sports 2 GB]",
-            "matchstr": "Bahia vs Santos",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Bahia",
-            "team2": "Santos",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-bahia-santos-2026-04-26-00-30",
-            "startTimestamp": 1777152600000,
             "duration": 120
         },
         {
@@ -3355,34 +3204,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-atl-ottawa-vancouver-fc-2026-04-26-20-00",
             "startTimestamp": 1777222800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:00 [Canada Canadian Premier League] Cavalry vs Inter Toronto [Fox Soccer Plus US]",
-            "matchstr": "Cavalry vs Inter Toronto",
-            "time": "00:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Cavalry",
-            "team2": "Inter Toronto",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-cavalry-inter-toronto-2026-04-26-00-00",
-            "startTimestamp": 1777150800000,
             "duration": 120
         },
         {
