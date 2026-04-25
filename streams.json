@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "20:00 [NBA] Basketball: Detroit Pistons vs Orlando Magic [Sportsnet 360 CA]",
-            "matchstr": "Detroit Pistons vs Orlando Magic",
-            "time": "20:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Detroit Pistons",
-            "team2": "Orlando Magic",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-detroit-pistons-orlando-magic-2026-04-25-20-00",
-            "startTimestamp": 1777136400000,
-            "duration": 180
-        },
-        {
             "matchText": "22:30 [NBA] Basketball: Oklahoma City Thunder vs Phoenix Suns [NBA Leaguie Pass US]",
             "matchstr": "Oklahoma City Thunder vs Phoenix Suns",
             "time": "22:30",
@@ -55,34 +27,6 @@
             "slug": "nba-basketball-oklahoma-city-thunder-phoenix-suns-2026-04-25-22-30",
             "startTimestamp": 1777145400000,
             "duration": 180
-        },
-        {
-            "matchText": "21:30 [USA/Canada Major League Soccer] CF Montreal vs New York City [MLS Season Pass US]",
-            "matchstr": "CF Montreal vs New York City",
-            "time": "21:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "CF Montreal",
-            "team2": "New York City",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=7"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-cf-montreal-new-york-city-2026-04-25-21-30",
-            "startTimestamp": 1777141800000,
-            "duration": 120
         },
         {
             "matchText": "22:00 [NHL] Hockey: Carolina Hurricanes vs Ottawa Senators [TVA Sports CA]",
@@ -124,62 +68,6 @@
             "duration": 180
         },
         {
-            "matchText": "21:30 [Germany Bundesliga 2] Darmstadt 98 vs Elversberg [Sky Sport Bundesliga 2 DE]",
-            "matchstr": "Darmstadt 98 vs Elversberg",
-            "time": "21:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Darmstadt 98",
-            "team2": "Elversberg",
-            "channel": "Sky Sport Bundesliga 2 DE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=12"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-darmstadt-98-elversberg-2026-04-25-21-30",
-            "startTimestamp": 1777141800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Switzerland Super League] Thun vs Lugano [Blue Sport D 1 CH]",
-            "matchstr": "Thun vs Lugano",
-            "time": "21:30",
-            "league": "Switzerland Super League",
-            "sport": "Football",
-            "team1": "Thun",
-            "team2": "Lugano",
-            "channel": "Blue Sport D 1 CH",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Blue Sport D 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "CH",
-                    "links": [
-                        "https://l2l2.link/ch?id=20"
-                    ]
-                }
-            ],
-            "slug": "switzerland-super-league-football-thun-lugano-2026-04-25-21-30",
-            "startTimestamp": 1777141800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:30 [Portugal Primeira Liga] Vitoria Guimaraes vs Rio Ave [Sport TV1 PT]",
             "matchstr": "Vitoria Guimaraes vs Rio Ave",
             "time": "22:30",
@@ -205,34 +93,6 @@
             ],
             "slug": "portugal-primeira-liga-football-vitoria-guimaraes-rio-ave-2026-04-25-22-30",
             "startTimestamp": 1777145400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:30 [Greece Greek Cup] PAOK vs OFI [Cosmote Sport 1 GR]",
-            "matchstr": "PAOK vs OFI",
-            "time": "20:30",
-            "league": "Greece Greek Cup",
-            "sport": "Football",
-            "team1": "PAOK",
-            "team2": "OFI",
-            "channel": "Cosmote Sport 1 GR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Cosmote Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=24"
-                    ],
-                    "number": 24,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/ch?id=24"
-                    ]
-                }
-            ],
-            "slug": "greece-greek-cup-football-paok-ofi-2026-04-25-20-30",
-            "startTimestamp": 1777138200000,
             "duration": 120
         },
         {
@@ -314,56 +174,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:45 [Italy Serie A] Verona vs Lecce [beIN SPORTS 3 AU]",
-            "matchstr": "Verona vs Lecce",
-            "time": "21:45",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Verona",
-            "team2": "Lecce",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/ch?id=33"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Calcio",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/ch?id=47"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=71"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-verona-lecce-2026-04-25-21-45",
-            "startTimestamp": 1777142700000,
-            "duration": 120
-        },
-        {
             "matchText": "23:45 [USA/Canada Major League Soccer] Minnesota United vs Los Angeles FC [TSN5 CA]",
             "matchstr": "Minnesota United vs Los Angeles FC",
             "time": "23:45",
@@ -400,34 +210,6 @@
             ],
             "slug": "usa-canada-major-league-soccer-football-minnesota-united-los-angeles-fc-2026-04-25-23-45",
             "startTimestamp": 1777149900000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:45 [United Rugby Championship] Rugby: Bulls vs Scarlets [Sportsnet World CA]",
-            "matchstr": "Bulls vs Scarlets",
-            "time": "21:45",
-            "league": "United Rugby Championship",
-            "sport": "Rugby",
-            "team1": "Bulls",
-            "team2": "Scarlets",
-            "channel": "Sportsnet World CA",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=37"
-                    ]
-                }
-            ],
-            "slug": "united-rugby-championship-rugby-bulls-scarlets-2026-04-25-21-45",
-            "startTimestamp": 1777142700000,
             "duration": 120
         },
         {
@@ -520,90 +302,6 @@
             "duration": 180
         },
         {
-            "matchText": "21:45 [Belgium Pro League] Westerlo vs Antwerp [DAZN BE]",
-            "matchstr": "Westerlo vs Antwerp",
-            "time": "21:45",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "Westerlo",
-            "team2": "Antwerp",
-            "channel": "DAZN BE",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://l2l2.link/ch?id=49"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-westerlo-antwerp-2026-04-25-21-45",
-            "startTimestamp": 1777142700000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [France Ligue 2] Saint-Etienne vs Troyes [beIN Sports 1 FR]",
-            "matchstr": "Saint-Etienne vs Troyes",
-            "time": "21:00",
-            "league": "France Ligue 2",
-            "sport": "Football",
-            "team1": "Saint-Etienne",
-            "team2": "Troyes",
-            "channel": "beIN Sports 1 FR",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/ch?id=51"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-2-football-saint-etienne-troyes-2026-04-25-21-00",
-            "startTimestamp": 1777140000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:15 [Poland Ekstraklasa] Cracovia Krakow vs Pogon Szczecin [Canal+ Sport 3 PL]",
-            "matchstr": "Cracovia Krakow vs Pogon Szczecin",
-            "time": "21:15",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Cracovia Krakow",
-            "team2": "Pogon Szczecin",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/ch?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-cracovia-krakow-pogon-szczecin-2026-04-25-21-15",
-            "startTimestamp": 1777140900000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [Argentina Primera Division] Estudiantes vs Talleres Cordoba [TNT Sports Argentina ES]",
             "matchstr": "Estudiantes vs Talleres Cordoba",
             "time": "23:00",
@@ -632,34 +330,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:30 [Uruguay Primera Division] NDeportivo Maldonado vs Albion [DIRECTV Sports ES]",
-            "matchstr": "NDeportivo Maldonado vs Albion",
-            "time": "21:30",
-            "league": "Uruguay Primera Division",
-            "sport": "Football",
-            "team1": "NDeportivo Maldonado",
-            "team2": "Albion",
-            "channel": "DIRECTV Sports ES",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "DIRECTV Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=85"
-                    ]
-                }
-            ],
-            "slug": "uruguay-primera-division-football-ndeportivo-maldonado-albion-2026-04-25-21-30",
-            "startTimestamp": 1777141800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Netherlands Eredivisie] Twente vs NEC [ESPN NL]",
             "matchstr": "Twente vs NEC",
             "time": "22:00",
@@ -685,34 +355,6 @@
             ],
             "slug": "netherlands-eredivisie-football-twente-nec-2026-04-25-22-00",
             "startTimestamp": 1777143600000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Netherlands Eredivisie] NAC Breda vs Ajax [ESPN2 NL]",
-            "matchstr": "NAC Breda vs Ajax",
-            "time": "21:00",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "NAC Breda",
-            "team2": "Ajax",
-            "channel": "ESPN2 NL",
-            "important": false,
-            "matchDate": "2026-04-25",
-            "channels": [
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=89"
-                    ],
-                    "number": 89,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=89"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-nac-breda-ajax-2026-04-25-21-00",
-            "startTimestamp": 1777140000000,
             "duration": 120
         },
         {
