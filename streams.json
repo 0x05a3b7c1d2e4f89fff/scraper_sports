@@ -1318,34 +1318,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:00 [Australia A-League] Sydney FC vs Auckland [Sky Sport 2 NZ]",
-            "matchstr": "Sydney FC vs Auckland",
-            "time": "08:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Sydney FC",
-            "team2": "Auckland",
-            "channel": "Sky Sport 2 NZ",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://l2l2.link/ch?id=32"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-sydney-fc-auckland-2026-04-26-08-00",
-            "startTimestamp": 1777179600000,
-            "duration": 120
-        },
-        {
             "matchText": "15:00 [Spain La Liga] Rayo Vallecano vs Real Sociedad [Premier Sports 2 GB]",
             "matchstr": "Rayo Vallecano vs Real Sociedad",
             "time": "15:00",
@@ -2450,34 +2422,6 @@
             "slug": "switzerland-national-league-motorsport-hc-davos-hc-fribourg-gotteron-2026-04-26-21-00",
             "startTimestamp": 1777226400000,
             "duration": 120
-        },
-        {
-            "matchText": "08:15 [AFL] Australian Football: Adelaide Crows vs Brisbane Lions [Fox Sports 1US]",
-            "matchstr": "Adelaide Crows vs Brisbane Lions",
-            "time": "08:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Adelaide Crows",
-            "team2": "Brisbane Lions",
-            "channel": "Fox Sports 1US",
-            "important": false,
-            "matchDate": "2026-04-26",
-            "channels": [
-                {
-                    "name": "Fox Sports 1US",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": null,
-                    "links": [
-                        "https://l2l2.link/ch?id=81"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-adelaide-crows-brisbane-lions-2026-04-26-08-15",
-            "startTimestamp": 1777180500000,
-            "duration": 180
         },
         {
             "matchText": "20:00 [Canada Canadian Premier League] Atl. Ottawa vs Vancouver FC [Fox Sports 2 US]",
