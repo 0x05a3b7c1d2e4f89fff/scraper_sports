@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "04:30 [NBA] Basketball: Los Angeles Lakers vs Houston Rockets [Sportsnet One CA]",
-            "matchstr": "Los Angeles Lakers vs Houston Rockets",
-            "time": "04:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Los Angeles Lakers",
-            "team2": "Houston Rockets",
-            "channel": "Sportsnet One CA",
-            "important": false,
-            "matchDate": "2026-04-27",
-            "channels": [
-                {
-                    "name": "Sportsnet One",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-los-angeles-lakers-houston-rockets-2026-04-27-04-30",
-            "startTimestamp": 1777253400000,
-            "duration": 180
-        },
-        {
             "matchText": "15:00 [World Championships U18] Hockey: Canada U18 vs Finland U18 [TSN1 CA]",
             "matchstr": "Canada U18 vs Finland U18",
             "time": "15:00",
@@ -54,45 +26,6 @@
             ],
             "slug": "world-championships-u18-hockey-canada-u18-finland-u18-2026-04-27-15-00",
             "startTimestamp": 1777291200000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:30 [NHL] Hockey: Edmonton Oilers vs Anaheim Ducks [ESPN US]",
-            "matchstr": "Edmonton Oilers vs Anaheim Ducks",
-            "time": "04:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Edmonton Oilers",
-            "team2": "Anaheim Ducks",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-04-27",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=75"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-edmonton-oilers-anaheim-ducks-2026-04-27-04-30",
-            "startTimestamp": 1777253400000,
             "duration": 180
         },
         {
