@@ -687,34 +687,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:00 [World Championships U18] Hockey: Denmark U18 vs Sweden U18 [SVT1 SE]",
-            "matchstr": "Denmark U18 vs Sweden U18",
-            "time": "13:00",
-            "league": "World Championships U18",
-            "sport": "Hockey",
-            "team1": "Denmark U18",
-            "team2": "Sweden U18",
-            "channel": "SVT1 SE",
-            "important": false,
-            "matchDate": "2026-04-27",
-            "channels": [
-                {
-                    "name": "SVT1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=76"
-                    ]
-                }
-            ],
-            "slug": "world-championships-u18-hockey-denmark-u18-sweden-u18-2026-04-27-13-00",
-            "startTimestamp": 1777284000000,
-            "duration": 180
-        },
-        {
             "matchText": "20:00 [Sweden Allsvenskan] Hacken vs Sirius [TV4 Sportkanalen SE]",
             "matchstr": "Hacken vs Sirius",
             "time": "20:00",
