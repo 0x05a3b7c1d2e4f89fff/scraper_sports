@@ -201,34 +201,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:00 [Norway Toppserien] Brann vs Haugesund [TV2 Sport NO]",
-            "matchstr": "Brann vs Haugesund",
-            "time": "19:00",
-            "league": "Norway Toppserien",
-            "sport": "Football",
-            "team1": "Brann",
-            "team2": "Haugesund",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "NO",
-                    "links": [
-                        "https://l2l2.link/ch?id=68"
-                    ]
-                }
-            ],
-            "slug": "norway-toppserien-football-brann-haugesund-2026-04-28-19-00",
-            "startTimestamp": 1777392000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Switzerland National League] Hockey: Fribourg vs Davos [MTV Max FI]",
             "matchstr": "Fribourg vs Davos",
             "time": "21:00",
