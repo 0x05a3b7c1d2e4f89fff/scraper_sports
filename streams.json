@@ -20,18 +20,18 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=1"
+                        "https://l2l2.link/channel?id=1"
                     ]
                 },
                 {
-                    "name": "Sport 1",
+                    "name": "Amazon Prime Video",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=11"
                     ],
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=11"
+                        "https://l2l2.link/channel?id=11"
                     ]
                 },
                 {
@@ -42,7 +42,7 @@
                     "number": 24,
                     "language": "GR",
                     "links": [
-                        "https://l2l2.link/ch?id=24"
+                        "https://l2l2.link/channel?id=24"
                     ]
                 },
                 {
@@ -53,7 +53,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=30"
+                        "https://l2l2.link/channel?id=30"
                     ]
                 },
                 {
@@ -64,7 +64,7 @@
                     "number": 47,
                     "language": "IT",
                     "links": [
-                        "https://l2l2.link/ch?id=47"
+                        "https://l2l2.link/channel?id=47"
                     ]
                 },
                 {
@@ -75,7 +75,7 @@
                     "number": 50,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=50"
+                        "https://l2l2.link/channel?id=50"
                     ]
                 },
                 {
@@ -86,7 +86,7 @@
                     "number": 65,
                     "language": "SA",
                     "links": [
-                        "https://l2l2.link/ch?id=65"
+                        "https://l2l2.link/channel?id=65"
                     ]
                 },
                 {
@@ -97,7 +97,7 @@
                     "number": 78,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=78"
+                        "https://l2l2.link/channel?id=78"
                     ]
                 }
             ],
@@ -125,80 +125,13 @@
                     "number": 4,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=4"
+                        "https://l2l2.link/channel?id=4"
                     ]
                 }
             ],
             "slug": "england-championship-football-southampton-ipswich-town-2026-04-28-21-45",
             "startTimestamp": 1777401900000,
             "duration": 120
-        },
-        {
-            "matchText": "20:30 [Eurocup] Basketball: Mincidelice JL Bourg en Bresse vs Besiktas [Magenta Sport DE]",
-            "matchstr": "Mincidelice JL Bourg en Bresse vs Besiktas",
-            "time": "20:30",
-            "league": "Eurocup",
-            "sport": "Basketball",
-            "team1": "Mincidelice JL Bourg en Bresse",
-            "team2": "Besiktas",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=12"
-                    ]
-                }
-            ],
-            "slug": "eurocup-basketball-mincidelice-jl-bourg-en-bresse-besiktas-2026-04-28-20-30",
-            "startTimestamp": 1777397400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden SHL] Hockey: Rogle BK vs Skelleftea AIK [Sportdigital1+ DE]",
-            "matchstr": "Rogle BK vs Skelleftea AIK",
-            "time": "20:00",
-            "league": "Sweden SHL",
-            "sport": "Hockey",
-            "team1": "Rogle BK",
-            "team2": "Skelleftea AIK",
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/ch?id=13"
-                    ]
-                },
-                {
-                    "name": "TV4 Hockey",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=74"
-                    ]
-                }
-            ],
-            "slug": "sweden-shl-hockey-rogle-bk-skelleftea-aik-2026-04-28-20-00",
-            "startTimestamp": 1777395600000,
-            "duration": 180
         },
         {
             "matchText": "21:00 [Switzerland National League] Hockey: Fribourg vs Davos [MTV Max FI]",
@@ -220,80 +153,13 @@
                     "number": 71,
                     "language": "FI",
                     "links": [
-                        "https://l2l2.link/ch?id=71"
+                        "https://l2l2.link/channel?id=71"
                     ]
                 }
             ],
             "slug": "switzerland-national-league-hockey-fribourg-davos-2026-04-28-21-00",
             "startTimestamp": 1777399200000,
             "duration": 180
-        },
-        {
-            "matchText": "21:00 [Saudi Arabia Pro League] Al Hilal vs Damac [Fox Sports 2 US]",
-            "matchstr": "Al Hilal vs Damac",
-            "time": "21:00",
-            "league": "Saudi Arabia Pro League",
-            "sport": "Football",
-            "team1": "Al Hilal",
-            "team2": "Damac",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=82"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=87"
-                    ]
-                }
-            ],
-            "slug": "saudi-arabia-pro-league-football-al-hilal-damac-2026-04-28-21-00",
-            "startTimestamp": 1777399200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:45 [Netherlands Eredivisie] Roda JC vs RKC Waalwijk [ESPN NL]",
-            "matchstr": "Roda JC vs RKC Waalwijk",
-            "time": "19:45",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Roda JC",
-            "team2": "RKC Waalwijk",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/ch?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-roda-jc-rkc-waalwijk-2026-04-28-19-45",
-            "startTimestamp": 1777394700000,
-            "duration": 120
         },
         {
             "matchText": "22:00 [Europe UEFA Champions League] PSG vs Bayern Munich [SD Quality] [V Sport Premium SD SE]",
@@ -315,7 +181,7 @@
                     "number": 91,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=91"
+                        "https://l2l2.link/channel?id=91"
                     ]
                 },
                 {
@@ -326,18 +192,18 @@
                     "number": 92,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=92"
+                        "https://l2l2.link/channel?id=92"
                     ]
                 },
                 {
-                    "name": "Sport 1 SD",
+                    "name": "Amazon Prime Video SD",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=93"
                     ],
                     "number": 93,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=93"
+                        "https://l2l2.link/channel?id=93"
                     ]
                 },
                 {
@@ -348,7 +214,7 @@
                     "number": 94,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=94"
+                        "https://l2l2.link/channel?id=94"
                     ]
                 }
             ],
@@ -376,7 +242,7 @@
                     "number": 1,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=1"
+                        "https://l2l2.link/channel?id=1"
                     ]
                 },
                 {
@@ -387,7 +253,7 @@
                     "number": 86,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=86"
+                        "https://l2l2.link/channel?id=86"
                     ]
                 }
             ],
@@ -415,7 +281,7 @@
                     "number": 1,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=1"
+                        "https://l2l2.link/channel?id=1"
                     ]
                 },
                 {
@@ -426,7 +292,7 @@
                     "number": 86,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=86"
+                        "https://l2l2.link/channel?id=86"
                     ]
                 }
             ],
@@ -454,7 +320,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=1"
+                        "https://l2l2.link/channel?id=1"
                     ]
                 },
                 {
@@ -465,7 +331,7 @@
                     "number": 17,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=17"
+                        "https://l2l2.link/channel?id=17"
                     ]
                 },
                 {
@@ -476,7 +342,7 @@
                     "number": 24,
                     "language": "GR",
                     "links": [
-                        "https://l2l2.link/ch?id=24"
+                        "https://l2l2.link/channel?id=24"
                     ]
                 },
                 {
@@ -487,7 +353,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=30"
+                        "https://l2l2.link/channel?id=30"
                     ]
                 },
                 {
@@ -498,7 +364,7 @@
                     "number": 50,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=50"
+                        "https://l2l2.link/channel?id=50"
                     ]
                 },
                 {
@@ -509,7 +375,7 @@
                     "number": 65,
                     "language": "SA",
                     "links": [
-                        "https://l2l2.link/ch?id=65"
+                        "https://l2l2.link/channel?id=65"
                     ]
                 },
                 {
@@ -520,7 +386,7 @@
                     "number": 78,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=78"
+                        "https://l2l2.link/channel?id=78"
                     ]
                 }
             ],
@@ -548,7 +414,7 @@
                     "number": 2,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=2"
+                        "https://l2l2.link/channel?id=2"
                     ]
                 }
             ],
@@ -576,7 +442,7 @@
                     "number": 3,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=3"
+                        "https://l2l2.link/channel?id=3"
                     ]
                 },
                 {
@@ -587,7 +453,7 @@
                     "number": 76,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=76"
+                        "https://l2l2.link/channel?id=76"
                     ]
                 }
             ],
@@ -615,7 +481,7 @@
                     "number": 3,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=3"
+                        "https://l2l2.link/channel?id=3"
                     ]
                 },
                 {
@@ -626,7 +492,7 @@
                     "number": 78,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=78"
+                        "https://l2l2.link/channel?id=78"
                     ]
                 }
             ],
@@ -654,7 +520,7 @@
                     "number": 4,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=4"
+                        "https://l2l2.link/channel?id=4"
                     ]
                 },
                 {
@@ -665,7 +531,7 @@
                     "number": 77,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=77"
+                        "https://l2l2.link/channel?id=77"
                     ]
                 }
             ],
@@ -693,7 +559,7 @@
                     "number": 4,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=4"
+                        "https://l2l2.link/channel?id=4"
                     ]
                 },
                 {
@@ -704,7 +570,7 @@
                     "number": 75,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=75"
+                        "https://l2l2.link/channel?id=75"
                     ]
                 }
             ],
@@ -732,7 +598,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=8"
+                        "https://l2l2.link/channel?id=8"
                     ]
                 }
             ],
@@ -760,7 +626,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=8"
+                        "https://l2l2.link/channel?id=8"
                     ]
                 }
             ],
@@ -788,7 +654,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=11"
+                        "https://l2l2.link/channel?id=11"
                     ]
                 },
                 {
@@ -799,7 +665,7 @@
                     "number": 25,
                     "language": "GR",
                     "links": [
-                        "https://l2l2.link/ch?id=25"
+                        "https://l2l2.link/channel?id=25"
                     ]
                 },
                 {
@@ -810,7 +676,7 @@
                     "number": 29,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=29"
+                        "https://l2l2.link/channel?id=29"
                     ]
                 }
             ],
@@ -838,7 +704,7 @@
                     "number": 19,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=19"
+                        "https://l2l2.link/channel?id=19"
                     ]
                 }
             ],
@@ -866,7 +732,7 @@
                     "number": 21,
                     "language": "PT",
                     "links": [
-                        "https://l2l2.link/ch?id=21"
+                        "https://l2l2.link/channel?id=21"
                     ]
                 }
             ],
@@ -894,7 +760,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=30"
+                        "https://l2l2.link/channel?id=30"
                     ]
                 },
                 {
@@ -905,7 +771,7 @@
                     "number": 81,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=81"
+                        "https://l2l2.link/channel?id=81"
                     ]
                 }
             ],
@@ -933,7 +799,7 @@
                     "number": 33,
                     "language": "AU",
                     "links": [
-                        "https://l2l2.link/ch?id=33"
+                        "https://l2l2.link/channel?id=33"
                     ]
                 }
             ],
@@ -961,7 +827,7 @@
                     "number": 38,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=38"
+                        "https://l2l2.link/channel?id=38"
                     ]
                 }
             ],
@@ -989,7 +855,7 @@
                     "number": 38,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=38"
+                        "https://l2l2.link/channel?id=38"
                     ]
                 },
                 {
@@ -1000,7 +866,7 @@
                     "number": 41,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=41"
+                        "https://l2l2.link/channel?id=41"
                     ]
                 }
             ],
@@ -1028,7 +894,7 @@
                     "number": 38,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=38"
+                        "https://l2l2.link/channel?id=38"
                     ]
                 },
                 {
@@ -1039,7 +905,7 @@
                     "number": 41,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=41"
+                        "https://l2l2.link/channel?id=41"
                     ]
                 }
             ],
@@ -1067,7 +933,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=39"
+                        "https://l2l2.link/channel?id=39"
                     ]
                 },
                 {
@@ -1078,7 +944,7 @@
                     "number": 40,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=40"
+                        "https://l2l2.link/channel?id=40"
                     ]
                 }
             ],
@@ -1106,7 +972,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=39"
+                        "https://l2l2.link/channel?id=39"
                     ]
                 },
                 {
@@ -1117,7 +983,7 @@
                     "number": 40,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=40"
+                        "https://l2l2.link/channel?id=40"
                     ]
                 }
             ],
@@ -1145,7 +1011,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=39"
+                        "https://l2l2.link/channel?id=39"
                     ]
                 },
                 {
@@ -1156,7 +1022,7 @@
                     "number": 40,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=40"
+                        "https://l2l2.link/channel?id=40"
                     ]
                 }
             ],
@@ -1184,7 +1050,7 @@
                     "number": 42,
                     "language": "CZ",
                     "links": [
-                        "https://l2l2.link/ch?id=42"
+                        "https://l2l2.link/channel?id=42"
                     ]
                 }
             ],
@@ -1212,7 +1078,7 @@
                     "number": 48,
                     "language": "BG",
                     "links": [
-                        "https://l2l2.link/ch?id=48"
+                        "https://l2l2.link/channel?id=48"
                     ]
                 }
             ],
@@ -1240,7 +1106,7 @@
                     "number": 66,
                     "language": "SA",
                     "links": [
-                        "https://l2l2.link/ch?id=66"
+                        "https://l2l2.link/channel?id=66"
                     ]
                 }
             ],
@@ -1268,7 +1134,7 @@
                     "number": 68,
                     "language": "NO",
                     "links": [
-                        "https://l2l2.link/ch?id=68"
+                        "https://l2l2.link/channel?id=68"
                     ]
                 }
             ],
@@ -1296,7 +1162,7 @@
                     "number": 69,
                     "language": "NO",
                     "links": [
-                        "https://l2l2.link/ch?id=69"
+                        "https://l2l2.link/channel?id=69"
                     ]
                 }
             ],
@@ -1324,7 +1190,7 @@
                     "number": 82,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=82"
+                        "https://l2l2.link/channel?id=82"
                     ]
                 },
                 {
@@ -1335,7 +1201,7 @@
                     "number": 87,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=87"
+                        "https://l2l2.link/channel?id=87"
                     ]
                 }
             ],
@@ -1363,7 +1229,7 @@
                     "number": 82,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=82"
+                        "https://l2l2.link/channel?id=82"
                     ]
                 },
                 {
@@ -1374,7 +1240,7 @@
                     "number": 87,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=87"
+                        "https://l2l2.link/channel?id=87"
                     ]
                 }
             ],
@@ -1402,7 +1268,7 @@
                     "number": 84,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=84"
+                        "https://l2l2.link/channel?id=84"
                     ]
                 }
             ],
@@ -1430,7 +1296,7 @@
                     "number": 84,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=84"
+                        "https://l2l2.link/channel?id=84"
                     ]
                 }
             ],
@@ -1458,7 +1324,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://l2l2.link/ch?id=88"
+                        "https://l2l2.link/channel?id=88"
                     ]
                 }
             ],
@@ -1486,7 +1352,7 @@
                     "number": 91,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=91"
+                        "https://l2l2.link/channel?id=91"
                     ]
                 },
                 {
@@ -1497,7 +1363,7 @@
                     "number": 92,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=92"
+                        "https://l2l2.link/channel?id=92"
                     ]
                 },
                 {
@@ -1508,7 +1374,7 @@
                     "number": 93,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=93"
+                        "https://l2l2.link/channel?id=93"
                     ]
                 },
                 {
@@ -1519,7 +1385,7 @@
                     "number": 94,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=94"
+                        "https://l2l2.link/channel?id=94"
                     ]
                 }
             ],
@@ -1547,7 +1413,7 @@
                     "number": 1,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=1"
+                        "https://l2l2.link/channel?id=1"
                     ]
                 }
             ],
@@ -1575,7 +1441,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=1"
+                        "https://l2l2.link/channel?id=1"
                     ]
                 },
                 {
@@ -1586,7 +1452,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=8"
+                        "https://l2l2.link/channel?id=8"
                     ]
                 },
                 {
@@ -1597,7 +1463,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=30"
+                        "https://l2l2.link/channel?id=30"
                     ]
                 },
                 {
@@ -1608,7 +1474,7 @@
                     "number": 50,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=50"
+                        "https://l2l2.link/channel?id=50"
                     ]
                 }
             ],
@@ -1636,7 +1502,7 @@
                     "number": 2,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=2"
+                        "https://l2l2.link/channel?id=2"
                     ]
                 }
             ],
@@ -1664,7 +1530,7 @@
                     "number": 2,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=2"
+                        "https://l2l2.link/channel?id=2"
                     ]
                 },
                 {
@@ -1675,7 +1541,7 @@
                     "number": 26,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=26"
+                        "https://l2l2.link/channel?id=26"
                     ]
                 },
                 {
@@ -1686,7 +1552,7 @@
                     "number": 52,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=52"
+                        "https://l2l2.link/channel?id=52"
                     ]
                 }
             ],
@@ -1714,7 +1580,7 @@
                     "number": 3,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=3"
+                        "https://l2l2.link/channel?id=3"
                     ]
                 }
             ],
@@ -1742,7 +1608,7 @@
                     "number": 4,
                     "language": "CA",
                     "links": [
-                        "https://l2l2.link/ch?id=4"
+                        "https://l2l2.link/channel?id=4"
                     ]
                 }
             ],
@@ -1770,7 +1636,7 @@
                     "number": 4,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=4"
+                        "https://l2l2.link/channel?id=4"
                     ]
                 },
                 {
@@ -1781,7 +1647,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=11"
+                        "https://l2l2.link/channel?id=11"
                     ]
                 },
                 {
@@ -1792,7 +1658,7 @@
                     "number": 22,
                     "language": "PT",
                     "links": [
-                        "https://l2l2.link/ch?id=22"
+                        "https://l2l2.link/channel?id=22"
                     ]
                 },
                 {
@@ -1803,7 +1669,7 @@
                     "number": 27,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=27"
+                        "https://l2l2.link/channel?id=27"
                     ]
                 }
             ],
@@ -1831,7 +1697,7 @@
                     "number": 5,
                     "language": "CA",
                     "links": [
-                        "https://l2l2.link/ch?id=5"
+                        "https://l2l2.link/channel?id=5"
                     ]
                 }
             ],
@@ -1859,7 +1725,7 @@
                     "number": 5,
                     "language": "GB",
                     "links": [
-                        "https://l2l2.link/ch?id=5"
+                        "https://l2l2.link/channel?id=5"
                     ]
                 },
                 {
@@ -1870,7 +1736,7 @@
                     "number": 29,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=29"
+                        "https://l2l2.link/channel?id=29"
                     ]
                 },
                 {
@@ -1881,7 +1747,7 @@
                     "number": 51,
                     "language": "FR",
                     "links": [
-                        "https://l2l2.link/ch?id=51"
+                        "https://l2l2.link/channel?id=51"
                     ]
                 }
             ],
@@ -1909,7 +1775,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=8"
+                        "https://l2l2.link/channel?id=8"
                     ]
                 }
             ],
@@ -1937,7 +1803,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=8"
+                        "https://l2l2.link/channel?id=8"
                     ]
                 }
             ],
@@ -1965,7 +1831,7 @@
                     "number": 12,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=12"
+                        "https://l2l2.link/channel?id=12"
                     ]
                 },
                 {
@@ -1976,7 +1842,7 @@
                     "number": 94,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=94"
+                        "https://l2l2.link/channel?id=94"
                     ]
                 }
             ],
@@ -2004,7 +1870,7 @@
                     "number": 13,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=13"
+                        "https://l2l2.link/channel?id=13"
                     ]
                 },
                 {
@@ -2015,7 +1881,7 @@
                     "number": 24,
                     "language": "GR",
                     "links": [
-                        "https://l2l2.link/ch?id=24"
+                        "https://l2l2.link/channel?id=24"
                     ]
                 },
                 {
@@ -2026,7 +1892,7 @@
                     "number": 93,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=93"
+                        "https://l2l2.link/channel?id=93"
                     ]
                 }
             ],
@@ -2054,7 +1920,7 @@
                     "number": 14,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=14"
+                        "https://l2l2.link/channel?id=14"
                     ]
                 }
             ],
@@ -2082,7 +1948,7 @@
                     "number": 15,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=15"
+                        "https://l2l2.link/channel?id=15"
                     ]
                 }
             ],
@@ -2110,7 +1976,7 @@
                     "number": 16,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=16"
+                        "https://l2l2.link/channel?id=16"
                     ]
                 }
             ],
@@ -2138,7 +2004,7 @@
                     "number": 20,
                     "language": "DE",
                     "links": [
-                        "https://l2l2.link/ch?id=20"
+                        "https://l2l2.link/channel?id=20"
                     ]
                 },
                 {
@@ -2149,7 +2015,7 @@
                     "number": 74,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=74"
+                        "https://l2l2.link/channel?id=74"
                     ]
                 }
             ],
@@ -2177,7 +2043,7 @@
                     "number": 25,
                     "language": "GR",
                     "links": [
-                        "https://l2l2.link/ch?id=25"
+                        "https://l2l2.link/channel?id=25"
                     ]
                 },
                 {
@@ -2188,7 +2054,7 @@
                     "number": 90,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=90"
+                        "https://l2l2.link/channel?id=90"
                     ]
                 }
             ],
@@ -2216,7 +2082,7 @@
                     "number": 26,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=26"
+                        "https://l2l2.link/channel?id=26"
                     ]
                 }
             ],
@@ -2244,7 +2110,7 @@
                     "number": 27,
                     "language": "BR",
                     "links": [
-                        "https://l2l2.link/ch?id=27"
+                        "https://l2l2.link/channel?id=27"
                     ]
                 }
             ],
@@ -2272,7 +2138,7 @@
                     "number": 27,
                     "language": "BR",
                     "links": [
-                        "https://l2l2.link/ch?id=27"
+                        "https://l2l2.link/channel?id=27"
                     ]
                 }
             ],
@@ -2300,7 +2166,7 @@
                     "number": 27,
                     "language": "BR",
                     "links": [
-                        "https://l2l2.link/ch?id=27"
+                        "https://l2l2.link/channel?id=27"
                     ]
                 },
                 {
@@ -2311,7 +2177,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=30"
+                        "https://l2l2.link/channel?id=30"
                     ]
                 },
                 {
@@ -2322,7 +2188,7 @@
                     "number": 81,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=81"
+                        "https://l2l2.link/channel?id=81"
                     ]
                 }
             ],
@@ -2350,7 +2216,7 @@
                     "number": 28,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=28"
+                        "https://l2l2.link/channel?id=28"
                     ]
                 },
                 {
@@ -2361,7 +2227,7 @@
                     "number": 38,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=38"
+                        "https://l2l2.link/channel?id=38"
                     ]
                 }
             ],
@@ -2389,7 +2255,7 @@
                     "number": 28,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=28"
+                        "https://l2l2.link/channel?id=28"
                     ]
                 },
                 {
@@ -2400,7 +2266,7 @@
                     "number": 38,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=38"
+                        "https://l2l2.link/channel?id=38"
                     ]
                 }
             ],
@@ -2428,7 +2294,7 @@
                     "number": 28,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=28"
+                        "https://l2l2.link/channel?id=28"
                     ]
                 }
             ],
@@ -2456,7 +2322,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=39"
+                        "https://l2l2.link/channel?id=39"
                     ]
                 },
                 {
@@ -2467,7 +2333,7 @@
                     "number": 40,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=40"
+                        "https://l2l2.link/channel?id=40"
                     ]
                 }
             ],
@@ -2495,7 +2361,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=39"
+                        "https://l2l2.link/channel?id=39"
                     ]
                 },
                 {
@@ -2506,7 +2372,7 @@
                     "number": 40,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=40"
+                        "https://l2l2.link/channel?id=40"
                     ]
                 }
             ],
@@ -2534,7 +2400,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=39"
+                        "https://l2l2.link/channel?id=39"
                     ]
                 },
                 {
@@ -2545,7 +2411,7 @@
                     "number": 40,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=40"
+                        "https://l2l2.link/channel?id=40"
                     ]
                 }
             ],
@@ -2573,7 +2439,7 @@
                     "number": 41,
                     "language": "CZ",
                     "links": [
-                        "https://l2l2.link/ch?id=41"
+                        "https://l2l2.link/channel?id=41"
                     ]
                 }
             ],
@@ -2601,7 +2467,7 @@
                     "number": 48,
                     "language": "BG",
                     "links": [
-                        "https://l2l2.link/ch?id=48"
+                        "https://l2l2.link/channel?id=48"
                     ]
                 }
             ],
@@ -2629,7 +2495,7 @@
                     "number": 72,
                     "language": "SE",
                     "links": [
-                        "https://l2l2.link/ch?id=72"
+                        "https://l2l2.link/channel?id=72"
                     ]
                 }
             ],
@@ -2657,7 +2523,7 @@
                     "number": 82,
                     "language": "US",
                     "links": [
-                        "https://l2l2.link/ch?id=82"
+                        "https://l2l2.link/channel?id=82"
                     ]
                 }
             ],
@@ -2685,7 +2551,7 @@
                     "number": 84,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=84"
+                        "https://l2l2.link/channel?id=84"
                     ]
                 }
             ],
@@ -2713,7 +2579,7 @@
                     "number": 84,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=84"
+                        "https://l2l2.link/channel?id=84"
                     ]
                 }
             ],
@@ -2741,7 +2607,7 @@
                     "number": 85,
                     "language": "ES",
                     "links": [
-                        "https://l2l2.link/ch?id=85"
+                        "https://l2l2.link/channel?id=85"
                     ]
                 }
             ],
