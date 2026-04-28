@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NBA] Basketball: Detroit Pistons vs Orlando Magic [NBA League Pass US]",
-            "matchstr": "Detroit Pistons vs Orlando Magic",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Detroit Pistons",
-            "team2": "Orlando Magic",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-detroit-pistons-orlando-magic-2026-04-28-03-00",
-            "startTimestamp": 1777334400000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Champions League] PSG vs Bayern Munchen [Amazon Prime Video GB]",
             "matchstr": "PSG vs Bayern Munchen",
             "time": "22:00",
@@ -187,34 +159,6 @@
             ],
             "slug": "nba-basketball-minnesota-timberwolves-denver-nuggets-2026-04-28-05-30",
             "startTimestamp": 1777343400000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Pittsburgh Penguins vs Philadelphia Flyers [Sportsnet+ CA]",
-            "matchstr": "Pittsburgh Penguins vs Philadelphia Flyers",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Pittsburgh Penguins",
-            "team2": "Philadelphia Flyers",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=4"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-pittsburgh-penguins-philadelphia-flyers-2026-04-28-02-00",
-            "startTimestamp": 1777330800000,
             "duration": 180
         },
         {
@@ -433,62 +377,6 @@
             ],
             "slug": "saudi-arabia-pro-league-football-al-hilal-damac-2026-04-28-21-00",
             "startTimestamp": 1777399200000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:45 [Argentina Primera Division] Velez Sarsfield vs Union Santa Fe [TNT Sports Argentina ES]",
-            "matchstr": "Velez Sarsfield vs Union Santa Fe",
-            "time": "00:45",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Velez Sarsfield",
-            "team2": "Union Santa Fe",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-velez-sarsfield-union-santa-fe-2026-04-28-00-45",
-            "startTimestamp": 1777326300000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [Argentina Primera Division] Huracan vs Argentinos Juniors [ESPN Premium Argentina ES]",
-            "matchstr": "Huracan vs Argentinos Juniors",
-            "time": "03:00",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Huracan",
-            "team2": "Argentinos Juniors",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/ch?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-huracan-argentinos-juniors-2026-04-28-03-00",
-            "startTimestamp": 1777334400000,
             "duration": 120
         },
         {
