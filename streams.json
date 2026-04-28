@@ -106,62 +106,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:30 [NBA] Basketball: Oklahoma City Thunder vs Phoenix Suns [NBA League Pass US]",
-            "matchstr": "Oklahoma City Thunder vs Phoenix Suns",
-            "time": "04:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Oklahoma City Thunder",
-            "team2": "Phoenix Suns",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-oklahoma-city-thunder-phoenix-suns-2026-04-28-04-30",
-            "startTimestamp": 1777339800000,
-            "duration": 180
-        },
-        {
-            "matchText": "05:30 [NBA] Basketball: Minnesota Timberwolves vs Denver Nuggets [NBA League Pass US]",
-            "matchstr": "Minnesota Timberwolves vs Denver Nuggets",
-            "time": "05:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Minnesota Timberwolves",
-            "team2": "Denver Nuggets",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/ch?id=3"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-minnesota-timberwolves-denver-nuggets-2026-04-28-05-30",
-            "startTimestamp": 1777343400000,
-            "duration": 180
-        },
-        {
             "matchText": "21:45 [England Championship] Southampton vs Ipswich Town [Sky Sports Football GB]",
             "matchstr": "Southampton vs Ipswich Town",
             "time": "21:45",
@@ -188,34 +132,6 @@
             "slug": "england-championship-football-southampton-ipswich-town-2026-04-28-21-45",
             "startTimestamp": 1777401900000,
             "duration": 120
-        },
-        {
-            "matchText": "04:30 [NHL] Hockey: Utah Mammoth vs Vegas Golden Knights [Sportsnet+ CA]",
-            "matchstr": "Utah Mammoth vs Vegas Golden Knights",
-            "time": "04:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Utah Mammoth",
-            "team2": "Vegas Golden Knights",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-28",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/ch?id=5"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-utah-mammoth-vegas-golden-knights-2026-04-28-04-30",
-            "startTimestamp": 1777339800000,
-            "duration": 180
         },
         {
             "matchText": "20:30 [Eurocup] Basketball: Mincidelice JL Bourg en Bresse vs Besiktas [Magenta Sport DE]",
