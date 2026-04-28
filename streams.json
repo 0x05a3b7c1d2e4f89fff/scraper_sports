@@ -324,6 +324,67 @@
             "duration": 120
         },
         {
+            "matchText": "22:00 [Europe UEFA Champions League] PSG vs Bayern Munich [SD Quality] [V Sport Premium SD SE]",
+            "matchstr": "PSG vs Bayern Munich [SD Quality]",
+            "time": "22:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "PSG",
+            "team2": "Bayern Munich [SD Quality]",
+            "channel": "V Sport Premium SD SE",
+            "important": false,
+            "matchDate": "2026-04-28",
+            "channels": [
+                {
+                    "name": "V Sport Premium SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=91"
+                    ]
+                },
+                {
+                    "name": "TUDN SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=92"
+                    ],
+                    "number": 92,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=92"
+                    ]
+                },
+                {
+                    "name": "Sport 1 SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=93"
+                    ],
+                    "number": 93,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/ch?id=93"
+                    ]
+                },
+                {
+                    "name": "Canal+ Foot SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=94"
+                    ],
+                    "number": 94,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=94"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-psg-bayern-munich-sd-quality-2026-04-28-22-00",
+            "startTimestamp": 1777402800000,
+            "duration": 120
+        },
+        {
             "matchText": "02:00 [NBA] Basketball: Philadelphia 76ers vs Boston Celtics [ESPN US]",
             "matchstr": "Philadelphia 76ers vs Boston Celtics",
             "time": "02:00",
@@ -477,6 +538,17 @@
                     "language": "SA",
                     "links": [
                         "https://l2l2.link/ch?id=65"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=78"
                     ]
                 }
             ],
@@ -1261,34 +1333,6 @@
             "duration": 120
         },
         {
-            "matchText": "22:00 [Europe UEFA Champions League] Atl\u00e9tico Madrid vs Arsenal [V Sport Premium SE]",
-            "matchstr": "Atl\u00e9tico Madrid vs Arsenal",
-            "time": "22:00",
-            "league": "Europe UEFA Champions League",
-            "sport": "Football",
-            "team1": "Atl\u00e9tico Madrid",
-            "team2": "Arsenal",
-            "channel": "V Sport Premium SE",
-            "important": false,
-            "matchDate": "2026-04-29",
-            "channels": [
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/ch?id=78"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-champions-league-football-atletico-madrid-arsenal-2026-04-29-22-00",
-            "startTimestamp": 1777489200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:10 [Saudi Arabia Pro League] Al Taawon vs Al Ittihad [Fox Sports 2 US]",
             "matchstr": "Al Taawon vs Al Ittihad",
             "time": "19:10",
@@ -1448,6 +1492,67 @@
             ],
             "slug": "netherlands-eredivisie-football-den-bosch-almere-city-2026-04-29-19-45",
             "startTimestamp": 1777481100000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA Champions League] Atletico Madrid vs Arsenal [SD Quality] [V Sport Premium SD SE]",
+            "matchstr": "Atletico Madrid vs Arsenal [SD Quality]",
+            "time": "22:00",
+            "league": "Europe UEFA Champions League",
+            "sport": "Football",
+            "team1": "Atletico Madrid",
+            "team2": "Arsenal [SD Quality]",
+            "channel": "V Sport Premium SD SE",
+            "important": false,
+            "matchDate": "2026-04-29",
+            "channels": [
+                {
+                    "name": "V Sport Premium SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/ch?id=91"
+                    ]
+                },
+                {
+                    "name": "Canal+ SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=92"
+                    ],
+                    "number": 92,
+                    "language": "FR",
+                    "links": [
+                        "https://l2l2.link/ch?id=92"
+                    ]
+                },
+                {
+                    "name": "TUDN SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=93"
+                    ],
+                    "number": 93,
+                    "language": "ES",
+                    "links": [
+                        "https://l2l2.link/ch?id=93"
+                    ]
+                },
+                {
+                    "name": "TNT Sports 1 SD",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=94"
+                    ],
+                    "number": 94,
+                    "language": "GB",
+                    "links": [
+                        "https://l2l2.link/ch?id=94"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-champions-league-football-atletico-madrid-arsenal-sd-quality-2026-04-29-22-00",
+            "startTimestamp": 1777489200000,
             "duration": 120
         },
         {
@@ -2475,6 +2580,34 @@
             "slug": "south-america-copa-libertadores-football-universitario-nacional-2026-04-30-05-00",
             "startTimestamp": 1777514400000,
             "duration": 120
+        },
+        {
+            "matchText": "19:00 [European Hockey Tournament] Hockey: Finland vs Czech Republic [CT Sport CZ]",
+            "matchstr": "Finland vs Czech Republic",
+            "time": "19:00",
+            "league": "European Hockey Tournament",
+            "sport": "Hockey",
+            "team1": "Finland",
+            "team2": "Czech Republic",
+            "channel": "CT Sport CZ",
+            "important": false,
+            "matchDate": "2026-04-30",
+            "channels": [
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://l2l2.link/ch?id=41"
+                    ]
+                }
+            ],
+            "slug": "european-hockey-tournament-hockey-finland-czech-republic-2026-04-30-19-00",
+            "startTimestamp": 1777564800000,
+            "duration": 180
         },
         {
             "matchText": "19:00 [Bulgaria Bulgarian Cup] Lokomotiv Plovdiv vs Arda [Diema Sport BG]",
