@@ -530,32 +530,32 @@
             "duration": 180
         },
         {
-            "matchText": "19:00 [Bulgaria Bulgarian Cup] Lokomotiv Plovdiv vs Arda [Diema Sport BG]",
-            "matchstr": "Lokomotiv Plovdiv vs Arda",
-            "time": "19:00",
-            "league": "Bulgaria Bulgarian Cup",
-            "sport": "Football",
-            "team1": "Lokomotiv Plovdiv",
-            "team2": "Arda",
-            "channel": "Diema Sport BG",
+            "matchText": "18:30 [Finland League] Hockey: SaiPa vs Ilves [MTV Max FI]",
+            "matchstr": "SaiPa vs Ilves",
+            "time": "18:30",
+            "league": "Finland League",
+            "sport": "Hockey",
+            "team1": "SaiPa",
+            "team2": "Ilves",
+            "channel": "MTV Max FI",
             "important": false,
             "matchDate": "2026-04-30",
             "channels": [
                 {
-                    "name": "Diema Sport",
+                    "name": "MTV Max",
                     "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
+                        "https://nrdrse.link/ch.php?id=71"
                     ],
-                    "number": 48,
-                    "language": "BG",
+                    "number": 71,
+                    "language": "FI",
                     "links": [
-                        "https://l2l2.link/channel?id=48"
+                        "https://l2l2.link/channel?id=71"
                     ]
                 }
             ],
-            "slug": "bulgaria-bulgarian-cup-football-lokomotiv-plovdiv-arda-2026-04-30-19-00",
-            "startTimestamp": 1777564800000,
-            "duration": 120
+            "slug": "finland-league-hockey-saipa-ilves-2026-04-30-18-30",
+            "startTimestamp": 1777563000000,
+            "duration": 180
         },
         {
             "matchText": "19:00 [European Hockey Tournament] Hockey: Sweden vs Switzerland [SVT2 SE]",
@@ -1698,34 +1698,6 @@
             ],
             "slug": "bulgaria-parva-liga-football-dobrudzha-1919-lokomotiv-sofia-1929-2026-05-01-20-00",
             "startTimestamp": 1777654800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:45 [French Ligue 1] Nantes vs Marseille [Ligue 1+ FR]",
-            "matchstr": "Nantes vs Marseille",
-            "time": "21:45",
-            "league": "French Ligue 1",
-            "sport": "Football",
-            "team1": "Nantes",
-            "team2": "Marseille",
-            "channel": "Ligue 1+ FR",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Ligue 1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/channel?id=51"
-                    ]
-                }
-            ],
-            "slug": "french-ligue-1-football-nantes-marseille-2026-05-01-21-45",
-            "startTimestamp": 1777661100000,
             "duration": 120
         },
         {
