@@ -112,34 +112,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [NBA] Basketball: LA Lakers vs Houston [NBA League Pass US]",
-            "matchstr": "LA Lakers vs Houston",
-            "time": "05:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "LA Lakers",
-            "team2": "Houston",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-la-lakers-houston-2026-04-30-05-00",
-            "startTimestamp": 1777514400000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Sporting Braga vs Freiburg [TNT Sports 4 GB]",
             "matchstr": "Sporting Braga vs Freiburg",
             "time": "22:00",
@@ -248,34 +220,6 @@
             ],
             "slug": "europe-uefa-conference-league-football-rayo-vallecano-strasbourg-2026-04-30-22-00",
             "startTimestamp": 1777575600000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [United States NWSL] Portland Thorns vs San Diego Wave [CBS Sports Network US]",
-            "matchstr": "Portland Thorns vs San Diego Wave",
-            "time": "05:00",
-            "league": "United States NWSL",
-            "sport": "Football",
-            "team1": "Portland Thorns",
-            "team2": "San Diego Wave",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "united-states-nwsl-football-portland-thorns-san-diego-wave-2026-04-30-05-00",
-            "startTimestamp": 1777514400000,
             "duration": 120
         },
         {
@@ -530,56 +474,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:30 [North America CONCACAF Champions Cup] Los Angeles FC vs Toluca [ESPN4 BR]",
-            "matchstr": "Los Angeles FC vs Toluca",
-            "time": "05:30",
-            "league": "North America CONCACAF Champions Cup",
-            "sport": "Football",
-            "team1": "Los Angeles FC",
-            "team2": "Toluca",
-            "channel": "ESPN4 BR",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "ESPN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "BR",
-                    "links": [
-                        "https://l2l2.link/channel?id=27"
-                    ]
-                },
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "north-america-concacaf-champions-cup-football-los-angeles-fc-toluca-2026-04-30-05-30",
-            "startTimestamp": 1777516200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Simulcast [M+ Liga de Campeones 3 ES]",
             "matchstr": "Simulcast",
             "time": "22:00",
@@ -605,45 +499,6 @@
             ],
             "slug": "europe-uefa-europa-league-football-simulcast-2026-04-30-22-00",
             "startTimestamp": 1777575600000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [South America Copa Libertadores] Universitario vs Nacional [beIN SPORTS US]",
-            "matchstr": "Universitario vs Nacional",
-            "time": "05:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Universitario",
-            "team2": "Nacional",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-universitario-nacional-2026-04-30-05-00",
-            "startTimestamp": 1777514400000,
             "duration": 120
         },
         {
