@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NBA] Basketball: Detroit vs Orlando [NBA League Pass US]",
-            "matchstr": "Detroit vs Orlando",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Detroit",
-            "team2": "Orlando",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-detroit-orlando-2026-04-30-02-00",
-            "startTimestamp": 1777503600000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Nottingham Forest vs Aston Villa [TNT Sports 1 GB]",
             "matchstr": "Nottingham Forest vs Aston Villa",
             "time": "22:00",
@@ -88,34 +60,6 @@
             "slug": "europe-uefa-europa-league-football-nottingham-forest-aston-villa-2026-04-30-22-00",
             "startTimestamp": 1777575600000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [NBA] Basketball: Cleveland vs Toronto [NBA League Pass US]",
-            "matchstr": "Cleveland vs Toronto",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Cleveland",
-            "team2": "Toronto",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-cleveland-toronto-2026-04-30-02-30",
-            "startTimestamp": 1777505400000,
-            "duration": 180
         },
         {
             "matchText": "22:00 [Europe UEFA Conference League] Shakhtar Donetsk vs Crystal Palace [TNT Sports 2 GB]",
@@ -196,34 +140,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [NHL] Hockey: Tampa Bay vs Montreal [Sportsnet+ CA]",
-            "matchstr": "Tampa Bay vs Montreal",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Tampa Bay",
-            "team2": "Montreal",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-tampa-bay-montreal-2026-04-30-02-00",
-            "startTimestamp": 1777503600000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Sporting Braga vs Freiburg [TNT Sports 4 GB]",
             "matchstr": "Sporting Braga vs Freiburg",
             "time": "22:00",
@@ -285,34 +201,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NHL] Hockey: Vegas vs Utah Mammoth [Sportsnet+ CA]",
-            "matchstr": "Vegas vs Utah Mammoth",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Vegas",
-            "team2": "Utah Mammoth",
-            "channel": "Sportsnet+ CA",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Sportsnet+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=5"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-vegas-utah-mammoth-2026-04-30-02-00",
-            "startTimestamp": 1777503600000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Conference League] Rayo Vallecano vs Strasbourg [TNT Sports 5 GB]",
             "matchstr": "Rayo Vallecano vs Strasbourg",
             "time": "22:00",
@@ -360,34 +248,6 @@
             ],
             "slug": "europe-uefa-conference-league-football-rayo-vallecano-strasbourg-2026-04-30-22-00",
             "startTimestamp": 1777575600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [United States US Open Cup] New York RB vs New York City [CBS Sports Network US]",
-            "matchstr": "New York RB vs New York City",
-            "time": "02:00",
-            "league": "United States US Open Cup",
-            "sport": "Football",
-            "team1": "New York RB",
-            "team2": "New York City",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "united-states-us-open-cup-football-new-york-rb-new-york-city-2026-04-30-02-00",
-            "startTimestamp": 1777503600000,
             "duration": 120
         },
         {
@@ -670,90 +530,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [South America Copa Sudamericana] Caracas vs Racing Club [Vamos ES]",
-            "matchstr": "Caracas vs Racing Club",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Caracas",
-            "team2": "Racing Club",
-            "channel": "Vamos ES",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Vamos",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-caracas-racing-club-2026-04-30-01-00",
-            "startTimestamp": 1777500000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Sudamericana] Deportivo Riestra vs Torque [ESPN4 BR]",
-            "matchstr": "Deportivo Riestra vs Torque",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Deportivo Riestra",
-            "team2": "Torque",
-            "channel": "ESPN4 BR",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "ESPN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "BR",
-                    "links": [
-                        "https://l2l2.link/channel?id=27"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-deportivo-riestra-torque-2026-04-30-01-00",
-            "startTimestamp": 1777500000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Sudamericana] Palestino vs Gremio [ESPN4 BR]",
-            "matchstr": "Palestino vs Gremio",
-            "time": "03:30",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Palestino",
-            "team2": "Gremio",
-            "channel": "ESPN4 BR",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "ESPN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "BR",
-                    "links": [
-                        "https://l2l2.link/channel?id=27"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-palestino-gremio-2026-04-30-03-30",
-            "startTimestamp": 1777509000000,
-            "duration": 120
-        },
-        {
             "matchText": "05:30 [North America CONCACAF Champions Cup] Los Angeles FC vs Toluca [ESPN4 BR]",
             "matchstr": "Los Angeles FC vs Toluca",
             "time": "05:30",
@@ -804,84 +580,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [South America Copa Sudamericana] Juventud vs Academia Puerto Cabello [beIN SPORTS XTRA en Espanol ES]",
-            "matchstr": "Juventud vs Academia Puerto Cabello",
-            "time": "01:00",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Juventud",
-            "team2": "Academia Puerto Cabello",
-            "channel": "beIN SPORTS XTRA en Espanol ES",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=28"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-juventud-academia-puerto-cabello-2026-04-30-01-00",
-            "startTimestamp": 1777500000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Sudamericana] Cienciano vs Atletico Mineiro [beIN SPORTS XTRA en Espanol ES]",
-            "matchstr": "Cienciano vs Atletico Mineiro",
-            "time": "03:30",
-            "league": "South America Copa Sudamericana",
-            "sport": "Football",
-            "team1": "Cienciano",
-            "team2": "Atletico Mineiro",
-            "channel": "beIN SPORTS XTRA en Espanol ES",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=28"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-sudamericana-football-cienciano-atletico-mineiro-2026-04-30-03-30",
-            "startTimestamp": 1777509000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Europe UEFA Europa League] Simulcast [M+ Liga de Campeones 3 ES]",
             "matchstr": "Simulcast",
             "time": "22:00",
@@ -907,84 +605,6 @@
             ],
             "slug": "europe-uefa-europa-league-football-simulcast-2026-04-30-22-00",
             "startTimestamp": 1777575600000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [South America Copa Libertadores] Platense vs Santa Fe [beIN SPORTS US]",
-            "matchstr": "Platense vs Santa Fe",
-            "time": "01:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Platense",
-            "team2": "Santa Fe",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-platense-santa-fe-2026-04-30-01-00",
-            "startTimestamp": 1777500000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Libertadores] Estudiantes vs Flamengo [beIN SPORTS US]",
-            "matchstr": "Estudiantes vs Flamengo",
-            "time": "03:30",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Estudiantes",
-            "team2": "Flamengo",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=40"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-estudiantes-flamengo-2026-04-30-03-30",
-            "startTimestamp": 1777509000000,
             "duration": 120
         },
         {
@@ -1137,90 +757,6 @@
             "slug": "afl-australian-football-hawthorn-hawks-collingwood-magpies-2026-04-30-12-30",
             "startTimestamp": 1777541400000,
             "duration": 180
-        },
-        {
-            "matchText": "01:00 [South America Copa Libertadores] Mirassol vs Always Ready [Fox Sports 2 Argentina ES]",
-            "matchstr": "Mirassol vs Always Ready",
-            "time": "01:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Mirassol",
-            "team2": "Always Ready",
-            "channel": "Fox Sports 2 Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 2 Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-mirassol-always-ready-2026-04-30-01-00",
-            "startTimestamp": 1777500000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [South America Copa Libertadores] Barcelona vs Universidad Catolica [Fox Sports 2 Argentina ES]",
-            "matchstr": "Barcelona vs Universidad Catolica",
-            "time": "03:00",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Barcelona",
-            "team2": "Universidad Catolica",
-            "channel": "Fox Sports 2 Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 2 Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-barcelona-universidad-catolica-2026-04-30-03-00",
-            "startTimestamp": 1777507200000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [South America Copa Libertadores] Cerro Porteno vs Palmeiras [Fox Sports 3 Argentina ES]",
-            "matchstr": "Cerro Porteno vs Palmeiras",
-            "time": "03:30",
-            "league": "South America Copa Libertadores",
-            "sport": "Football",
-            "team1": "Cerro Porteno",
-            "team2": "Palmeiras",
-            "channel": "Fox Sports 3 Argentina ES",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 3 Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "south-america-copa-libertadores-football-cerro-porteno-palmeiras-2026-04-30-03-30",
-            "startTimestamp": 1777509000000,
-            "duration": 120
         },
         {
             "matchText": "02:00 [NBA] Basketball: New York Knicks vs Atlanta Hawks [ESPN US]",
