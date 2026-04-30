@@ -586,34 +586,6 @@
             "duration": 180
         },
         {
-            "matchText": "12:30 [AFL] Australian Football: Hawthorn Hawks vs Collingwood Magpies [Fox Sports 2 US]",
-            "matchstr": "Hawthorn Hawks vs Collingwood Magpies",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Hawthorn Hawks",
-            "team2": "Collingwood Magpies",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-04-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-hawthorn-hawks-collingwood-magpies-2026-04-30-12-30",
-            "startTimestamp": 1777541400000,
-            "duration": 180
-        },
-        {
             "matchText": "02:00 [NBA] Basketball: New York Knicks vs Atlanta Hawks [ESPN US]",
             "matchstr": "New York Knicks vs Atlanta Hawks",
             "time": "02:00",
