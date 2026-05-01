@@ -229,34 +229,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:35 [Super Rugby Pacific] Rugby: Hurricanes vs Crusaders [Sky Sports Action GB]",
-            "matchstr": "Hurricanes vs Crusaders",
-            "time": "10:35",
-            "league": "Super Rugby Pacific",
-            "sport": "Rugby",
-            "team1": "Hurricanes",
-            "team2": "Crusaders",
-            "channel": "Sky Sports Action GB",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Sky Sports Action",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=9"
-                    ]
-                }
-            ],
-            "slug": "super-rugby-pacific-rugby-hurricanes-crusaders-2026-05-01-10-35",
-            "startTimestamp": 1777620900000,
-            "duration": 120
-        },
-        {
             "matchText": "12:35 [Super Rugby Pacific] Rugby: Waratahs vs Western Force [Sky Sports Action GB]",
             "matchstr": "Waratahs vs Western Force",
             "time": "12:35",
