@@ -390,34 +390,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:15 [Spain Segunda Division] FC Andorra vs Albacete [LALIGA TV Hypermotion ES]",
-            "matchstr": "FC Andorra vs Albacete",
-            "time": "17:15",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "FC Andorra",
-            "team2": "Albacete",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-fc-andorra-albacete-2026-05-01-17-15",
-            "startTimestamp": 1777644900000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain Segunda Division] Deportivo La Coruna vs Leganes [LALIGA TV Hypermotion ES]",
             "matchstr": "Deportivo La Coruna vs Leganes",
             "time": "19:30",
@@ -549,62 +521,6 @@
             ],
             "slug": "poland-ekstraklasa-football-legia-warszawa-widzew-lodz-2026-05-01-21-30",
             "startTimestamp": 1777660200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [One] MMA: One Friday Fights [beIN SPORTS US]",
-            "matchstr": "One Friday Fights",
-            "time": "16:30",
-            "league": "One",
-            "sport": "MMA",
-            "team1": "One Friday Fights",
-            "team2": null,
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=39"
-                    ]
-                }
-            ],
-            "slug": "one-mma-one-friday-fights-2026-05-01-16-30",
-            "startTimestamp": 1777642200000,
-            "duration": 180
-        },
-        {
-            "matchText": "17:30 [Bulgaria Parva Liga] Septemvri Sofia vs Montana [Diema Sport BG]",
-            "matchstr": "Septemvri Sofia vs Montana",
-            "time": "17:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Septemvri Sofia",
-            "team2": "Montana",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-septemvri-sofia-montana-2026-05-01-17-30",
-            "startTimestamp": 1777645800000,
             "duration": 120
         },
         {
@@ -745,34 +661,6 @@
             ],
             "slug": "denmark-super-liga-football-rkc-waalwijk-roda-jc-2026-05-01-21-00",
             "startTimestamp": 1777658400000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Turkey Super Lig] Rizespor vs Konyaspor [beIN Sports 1 TR]",
-            "matchstr": "Rizespor vs Konyaspor",
-            "time": "17:00",
-            "league": "Turkey Super Lig",
-            "sport": "Football",
-            "team1": "Rizespor",
-            "team2": "Konyaspor",
-            "channel": "beIN Sports 1 TR",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "TR",
-                    "links": [
-                        "https://l2l2.link/channel?id=91"
-                    ]
-                }
-            ],
-            "slug": "turkey-super-lig-football-rizespor-konyaspor-2026-05-01-17-00",
-            "startTimestamp": 1777644000000,
             "duration": 120
         },
         {
@@ -2087,19 +1975,19 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [Germany Bundesliga] Simulcast [DAND1 DE]",
+            "matchText": "16:30 [Germany Bundesliga] Simulcast [DAZN1 DE]",
             "matchstr": "Simulcast",
             "time": "16:30",
             "league": "Germany Bundesliga",
             "sport": "Football",
             "team1": "Simulcast",
             "team2": null,
-            "channel": "DAND1 DE",
+            "channel": "DAZN1 DE",
             "important": false,
             "matchDate": "2026-05-02",
             "channels": [
                 {
-                    "name": "DAND1",
+                    "name": "DAZN1",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=17"
                     ],
@@ -6908,11 +6796,11 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [United States NWSL] Hockey: Chicago Stars vs Portland Thorns [ESPN2 US]",
+            "matchText": "20:00 [United States NWSL] Chicago Stars vs Portland Thorns [ESPN2 US]",
             "matchstr": "Chicago Stars vs Portland Thorns",
             "time": "20:00",
             "league": "United States NWSL",
-            "sport": "Hockey",
+            "sport": "Football",
             "team1": "Chicago Stars",
             "team2": "Portland Thorns",
             "channel": "ESPN2 US",
@@ -6931,9 +6819,9 @@
                     ]
                 }
             ],
-            "slug": "united-states-nwsl-hockey-chicago-stars-portland-thorns-2026-05-03-20-00",
+            "slug": "united-states-nwsl-football-chicago-stars-portland-thorns-2026-05-03-20-00",
             "startTimestamp": 1777827600000,
-            "duration": 180
+            "duration": 120
         },
         {
             "matchText": "02:30 [USA/Canada Major League Soccer] New England vs Charlotte [MLS Season Pass US]",
