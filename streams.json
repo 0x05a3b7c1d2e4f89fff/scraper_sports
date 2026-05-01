@@ -107,67 +107,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Formula 1] Motorsport: Miami Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Miami Grand Prix",
-            "time": "19:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Miami Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=15"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-miami-grand-prix-2026-05-01-19-00",
-            "startTimestamp": 1777651200000,
-            "duration": 120
-        },
-        {
             "matchText": "23:30 [Formula 1] Motorsport: Miami Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Miami Grand Prix",
             "time": "23:30",
@@ -390,34 +329,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [Spain Segunda Division] Deportivo La Coruna vs Leganes [LALIGA TV Hypermotion ES]",
-            "matchstr": "Deportivo La Coruna vs Leganes",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Deportivo La Coruna",
-            "team2": "Leganes",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-deportivo-la-coruna-leganes-2026-05-01-19-30",
-            "startTimestamp": 1777653000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Real Zaragoza vs Granada [LALIGA TV Hypermotion ES]",
             "matchstr": "Real Zaragoza vs Granada",
             "time": "22:00",
@@ -443,45 +354,6 @@
             ],
             "slug": "spain-segunda-division-football-real-zaragoza-granada-2026-05-01-22-00",
             "startTimestamp": 1777662000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:30 [Poland Ekstraklasa] Korona Kielce vs Piast Gliwice [beIN SPORTS XTRA US]",
-            "matchstr": "Korona Kielce vs Piast Gliwice",
-            "time": "18:30",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Korona Kielce",
-            "team2": "Piast Gliwice",
-            "channel": "beIN SPORTS XTRA US",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=38"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-korona-kielce-piast-gliwice-2026-05-01-18-30",
-            "startTimestamp": 1777649400000,
             "duration": 120
         },
         {
@@ -524,34 +396,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Bulgaria Parva Liga] Dobrudzha 1919 vs Lokomotiv Sofia 1929 [Diema Sport BG]",
-            "matchstr": "Dobrudzha 1919 vs Lokomotiv Sofia 1929",
-            "time": "20:00",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Dobrudzha 1919",
-            "team2": "Lokomotiv Sofia 1929",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-dobrudzha-1919-lokomotiv-sofia-1929-2026-05-01-20-00",
-            "startTimestamp": 1777654800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Poland I Liga] Gornik \u0141eczna vs Slask Wroc\u0142aw [TVP Sport PL]",
             "matchstr": "Gornik \u0141eczna vs Slask Wroc\u0142aw",
             "time": "21:30",
@@ -577,34 +421,6 @@
             ],
             "slug": "poland-i-liga-football-gornik-leczna-slask-wroclaw-2026-05-01-21-30",
             "startTimestamp": 1777660200000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Denmark Super Liga] Br\u00f8ndby vs Nordsj\u00e6lland [TV3 Sport DK]",
-            "matchstr": "Br\u00f8ndby vs Nordsj\u00e6lland",
-            "time": "20:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Br\u00f8ndby",
-            "team2": "Nordsj\u00e6lland",
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-brondby-nordsjaelland-2026-05-01-20-00",
-            "startTimestamp": 1777654800000,
             "duration": 120
         },
         {
@@ -661,34 +477,6 @@
             ],
             "slug": "denmark-super-liga-football-rkc-waalwijk-roda-jc-2026-05-01-21-00",
             "startTimestamp": 1777658400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Turkey Super Lig] Gaziantep FK vs Besiktas [beIN Sports 1 TR]",
-            "matchstr": "Gaziantep FK vs Besiktas",
-            "time": "20:00",
-            "league": "Turkey Super Lig",
-            "sport": "Football",
-            "team1": "Gaziantep FK",
-            "team2": "Besiktas",
-            "channel": "beIN Sports 1 TR",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "TR",
-                    "links": [
-                        "https://l2l2.link/channel?id=91"
-                    ]
-                }
-            ],
-            "slug": "turkey-super-lig-football-gaziantep-fk-besiktas-2026-05-01-20-00",
-            "startTimestamp": 1777654800000,
             "duration": 120
         },
         {
