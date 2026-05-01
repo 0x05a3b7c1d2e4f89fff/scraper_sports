@@ -29,34 +29,6 @@
             "duration": 180
         },
         {
-            "matchText": "21:45 [Scotland Scottish Premiership] Livingston vs Aberdeen [Premier Sports 1 GB]",
-            "matchstr": "Livingston vs Aberdeen",
-            "time": "21:45",
-            "league": "Scotland Scottish Premiership",
-            "sport": "Football",
-            "team1": "Livingston",
-            "team2": "Aberdeen",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=5"
-                    ]
-                }
-            ],
-            "slug": "scotland-scottish-premiership-football-livingston-aberdeen-2026-05-01-21-45",
-            "startTimestamp": 1777661100000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain La Liga] Girona vs Mallorca [Premier Sports 2 GB]",
             "matchstr": "Girona vs Mallorca",
             "time": "22:00",
@@ -229,106 +201,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:45 [Euroleague] Basketball: Real Madrid vs Hapoel Tel-Aviv [Magenta Sport DE]",
-            "matchstr": "Real Madrid vs Hapoel Tel-Aviv",
-            "time": "21:45",
-            "league": "Euroleague",
-            "sport": "Basketball",
-            "team1": "Real Madrid",
-            "team2": "Hapoel Tel-Aviv",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "Nova Sports Prime",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=25"
-                    ],
-                    "number": 25,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/channel?id=25"
-                    ]
-                },
-                {
-                    "name": "M. Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=29"
-                    ]
-                }
-            ],
-            "slug": "euroleague-basketball-real-madrid-hapoel-tel-aviv-2026-05-01-21-45",
-            "startTimestamp": 1777661100000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:45 [Italy Serie A] Pisa vs Lecce [DAZN2 DE]",
-            "matchstr": "Pisa vs Lecce",
-            "time": "21:45",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Pisa",
-            "team2": "Lecce",
-            "channel": "DAZN2 DE",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=18"
-                    ],
-                    "number": 18,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=18"
-                    ]
-                },
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-pisa-lecce-2026-05-01-21-45",
-            "startTimestamp": 1777661100000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Real Zaragoza vs Granada [LALIGA TV Hypermotion ES]",
             "matchstr": "Real Zaragoza vs Granada",
             "time": "22:00",
@@ -357,73 +229,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:30 [Poland Ekstraklasa] Legia Warszawa vs Widzew \u0141odz [beIN SPORTS XTRA US]",
-            "matchstr": "Legia Warszawa vs Widzew \u0141odz",
-            "time": "21:30",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Legia Warszawa",
-            "team2": "Widzew \u0141odz",
-            "channel": "beIN SPORTS XTRA US",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "beIN SPORTS XTRA",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=38"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-legia-warszawa-widzew-lodz-2026-05-01-21-30",
-            "startTimestamp": 1777660200000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Poland I Liga] Gornik \u0141eczna vs Slask Wroc\u0142aw [TVP Sport PL]",
-            "matchstr": "Gornik \u0141eczna vs Slask Wroc\u0142aw",
-            "time": "21:30",
-            "league": "Poland I Liga",
-            "sport": "Football",
-            "team1": "Gornik \u0141eczna",
-            "team2": "Slask Wroc\u0142aw",
-            "channel": "TVP Sport PL",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=61"
-                    ],
-                    "number": 61,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/channel?id=61"
-                    ]
-                }
-            ],
-            "slug": "poland-i-liga-football-gornik-leczna-slask-wroclaw-2026-05-01-21-30",
-            "startTimestamp": 1777660200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:35 [NASCAR Craftsman Truck Series] Motorsport: SpeedyCash 250 [Fox Sports 2 US]",
             "matchstr": "SpeedyCash 250",
             "time": "22:35",
@@ -449,34 +254,6 @@
             ],
             "slug": "nascar-craftsman-truck-series-motorsport-speedycash-250-2026-05-01-22-35",
             "startTimestamp": 1777664100000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Denmark Super Liga] RKC Waalwijk vs Roda JC [ESPN NL]",
-            "matchstr": "RKC Waalwijk vs Roda JC",
-            "time": "21:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "RKC Waalwijk",
-            "team2": "Roda JC",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/channel?id=88"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-rkc-waalwijk-roda-jc-2026-05-01-21-00",
-            "startTimestamp": 1777658400000,
             "duration": 120
         },
         {
