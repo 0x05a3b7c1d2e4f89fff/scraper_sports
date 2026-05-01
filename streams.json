@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "04:30 [NBA] Basketball: Denver Nuggets vs Minnesota Timberwolves [ESPN US]",
-            "matchstr": "Denver Nuggets vs Minnesota Timberwolves",
-            "time": "04:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Denver Nuggets",
-            "team2": "Minnesota Timberwolves",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-denver-nuggets-minnesota-timberwolves-2026-05-01-04-30",
-            "startTimestamp": 1777599000000,
-            "duration": 180
-        },
-        {
             "matchText": "21:20 [MLB] Baseball: Arizona Diamondbacks vs Chicago Cubs [MLBtv US]",
             "matchstr": "Arizona Diamondbacks vs Chicago Cubs",
             "time": "21:20",
@@ -54,45 +26,6 @@
             ],
             "slug": "mlb-baseball-arizona-diamondbacks-chicago-cubs-2026-05-01-21-20",
             "startTimestamp": 1777659600000,
-            "duration": 180
-        },
-        {
-            "matchText": "05:00 [NHL] Hockey: Edmonton Oilers vs Anaheim Ducks [TNT US]",
-            "matchstr": "Edmonton Oilers vs Anaheim Ducks",
-            "time": "05:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Edmonton Oilers",
-            "team2": "Anaheim Ducks",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-edmonton-oilers-anaheim-ducks-2026-05-01-05-00",
-            "startTimestamp": 1777600800000,
             "duration": 180
         },
         {
