@@ -720,34 +720,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:00 [NRL] Rugby: NQ Cowboys vs Canterbury Bulldogs [Fox Sports 2 US]",
-            "matchstr": "NQ Cowboys vs Canterbury Bulldogs",
-            "time": "11:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "NQ Cowboys",
-            "team2": "Canterbury Bulldogs",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-nq-cowboys-canterbury-bulldogs-2026-05-01-11-00",
-            "startTimestamp": 1777622400000,
-            "duration": 120
-        },
-        {
             "matchText": "13:10 [AFL] Australian Football: Port Adelaide Power vs Adelaide Crows [Fox Sports 2 US]",
             "matchstr": "Port Adelaide Power vs Adelaide Crows",
             "time": "13:10",
