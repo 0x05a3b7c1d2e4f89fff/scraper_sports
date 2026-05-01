@@ -1,67 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:30 [Formula 1] Motorsport: Miami Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Miami Grand Prix",
-            "time": "23:30",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Miami Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-05-01",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=15"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-miami-grand-prix-2026-05-01-23-30",
-            "startTimestamp": 1777667400000,
-            "duration": 120
-        },
-        {
             "matchText": "02:00 [NHL] Hockey: Montreal Canadiens vs Tampa Bay Lightning [ESPN2 US]",
             "matchstr": "Montreal Canadiens vs Tampa Bay Lightning",
             "time": "02:00",
