@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [NHL] Hockey: Montreal Canadiens vs Tampa Bay Lightning [ESPN2 US]",
-            "matchstr": "Montreal Canadiens vs Tampa Bay Lightning",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Montreal Canadiens",
-            "team2": "Tampa Bay Lightning",
-            "channel": "ESPN2 US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Mix",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-montreal-canadiens-tampa-bay-lightning-2026-05-02-02-00",
-            "startTimestamp": 1777676400000,
-            "duration": 180
-        },
-        {
             "matchText": "11:00 [UFC] MMA: UFC: Fight Night [TNT Sports 1 GB]",
             "matchstr": "UFC: Fight Night",
             "time": "11:00",
@@ -166,45 +116,6 @@
             "slug": "italy-serie-a-football-como-napoli-2026-05-02-19-00",
             "startTimestamp": 1777737600000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [NHL] Hockey: Boston Bruins vs Buffalo Sabres [ESPN US]",
-            "matchstr": "Boston Bruins vs Buffalo Sabres",
-            "time": "02:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Boston Bruins",
-            "team2": "Buffalo Sabres",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-boston-bruins-buffalo-sabres-2026-05-02-02-30",
-            "startTimestamp": 1777678200000,
-            "duration": 180
         },
         {
             "matchText": "05:00 [NHL] Hockey: Utah Mammoth vs Vegas Golden Knights [ESPN US]",
@@ -335,34 +246,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [NBA] Basketball: Orlando Magic vs Detroit Pistons [NBA League Pass US]",
-            "matchstr": "Orlando Magic vs Detroit Pistons",
-            "time": "02:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Orlando Magic",
-            "team2": "Detroit Pistons",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-orlando-magic-detroit-pistons-2026-05-02-02-00",
-            "startTimestamp": 1777676400000,
-            "duration": 180
-        },
-        {
             "matchText": "14:30 [England Championship] Blackburn Rovers vs Leicester City [Sky Sports+ GB]",
             "matchstr": "Blackburn Rovers vs Leicester City",
             "time": "14:30",
@@ -467,34 +350,6 @@
             "slug": "germany-bundesliga-football-bayer-leverkusen-rb-leipzig-2026-05-02-19-30",
             "startTimestamp": 1777739400000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [NBA] Basketball: Toronto Raptors vs Cleveland Cavaliers [NBA League Pass US]",
-            "matchstr": "Toronto Raptors vs Cleveland Cavaliers",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Toronto Raptors",
-            "team2": "Cleveland Cavaliers",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-toronto-raptors-cleveland-cavaliers-2026-05-02-02-30",
-            "startTimestamp": 1777678200000,
-            "duration": 180
         },
         {
             "matchText": "14:30 [England Championship] Swansea City vs Charlton Athletic [Sky Sports+ GB]",
@@ -1706,34 +1561,6 @@
             ],
             "slug": "spain-segunda-division-football-eibar-malaga-2026-05-02-22-00",
             "startTimestamp": 1777748400000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Colombia Primera A] Once Caldas vs Atletico Nacional [Win+ Futbol ES]",
-            "matchstr": "Once Caldas vs Atletico Nacional",
-            "time": "02:00",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Once Caldas",
-            "team2": "Atletico Nacional",
-            "channel": "Win+ Futbol ES",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Win+ Futbol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=27"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-once-caldas-atletico-nacional-2026-05-02-02-00",
-            "startTimestamp": 1777676400000,
             "duration": 120
         },
         {
@@ -3339,62 +3166,6 @@
             "slug": "finland-liiga-hockey-tappara-kookoo-2026-05-02-17-00",
             "startTimestamp": 1777730400000,
             "duration": 180
-        },
-        {
-            "matchText": "03:00 [NASCAR Craftsman Truck Series] SpeedyCash 250 [Fox Sports 1 US]",
-            "matchstr": "SpeedyCash 250",
-            "time": "03:00",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Football",
-            "team1": "SpeedyCash 250",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-football-speedycash-250-2026-05-02-03-00",
-            "startTimestamp": 1777680000000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [Canada Canadian Premier League] Inter Toronto vs Atl. Ottawa [Fox Sports 2 US]",
-            "matchstr": "Inter Toronto vs Atl. Ottawa",
-            "time": "02:30",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Inter Toronto",
-            "team2": "Atl. Ottawa",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-inter-toronto-atl-ottawa-2026-05-02-02-30",
-            "startTimestamp": 1777678200000,
-            "duration": 120
         },
         {
             "matchText": "09:35 [AFL] Australian Football: North Melbourne Kangaroos vs Geelong Cats [Fox Sports 2 US]",
