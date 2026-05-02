@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "14:00 [UFC] MMA: Della Maddalena vs Carlos Prates [TNT Sports 1 GB]",
-            "matchstr": "Della Maddalena vs Carlos Prates",
-            "time": "14:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Della Maddalena",
-            "team2": "Carlos Prates",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-della-maddalena-carlos-prates-2026-05-02-14-00",
-            "startTimestamp": 1777719600000,
-            "duration": 180
-        },
-        {
             "matchText": "19:00 [Italy Serie A] Como vs Napoli [TNT Sports 1 GB]",
             "matchstr": "Como vs Napoli",
             "time": "19:00",
@@ -179,34 +151,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] Blackburn Rovers vs Leicester City [Sky Sports+ GB]",
-            "matchstr": "Blackburn Rovers vs Leicester City",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Blackburn Rovers",
-            "team2": "Leicester City",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-blackburn-rovers-leicester-city-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [England Premier League] Wolverhampton Wanderers vs Sunderland [Hub Premier 3 GB]",
             "matchstr": "Wolverhampton Wanderers vs Sunderland",
             "time": "17:00",
@@ -285,34 +229,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] Swansea City vs Charlton Athletic [Sky Sports+ GB]",
-            "matchstr": "Swansea City vs Charlton Athletic",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Swansea City",
-            "team2": "Charlton Athletic",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-swansea-city-charlton-athletic-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [England Premier League] Brentford vs West Ham United [Hub Premier 4 GB]",
             "matchstr": "Brentford vs West Ham United",
             "time": "17:00",
@@ -360,34 +276,6 @@
             ],
             "slug": "england-premier-league-football-brentford-west-ham-united-2026-05-02-17-00",
             "startTimestamp": 1777730400000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Wrexham vs Middlesbrough [CBS Sports Golazo US]",
-            "matchstr": "Wrexham vs Middlesbrough",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Wrexham",
-            "team2": "Middlesbrough",
-            "channel": "CBS Sports Golazo US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "CBS Sports Golazo",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=6"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-wrexham-middlesbrough-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
             "duration": 120
         },
         {
@@ -893,6 +781,45 @@
             "duration": 120
         },
         {
+            "matchText": "18:00 [Sweden SHL] Hockey: Skellefte\u00e5 AIK vs R\u00f6gle BK [Sportdigital1+ DE]",
+            "matchstr": "Skellefte\u00e5 AIK vs R\u00f6gle BK",
+            "time": "18:00",
+            "league": "Sweden SHL",
+            "sport": "Hockey",
+            "team1": "Skellefte\u00e5 AIK",
+            "team2": "R\u00f6gle BK",
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-02",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=18"
+                    ],
+                    "number": 18,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/channel?id=18"
+                    ]
+                },
+                {
+                    "name": "TV4 Hockey",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "SE",
+                    "links": [
+                        "https://l2l2.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "sweden-shl-hockey-skelleftea-aik-rogle-bk-2026-05-02-18-00",
+            "startTimestamp": 1777734000000,
+            "duration": 180
+        },
+        {
             "matchText": "22:00 [Spain La Liga] Osasuna vs Barcelona [DAZN2 DE]",
             "matchstr": "Osasuna vs Barcelona",
             "time": "22:00",
@@ -1290,34 +1217,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] Hull City vs Norwich City [Sky Sports+ GB]",
-            "matchstr": "Hull City vs Norwich City",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Hull City",
-            "team2": "Norwich City",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=31"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-hull-city-norwich-city-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Canada Canadian Premier League] HFX Wanderers vs Forge [OneSoccer CA]",
             "matchstr": "HFX Wanderers vs Forge",
             "time": "21:00",
@@ -1343,34 +1242,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-hfx-wanderers-forge-2026-05-02-21-00",
             "startTimestamp": 1777744800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Portsmouth vs Birmingham City [Sky Sports+ GB]",
-            "matchstr": "Portsmouth vs Birmingham City",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Portsmouth",
-            "team2": "Birmingham City",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-portsmouth-birmingham-city-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
             "duration": 120
         },
         {
@@ -1463,45 +1334,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] Millwall vs Oxford United [beIN SPORTS 3 AU]",
-            "matchstr": "Millwall vs Oxford United",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Millwall",
-            "team2": "Oxford United",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/channel?id=33"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-millwall-oxford-united-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Atalanta vs Genoa [beIN SPORTS 3 AU]",
             "matchstr": "Atalanta vs Genoa",
             "time": "21:45",
@@ -1552,34 +1384,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [England Championship] Watford vs Coventry City [Sky Sports+ GB]",
-            "matchstr": "Watford vs Coventry City",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Watford",
-            "team2": "Coventry City",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=34"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-watford-coventry-city-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [USA/Canada Major League Soccer] Toronto FC vs SJ Earthquakes [TSN3 CA]",
             "matchstr": "Toronto FC vs SJ Earthquakes",
             "time": "20:00",
@@ -1605,90 +1409,6 @@
             ],
             "slug": "usa-canada-major-league-soccer-football-toronto-fc-sj-earthquakes-2026-05-02-20-00",
             "startTimestamp": 1777741200000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Sheffield Wednesday vs West Bromwich Albion [Sky Sports+ GB]",
-            "matchstr": "Sheffield Wednesday vs West Bromwich Albion",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Sheffield Wednesday",
-            "team2": "West Bromwich Albion",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-sheffield-wednesday-west-bromwich-albion-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Derby County vs Sheffield United [Sky Sports+ GB]",
-            "matchstr": "Derby County vs Sheffield United",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Derby County",
-            "team2": "Sheffield United",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=37"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-derby-county-sheffield-united-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Bristol City vs Stoke City [Sky Sports+ GB]",
-            "matchstr": "Bristol City vs Stoke City",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Bristol City",
-            "team2": "Stoke City",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-bristol-city-stoke-city-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
             "duration": 120
         },
         {
@@ -2351,34 +2071,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:30 [World Championship Div I. Group A] Hockey: Japan vs France [Sporteurope DE]",
-            "matchstr": "Japan vs France",
-            "time": "13:30",
-            "league": "World Championship Div I. Group A",
-            "sport": "Hockey",
-            "team1": "Japan",
-            "team2": "France",
-            "channel": "Sporteurope DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sporteurope",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=61"
-                    ],
-                    "number": 61,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=61"
-                    ]
-                }
-            ],
-            "slug": "world-championship-div-i-group-a-hockey-japan-france-2026-05-02-13-30",
-            "startTimestamp": 1777717800000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [World Championship Div I. Group A] Hockey: Lithuania vs Kazakhstan [Sporteurope DE]",
             "matchstr": "Lithuania vs Kazakhstan",
             "time": "17:00",
@@ -2491,34 +2183,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Norway Toppserien] Molde vs Aalesund [TV2 Sport NO]",
-            "matchstr": "Molde vs Aalesund",
-            "time": "15:00",
-            "league": "Norway Toppserien",
-            "sport": "Football",
-            "team1": "Molde",
-            "team2": "Aalesund",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "NO",
-                    "links": [
-                        "https://l2l2.link/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "norway-toppserien-football-molde-aalesund-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Norway Toppserien] Valerenga vs LSK [TV2 Sport NO]",
             "matchstr": "Valerenga vs LSK",
             "time": "17:00",
@@ -2603,45 +2267,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Spain La Liga] Villarreal vs Levante [TV4 Sport Live 1 SE]",
-            "matchstr": "Villarreal vs Levante",
-            "time": "15:00",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Villarreal",
-            "team2": "Levante",
-            "channel": "TV4 Sport Live 1 SE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=71"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-villarreal-levante-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
             "matchText": "16:00 [Sweden Allsvenskan] Degerfors vs Hacken [TV4 Sport Live 2 SE]",
             "matchstr": "Degerfors vs Hacken",
             "time": "16:00",
@@ -2723,62 +2348,6 @@
             ],
             "slug": "sweden-allsvenskan-football-sirius-kalmar-2026-05-02-16-00",
             "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Preston North End vs Southampton [SV Sport Extra SE]",
-            "matchstr": "Preston North End vs Southampton",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Preston North End",
-            "team2": "Southampton",
-            "channel": "SV Sport Extra SE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "SV Sport Extra",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-preston-north-end-southampton-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Championship] Ipswich Town vs Queens Park Rangers [V Sport Football SE]",
-            "matchstr": "Ipswich Town vs Queens Park Rangers",
-            "time": "14:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Ipswich Town",
-            "team2": "Queens Park Rangers",
-            "channel": "V Sport Football SE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "V Sport Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-ipswich-town-queens-park-rangers-2026-05-02-14-30",
-            "startTimestamp": 1777721400000,
             "duration": 120
         },
         {
@@ -2978,34 +2547,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Netherlands Eredivisie] Almere City vs Den Bosch [ESPN NL]",
-            "matchstr": "Almere City vs Den Bosch",
-            "time": "15:00",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Almere City",
-            "team2": "Den Bosch",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/channel?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-almere-city-den-bosch-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Netherlands Eredivisie] Utrecht vs NAC Breda [ESPN2 NL]",
             "matchstr": "Utrecht vs NAC Breda",
             "time": "17:30",
@@ -3174,90 +2715,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Germany 3. Liga] Verl vs Havelse [Magenta Sport DE]",
-            "matchstr": "Verl vs Havelse",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Verl",
-            "team2": "Havelse",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=94"
-                    ],
-                    "number": 94,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=94"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-verl-havelse-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Jahn Regensburg vs Hoffenheim II [Magenta Sport DE]",
-            "matchstr": "Jahn Regensburg vs Hoffenheim II",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Jahn Regensburg",
-            "team2": "Hoffenheim II",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=95"
-                    ],
-                    "number": 95,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=95"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-jahn-regensburg-hoffenheim-ii-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Saarbrucken vs Waldhof Mannheim [Magenta Sport DE]",
-            "matchstr": "Saarbrucken vs Waldhof Mannheim",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Saarbrucken",
-            "team2": "Waldhof Mannheim",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=96"
-                    ],
-                    "number": 96,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=96"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-saarbrucken-waldhof-mannheim-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Germany 3. Liga] Ulm vs Viktoria Koln [Magenta Sport DE]",
             "matchstr": "Ulm vs Viktoria Koln",
             "time": "17:30",
@@ -3286,34 +2743,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Germany 3. Liga] Alemannia Aachen vs Hansa Rostock [Magenta Sport DE]",
-            "matchstr": "Alemannia Aachen vs Hansa Rostock",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Alemannia Aachen",
-            "team2": "Hansa Rostock",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=97"
-                    ],
-                    "number": 97,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=97"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-alemannia-aachen-hansa-rostock-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Germany 3. Liga] Stuttgart II vs Rot-Weiss Essen [Magenta Sport DE]",
             "matchstr": "Stuttgart II vs Rot-Weiss Essen",
             "time": "17:30",
@@ -3339,34 +2768,6 @@
             ],
             "slug": "germany-3-liga-football-stuttgart-ii-rot-weiss-essen-2026-05-02-17-30",
             "startTimestamp": 1777732200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Germany 3. Liga] Schweinfurt vs 1860 Munchen [Magenta Sport DE]",
-            "matchstr": "Schweinfurt vs 1860 Munchen",
-            "time": "15:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Schweinfurt",
-            "team2": "1860 Munchen",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=98"
-                    ],
-                    "number": 98,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=98"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-schweinfurt-1860-munchen-2026-05-02-15-00",
-            "startTimestamp": 1777723200000,
             "duration": 120
         },
         {
