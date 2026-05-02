@@ -302,6 +302,17 @@
                     ]
                 },
                 {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=15"
+                    ],
+                    "number": 15,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/channel?id=15"
+                    ]
+                },
+                {
                     "name": "DAZN F1",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=30"
@@ -352,6 +363,17 @@
                     ]
                 },
                 {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=15"
+                    ],
+                    "number": 15,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/channel?id=15"
+                    ]
+                },
+                {
                     "name": "DAZN F1",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=30"
@@ -376,34 +398,6 @@
             ],
             "slug": "formula-1-motorsport-miami-grand-prix-2026-05-02-23-00",
             "startTimestamp": 1777752000000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Europe UEFA Women's Champions League] OL Lyonnes vs Arsenal [CBS Sports Network US]",
-            "matchstr": "OL Lyonnes vs Arsenal",
-            "time": "16:00",
-            "league": "Europe UEFA Women's Champions League",
-            "sport": "Football",
-            "team1": "OL Lyonnes",
-            "team2": "Arsenal",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-women-s-champions-league-football-ol-lyonnes-arsenal-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
             "duration": 120
         },
         {
@@ -507,62 +501,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [Germany Bundesliga] Bayern Munchen vs Heidenheim [Sky Sport Bundesliga 1 DE]",
-            "matchstr": "Bayern Munchen vs Heidenheim",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Bayern Munchen",
-            "team2": "Heidenheim",
-            "channel": "Sky Sport Bundesliga 1 DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=11"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-bayern-munchen-heidenheim-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Eintracht Frankfurt vs Hamburger SV [Sky Sport Bundesliga 2 DE]",
-            "matchstr": "Eintracht Frankfurt vs Hamburger SV",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Eintracht Frankfurt",
-            "team2": "Hamburger SV",
-            "channel": "Sky Sport Bundesliga 2 DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-eintracht-frankfurt-hamburger-sv-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Germany Bundesliga 2] Schalke 04 vs Fortuna Dusseldorf [Sky Sport Bundesliga 2 DE]",
             "matchstr": "Schalke 04 vs Fortuna Dusseldorf",
             "time": "21:30",
@@ -588,90 +526,6 @@
             ],
             "slug": "germany-bundesliga-2-football-schalke-04-fortuna-dusseldorf-2026-05-02-21-30",
             "startTimestamp": 1777746600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Hoffenheim vs Stuttgart [Sky Sport Bundesliga 3 DE]",
-            "matchstr": "Hoffenheim vs Stuttgart",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Hoffenheim",
-            "team2": "Stuttgart",
-            "channel": "Sky Sport Bundesliga 3 DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-hoffenheim-stuttgart-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Union Berlin vs Koln [Sky Sport Bundesliga 4 DE]",
-            "matchstr": "Union Berlin vs Koln",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Union Berlin",
-            "team2": "Koln",
-            "channel": "Sky Sport Bundesliga 4 DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=14"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-union-berlin-koln-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Werder Bremen vs Augsburg [Sky Sport Bundesliga 5 DE]",
-            "matchstr": "Werder Bremen vs Augsburg",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Werder Bremen",
-            "team2": "Augsburg",
-            "channel": "Sky Sport Bundesliga 5 DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=15"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-werder-bremen-augsburg-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
             "duration": 120
         },
         {
@@ -750,34 +604,6 @@
             ],
             "slug": "portugal-primeira-liga-football-porto-alverca-2026-05-02-22-30",
             "startTimestamp": 1777750200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Germany Bundesliga] Simulcast [DAZN1 DE]",
-            "matchstr": "Simulcast",
-            "time": "16:30",
-            "league": "Germany Bundesliga",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=17"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-football-simulcast-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
             "duration": 120
         },
         {
@@ -1412,56 +1238,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [France Ligue 1] Nantes vs Olympique Marseille [beIN SPORTS US]",
-            "matchstr": "Nantes vs Olympique Marseille",
-            "time": "16:00",
-            "league": "France Ligue 1",
-            "sport": "Football",
-            "team1": "Nantes",
-            "team2": "Olympique Marseille",
-            "channel": "beIN SPORTS US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=40"
-                    ]
-                },
-                {
-                    "name": "Ligue1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-1-football-nantes-olympique-marseille-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [France Ligue 1] PSG vs Lorient [beIN SPORTS US]",
             "matchstr": "PSG vs Lorient",
             "time": "18:00",
@@ -1612,34 +1388,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Czech Republic 1. liga] Zlin vs Dukla Praha [Oneplay Sport 1 CZ]",
-            "matchstr": "Zlin vs Dukla Praha",
-            "time": "16:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Zlin",
-            "team2": "Dukla Praha",
-            "channel": "Oneplay Sport 1 CZ",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-zlin-dukla-praha-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Czech Republic 1. liga] Slovan Liberec vs Slavia Praha [Oneplay Sport 1 CZ]",
             "matchstr": "Slovan Liberec vs Slavia Praha",
             "time": "19:00",
@@ -1665,157 +1413,6 @@
             ],
             "slug": "czech-republic-1-liga-football-slovan-liberec-slavia-praha-2026-05-02-19-00",
             "startTimestamp": 1777737600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Czech Republic 1. liga] Bohemians 1905 vs Sigma Olomouc [Oneplay Sport 2 CZ]",
-            "matchstr": "Bohemians 1905 vs Sigma Olomouc",
-            "time": "16:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Bohemians 1905",
-            "team2": "Sigma Olomouc",
-            "channel": "Oneplay Sport 2 CZ",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=42"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-bohemians-1905-sigma-olomouc-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Czech Republic 1. liga] Karvina vs FK Pardubice [Oneplay Sport 3 CZ]",
-            "matchstr": "Karvina vs FK Pardubice",
-            "time": "16:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Karvina",
-            "team2": "FK Pardubice",
-            "channel": "Oneplay Sport 3 CZ",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=43"
-                    ],
-                    "number": 43,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=43"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-karvina-fk-pardubice-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Czech Republic 1. liga] Banik Ostrava vs Mlada Boleslav [Oneplay Sport 4 CZ]",
-            "matchstr": "Banik Ostrava vs Mlada Boleslav",
-            "time": "16:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Banik Ostrava",
-            "team2": "Mlada Boleslav",
-            "channel": "Oneplay Sport 4 CZ",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=44"
-                    ],
-                    "number": 44,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=44"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-banik-ostrava-mlada-boleslav-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Italy Serie A] Udinese vs Torino [DAZN Zona IT]",
-            "matchstr": "Udinese vs Torino",
-            "time": "16:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Udinese",
-            "team2": "Torino",
-            "channel": "DAZN Zona IT",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-udinese-torino-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [Bulgaria Parva Liga] Botev Vratsa vs Spartak Varna [Diema Sport BG]",
-            "matchstr": "Botev Vratsa vs Spartak Varna",
-            "time": "16:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Botev Vratsa",
-            "team2": "Spartak Varna",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-botev-vratsa-spartak-varna-2026-05-02-16-30",
-            "startTimestamp": 1777728600000,
             "duration": 120
         },
         {
@@ -2267,34 +1864,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Sweden Allsvenskan] Degerfors vs Hacken [TV4 Sport Live 2 SE]",
-            "matchstr": "Degerfors vs Hacken",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Degerfors",
-            "team2": "Hacken",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-degerfors-hacken-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Euro Tour] Hockey: Czech Republic vs Sweden [SVT2 SE]",
             "matchstr": "Czech Republic vs Sweden",
             "time": "17:00",
@@ -2321,34 +1890,6 @@
             "slug": "euro-tour-hockey-czech-republic-sweden-2026-05-02-17-00",
             "startTimestamp": 1777730400000,
             "duration": 180
-        },
-        {
-            "matchText": "16:00 [Sweden Allsvenskan] Sirius vs Kalmar [TV4 Fotball SE]",
-            "matchstr": "Sirius vs Kalmar",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Sirius",
-            "team2": "Kalmar",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-sirius-kalmar-2026-05-02-16-00",
-            "startTimestamp": 1777726800000,
-            "duration": 120
         },
         {
             "matchText": "17:00 [Finland Liiga] Hockey: Tappara vs Kookoo [MTV Urheilu 1 FI]",
