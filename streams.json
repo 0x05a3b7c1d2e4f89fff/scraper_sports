@@ -391,45 +391,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:00 [Australia A-League] Auckland vs Melbourne City [Sky Sport 5 NZ]",
-            "matchstr": "Auckland vs Melbourne City",
-            "time": "08:00",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Auckland",
-            "team2": "Melbourne City",
-            "channel": "Sky Sport 5 NZ",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "NZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=5"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-auckland-melbourne-city-2026-05-02-08-00",
-            "startTimestamp": 1777698000000,
-            "duration": 120
-        },
-        {
             "matchText": "12:40 [Australia A-League] Melbourne Victory vs Sydney FC [Sky Sport 5 NZ]",
             "matchstr": "Melbourne Victory vs Sydney FC",
             "time": "12:40",
