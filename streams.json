@@ -3062,34 +3062,6 @@
             "duration": 180
         },
         {
-            "matchText": "09:35 [AFL] Australian Football: North Melbourne Kangaroos vs Geelong Cats [Fox Sports 2 US]",
-            "matchstr": "North Melbourne Kangaroos vs Geelong Cats",
-            "time": "09:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "North Melbourne Kangaroos",
-            "team2": "Geelong Cats",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-north-melbourne-kangaroos-geelong-cats-2026-05-02-09-35",
-            "startTimestamp": 1777703700000,
-            "duration": 180
-        },
-        {
             "matchText": "12:35 [AFL] Australian Football: St. Kilda Saints vs Carlton Blues [Fox Sports 2 US]",
             "matchstr": "St. Kilda Saints vs Carlton Blues",
             "time": "12:35",
@@ -3115,34 +3087,6 @@
             ],
             "slug": "afl-australian-football-st-kilda-saints-carlton-blues-2026-05-02-12-35",
             "startTimestamp": 1777714500000,
-            "duration": 180
-        },
-        {
-            "matchText": "09:15 [AFL] Australian Football: Richmond Tigers vs West Coast Eagles [Fox Soccer Plus US]",
-            "matchstr": "Richmond Tigers vs West Coast Eagles",
-            "time": "09:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Richmond Tigers",
-            "team2": "West Coast Eagles",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-richmond-tigers-west-coast-eagles-2026-05-02-09-15",
-            "startTimestamp": 1777702500000,
             "duration": 180
         },
         {
