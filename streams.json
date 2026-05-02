@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "11:00 [UFC] MMA: UFC: Fight Night [TNT Sports 1 GB]",
-            "matchstr": "UFC: Fight Night",
-            "time": "11:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "UFC: Fight Night",
-            "team2": null,
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-ufc-fight-night-2026-05-02-11-00",
-            "startTimestamp": 1777708800000,
-            "duration": 180
-        },
-        {
             "matchText": "14:00 [UFC] MMA: Della Maddalena vs Carlos Prates [TNT Sports 1 GB]",
             "matchstr": "Della Maddalena vs Carlos Prates",
             "time": "14:00",
@@ -388,34 +360,6 @@
             ],
             "slug": "england-premier-league-football-brentford-west-ham-united-2026-05-02-17-00",
             "startTimestamp": 1777730400000,
-            "duration": 120
-        },
-        {
-            "matchText": "12:40 [Australia A-League] Melbourne Victory vs Sydney FC [Sky Sport 5 NZ]",
-            "matchstr": "Melbourne Victory vs Sydney FC",
-            "time": "12:40",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Melbourne Victory",
-            "team2": "Sydney FC",
-            "channel": "Sky Sport 5 NZ",
-            "important": false,
-            "matchDate": "2026-05-02",
-            "channels": [
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "NZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=5"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-melbourne-victory-sydney-fc-2026-05-02-12-40",
-            "startTimestamp": 1777714800000,
             "duration": 120
         },
         {
