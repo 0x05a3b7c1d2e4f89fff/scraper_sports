@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:30 [NBA] Basketball: Philadelphia 76ers vs Boston Celtics [NBA League Pass US]",
-            "matchstr": "Philadelphia 76ers vs Boston Celtics",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Philadelphia 76ers",
-            "team2": "Boston Celtics",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-philadelphia-76ers-boston-celtics-2026-05-03-02-30",
-            "startTimestamp": 1777764600000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [European Challenge Cup] Rugby: Bordeaux Begles vs Bath [Premier Sports 1 GB]",
             "matchstr": "Bordeaux Begles vs Bath",
             "time": "17:00",
@@ -138,34 +110,6 @@
             "slug": "england-premier-league-football-aston-villa-tottenham-hotspur-2026-05-03-21-00",
             "startTimestamp": 1777831200000,
             "duration": 120
-        },
-        {
-            "matchText": "03:00 [NHL] Hockey: Philadelphia Flyers vs Carolina Hurricanes [ABC US]",
-            "matchstr": "Philadelphia Flyers vs Carolina Hurricanes",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Philadelphia Flyers",
-            "team2": "Carolina Hurricanes",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-philadelphia-flyers-carolina-hurricanes-2026-05-03-03-00",
-            "startTimestamp": 1777766400000,
-            "duration": 180
         },
         {
             "matchText": "14:30 [European Challenge Cup] Rugby: Montpellier vs Dragons [Premier Sports 2 GB]",
@@ -318,34 +262,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Fighting] Boxing: Gilberto Ramirez Sanchez vs David Benavidez [DAZN US]",
-            "matchstr": "Gilberto Ramirez Sanchez vs David Benavidez",
-            "time": "00:30",
-            "league": "Fighting",
-            "sport": "Boxing",
-            "team1": "Gilberto Ramirez Sanchez",
-            "team2": "David Benavidez",
-            "channel": "DAZN US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "fighting-boxing-gilberto-ramirez-sanchez-david-benavidez-2026-05-03-00-30",
-            "startTimestamp": 1777757400000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [Basketball Africa League] Basketball: Ville de Dakar [Sen] vs Maktown Flyers [Nga] [NBA TV US]",
             "matchstr": "Ville de Dakar [Sen] vs Maktown Flyers [Nga]",
             "time": "17:00",
@@ -399,34 +315,6 @@
             ],
             "slug": "basketball-africa-league-basketball-al-ahly-fus-rabat-2026-05-03-20-00",
             "startTimestamp": 1777827600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Northern Super League] Vancouver Rise vs Montreal Roses [TSN1 CA]",
-            "matchstr": "Vancouver Rise vs Montreal Roses",
-            "time": "02:00",
-            "league": "Northern Super League",
-            "sport": "Football",
-            "team1": "Vancouver Rise",
-            "team2": "Montreal Roses",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=6"
-                    ]
-                }
-            ],
-            "slug": "northern-super-league-football-vancouver-rise-montreal-roses-2026-05-03-02-00",
-            "startTimestamp": 1777762800000,
             "duration": 120
         },
         {
@@ -1059,34 +947,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [Brazil Brasileirao] Cruzeiro vs Atletico Mineiro [Sportdigital FUSSBALL DE]",
-            "matchstr": "Cruzeiro vs Atletico Mineiro",
-            "time": "03:00",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Cruzeiro",
-            "team2": "Atletico Mineiro",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-cruzeiro-atletico-mineiro-2026-05-03-03-00",
-            "startTimestamp": 1777766400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:45 [Netherlands Eredivisie] AZ vs Twente [Sportdigital FUSSBALL DE]",
             "matchstr": "AZ vs Twente",
             "time": "17:45",
@@ -1679,34 +1539,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [Mexico Liga MX] Tigres UANL vs Guadalajara [Universo ES]",
-            "matchstr": "Tigres UANL vs Guadalajara",
-            "time": "04:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Tigres UANL",
-            "team2": "Guadalajara",
-            "channel": "Universo ES",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Universo",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=28"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-tigres-uanl-guadalajara-2026-05-03-04-00",
-            "startTimestamp": 1777770000000,
-            "duration": 120
-        },
-        {
             "matchText": "17:15 [Spain La Liga] Getafe vs Rayo Vallecano [DAZN LaLiga 2 ES]",
             "matchstr": "Getafe vs Rayo Vallecano",
             "time": "17:15",
@@ -1813,34 +1645,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Atlanta United vs CF Montreal [MLS Season Pass US]",
-            "matchstr": "Atlanta United vs CF Montreal",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Atlanta United",
-            "team2": "CF Montreal",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=31"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-atlanta-united-cf-montreal-2026-05-03-02-30",
-            "startTimestamp": 1777764600000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Canada Canadian Premier League] Supra du Quebec vs Cavalry [OneSoccer CA]",
             "matchstr": "Supra du Quebec vs Cavalry",
             "time": "22:00",
@@ -1869,34 +1673,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Columbus Crew vs Minnesota United [MLS Season Pass US]",
-            "matchstr": "Columbus Crew vs Minnesota United",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Columbus Crew",
-            "team2": "Minnesota United",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-columbus-crew-minnesota-united-2026-05-03-02-30",
-            "startTimestamp": 1777764600000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [United States NWSL] Chicago Stars vs Portland Thorns [ESPN2 US]",
             "matchstr": "Chicago Stars vs Portland Thorns",
             "time": "20:00",
@@ -1922,34 +1698,6 @@
             ],
             "slug": "united-states-nwsl-football-chicago-stars-portland-thorns-2026-05-03-20-00",
             "startTimestamp": 1777827600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] New England vs Charlotte [MLS Season Pass US]",
-            "matchstr": "New England vs Charlotte",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "New England",
-            "team2": "Charlotte",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-new-england-charlotte-2026-05-03-02-30",
-            "startTimestamp": 1777764600000,
             "duration": 120
         },
         {
@@ -2053,34 +1801,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [USA/Canada Major League Soccer] New York RB vs Dallas [MLS Season Pass US]",
-            "matchstr": "New York RB vs Dallas",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "New York RB",
-            "team2": "Dallas",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=34"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-new-york-rb-dallas-2026-05-03-02-30",
-            "startTimestamp": 1777764600000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [USA/Canada Major League Soccer] New York City vs DC United [MLS Season Pass US]",
             "matchstr": "New York City vs DC United",
             "time": "22:00",
@@ -2106,34 +1826,6 @@
             ],
             "slug": "usa-canada-major-league-soccer-football-new-york-city-dc-united-2026-05-03-22-00",
             "startTimestamp": 1777834800000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Philadelphia Union vs Nashville SC [MLS Season Pass US]",
-            "matchstr": "Philadelphia Union vs Nashville SC",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Philadelphia Union",
-            "team2": "Nashville SC",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-philadelphia-union-nashville-sc-2026-05-03-02-30",
-            "startTimestamp": 1777764600000,
             "duration": 120
         },
         {
@@ -2187,34 +1879,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Chicago Fire vs Cincinnati [MLS Season Pass US]",
-            "matchstr": "Chicago Fire vs Cincinnati",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Chicago Fire",
-            "team2": "Cincinnati",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=36"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-chicago-fire-cincinnati-2026-05-03-03-30",
-            "startTimestamp": 1777768200000,
-            "duration": 120
-        },
-        {
             "matchText": "14:00 [England Women's Super League] Hockey: Manchester City vs Liverpool [Sportsnet World CA]",
             "matchstr": "Manchester City vs Liverpool",
             "time": "14:00",
@@ -2241,62 +1905,6 @@
             "slug": "england-women-s-super-league-hockey-manchester-city-liverpool-2026-05-03-14-00",
             "startTimestamp": 1777806000000,
             "duration": 180
-        },
-        {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Houston Dynamo vs Colorado Rapids [MLS Season Pass US]",
-            "matchstr": "Houston Dynamo vs Colorado Rapids",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Houston Dynamo",
-            "team2": "Colorado Rapids",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=37"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-houston-dynamo-colorado-rapids-2026-05-03-03-30",
-            "startTimestamp": 1777768200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [USA/Canada Major League Soccer] San Diego vs Los Angeles FC [MLS Season Pass US]",
-            "matchstr": "San Diego vs Los Angeles FC",
-            "time": "04:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "San Diego",
-            "team2": "Los Angeles FC",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-san-diego-los-angeles-fc-2026-05-03-04-30",
-            "startTimestamp": 1777771800000,
-            "duration": 120
         },
         {
             "matchText": "05:30 [USA/Canada Major League Soccer] LA Galaxy vs Vancouver Whitecaps [MLS Season Pass US]",
@@ -3300,34 +2908,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:15 [USA/Canada Major League Soccer] Inter Miami vs Orlando City SC [Fox Sports 1 US]",
-            "matchstr": "Inter Miami vs Orlando City SC",
-            "time": "02:15",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Inter Miami",
-            "team2": "Orlando City SC",
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-inter-miami-orlando-city-sc-2026-05-03-02-15",
-            "startTimestamp": 1777763700000,
-            "duration": 120
-        },
-        {
             "matchText": "12:20 [AFL] Australian Football: Greater Western Sydney Giants vs Gold Coast Suns [Fox Sports 1 US]",
             "matchstr": "Greater Western Sydney Giants vs Gold Coast Suns",
             "time": "12:20",
@@ -3437,34 +3017,6 @@
             ],
             "slug": "nrl-rugby-wests-tigers-cronulla-sharks-2026-05-03-09-05",
             "startTimestamp": 1777788300000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:15 [Argentina Primera Division] Platense vs Estudiantes [ESPN Premium Argentina ES]",
-            "matchstr": "Platense vs Estudiantes",
-            "time": "03:15",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Platense",
-            "team2": "Estudiantes",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-platense-estudiantes-2026-05-03-03-15",
-            "startTimestamp": 1777767300000,
             "duration": 120
         },
         {
