@@ -1617,34 +1617,6 @@
             "duration": 120
         },
         {
-            "matchText": "06:15 [Mexico Liga MX] Atlas vs Cruz Azul [TUDN ES]",
-            "matchstr": "Atlas vs Cruz Azul",
-            "time": "06:15",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Atlas",
-            "team2": "Cruz Azul",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-atlas-cruz-azul-2026-05-03-06-15",
-            "startTimestamp": 1777778100000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Canada Canadian Premier League] Supra du Quebec vs Cavalry [OneSoccer CA]",
             "matchstr": "Supra du Quebec vs Cavalry",
             "time": "22:00",
@@ -1905,34 +1877,6 @@
             "slug": "england-women-s-super-league-hockey-manchester-city-liverpool-2026-05-03-14-00",
             "startTimestamp": 1777806000000,
             "duration": 180
-        },
-        {
-            "matchText": "05:30 [USA/Canada Major League Soccer] LA Galaxy vs Vancouver Whitecaps [MLS Season Pass US]",
-            "matchstr": "LA Galaxy vs Vancouver Whitecaps",
-            "time": "05:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "LA Galaxy",
-            "team2": "Vancouver Whitecaps",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=39"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-la-galaxy-vancouver-whitecaps-2026-05-03-05-30",
-            "startTimestamp": 1777775400000,
-            "duration": 120
         },
         {
             "matchText": "16:00 [France Ligue 1] Lille vs Le Havre [beIN SPORTS US]",
@@ -2962,34 +2906,6 @@
             "slug": "afl-australian-football-melbourne-demons-sydney-swans-2026-05-03-08-15",
             "startTimestamp": 1777785300000,
             "duration": 180
-        },
-        {
-            "matchText": "07:00 [NRL] Rugby: South Sydney Rabbitohs vs Newcastle Knights [Fox Soccer Plus US]",
-            "matchstr": "South Sydney Rabbitohs vs Newcastle Knights",
-            "time": "07:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "South Sydney Rabbitohs",
-            "team2": "Newcastle Knights",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-south-sydney-rabbitohs-newcastle-knights-2026-05-03-07-00",
-            "startTimestamp": 1777780800000,
-            "duration": 120
         },
         {
             "matchText": "09:05 [NRL] Rugby: Wests Tigers vs Cronulla Sharks [Fox Soccer Plus US]",
