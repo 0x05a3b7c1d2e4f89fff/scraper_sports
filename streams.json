@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "17:00 [European Challenge Cup] Rugby: Bordeaux Begles vs Bath [Premier Sports 1 GB]",
-            "matchstr": "Bordeaux Begles vs Bath",
-            "time": "17:00",
-            "league": "European Challenge Cup",
-            "sport": "Rugby",
-            "team1": "Bordeaux Begles",
-            "team2": "Bath",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/channel?id=51"
-                    ]
-                }
-            ],
-            "slug": "european-challenge-cup-rugby-bordeaux-begles-bath-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [England Premier League] Aston Villa vs Tottenham Hotspur [TNT Sports 1 GB]",
             "matchstr": "Aston Villa vs Tottenham Hotspur",
             "time": "21:00",
@@ -173,34 +134,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Basketball Africa League] Basketball: Ville de Dakar [Sen] vs Maktown Flyers [Nga] [NBA TV US]",
-            "matchstr": "Ville de Dakar [Sen] vs Maktown Flyers [Nga]",
-            "time": "17:00",
-            "league": "Basketball Africa League",
-            "sport": "Basketball",
-            "team1": "Ville de Dakar [Sen]",
-            "team2": "Maktown Flyers [Nga]",
-            "channel": "NBA TV US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "NBA TV",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "basketball-africa-league-basketball-ville-de-dakar-sen-maktown-flyers-nga-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Basketball Africa League] Basketball: Al Ahly vs FUS Rabat [NBA TV US]",
             "matchstr": "Al Ahly vs FUS Rabat",
             "time": "20:00",
@@ -226,45 +159,6 @@
             ],
             "slug": "basketball-africa-league-basketball-al-ahly-fus-rabat-2026-05-03-20-00",
             "startTimestamp": 1777827600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Europe UEFA Women's Champions League] Barcelona vs Bayern [CBS Sports Golazo US]",
-            "matchstr": "Barcelona vs Bayern",
-            "time": "17:30",
-            "league": "Europe UEFA Women's Champions League",
-            "sport": "Football",
-            "team1": "Barcelona",
-            "team2": "Bayern",
-            "channel": "CBS Sports Golazo US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "CBS Sports Golazo",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=6"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-women-s-champions-league-football-barcelona-bayern-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
             "duration": 120
         },
         {
@@ -354,78 +248,6 @@
             ],
             "slug": "united-states-nwsl-football-boston-legacy-denver-summit-2026-05-03-22-00",
             "startTimestamp": 1777834800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [England Premier League] Manchester United vs Liverpool [Hub Premier GB]",
-            "matchstr": "Manchester United vs Liverpool",
-            "time": "17:30",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Manchester United",
-            "team2": "Liverpool",
-            "channel": "Hub Premier GB",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Hub Premier",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Premier League",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=16"
-                    ],
-                    "number": 16,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=16"
-                    ]
-                },
-                {
-                    "name": "M. Liga de Campeones",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "Canal+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/channel?id=50"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-manchester-united-liverpool-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
             "duration": 120
         },
         {
@@ -607,56 +429,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:45 [Netherlands Eredivisie] AZ vs Twente [Sportdigital FUSSBALL DE]",
-            "matchstr": "AZ vs Twente",
-            "time": "17:45",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "AZ",
-            "team2": "Twente",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=19"
-                    ]
-                },
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=36"
-                    ]
-                },
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=89"
-                    ],
-                    "number": 89,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/channel?id=89"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-az-twente-2026-05-03-17-45",
-            "startTimestamp": 1777819500000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Saudi Arabia Pro League] Al Quadisiya vs Al Nassr [Sportdigital FUSSBALL DE]",
             "matchstr": "Al Quadisiya vs Al Nassr",
             "time": "21:00",
@@ -693,62 +465,6 @@
             ],
             "slug": "saudi-arabia-pro-league-football-al-quadisiya-al-nassr-2026-05-03-21-00",
             "startTimestamp": 1777831200000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Switzerland Super League] Lugano vs Young Boys [Blue Sport D1 CH]",
-            "matchstr": "Lugano vs Young Boys",
-            "time": "17:30",
-            "league": "Switzerland Super League",
-            "sport": "Football",
-            "team1": "Lugano",
-            "team2": "Young Boys",
-            "channel": "Blue Sport D1 CH",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Blue Sport D1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "CH",
-                    "links": [
-                        "https://l2l2.link/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "switzerland-super-league-football-lugano-young-boys-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Portugal Primeira Liga] Casa Pia vs Tondela [Sport TV1 PT]",
-            "matchstr": "Casa Pia vs Tondela",
-            "time": "17:30",
-            "league": "Portugal Primeira Liga",
-            "sport": "Football",
-            "team1": "Casa Pia",
-            "team2": "Tondela",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/channel?id=21"
-                    ]
-                }
-            ],
-            "slug": "portugal-primeira-liga-football-casa-pia-tondela-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
             "duration": 120
         },
         {
@@ -808,62 +524,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Greece Super League] Levadiakos vs Volos NFC [Nova Sports 2 GR]",
-            "matchstr": "Levadiakos vs Volos NFC",
-            "time": "17:00",
-            "league": "Greece Super League",
-            "sport": "Football",
-            "team1": "Levadiakos",
-            "team2": "Volos NFC",
-            "channel": "Nova Sports 2 GR",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Nova Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=23"
-                    ],
-                    "number": 23,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/channel?id=23"
-                    ]
-                }
-            ],
-            "slug": "greece-super-league-football-levadiakos-volos-nfc-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Greece Super League] OFI vs Aris [Cosmote Sport 1 GR]",
-            "matchstr": "OFI vs Aris",
-            "time": "17:00",
-            "league": "Greece Super League",
-            "sport": "Football",
-            "team1": "OFI",
-            "team2": "Aris",
-            "channel": "Cosmote Sport 1 GR",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Cosmote Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=24"
-                    ],
-                    "number": 24,
-                    "language": "GR",
-                    "links": [
-                        "https://l2l2.link/channel?id=24"
-                    ]
-                }
-            ],
-            "slug": "greece-super-league-football-ofi-aris-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Greece Super League] Panathinaikos vs AEK Athens [Cosmote Sport 1 GR]",
             "matchstr": "Panathinaikos vs AEK Athens",
             "time": "21:00",
@@ -917,34 +577,6 @@
             ],
             "slug": "greece-super-league-football-paok-olympiakos-piraeus-2026-05-03-19-00",
             "startTimestamp": 1777824000000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:15 [Spain Segunda Division] Sporting Gijon vs Ceuta [LALIGA TV Hypermotion ES]",
-            "matchstr": "Sporting Gijon vs Ceuta",
-            "time": "17:15",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Sporting Gijon",
-            "team2": "Ceuta",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-sporting-gijon-ceuta-2026-05-03-17-15",
-            "startTimestamp": 1777817700000,
             "duration": 120
         },
         {
@@ -1051,56 +683,6 @@
             ],
             "slug": "france-ligue-1-football-paris-brest-2026-05-03-18-15",
             "startTimestamp": 1777821300000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:15 [Spain La Liga] Getafe vs Rayo Vallecano [DAZN LaLiga 2 ES]",
-            "matchstr": "Getafe vs Rayo Vallecano",
-            "time": "17:15",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Getafe",
-            "team2": "Rayo Vallecano",
-            "channel": "DAZN LaLiga 2 ES",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "DAZN LaLiga 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=28"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/channel?id=33"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=74"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-getafe-rayo-vallecano-2026-05-03-17-15",
-            "startTimestamp": 1777817700000,
             "duration": 120
         },
         {
@@ -1640,62 +1222,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Hungary NB1] Ujpest vs Ferencvaros [M4 Sports HU]",
-            "matchstr": "Ujpest vs Ferencvaros",
-            "time": "17:00",
-            "league": "Hungary NB1",
-            "sport": "Football",
-            "team1": "Ujpest",
-            "team2": "Ferencvaros",
-            "channel": "M4 Sports HU",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "M4 Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "HU",
-                    "links": [
-                        "https://l2l2.link/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "hungary-nb1-football-ujpest-ferencvaros-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Denmark Super Liga] Fredericia vs K\u00f8benhavn [TV2 Sport X DK]",
-            "matchstr": "Fredericia vs K\u00f8benhavn",
-            "time": "17:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Fredericia",
-            "team2": "K\u00f8benhavn",
-            "channel": "TV2 Sport X DK",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV2 Sport X",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/channel?id=67"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-fredericia-kobenhavn-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Denmark Super Liga] AGF vs S\u00f8nderjyskE [TV3+ DK]",
             "matchstr": "AGF vs S\u00f8nderjyskE",
             "time": "19:00",
@@ -1724,34 +1250,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Croatia 1. HNL] Lokomotiva Zagreb vs Rijeka [Max Sport 1 HR]",
-            "matchstr": "Lokomotiva Zagreb vs Rijeka",
-            "time": "17:00",
-            "league": "Croatia 1. HNL",
-            "sport": "Football",
-            "team1": "Lokomotiva Zagreb",
-            "team2": "Rijeka",
-            "channel": "Max Sport 1 HR",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Max Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://l2l2.link/channel?id=70"
-                    ]
-                }
-            ],
-            "slug": "croatia-1-hnl-football-lokomotiva-zagreb-rijeka-2026-05-03-17-00",
-            "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:45 [Croatia 1. HNL] Hajduk Split vs Varazdin [Max Sport 1 HR]",
             "matchstr": "Hajduk Split vs Varazdin",
             "time": "19:45",
@@ -1777,62 +1275,6 @@
             ],
             "slug": "croatia-1-hnl-football-hajduk-split-varazdin-2026-05-03-19-45",
             "startTimestamp": 1777826700000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Sweden Allsvenskan] Elfsborg vs AIK [TV4 Sport Live 1 SE]",
-            "matchstr": "Elfsborg vs AIK",
-            "time": "17:30",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Elfsborg",
-            "team2": "AIK",
-            "channel": "TV4 Sport Live 1 SE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-elfsborg-aik-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Sweden Allsvenskan] GAIS vs Orgryte [TV4 Sportkanalen SE]",
-            "matchstr": "GAIS vs Orgryte",
-            "time": "17:30",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "GAIS",
-            "team2": "Orgryte",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-gais-orgryte-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
             "duration": 120
         },
         {
@@ -1948,34 +1390,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:45 [Netherlands Eredivisie] Sparta Rotterdam vs Go Ahead Eagles [ESPN NL]",
-            "matchstr": "Sparta Rotterdam vs Go Ahead Eagles",
-            "time": "17:45",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Sparta Rotterdam",
-            "team2": "Go Ahead Eagles",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/channel?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-sparta-rotterdam-go-ahead-eagles-2026-05-03-17-45",
-            "startTimestamp": 1777819500000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Turkey Super Lig] Kayserispor vs Eyupspor [beIN Sports 1 TR]",
             "matchstr": "Kayserispor vs Eyupspor",
             "time": "20:00",
@@ -2085,34 +1499,6 @@
             ],
             "slug": "turkey-super-lig-football-kasimpasa-kocaelispor-2026-05-03-20-00",
             "startTimestamp": 1777827600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Germany 3. Liga] Wehen Wiesbaden vs Osnabruck [Magenta Sport DE]",
-            "matchstr": "Wehen Wiesbaden vs Osnabruck",
-            "time": "17:30",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Wehen Wiesbaden",
-            "team2": "Osnabruck",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-wehen-wiesbaden-osnabruck-2026-05-03-17-30",
-            "startTimestamp": 1777818600000,
             "duration": 120
         },
         {
