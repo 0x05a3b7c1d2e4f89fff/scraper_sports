@@ -585,6 +585,34 @@
             "duration": 120
         },
         {
+            "matchText": "17:30 [Germany DEL] Hockey: Adler Mannheim vs Eisbaren Berlin [Magenta Sport DE]",
+            "matchstr": "Adler Mannheim vs Eisbaren Berlin",
+            "time": "17:30",
+            "league": "Germany DEL",
+            "sport": "Hockey",
+            "team1": "Adler Mannheim",
+            "team2": "Eisbaren Berlin",
+            "channel": "Magenta Sport DE",
+            "important": false,
+            "matchDate": "2026-05-03",
+            "channels": [
+                {
+                    "name": "Magenta Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://l2l2.link/channel?id=12"
+                    ]
+                }
+            ],
+            "slug": "germany-del-hockey-adler-mannheim-eisbaren-berlin-2026-05-03-17-30",
+            "startTimestamp": 1777818600000,
+            "duration": 180
+        },
+        {
             "matchText": "14:30 [Germany Bundesliga 2] Elversberg vs Paderborn [Sky Sport Bundesliga 3 DE]",
             "matchstr": "Elversberg vs Paderborn",
             "time": "14:30",
@@ -2880,62 +2908,6 @@
             "duration": 180
         },
         {
-            "matchText": "08:15 [AFL] Australian Football: Melbourne Demons vs Sydney Swans [Fox Sports 2 US]",
-            "matchstr": "Melbourne Demons vs Sydney Swans",
-            "time": "08:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Melbourne Demons",
-            "team2": "Sydney Swans",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-melbourne-demons-sydney-swans-2026-05-03-08-15",
-            "startTimestamp": 1777785300000,
-            "duration": 180
-        },
-        {
-            "matchText": "09:05 [NRL] Rugby: Wests Tigers vs Cronulla Sharks [Fox Soccer Plus US]",
-            "matchstr": "Wests Tigers vs Cronulla Sharks",
-            "time": "09:05",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Wests Tigers",
-            "team2": "Cronulla Sharks",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-wests-tigers-cronulla-sharks-2026-05-03-09-05",
-            "startTimestamp": 1777788300000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Argentina Primera Division] Gimnasia La Plata vs Argentinos Juniors [ESPN Premium Argentina ES]",
             "matchstr": "Gimnasia La Plata vs Argentinos Juniors",
             "time": "22:00",
@@ -3020,14 +2992,14 @@
             "duration": 120
         },
         {
-            "matchText": "15:30 [Netherlands Eredivisie] PEC Zwolle vs Heracles [ESPN US]",
+            "matchText": "15:30 [Netherlands Eredivisie] PEC Zwolle vs Heracles [ESPN NL]",
             "matchstr": "PEC Zwolle vs Heracles",
             "time": "15:30",
             "league": "Netherlands Eredivisie",
             "sport": "Football",
             "team1": "PEC Zwolle",
             "team2": "Heracles",
-            "channel": "ESPN US",
+            "channel": "ESPN NL",
             "important": false,
             "matchDate": "2026-05-03",
             "channels": [
@@ -3037,7 +3009,7 @@
                         "https://nrdrse.link/ch.php?id=88"
                     ],
                     "number": 88,
-                    "language": "US",
+                    "language": "NL",
                     "links": [
                         "https://l2l2.link/channel?id=88"
                     ]
