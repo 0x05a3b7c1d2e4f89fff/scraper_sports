@@ -180,34 +180,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [USA/Canada Major League Soccer] Austin vs St. Louis City [MLS Season Pass US]",
-            "matchstr": "Austin vs St. Louis City",
-            "time": "00:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Austin",
-            "team2": "St. Louis City",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=6"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-austin-st-louis-city-2026-05-04-00-30",
-            "startTimestamp": 1777843800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain La Liga] Sevilla vs Real Sociedad [Premier Sports 1 GB]",
             "matchstr": "Sevilla vs Real Sociedad",
             "time": "22:00",
@@ -255,34 +227,6 @@
             ],
             "slug": "spain-la-liga-football-sevilla-real-sociedad-2026-05-04-22-00",
             "startTimestamp": 1777921200000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:00 [NWSL] Gotham FC vs Racing Louisville [CBS Sports Network US]",
-            "matchstr": "Gotham FC vs Racing Louisville",
-            "time": "00:00",
-            "league": "NWSL",
-            "sport": "Football",
-            "team1": "Gotham FC",
-            "team2": "Racing Louisville",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "nwsl-football-gotham-fc-racing-louisville-2026-05-04-00-00",
-            "startTimestamp": 1777842000000,
             "duration": 120
         },
         {
@@ -575,45 +519,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Argentina Primera Division] River Plate vs Atletico Tucuman [Sportdigital FUSSBALL DE]",
-            "matchstr": "River Plate vs Atletico Tucuman",
-            "time": "00:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "River Plate",
-            "team2": "Atletico Tucuman",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=19"
-                    ]
-                },
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-river-plate-atletico-tucuman-2026-05-04-00-30",
-            "startTimestamp": 1777843800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:15 [Portugal Primeira Liga] Sporting CP vs Vitoria Guimaraes [Sportdigital FUSSBALL DE]",
             "matchstr": "Sporting CP vs Vitoria Guimaraes",
             "time": "22:15",
@@ -650,34 +555,6 @@
             ],
             "slug": "portugal-primeira-liga-football-sporting-cp-vitoria-guimaraes-2026-05-04-22-15",
             "startTimestamp": 1777922100000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Brazil Brasileirao] Internacional vs Fluminense [Canal 11 PT]",
-            "matchstr": "Internacional vs Fluminense",
-            "time": "00:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Internacional",
-            "team2": "Fluminense",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/channel?id=21"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-internacional-fluminense-2026-05-04-00-30",
-            "startTimestamp": 1777843800000,
             "duration": 120
         },
         {
