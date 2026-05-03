@@ -112,45 +112,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [European Challenge Cup] Rugby: Montpellier vs Dragons [Premier Sports 2 GB]",
-            "matchstr": "Montpellier vs Dragons",
-            "time": "14:30",
-            "league": "European Challenge Cup",
-            "sport": "Rugby",
-            "team1": "Montpellier",
-            "team2": "Dragons",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://l2l2.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "european-challenge-cup-rugby-montpellier-dragons-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Internazionale vs Parma [TNT Sports 2 GB]",
             "matchstr": "Internazionale vs Parma",
             "time": "21:45",
@@ -518,34 +479,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Germany Bundesliga 2] Hannover 96 vs Preu\u00dfen Munster [Sky Sport Bundesliga 2 DE]",
-            "matchstr": "Hannover 96 vs Preu\u00dfen Munster",
-            "time": "14:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Hannover 96",
-            "team2": "Preu\u00dfen Munster",
-            "channel": "Sky Sport Bundesliga 2 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-hannover-96-preussen-munster-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Germany DEL] Hockey: Adler Mannheim vs Eisbaren Berlin [Magenta Sport DE]",
             "matchstr": "Adler Mannheim vs Eisbaren Berlin",
             "time": "17:30",
@@ -572,118 +505,6 @@
             "slug": "germany-del-hockey-adler-mannheim-eisbaren-berlin-2026-05-03-17-30",
             "startTimestamp": 1777818600000,
             "duration": 180
-        },
-        {
-            "matchText": "14:30 [Germany Bundesliga 2] Elversberg vs Paderborn [Sky Sport Bundesliga 3 DE]",
-            "matchstr": "Elversberg vs Paderborn",
-            "time": "14:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Elversberg",
-            "team2": "Paderborn",
-            "channel": "Sky Sport Bundesliga 3 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-elversberg-paderborn-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Germany Bundesliga 2] Greuther Furth vs Nurnberg [Sky Sport Bundesliga 4 DE]",
-            "matchstr": "Greuther Furth vs Nurnberg",
-            "time": "14:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Greuther Furth",
-            "team2": "Nurnberg",
-            "channel": "Sky Sport Bundesliga 4 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=14"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-greuther-furth-nurnberg-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Germany Bundesliga 2] Magdeburg vs Hertha BSC [Sky Sport Bundesliga 5 DE]",
-            "matchstr": "Magdeburg vs Hertha BSC",
-            "time": "14:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Magdeburg",
-            "team2": "Hertha BSC",
-            "channel": "Sky Sport Bundesliga 5 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=15"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-magdeburg-hertha-bsc-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Germany Bundesliga 2] Karlsruher SC vs Darmstadt 98 [Sky Sport Bundesliga 6 DE]",
-            "matchstr": "Karlsruher SC vs Darmstadt 98",
-            "time": "14:30",
-            "league": "Germany Bundesliga 2",
-            "sport": "Football",
-            "team1": "Karlsruher SC",
-            "team2": "Darmstadt 98",
-            "channel": "Sky Sport Bundesliga 6 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sky Sport Bundesliga 6",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=16"
-                    ],
-                    "number": 16,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=16"
-                    ]
-                }
-            ],
-            "slug": "germany-bundesliga-2-football-karlsruher-sc-darmstadt-98-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
         },
         {
             "matchText": "16:30 [Germany Bundesliga] St. Pauli vs Mainz 05 [DAZN1 DE]",
@@ -1076,45 +897,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:30 [Netherlands Eredivisie] Fortuna Sittard vs Feyenoord [Sportdigital FUSSBALL 2 DE]",
-            "matchstr": "Fortuna Sittard vs Feyenoord",
-            "time": "15:30",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Fortuna Sittard",
-            "team2": "Feyenoord",
-            "channel": "Sportdigital FUSSBALL 2 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=22"
-                    ]
-                },
-                {
-                    "name": "ESPN3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=90"
-                    ],
-                    "number": 90,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=90"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-fortuna-sittard-feyenoord-2026-05-03-15-30",
-            "startTimestamp": 1777811400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Greece Super League] Levadiakos vs Volos NFC [Nova Sports 2 GR]",
             "matchstr": "Levadiakos vs Volos NFC",
             "time": "17:00",
@@ -1224,34 +1006,6 @@
             ],
             "slug": "greece-super-league-football-paok-olympiakos-piraeus-2026-05-03-19-00",
             "startTimestamp": 1777824000000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Spain Segunda Division] Racing Santander vs Huesca [LALIGA TV Hypermotion ES]",
-            "matchstr": "Racing Santander vs Huesca",
-            "time": "15:00",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Racing Santander",
-            "team2": "Huesca",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-racing-santander-huesca-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
             "duration": 120
         },
         {
@@ -1573,56 +1327,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Spain La Liga] Celta de Vigo vs Elche [beIN SPORTS 3 AU]",
-            "matchstr": "Celta de Vigo vs Elche",
-            "time": "15:00",
-            "league": "Spain La Liga",
-            "sport": "Football",
-            "team1": "Celta de Vigo",
-            "team2": "Elche",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://l2l2.link/channel?id=33"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=74"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "spain-la-liga-football-celta-de-vigo-elche-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain La Liga] Real Betis vs Real Oviedo [beIN SPORTS 3 AU]",
             "matchstr": "Real Betis vs Real Oviedo",
             "time": "19:30",
@@ -1749,34 +1453,6 @@
             "slug": "italy-serie-a-football-juventus-verona-2026-05-03-19-00",
             "startTimestamp": 1777824000000,
             "duration": 120
-        },
-        {
-            "matchText": "14:00 [England Women's Super League] Hockey: Manchester City vs Liverpool [Sportsnet World CA]",
-            "matchstr": "Manchester City vs Liverpool",
-            "time": "14:00",
-            "league": "England Women's Super League",
-            "sport": "Hockey",
-            "team1": "Manchester City",
-            "team2": "Liverpool",
-            "channel": "Sportsnet World CA",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=36"
-                    ]
-                }
-            ],
-            "slug": "england-women-s-super-league-hockey-manchester-city-liverpool-2026-05-03-14-00",
-            "startTimestamp": 1777806000000,
-            "duration": 180
         },
         {
             "matchText": "16:00 [France Ligue 1] Lille vs Le Havre [beIN SPORTS US]",
@@ -2097,34 +1773,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:45 [Poland Ekstraklasa] Zag\u0142ebie Lubin vs Cracovia Krakow [Canal+ Sport 3 PL]",
-            "matchstr": "Zag\u0142ebie Lubin vs Cracovia Krakow",
-            "time": "15:45",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Zag\u0142ebie Lubin",
-            "team2": "Cracovia Krakow",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-zaglebie-lubin-cracovia-krakow-2026-05-03-15-45",
-            "startTimestamp": 1777812300000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [Poland Ekstraklasa] Pogon Szczecin vs Wis\u0142a P\u0142ock [Canal+ Sport 3 PL]",
             "matchstr": "Pogon Szczecin vs Wis\u0142a P\u0142ock",
             "time": "18:30",
@@ -2178,34 +1826,6 @@
             ],
             "slug": "poland-i-liga-football-stal-rzeszow-wisla-krakow-2026-05-03-21-15",
             "startTimestamp": 1777832100000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [Norway Eliteserien] Lillestr\u00f8m vs Sarpsborg 08 [TV2 Sport NO]",
-            "matchstr": "Lillestr\u00f8m vs Sarpsborg 08",
-            "time": "15:30",
-            "league": "Norway Eliteserien",
-            "sport": "Football",
-            "team1": "Lillestr\u00f8m",
-            "team2": "Sarpsborg 08",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=65"
-                    ],
-                    "number": 65,
-                    "language": "NO",
-                    "links": [
-                        "https://l2l2.link/channel?id=65"
-                    ]
-                }
-            ],
-            "slug": "norway-eliteserien-football-lillestrom-sarpsborg-08-2026-05-03-15-30",
-            "startTimestamp": 1777811400000,
             "duration": 120
         },
         {
@@ -2265,34 +1885,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Hungary NB1] Paksi SE vs Debrecen [M4 Sports HU]",
-            "matchstr": "Paksi SE vs Debrecen",
-            "time": "14:30",
-            "league": "Hungary NB1",
-            "sport": "Football",
-            "team1": "Paksi SE",
-            "team2": "Debrecen",
-            "channel": "M4 Sports HU",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "M4 Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "HU",
-                    "links": [
-                        "https://l2l2.link/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "hungary-nb1-football-paksi-se-debrecen-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Hungary NB1] Ujpest vs Ferencvaros [M4 Sports HU]",
             "matchstr": "Ujpest vs Ferencvaros",
             "time": "17:00",
@@ -2321,34 +1913,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Denmark Super Liga] Randers vs Vejle [TV2 Sport X DK]",
-            "matchstr": "Randers vs Vejle",
-            "time": "15:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Randers",
-            "team2": "Vejle",
-            "channel": "TV2 Sport X DK",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV2 Sport X",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/channel?id=67"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-randers-vejle-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Denmark Super Liga] Fredericia vs K\u00f8benhavn [TV2 Sport X DK]",
             "matchstr": "Fredericia vs K\u00f8benhavn",
             "time": "17:00",
@@ -2374,34 +1938,6 @@
             ],
             "slug": "denmark-super-liga-football-fredericia-kobenhavn-2026-05-03-17-00",
             "startTimestamp": 1777816800000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Denmark Super Liga] OB vs Silkeborg [TV3 Sport DK]",
-            "matchstr": "OB vs Silkeborg",
-            "time": "15:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "OB",
-            "team2": "Silkeborg",
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "DK",
-                    "links": [
-                        "https://l2l2.link/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-ob-silkeborg-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
             "duration": 120
         },
         {
@@ -2514,62 +2050,6 @@
             ],
             "slug": "sweden-allsvenskan-football-elfsborg-aik-2026-05-03-17-30",
             "startTimestamp": 1777818600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Sweden Allsvenskan] Hammarby vs Vasteras SK [TV4 Sport Live 2 SE]",
-            "matchstr": "Hammarby vs Vasteras SK",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Hammarby",
-            "team2": "Vasteras SK",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-hammarby-vasteras-sk-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Sweden Allsvenskan] Malmo FF vs Mjallby [TV4 Fotball SE]",
-            "matchstr": "Malmo FF vs Mjallby",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Malmo FF",
-            "team2": "Mjallby",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-malmo-ff-mjallby-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
             "duration": 120
         },
         {
@@ -2713,34 +2193,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:30 [Netherlands Eredivisie] PEC Zwolle vs Heracles [ESPN NL]",
-            "matchstr": "PEC Zwolle vs Heracles",
-            "time": "15:30",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "PEC Zwolle",
-            "team2": "Heracles",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://l2l2.link/channel?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-pec-zwolle-heracles-2026-05-03-15-30",
-            "startTimestamp": 1777811400000,
-            "duration": 120
-        },
-        {
             "matchText": "17:45 [Netherlands Eredivisie] Sparta Rotterdam vs Go Ahead Eagles [ESPN NL]",
             "matchstr": "Sparta Rotterdam vs Go Ahead Eagles",
             "time": "17:45",
@@ -2881,34 +2333,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Germany 3. Liga] MSV Duisburg vs Energie Cottbus [Magenta Sport DE]",
-            "matchstr": "MSV Duisburg vs Energie Cottbus",
-            "time": "14:30",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "MSV Duisburg",
-            "team2": "Energie Cottbus",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-msv-duisburg-energie-cottbus-2026-05-03-14-30",
-            "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Germany 3. Liga] Wehen Wiesbaden vs Osnabruck [Magenta Sport DE]",
             "matchstr": "Wehen Wiesbaden vs Osnabruck",
             "time": "17:30",
@@ -2962,34 +2386,6 @@
             ],
             "slug": "germany-3-liga-football-ingolstadt-erzgebirge-aue-2026-05-03-20-30",
             "startTimestamp": 1777829400000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Austria Bundesliga] Austria Wien vs Hartberg [Sky Sport Austria 1 AT]",
-            "matchstr": "Austria Wien vs Hartberg",
-            "time": "15:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Austria Wien",
-            "team2": "Hartberg",
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://l2l2.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-austria-wien-hartberg-2026-05-03-15-00",
-            "startTimestamp": 1777809600000,
             "duration": 120
         },
         {
