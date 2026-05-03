@@ -418,45 +418,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [Scotland Scottish Premiership] Hibernian vs Celtic [CBS Sports Network US]",
-            "matchstr": "Hibernian vs Celtic",
-            "time": "14:00",
-            "league": "Scotland Scottish Premiership",
-            "sport": "Football",
-            "team1": "Hibernian",
-            "team2": "Celtic",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=8"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "scotland-scottish-premiership-football-hibernian-celtic-2026-05-03-14-00",
-            "startTimestamp": 1777806000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [United States NWSL] Boston Legacy vs Denver Summit [CBS Sports Network US]",
             "matchstr": "Boston Legacy vs Denver Summit",
             "time": "22:00",
@@ -722,67 +683,6 @@
             ],
             "slug": "germany-bundesliga-2-football-karlsruher-sc-darmstadt-98-2026-05-03-14-30",
             "startTimestamp": 1777807800000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:30 [Italy Serie A] Bologna vs Cagliari [DAZN1 DE]",
-            "matchstr": "Bologna vs Cagliari",
-            "time": "13:30",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Bologna",
-            "team2": "Cagliari",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://l2l2.link/channel?id=17"
-                    ]
-                },
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://l2l2.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=71"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-bologna-cagliari-2026-05-03-13-30",
-            "startTimestamp": 1777804200000,
             "duration": 120
         },
         {
@@ -1089,34 +989,6 @@
             ],
             "slug": "switzerland-super-league-football-lugano-young-boys-2026-05-03-17-30",
             "startTimestamp": 1777818600000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [Portugal Segunda liga] Portimonense vs Chaves [Sport TV1 PT]",
-            "matchstr": "Portimonense vs Chaves",
-            "time": "13:00",
-            "league": "Portugal Segunda liga",
-            "sport": "Football",
-            "team1": "Portimonense",
-            "team2": "Chaves",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/channel?id=21"
-                    ]
-                }
-            ],
-            "slug": "portugal-segunda-liga-football-portimonense-chaves-2026-05-03-13-00",
-            "startTimestamp": 1777802400000,
             "duration": 120
         },
         {
@@ -2057,34 +1929,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [Czech Republic 1. liga] Teplice vs Slovacko [Oneplay Sport CZ]",
-            "matchstr": "Teplice vs Slovacko",
-            "time": "14:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Teplice",
-            "team2": "Slovacko",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://l2l2.link/channel?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-teplice-slovacko-2026-05-03-14-00",
-            "startTimestamp": 1777806000000,
-            "duration": 120
-        },
-        {
             "matchText": "16:30 [Czech Republic 1. liga] Viktoria Plzen vs Hradec Kralove [Oneplay Sport CZ]",
             "matchstr": "Viktoria Plzen vs Hradec Kralove",
             "time": "16:30",
@@ -2138,34 +1982,6 @@
             ],
             "slug": "czech-republic-1-liga-football-sparta-praha-jablonec-2026-05-03-19-30",
             "startTimestamp": 1777825800000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:30 [Bulgaria Parva Liga] Arda vs Cherno More [Diema Sport BG]",
-            "matchstr": "Arda vs Cherno More",
-            "time": "13:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Arda",
-            "team2": "Cherno More",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://l2l2.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-arda-cherno-more-2026-05-03-13-30",
-            "startTimestamp": 1777804200000,
             "duration": 120
         },
         {
@@ -2278,34 +2094,6 @@
             ],
             "slug": "france-ligue-1-football-simulcast-2026-05-03-18-15",
             "startTimestamp": 1777821300000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:15 [Poland Ekstraklasa] Katowice vs Nieciecza [Canal+ Sport 3 PL]",
-            "matchstr": "Katowice vs Nieciecza",
-            "time": "13:15",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Katowice",
-            "team2": "Nieciecza",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://l2l2.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-katowice-nieciecza-2026-05-03-13-15",
-            "startTimestamp": 1777803300000,
             "duration": 120
         },
         {
@@ -2785,45 +2573,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:00 [Euro Tour] Hockey: Sweden vs Finland [SVT1 SE]",
-            "matchstr": "Sweden vs Finland",
-            "time": "13:00",
-            "league": "Euro Tour",
-            "sport": "Hockey",
-            "team1": "Sweden",
-            "team2": "Finland",
-            "channel": "SVT1 SE",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "SVT1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://l2l2.link/channel?id=76"
-                    ]
-                },
-                {
-                    "name": "TV5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "FI",
-                    "links": [
-                        "https://l2l2.link/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "euro-tour-hockey-sweden-finland-2026-05-03-13-00",
-            "startTimestamp": 1777802400000,
-            "duration": 180
-        },
-        {
             "matchText": "17:30 [Sweden Allsvenskan] GAIS vs Orgryte [TV4 Sportkanalen SE]",
             "matchstr": "GAIS vs Orgryte",
             "time": "17:30",
@@ -2877,34 +2626,6 @@
             ],
             "slug": "euro-tour-hockey-czech-switzerland-2026-05-03-17-00",
             "startTimestamp": 1777816800000,
-            "duration": 180
-        },
-        {
-            "matchText": "12:20 [AFL] Australian Football: Greater Western Sydney Giants vs Gold Coast Suns [Fox Sports 1 US]",
-            "matchstr": "Greater Western Sydney Giants vs Gold Coast Suns",
-            "time": "12:20",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Greater Western Sydney Giants",
-            "team2": "Gold Coast Suns",
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-greater-western-sydney-giants-gold-coast-suns-2026-05-03-12-20",
-            "startTimestamp": 1777800000000,
             "duration": 180
         },
         {
@@ -3045,34 +2766,6 @@
             ],
             "slug": "netherlands-eredivisie-football-sparta-rotterdam-go-ahead-eagles-2026-05-03-17-45",
             "startTimestamp": 1777819500000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:15 [Netherlands Eredivisie] Volendam vs Heerenveen [ESPN2 US]",
-            "matchstr": "Volendam vs Heerenveen",
-            "time": "13:15",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Volendam",
-            "team2": "Heerenveen",
-            "channel": "ESPN2 US",
-            "important": false,
-            "matchDate": "2026-05-03",
-            "channels": [
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=89"
-                    ],
-                    "number": 89,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=89"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-volendam-heerenveen-2026-05-03-13-15",
-            "startTimestamp": 1777803300000,
             "duration": 120
         },
         {
