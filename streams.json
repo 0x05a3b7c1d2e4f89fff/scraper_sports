@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:30 [NBA] Basketball: Toronto Raptors vs Cleveland Cavaliers [Sportsnet One]",
-            "matchstr": "Toronto Raptors vs Cleveland Cavaliers",
-            "time": "02:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Toronto Raptors",
-            "team2": "Cleveland Cavaliers",
-            "channel": "Sportsnet One",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "Sportsnet One",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": null,
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-toronto-raptors-cleveland-cavaliers-2026-05-04-02-30",
-            "startTimestamp": 1777851000000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [NBA] Basketball: Minnesota Timberwolves vs San Antonio Spurs [NBA Game Pass US]",
             "matchstr": "Minnesota Timberwolves vs San Antonio Spurs",
             "time": "23:00",
@@ -57,34 +29,6 @@
             "duration": 180
         },
         {
-            "matchText": "01:00 [NHL] Hockey: Montreal Canadiens vs Tampa Bay Lightning [TNT US]",
-            "matchstr": "Montreal Canadiens vs Tampa Bay Lightning",
-            "time": "01:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Montreal Canadiens",
-            "team2": "Tampa Bay Lightning",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-montreal-canadiens-tampa-bay-lightning-2026-05-04-01-00",
-            "startTimestamp": 1777845600000,
-            "duration": 180
-        },
-        {
             "matchText": "04:00 [NHL] Hockey: Minnesota Wild vs Colorado Avalanche [TNT US]",
             "matchstr": "Minnesota Wild vs Colorado Avalanche",
             "time": "04:00",
@@ -110,34 +54,6 @@
             ],
             "slug": "nhl-hockey-minnesota-wild-colorado-avalanche-2026-05-04-04-00",
             "startTimestamp": 1777856400000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:20 [MLB] Baseball: Texas Rangers vs Detroit Tigers [TSN3 CA]",
-            "matchstr": "Texas Rangers vs Detroit Tigers",
-            "time": "02:20",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Texas Rangers",
-            "team2": "Detroit Tigers",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-texas-rangers-detroit-tigers-2026-05-04-02-20",
-            "startTimestamp": 1777850400000,
             "duration": 180
         },
         {
@@ -227,45 +143,6 @@
             ],
             "slug": "spain-la-liga-football-sevilla-real-sociedad-2026-05-04-22-00",
             "startTimestamp": 1777921200000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [Brazil Brasileirao] Mirassol vs Corinthians [Premier Sports 2 GB]",
-            "matchstr": "Mirassol vs Corinthians",
-            "time": "02:30",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Mirassol",
-            "team2": "Corinthians",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "GB",
-                    "links": [
-                        "https://l2l2.link/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://l2l2.link/channel?id=22"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-mirassol-corinthians-2026-05-04-02-30",
-            "startTimestamp": 1777851000000,
             "duration": 120
         },
         {
@@ -642,62 +519,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Mexico Liga MX] America vs Pumas UNAM [TUDN ES]",
-            "matchstr": "America vs Pumas UNAM",
-            "time": "02:00",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "America",
-            "team2": "Pumas UNAM",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-america-pumas-unam-2026-05-04-02-00",
-            "startTimestamp": 1777849200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:15 [Mexico Liga MX] Toluca vs Pachuca [TUDN ES]",
-            "matchstr": "Toluca vs Pachuca",
-            "time": "04:15",
-            "league": "Mexico Liga MX",
-            "sport": "Football",
-            "team1": "Toluca",
-            "team2": "Pachuca",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=30"
-                    ]
-                }
-            ],
-            "slug": "mexico-liga-mx-football-toluca-pachuca-2026-05-04-04-15",
-            "startTimestamp": 1777857300000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Poland Ekstraklasa] Radomiak Radom vs Lechia Gdansk [Canal+ Sport 3 PL]",
             "matchstr": "Radomiak Radom vs Lechia Gdansk",
             "time": "20:00",
@@ -903,34 +724,6 @@
             ],
             "slug": "sweden-allsvenskan-football-djurgarden-ifk-goteborg-2026-05-04-20-00",
             "startTimestamp": 1777914000000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Canada Canadian Premier League] Pacific FC vs Vancouver FC [Fox Soccer Plus US]",
-            "matchstr": "Pacific FC vs Vancouver FC",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Pacific FC",
-            "team2": "Vancouver FC",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-pacific-fc-vancouver-fc-2026-05-04-02-00",
-            "startTimestamp": 1777849200000,
             "duration": 120
         },
         {
