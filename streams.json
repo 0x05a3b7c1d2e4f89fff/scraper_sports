@@ -29,34 +29,6 @@
             "duration": 180
         },
         {
-            "matchText": "04:00 [NHL] Hockey: Minnesota Wild vs Colorado Avalanche [TNT US]",
-            "matchstr": "Minnesota Wild vs Colorado Avalanche",
-            "time": "04:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Minnesota Wild",
-            "team2": "Colorado Avalanche",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-minnesota-wild-colorado-avalanche-2026-05-04-04-00",
-            "startTimestamp": 1777856400000,
-            "duration": 180
-        },
-        {
             "matchText": "19:30 [Scotland Scottish Premiership] Hearts vs Rangers [Sky Sports Football GB]",
             "matchstr": "Hearts vs Rangers",
             "time": "19:30",
