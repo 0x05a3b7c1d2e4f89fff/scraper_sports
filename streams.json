@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:00 [NBA] Basketball: Minnesota Timberwolves vs San Antonio Spurs [NBA Game Pass US]",
-            "matchstr": "Minnesota Timberwolves vs San Antonio Spurs",
-            "time": "23:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Minnesota Timberwolves",
-            "team2": "San Antonio Spurs",
-            "channel": "NBA Game Pass US",
-            "important": false,
-            "matchDate": "2026-05-04",
-            "channels": [
-                {
-                    "name": "NBA Game Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-minnesota-timberwolves-san-antonio-spurs-2026-05-04-23-00",
-            "startTimestamp": 1777924800000,
-            "duration": 180
-        },
-        {
             "matchText": "03:00 [NBA] Basketball: Philadelphia 76ers vs New York Knicks [NBA League Pass US]",
             "matchstr": "Philadelphia 76ers vs New York Knicks",
             "time": "03:00",
