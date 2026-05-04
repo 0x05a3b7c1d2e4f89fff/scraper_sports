@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Sevilla vs Real Sociedad
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/983c4b6b95ad68687266ff32a65b58a7/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Chelsea vs Nottingham Forest
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/8b32d9b86828db9817f4a70da988ca84/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Cremonese vs Lazio
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/7b2add8f6c990c9e43454caedce67487/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="General Sports",NASCAR Cup Series - Race
 https://w9329432hnf3h34.b-cdn.net/docx/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="Soccer",Everton vs Man City
-https://d1zot22wjrn782.cloudfront.net/3bcbcde8-fc0a-4fe6-8b44-1d9ab47d63c5/manifest.m3u8
