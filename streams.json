@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NBA] Basketball: Philadelphia 76ers vs New York Knicks [NBA League Pass US]",
-            "matchstr": "Philadelphia 76ers vs New York Knicks",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Philadelphia 76ers",
-            "team2": "New York Knicks",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-05-05",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-philadelphia-76ers-new-york-knicks-2026-05-05-03-00",
-            "startTimestamp": 1777939200000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Europe UEFA Champions League] Arsenal vs Atletico Madrid [Amazon Prime Video GB]",
             "matchstr": "Arsenal vs Atletico Madrid",
             "time": "22:00",
@@ -192,45 +164,6 @@
             ],
             "slug": "nba-basketball-minnesota-timberwolves-san-antonio-spurs-2026-05-05-04-30",
             "startTimestamp": 1777944600000,
-            "duration": 180
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Philadelphia Flyers vs Carolina Hurricanes [ESPN US]",
-            "matchstr": "Philadelphia Flyers vs Carolina Hurricanes",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Philadelphia Flyers",
-            "team2": "Carolina Hurricanes",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-05-05",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://l2l2.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://l2l2.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-philadelphia-flyers-carolina-hurricanes-2026-05-05-02-00",
-            "startTimestamp": 1777935600000,
             "duration": 180
         },
         {
@@ -689,62 +622,6 @@
             ],
             "slug": "saudi-arabia-pro-league-football-al-khaleej-al-hilal-2026-05-05-21-00",
             "startTimestamp": 1778004000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:15 [Argentina Primera Division] Velez Sarsfield vs Newell's Old Boys [TNT Sports Argentina ES]",
-            "matchstr": "Velez Sarsfield vs Newell's Old Boys",
-            "time": "01:15",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Velez Sarsfield",
-            "team2": "Newell's Old Boys",
-            "channel": "TNT Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-05-05",
-            "channels": [
-                {
-                    "name": "TNT Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-velez-sarsfield-newell-s-old-boys-2026-05-05-01-15",
-            "startTimestamp": 1777932900000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [Argentina Primera Division] Estudiantes Rio Cuarto vs Instituto [ESPN Premium Argentina ES]",
-            "matchstr": "Estudiantes Rio Cuarto vs Instituto",
-            "time": "03:30",
-            "league": "Argentina Primera Division",
-            "sport": "Football",
-            "team1": "Estudiantes Rio Cuarto",
-            "team2": "Instituto",
-            "channel": "ESPN Premium Argentina ES",
-            "important": false,
-            "matchDate": "2026-05-05",
-            "channels": [
-                {
-                    "name": "ESPN Premium Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://l2l2.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-primera-division-football-estudiantes-rio-cuarto-instituto-2026-05-05-03-30",
-            "startTimestamp": 1777941000000,
             "duration": 120
         },
         {
