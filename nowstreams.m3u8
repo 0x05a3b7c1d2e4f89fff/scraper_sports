@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-cf-montreal-chicago-fire-2026-05-16-23-30" group-title="USA/Canada Major League Soccer",CF Montreal vs Chicago Fire (MLS Season Pass)
-https://sansat.link/channel?id=6
-#EXTINF:-1 tvg-id="indycar-motorsport-indianapolis-500-2026-05-16-23-00" group-title="IndyCar",Indianapolis 500 (TSN2)
-https://sansat.link/channel?id=32
 #EXTINF:-1 tvg-id="ufc-mma-ufc-preliminary-2026-05-17-00-00" group-title="UFC",UFC: Preliminary (TNT Sports 1)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="ufc-mma-ufc-preliminary-2026-05-17-00-00" group-title="UFC",UFC: Preliminary (RMC Sport 1)
@@ -25,18 +21,14 @@ https://sansat.link/channel?id=30
 https://sansat.link/channel?id=2
 #EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-00-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (TVA Sports 2)
 https://sansat.link/channel?id=3
-#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-00-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ESPN)
-https://sansat.link/channel?id=5
 #EXTINF:-1 tvg-id="england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00" group-title="England Premier League",Brentford vs Crystal Palace (Sky Sports Football)
 https://sansat.link/channel?id=3
 #EXTINF:-1 tvg-id="england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00" group-title="England Premier League",Brentford vs Crystal Palace (Astro Premier League 2)
 https://sansat.link/channel?id=32
 #EXTINF:-1 tvg-id="england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00" group-title="England Premier League",Brentford vs Crystal Palace (Canal+ Foot)
 https://sansat.link/channel?id=50
-#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-03-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ABC)
+#EXTINF:-1 tvg-id="nhl-hockey-buffalo-sabres-montreal-canadiens-2026-05-17-03-00" group-title="NHL",Buffalo Sabres vs Montreal Canadiens (ABC)
 https://sansat.link/channel?id=4
-#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-03-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ESPN Deportes)
-https://sansat.link/channel?id=86
 #EXTINF:-1 tvg-id="england-premier-league-football-manchester-united-nottingham-forest-2026-05-17-14-30" group-title="England Premier League",Manchester United vs Nottingham Forest (Sky Sports Premier League)
 https://sansat.link/channel?id=4
 #EXTINF:-1 tvg-id="england-premier-league-football-manchester-united-nottingham-forest-2026-05-17-14-30" group-title="England Premier League",Manchester United vs Nottingham Forest (USA Network)
@@ -353,6 +345,8 @@ https://sansat.link/channel?id=84
 https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="argentina-primera-division-football-argentinos-juniors-belgrano-2026-05-17-23-00" group-title="Argentina Primera Division",Argentinos Juniors vs Belgrano (Argentina)
 https://sansat.link/channel?id=85
+#EXTINF:-1 tvg-id="nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-03-00" group-title="NHL",Anaheim Ducks vs Vegas Golden Knights (ESPN Deportes)
+https://sansat.link/channel?id=86
 #EXTINF:-1 tvg-id="netherlands-eredivisie-football-pec-zwolle-feyenoord-2026-05-17-15-30" group-title="Netherlands Eredivisie",PEC Zwolle vs Feyenoord (ESPN4)
 https://sansat.link/channel?id=88
 #EXTINF:-1 tvg-id="turkey-super-lig-football-kayserispor-konyaspor-2026-05-17-17-00" group-title="Turkey Super Lig",Kayserispor vs Konyaspor (beIN Sports 1)
