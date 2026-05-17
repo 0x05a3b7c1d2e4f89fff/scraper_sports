@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "00:00 [UFC] MMA: UFC: Preliminary [TNT Sports 1 GB]",
-            "matchstr": "UFC: Preliminary",
-            "time": "00:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "UFC: Preliminary",
-            "team2": null,
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=51"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-ufc-preliminary-2026-05-17-00-00",
-            "startTimestamp": 1778965200000,
-            "duration": 180
-        },
-        {
             "matchText": "05:30 [UFC] MMA: Melquizael Costa vs Arnold Allen [TNT Sports 1 GB]",
             "matchstr": "Melquizael Costa vs Arnold Allen",
             "time": "05:30",
@@ -118,34 +79,6 @@
             "duration": 180
         },
         {
-            "matchText": "01:00 [Brazil Brasileirao] Fluminense vs Sao Paulo [Premier Sports 2 GB]",
-            "matchstr": "Fluminense vs Sao Paulo",
-            "time": "01:00",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Fluminense",
-            "team2": "Sao Paulo",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-fluminense-sao-paulo-2026-05-17-01-00",
-            "startTimestamp": 1778968800000,
-            "duration": 120
-        },
-        {
             "matchText": "09:40 [MotoGP] Motorsport: Spanish Grand Prix [TNT Sports 2 GB]",
             "matchstr": "Spanish Grand Prix",
             "time": "09:40",
@@ -210,34 +143,6 @@
             ],
             "slug": "nba-basketball-cleveland-cavaliers-detroit-pistons-2026-05-17-20-00",
             "startTimestamp": 1779037200000,
-            "duration": 180
-        },
-        {
-            "matchText": "00:00 [NHL] Hockey: Anaheim Ducks vs Vegas Golden Knights [TVA Sports 2 CA]",
-            "matchstr": "Anaheim Ducks vs Vegas Golden Knights",
-            "time": "00:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Anaheim Ducks",
-            "team2": "Vegas Golden Knights",
-            "channel": "TVA Sports 2 CA",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TVA Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-anaheim-ducks-vegas-golden-knights-2026-05-17-00-00",
-            "startTimestamp": 1778965200000,
             "duration": 180
         },
         {
@@ -3697,34 +3602,6 @@
             "slug": "nrl-rugby-st-george-illawarra-dragons-penrith-panthers-2026-05-17-11-25",
             "startTimestamp": 1779006300000,
             "duration": 120
-        },
-        {
-            "matchText": "00:00 [UFC] MMA: Nicolle Caliari vs Shauna Bannon [Sportsnet 360 CA]",
-            "matchstr": "Nicolle Caliari vs Shauna Bannon",
-            "time": "00:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Nicolle Caliari",
-            "team2": "Shauna Bannon",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-nicolle-caliari-shauna-bannon-2026-05-17-00-00",
-            "startTimestamp": 1778965200000,
-            "duration": 180
         },
         {
             "matchText": "00:40 [UFC] MMA: Alice Ardelean vs Polyana Viana [Sportsnet 360 CA]",
