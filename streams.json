@@ -29,45 +29,6 @@
             "duration": 180
         },
         {
-            "matchText": "09:40 [MotoGP] Motorsport: Spanish Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Spanish Grand Prix",
-            "time": "09:40",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Spanish Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=30"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-spanish-grand-prix-2026-05-17-09-40",
-            "startTimestamp": 1779000000000,
-            "duration": 400
-        },
-        {
             "matchText": "20:00 [NBA] Basketball: Cleveland Cavaliers vs Detroit Pistons [NBA League Pass US]",
             "matchstr": "Cleveland Cavaliers vs Detroit Pistons",
             "time": "20:00",
@@ -132,78 +93,6 @@
             ],
             "slug": "england-premier-league-football-brentford-crystal-palace-2026-05-17-17-00",
             "startTimestamp": 1779026400000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [England Premier League] Manchester United vs Nottingham Forest [Sky Sports Premier League GB]",
-            "matchstr": "Manchester United vs Nottingham Forest",
-            "time": "14:30",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Manchester United",
-            "team2": "Nottingham Forest",
-            "channel": "Sky Sports Premier League GB",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sky Sports Premier League",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "USA Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=10"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Premier League",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                },
-                {
-                    "name": "Canal+ Foot",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=50"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-manchester-united-nottingham-forest-2026-05-17-14-30",
-            "startTimestamp": 1779017400000,
             "duration": 120
         },
         {
@@ -1229,45 +1118,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:20 [IIHF World Championship] Hockey: Great Britain vs USA [TSN1 CA]",
-            "matchstr": "Great Britain vs USA",
-            "time": "13:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Great Britain",
-            "team2": "USA",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-great-britain-usa-2026-05-17-13-20",
-            "startTimestamp": 1779013200000,
-            "duration": 180
-        },
-        {
             "matchText": "17:20 [IIHF World Championship] Hockey: Austria vs Hungary [TSN1 CA]",
             "matchstr": "Austria vs Hungary",
             "time": "17:20",
@@ -1304,56 +1154,6 @@
             ],
             "slug": "iihf-world-championship-hockey-austria-hungary-2026-05-17-17-20",
             "startTimestamp": 1779027600000,
-            "duration": 180
-        },
-        {
-            "matchText": "13:20 [IIHF World Championship] Hockey: Italy vs Slovakia [TSN3 CA]",
-            "matchstr": "Italy vs Slovakia",
-            "time": "13:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Italy",
-            "team2": "Slovakia",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=33"
-                    ]
-                },
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                },
-                {
-                    "name": "TV10",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-italy-slovakia-2026-05-17-13-20",
-            "startTimestamp": 1779013200000,
             "duration": 180
         },
         {
@@ -1394,56 +1194,6 @@
             "slug": "iihf-world-championship-hockey-denmark-sweden-2026-05-17-17-20",
             "startTimestamp": 1779027600000,
             "duration": 180
-        },
-        {
-            "matchText": "13:00 [Italy Serie A] Roma vs Lazio [beIN SPORTS 3 AU]",
-            "matchstr": "Roma vs Lazio",
-            "time": "13:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Roma",
-            "team2": "Lazio",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "AU",
-                    "links": [
-                        "https://sansat.link/channel?id=36"
-                    ]
-                },
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=44"
-                    ],
-                    "number": 44,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=44"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-roma-lazio-2026-05-17-13-00",
-            "startTimestamp": 1779012000000,
-            "duration": 120
         },
         {
             "matchText": "16:00 [Italy Serie A] Internazionale vs Verona [beIN SPORTS 3 AU]",
@@ -1758,34 +1508,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:00 [Italy Serie A] Como vs Parma [DAZN Zona IT]",
-            "matchstr": "Como vs Parma",
-            "time": "13:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Como",
-            "team2": "Parma",
-            "channel": "DAZN Zona IT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=45"
-                    ],
-                    "number": 45,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=45"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-como-parma-2026-05-17-13-00",
-            "startTimestamp": 1779012000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Spain La Liga] Elche vs Getafe [DAZN LaLiga 5 ES]",
             "matchstr": "Elche vs Getafe",
             "time": "20:00",
@@ -1811,34 +1533,6 @@
             ],
             "slug": "spain-la-liga-football-elche-getafe-2026-05-17-20-00",
             "startTimestamp": 1779037200000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [Italy Serie A] Genoa vs Milan [DAZN Zona IT]",
-            "matchstr": "Genoa vs Milan",
-            "time": "13:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Genoa",
-            "team2": "Milan",
-            "channel": "DAZN Zona IT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "DAZN Zona",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=46"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-genoa-milan-2026-05-17-13-00",
-            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -1870,34 +1564,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:00 [Italy Serie A] Juventus vs Fiorentina [DAZN IT]",
-            "matchstr": "Juventus vs Fiorentina",
-            "time": "13:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Juventus",
-            "team2": "Fiorentina",
-            "channel": "DAZN IT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=47"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-juventus-fiorentina-2026-05-17-13-00",
-            "startTimestamp": 1779012000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Sassuolo vs Lecce [Sky Sport Calcio IT]",
             "matchstr": "Sassuolo vs Lecce",
             "time": "21:45",
@@ -1923,34 +1589,6 @@
             ],
             "slug": "italy-serie-a-football-sassuolo-lecce-2026-05-17-21-45",
             "startTimestamp": 1779043500000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [Italy Serie A] Pisa vs Napoli [DAZN IT]",
-            "matchstr": "Pisa vs Napoli",
-            "time": "13:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Pisa",
-            "team2": "Napoli",
-            "channel": "DAZN IT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-pisa-napoli-2026-05-17-13-00",
-            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -2231,34 +1869,6 @@
             ],
             "slug": "france-ligue-1-football-brest-angers-sco-2026-05-17-22-00",
             "startTimestamp": 1779044400000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:15 [Poland Ekstraklasa] Piast Gliwice vs Rakow Czestochowa [Canal+ Sport 3 PL]",
-            "matchstr": "Piast Gliwice vs Rakow Czestochowa",
-            "time": "13:15",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Piast Gliwice",
-            "team2": "Rakow Czestochowa",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-piast-gliwice-rakow-czestochowa-2026-05-17-13-15",
-            "startTimestamp": 1779012900000,
             "duration": 120
         },
         {
@@ -2797,34 +2407,6 @@
             "slug": "sweden-allsvenskan-football-hammarby-malmo-ff-2026-05-17-15-00",
             "startTimestamp": 1779019200000,
             "duration": 120
-        },
-        {
-            "matchText": "11:15 [AFL] Australian Football: Greater Western Sydney Giants vs West Coast Eagles [Fox Sports 2 US]",
-            "matchstr": "Greater Western Sydney Giants vs West Coast Eagles",
-            "time": "11:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Greater Western Sydney Giants",
-            "team2": "West Coast Eagles",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-greater-western-sydney-giants-west-coast-eagles-2026-05-17-11-15",
-            "startTimestamp": 1779005700000,
-            "duration": 180
         },
         {
             "matchText": "23:00 [Argentina Primera Division] Argentinos Juniors vs Belgrano [TNT Sports Argentina ES]",
