@@ -363,34 +363,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Scotland Scottish Premiership] Livingston vs Kilmarnock [CBS Sports Network US]",
-            "matchstr": "Livingston vs Kilmarnock",
-            "time": "16:00",
-            "league": "Scotland Scottish Premiership",
-            "sport": "Football",
-            "team1": "Livingston",
-            "team2": "Kilmarnock",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "scotland-scottish-premiership-football-livingston-kilmarnock-2026-05-17-16-00",
-            "startTimestamp": 1779022800000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Spain La Liga] Simulcast [Now Sports 1 HK]",
             "matchstr": "Simulcast",
             "time": "20:00",
@@ -967,34 +939,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Spain Segunda Division] Deportivo La Coruna vs FC Andorra [LALIGA TV Hypermotion ES]",
-            "matchstr": "Deportivo La Coruna vs FC Andorra",
-            "time": "15:00",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Deportivo La Coruna",
-            "team2": "FC Andorra",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-deportivo-la-coruna-fc-andorra-2026-05-17-15-00",
-            "startTimestamp": 1779019200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:15 [Spain Segunda Division] Real Zaragoza vs Sporting Gijon [LALIGA TV Hypermotion ES]",
             "matchstr": "Real Zaragoza vs Sporting Gijon",
             "time": "22:15",
@@ -1194,56 +1138,6 @@
             "slug": "iihf-world-championship-hockey-denmark-sweden-2026-05-17-17-20",
             "startTimestamp": 1779027600000,
             "duration": 180
-        },
-        {
-            "matchText": "16:00 [Italy Serie A] Internazionale vs Verona [beIN SPORTS 3 AU]",
-            "matchstr": "Internazionale vs Verona",
-            "time": "16:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Internazionale",
-            "team2": "Verona",
-            "channel": "beIN SPORTS 3 AU",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "beIN SPORTS 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "AU",
-                    "links": [
-                        "https://sansat.link/channel?id=36"
-                    ]
-                },
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-internazionale-verona-2026-05-17-16-00",
-            "startTimestamp": 1779022800000,
-            "duration": 120
         },
         {
             "matchText": "19:00 [Italy Serie A] Atalanta vs Bologna [beIN SPORTS 3 AU]",
@@ -1872,34 +1766,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:45 [Poland Ekstraklasa] Katowice vs Jagiellonia Bia\u0142ystok [Canal+ Sport 3 PL]",
-            "matchstr": "Katowice vs Jagiellonia Bia\u0142ystok",
-            "time": "15:45",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Katowice",
-            "team2": "Jagiellonia Bia\u0142ystok",
-            "channel": "Canal+ Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-katowice-jagiellonia-bialystok-2026-05-17-15-45",
-            "startTimestamp": 1779021900000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [Poland Ekstraklasa] Lechia Gdansk vs Legia Warszawa [Canal+ Sport 3 PL]",
             "matchstr": "Lechia Gdansk vs Legia Warszawa",
             "time": "18:30",
@@ -1925,45 +1791,6 @@
             ],
             "slug": "poland-ekstraklasa-football-lechia-gdansk-legia-warszawa-2026-05-17-18-30",
             "startTimestamp": 1779031800000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [Netherlands Eredivisie] Heerenveen vs Ajax [Sportdigital FUSSBALL 2 DE]",
-            "matchstr": "Heerenveen vs Ajax",
-            "time": "15:30",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Heerenveen",
-            "team2": "Ajax",
-            "channel": "Sportdigital FUSSBALL 2 DE",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=62"
-                    ],
-                    "number": 62,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=62"
-                    ]
-                },
-                {
-                    "name": "ESPN 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=90"
-                    ],
-                    "number": 90,
-                    "language": "NL",
-                    "links": [
-                        "https://sansat.link/channel?id=90"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-heerenveen-ajax-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
             "duration": 120
         },
         {
@@ -1995,34 +1822,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Denmark Super Liga] K\u00f8benhavn vs Randers [TV3 Sport DK]",
-            "matchstr": "K\u00f8benhavn vs Randers",
-            "time": "15:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "K\u00f8benhavn",
-            "team2": "Randers",
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=64"
-                    ],
-                    "number": 64,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=64"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-kobenhavn-randers-2026-05-17-15-00",
-            "startTimestamp": 1779019200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Denmark Super Liga] S\u00f8nderjyskE vs Nordsj\u00e6lland [TV2 Sport DK]",
             "matchstr": "S\u00f8nderjyskE vs Nordsj\u00e6lland",
             "time": "19:00",
@@ -2048,34 +1847,6 @@
             ],
             "slug": "denmark-super-liga-football-sonderjyske-nordsjaelland-2026-05-17-19-00",
             "startTimestamp": 1779033600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Denmark Super Liga] Fredericia vs Silkeborg [TV2 Sport X DK]",
-            "matchstr": "Fredericia vs Silkeborg",
-            "time": "15:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "Fredericia",
-            "team2": "Silkeborg",
-            "channel": "TV2 Sport X DK",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TV2 Sport X",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=65"
-                    ],
-                    "number": 65,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=65"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-fredericia-silkeborg-2026-05-17-15-00",
-            "startTimestamp": 1779019200000,
             "duration": 120
         },
         {
@@ -2107,34 +1878,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Denmark Super Liga] OB vs Vejle [TV3+ DK]",
-            "matchstr": "OB vs Vejle",
-            "time": "15:00",
-            "league": "Denmark Super Liga",
-            "sport": "Football",
-            "team1": "OB",
-            "team2": "Vejle",
-            "channel": "TV3+ DK",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TV3+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "denmark-super-liga-football-ob-vejle-2026-05-17-15-00",
-            "startTimestamp": 1779019200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Denmark Super Liga] Midtjylland vs Br\u00f8ndby [TV3+ DK]",
             "matchstr": "Midtjylland vs Br\u00f8ndby",
             "time": "19:00",
@@ -2160,45 +1903,6 @@
             ],
             "slug": "denmark-super-liga-football-midtjylland-brondby-2026-05-17-19-00",
             "startTimestamp": 1779033600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [Netherlands Eredivisie] PSV vs Twente [Sportdigital FUSSBALL DE]",
-            "matchstr": "PSV vs Twente",
-            "time": "15:30",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "PSV",
-            "team2": "Twente",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=67"
-                    ]
-                },
-                {
-                    "name": "ESPN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=89"
-                    ],
-                    "number": 89,
-                    "language": "NL",
-                    "links": [
-                        "https://sansat.link/channel?id=89"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-psv-twente-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
             "duration": 120
         },
         {
@@ -2325,34 +2029,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Sweden Allsvenskan] Brommapojkarna vs Kalmar [TV4 Sport Live 2 SE]",
-            "matchstr": "Brommapojkarna vs Kalmar",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Brommapojkarna",
-            "team2": "Kalmar",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-brommapojkarna-kalmar-2026-05-17-15-00",
-            "startTimestamp": 1779019200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:30 [Sweden Allsvenskan] Mjallby vs Hacken [TV4 Sportkanalenl SE]",
             "matchstr": "Mjallby vs Hacken",
             "time": "17:30",
@@ -2381,34 +2057,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Sweden Allsvenskan] Hammarby vs Malmo FF [TV4 Fotball SE]",
-            "matchstr": "Hammarby vs Malmo FF",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Hammarby",
-            "team2": "Malmo FF",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-hammarby-malmo-ff-2026-05-17-15-00",
-            "startTimestamp": 1779019200000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [Argentina Primera Division] Argentinos Juniors vs Belgrano [TNT Sports Argentina ES]",
             "matchstr": "Argentinos Juniors vs Belgrano",
             "time": "23:00",
@@ -2434,34 +2082,6 @@
             ],
             "slug": "argentina-primera-division-football-argentinos-juniors-belgrano-2026-05-17-23-00",
             "startTimestamp": 1779048000000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [Netherlands Eredivisie] PEC Zwolle vs Feyenoord [ESPN4 NL]",
-            "matchstr": "PEC Zwolle vs Feyenoord",
-            "time": "15:30",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "PEC Zwolle",
-            "team2": "Feyenoord",
-            "channel": "ESPN4 NL",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "ESPN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://sansat.link/channel?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-pec-zwolle-feyenoord-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
             "duration": 120
         },
         {
@@ -2689,34 +2309,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:30 [Austria Bundesliga] Salzburg vs Hartberg [Sky Sport Austria 4 AT]",
-            "matchstr": "Salzburg vs Hartberg",
-            "time": "15:30",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Salzburg",
-            "team2": "Hartberg",
-            "channel": "Sky Sport Austria 4 AT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=97"
-                    ],
-                    "number": 97,
-                    "language": "AT",
-                    "links": [
-                        "https://sansat.link/channel?id=97"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-salzburg-hartberg-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Spain La Liga] Rayo Vallecano vs Villarreal [DAZN LaLiga 4 ES]",
             "matchstr": "Rayo Vallecano vs Villarreal",
             "time": "20:00",
@@ -2742,34 +2334,6 @@
             ],
             "slug": "spain-la-liga-football-rayo-vallecano-villarreal-2026-05-17-20-00",
             "startTimestamp": 1779037200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [Austria Bundesliga] Sturm Graz vs Rapid Wien [Sky Sport Austria 3 AT]",
-            "matchstr": "Sturm Graz vs Rapid Wien",
-            "time": "15:30",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Sturm Graz",
-            "team2": "Rapid Wien",
-            "channel": "Sky Sport Austria 3 AT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=98"
-                    ],
-                    "number": 98,
-                    "language": "AT",
-                    "links": [
-                        "https://sansat.link/channel?id=98"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-sturm-graz-rapid-wien-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
             "duration": 120
         },
         {
@@ -2801,34 +2365,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:30 [Austria Bundesliga] Austria Wien vs LASK Linz [Sky Sport Austria 2 AT]",
-            "matchstr": "Austria Wien vs LASK Linz",
-            "time": "15:30",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Austria Wien",
-            "team2": "LASK Linz",
-            "channel": "Sky Sport Austria 2 AT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "AT",
-                    "links": [
-                        "https://sansat.link/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-austria-wien-lask-linz-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Spain La Liga] Osasuna vs Espanyol [M. LaLiga 4 ES]",
             "matchstr": "Osasuna vs Espanyol",
             "time": "20:00",
@@ -2854,34 +2390,6 @@
             ],
             "slug": "spain-la-liga-football-osasuna-espanyol-2026-05-17-20-00",
             "startTimestamp": 1779037200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [Austria Bundesliga] Simulcast [Sky Sport Austria 1 AT]",
-            "matchstr": "Simulcast",
-            "time": "15:30",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://sansat.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-simulcast-2026-05-17-15-30",
-            "startTimestamp": 1779021000000,
             "duration": 120
         },
         {
