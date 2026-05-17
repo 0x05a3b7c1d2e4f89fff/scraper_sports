@@ -1396,9 +1396,9 @@
             "duration": 180
         },
         {
-            "matchText": "13:30 [Italy Serie A] Roma vs Lazio [beIN SPORTS 3 AU]",
+            "matchText": "13:00 [Italy Serie A] Roma vs Lazio [beIN SPORTS 3 AU]",
             "matchstr": "Roma vs Lazio",
-            "time": "13:30",
+            "time": "13:00",
             "league": "Italy Serie A",
             "sport": "Football",
             "team1": "Roma",
@@ -1441,8 +1441,8 @@
                     ]
                 }
             ],
-            "slug": "italy-serie-a-football-roma-lazio-2026-05-17-13-30",
-            "startTimestamp": 1779013800000,
+            "slug": "italy-serie-a-football-roma-lazio-2026-05-17-13-00",
+            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -1758,9 +1758,9 @@
             "duration": 120
         },
         {
-            "matchText": "13:30 [Italy Serie A] Como vs Parma [DAZN Zona IT]",
+            "matchText": "13:00 [Italy Serie A] Como vs Parma [DAZN Zona IT]",
             "matchstr": "Como vs Parma",
-            "time": "13:30",
+            "time": "13:00",
             "league": "Italy Serie A",
             "sport": "Football",
             "team1": "Como",
@@ -1781,8 +1781,8 @@
                     ]
                 }
             ],
-            "slug": "italy-serie-a-football-como-parma-2026-05-17-13-30",
-            "startTimestamp": 1779013800000,
+            "slug": "italy-serie-a-football-como-parma-2026-05-17-13-00",
+            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -1814,9 +1814,9 @@
             "duration": 120
         },
         {
-            "matchText": "13:30 [Italy Serie A] Genoa vs Milan [DAZN Zona IT]",
+            "matchText": "13:00 [Italy Serie A] Genoa vs Milan [DAZN Zona IT]",
             "matchstr": "Genoa vs Milan",
-            "time": "13:30",
+            "time": "13:00",
             "league": "Italy Serie A",
             "sport": "Football",
             "team1": "Genoa",
@@ -1837,8 +1837,8 @@
                     ]
                 }
             ],
-            "slug": "italy-serie-a-football-genoa-milan-2026-05-17-13-30",
-            "startTimestamp": 1779013800000,
+            "slug": "italy-serie-a-football-genoa-milan-2026-05-17-13-00",
+            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -1870,9 +1870,9 @@
             "duration": 120
         },
         {
-            "matchText": "13:30 [Italy Serie A] Juventus vs Fiorentina [DAZN IT]",
+            "matchText": "13:00 [Italy Serie A] Juventus vs Fiorentina [DAZN IT]",
             "matchstr": "Juventus vs Fiorentina",
-            "time": "13:30",
+            "time": "13:00",
             "league": "Italy Serie A",
             "sport": "Football",
             "team1": "Juventus",
@@ -1893,8 +1893,8 @@
                     ]
                 }
             ],
-            "slug": "italy-serie-a-football-juventus-fiorentina-2026-05-17-13-30",
-            "startTimestamp": 1779013800000,
+            "slug": "italy-serie-a-football-juventus-fiorentina-2026-05-17-13-00",
+            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -1926,9 +1926,9 @@
             "duration": 120
         },
         {
-            "matchText": "13:30 [Italy Serie A] Pisa vs Napoli [DAZN IT]",
+            "matchText": "13:00 [Italy Serie A] Pisa vs Napoli [DAZN IT]",
             "matchstr": "Pisa vs Napoli",
-            "time": "13:30",
+            "time": "13:00",
             "league": "Italy Serie A",
             "sport": "Football",
             "team1": "Pisa",
@@ -1949,8 +1949,8 @@
                     ]
                 }
             ],
-            "slug": "italy-serie-a-football-pisa-napoli-2026-05-17-13-30",
-            "startTimestamp": 1779013800000,
+            "slug": "italy-serie-a-football-pisa-napoli-2026-05-17-13-00",
+            "startTimestamp": 1779012000000,
             "duration": 120
         },
         {
@@ -2825,34 +2825,6 @@
             "slug": "afl-australian-football-greater-western-sydney-giants-west-coast-eagles-2026-05-17-11-15",
             "startTimestamp": 1779005700000,
             "duration": 180
-        },
-        {
-            "matchText": "11:25 [NRL] Rugby: St. George Illawarra Dragons vs Penrith Panthers [Fox Soccer Plus US]",
-            "matchstr": "St. George Illawarra Dragons vs Penrith Panthers",
-            "time": "11:25",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "St. George Illawarra Dragons",
-            "team2": "Penrith Panthers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-17",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-st-george-illawarra-dragons-penrith-panthers-2026-05-17-11-25",
-            "startTimestamp": 1779006300000,
-            "duration": 120
         },
         {
             "matchText": "23:00 [Argentina Primera Division] Argentinos Juniors vs Belgrano [TNT Sports Argentina ES]",
