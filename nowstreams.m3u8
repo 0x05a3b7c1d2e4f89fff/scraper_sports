@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="ufc-mma-melquizael-costa-arnold-allen-2026-05-17-05-30" group-title="UFC",Melquizael Costa vs Arnold Allen (TNT Sports 1)
-https://sansat.link/channel?id=1
-#EXTINF:-1 tvg-id="ufc-mma-melquizael-costa-arnold-allen-2026-05-17-05-30" group-title="UFC",Melquizael Costa vs Arnold Allen (RMC Sport 1)
-https://sansat.link/channel?id=51
 #EXTINF:-1 tvg-id="nba-basketball-minnesota-timberwolves-san-antonio-spurs-2026-05-17-20-00" group-title="NBA",Minnesota Timberwolves vs San Antonio Spurs (NBA League Pass)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="motogp-motorsport-spanish-grand-prix-2026-05-17-09-40" group-title="MotoGP",Spanish Grand Prix (TNT Sports 2)
@@ -29,8 +25,6 @@ https://sansat.link/channel?id=78
 https://sansat.link/channel?id=4
 #EXTINF:-1 tvg-id="england-premier-league-football-everton-sunderland-2026-05-17-17-00" group-title="England Premier League",Everton vs Sunderland (NBCSN)
 https://sansat.link/channel?id=9
-#EXTINF:-1 tvg-id="england-premier-league-football-everton-sunderland-2026-05-17-17-00" group-title="England Premier League",Everton vs Sunderland (V Sport 1)
-https://sansat.link/channel?id=69
 #EXTINF:-1 tvg-id="england-premier-league-football-newcastle-united-west-ham-united-2026-05-17-19-30" group-title="England Premier League",Newcastle United vs West Ham United (Sky Sports Premier League)
 https://sansat.link/channel?id=4
 #EXTINF:-1 tvg-id="england-premier-league-football-newcastle-united-west-ham-united-2026-05-17-19-30" group-title="England Premier League",Newcastle United vs West Ham United (USA Network)
@@ -179,14 +173,10 @@ https://sansat.link/channel?id=45
 https://sansat.link/channel?id=45
 #EXTINF:-1 tvg-id="italy-serie-a-football-genoa-milan-2026-05-17-13-30" group-title="Italy Serie A",Genoa vs Milan (DAZN Zona)
 https://sansat.link/channel?id=46
-#EXTINF:-1 tvg-id="italy-serie-a-football-genoa-milan-2026-05-17-13-30" group-title="Italy Serie A",Genoa vs Milan (Go3 Sport 3)
-https://sansat.link/channel?id=63
 #EXTINF:-1 tvg-id="italy-serie-a-football-cagliari-torino-2026-05-17-21-45" group-title="Italy Serie A",Cagliari vs Torino (DAZN Zona)
 https://sansat.link/channel?id=46
 #EXTINF:-1 tvg-id="italy-serie-a-football-juventus-fiorentina-2026-05-17-13-30" group-title="Italy Serie A",Juventus vs Fiorentina (DAZN)
 https://sansat.link/channel?id=47
-#EXTINF:-1 tvg-id="italy-serie-a-football-juventus-fiorentina-2026-05-17-13-30" group-title="Italy Serie A",Juventus vs Fiorentina (Go3 Sport Open)
-https://sansat.link/channel?id=62
 #EXTINF:-1 tvg-id="italy-serie-a-football-sassuolo-lecce-2026-05-17-21-45" group-title="Italy Serie A",Sassuolo vs Lecce (Sky Sport Calcio)
 https://sansat.link/channel?id=47
 #EXTINF:-1 tvg-id="italy-serie-a-football-pisa-napoli-2026-05-17-13-30" group-title="Italy Serie A",Pisa vs Napoli (DAZN)
@@ -255,15 +245,11 @@ https://sansat.link/channel?id=72
 https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-hammarby-malmo-ff-2026-05-17-15-00" group-title="Sweden Allsvenskan",Hammarby vs Malmo FF (TV4 Fotball)
 https://sansat.link/channel?id=75
-#EXTINF:-1 tvg-id="afl-australian-football-richmond-tigers-st-kilda-saints-2026-05-17-08-15" group-title="AFL",Richmond Tigers vs St. Kilda Saints (Fox Sports 2)
-https://sansat.link/channel?id=82
 #EXTINF:-1 tvg-id="afl-australian-football-greater-western-sydney-giants-west-coast-eagles-2026-05-17-11-15" group-title="AFL",Greater Western Sydney Giants vs West Coast Eagles (Fox Sports 2)
 https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="afl-australian-football-fremantle-dockers-essendon-bombers-2026-05-17-06-10" group-title="AFL",Fremantle Dockers vs Essendon Bombers (Fox Soccer Plus)
-https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="nrl-rugby-st-george-illawarra-dragons-penrith-panthers-2026-05-17-11-25" group-title="NRL",St. George Illawarra Dragons vs Penrith Panthers (Fox Soccer Plus)
 https://sansat.link/channel?id=83
-#EXTINF:-1 tvg-id="argentina-primera-division-football-argentinos-juniors-belgrano-2026-05-17-23-00" group-title="Argentina Primera Division",Argentinos Juniors vs Belgrano (Argentina)
+#EXTINF:-1 tvg-id="argentina-primera-division-football-argentinos-juniors-belgrano-2026-05-17-23-00" group-title="Argentina Primera Division",Argentinos Juniors vs Belgrano (TNT Sports Argentina)
 https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="netherlands-eredivisie-football-pec-zwolle-feyenoord-2026-05-17-15-30" group-title="Netherlands Eredivisie",PEC Zwolle vs Feyenoord (ESPN4)
 https://sansat.link/channel?id=88
@@ -297,3 +283,99 @@ https://sansat.link/channel?id=99
 https://sansat.link/channel?id=99
 #EXTINF:-1 tvg-id="austria-bundesliga-football-simulcast-2026-05-17-15-30" group-title="Austria Bundesliga",Simulcast (Sky Sport Austria 1)
 https://sansat.link/channel?id=100
+#EXTINF:-1 tvg-id="nba-basketball-cleveland-cavaliers-detroit-pistons-2026-05-18-03-00" group-title="NBA",Cleveland Cavaliers vs Detroit Pistons (ABC)
+https://sansat.link/channel?id=1
+#EXTINF:-1 tvg-id="nba-basketball-cleveland-cavaliers-detroit-pistons-2026-05-18-03-00" group-title="NBA",Cleveland Cavaliers vs Detroit Pistons (Sky Sport Mix)
+https://sansat.link/channel?id=14
+#EXTINF:-1 tvg-id="united-states-nwsl-football-portland-thorns-angel-city-2026-05-18-01-00" group-title="United States NWSL",Portland Thorns vs Angel City (ESPN2)
+https://sansat.link/channel?id=2
+#EXTINF:-1 tvg-id="united-states-nwsl-football-portland-thorns-angel-city-2026-05-18-01-00" group-title="United States NWSL",Portland Thorns vs Angel City (ESPN Deportes)
+https://sansat.link/channel?id=86
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Sky Sports Premier League)
+https://sansat.link/channel?id=4
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (USA Network)
+https://sansat.link/channel?id=10
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Sky Sports Premier League)
+https://sansat.link/channel?id=11
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Nova Sports Premier League)
+https://sansat.link/channel?id=25
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Universo)
+https://sansat.link/channel?id=30
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Sky Sport Calcio)
+https://sansat.link/channel?id=47
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (Canal+ Foot)
+https://sansat.link/channel?id=50
+#EXTINF:-1 tvg-id="england-premier-league-football-arsenal-burnley-2026-05-18-22-00" group-title="England Premier League",Arsenal vs Burnley (V Sport Premium)
+https://sansat.link/channel?id=78
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (ProSieben MAXX)
+https://sansat.link/channel?id=12
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (TSN4)
+https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (CT Sport)
+https://sansat.link/channel?id=41
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (MTV Urheilu 1)
+https://sansat.link/channel?id=70
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-usa-2026-05-18-17-20" group-title="IIHF World Championship",Finland vs USA (Viaplay Sport)
+https://sansat.link/channel?id=80
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-switzerland-2026-05-18-21-20" group-title="IIHF World Championship",Germany vs Switzerland (Magenta Sport)
+https://sansat.link/channel?id=13
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-switzerland-2026-05-18-21-20" group-title="IIHF World Championship",Germany vs Switzerland (TSN4)
+https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-germany-switzerland-2026-05-18-21-20" group-title="IIHF World Championship",Germany vs Switzerland (TV6)
+https://sansat.link/channel?id=76
+#EXTINF:-1 tvg-id="brazil-brasileirao-football-athletico-pr-flamengo-2026-05-18-01-30" group-title="Brazil Brasileirao",Athletico-PR vs Flamengo (Sportdigital FUSSBALL)
+https://sansat.link/channel?id=19
+#EXTINF:-1 tvg-id="spain-segunda-division-football-leganes-huesca-2026-05-18-21-30" group-title="Spain Segunda Division",Leganes vs Huesca (LALIGA TV Hypermotion)
+https://sansat.link/channel?id=26
+#EXTINF:-1 tvg-id="mexico-liga-mx-football-pumas-unam-pachuca-2026-05-18-04-00" group-title="Mexico Liga MX",Pumas UNAM vs Pachuca (TUDN)
+https://sansat.link/channel?id=30
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (TSN1)
+https://sansat.link/channel?id=31
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (V sport 1)
+https://sansat.link/channel?id=67
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (TV3 +)
+https://sansat.link/channel?id=69
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-denmark-2026-05-18-17-20" group-title="IIHF World Championship",Canada vs Denmark (TV10)
+https://sansat.link/channel?id=74
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (TSN1)
+https://sansat.link/channel?id=31
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (CT Sport)
+https://sansat.link/channel?id=41
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (V sport 1)
+https://sansat.link/channel?id=67
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-sweden-czech-republic-2026-05-18-21-20" group-title="IIHF World Championship",Sweden vs Czech Republic (Viaplay Sport)
+https://sansat.link/channel?id=80
+#EXTINF:-1 tvg-id="wnba-basketball-toronto-tempo-los-angeles-sparks-2026-05-18-02-00" group-title="WNBA",Toronto Tempo vs Los Angeles Sparks (TSN3)
+https://sansat.link/channel?id=33
+#EXTINF:-1 tvg-id="poland-ekstraklasa-football-arka-gdynia-nieciecza-2026-05-18-20-00" group-title="Poland Ekstraklasa",Arka Gdynia vs Nieciecza (beIN Sports)
+https://sansat.link/channel?id=39
+#EXTINF:-1 tvg-id="poland-ekstraklasa-football-arka-gdynia-nieciecza-2026-05-18-20-00" group-title="Poland Ekstraklasa",Arka Gdynia vs Nieciecza (Canal+ Sport 3)
+https://sansat.link/channel?id=60
+#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-lokomotiv-sofia-1929-slavia-sofia-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Lokomotiv Sofia 1929 vs Slavia Sofia (Nova Sport Bulgaria)
+https://sansat.link/channel?id=45
+#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-montana-spartak-varna-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Montana vs Spartak Varna (Diema Sport 3)
+https://sansat.link/channel?id=46
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-inter-miami-portland-timbers-2026-05-18-01-00" group-title="USA/Canada Major League Soccer",Inter Miami vs Portland Timbers (MAX Sport 4)
+https://sansat.link/channel?id=48
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-inter-miami-portland-timbers-2026-05-18-01-00" group-title="USA/Canada Major League Soccer",Inter Miami vs Portland Timbers (Sport 1)
+https://sansat.link/channel?id=65
+#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-beroe-septemvri-sofia-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Beroe vs Septemvri Sofia (Diema Sport)
+https://sansat.link/channel?id=48
+#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-dobrudzha-1919-botev-vratsa-2026-05-18-19-30" group-title="Bulgaria Parva Liga",Dobrudzha 1919 vs Botev Vratsa (Diema Sport 2)
+https://sansat.link/channel?id=49
+#EXTINF:-1 tvg-id="poland-i-liga-football-puszcza-niepolomice-lodzki-ks-2026-05-18-19-00" group-title="Poland I Liga",Puszcza Niepołomice vs Łodzki KS (TVP Sport)
+https://sansat.link/channel?id=61
+#EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-nashville-sc-los-angeles-fc-2026-05-18-03-00" group-title="USA/Canada Major League Soccer",Nashville SC vs Los Angeles FC (Sport 1)
+https://sansat.link/channel?id=65
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-djurgarden-sirius-2026-05-18-20-00" group-title="Sweden Allsvenskan",Djurgarden vs Sirius (TV4 Sport Live 1)
+https://sansat.link/channel?id=71
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-orgryte-ifk-goteborg-2026-05-18-20-00" group-title="Sweden Allsvenskan",Orgryte vs IFK Goteborg (TV4 Fotball)
+https://sansat.link/channel?id=72
+#EXTINF:-1 tvg-id="sweden-superettan-football-oddevold-orebro-2026-05-18-20-05" group-title="Sweden Superettan",Oddevold vs Orebro (TV12)
+https://sansat.link/channel?id=73
+#EXTINF:-1 tvg-id="indycar-motorsport-indianapolis-500-2026-05-18-20-00" group-title="IndyCar",Indianapolis 500 (Fox Sports 1)
+https://sansat.link/channel?id=81
+#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-pacific-fc-inter-toronto-2026-05-18-00-00" group-title="Canada Canadian Premier League",Pacific FC vs Inter Toronto (Fox Soccer Plus)
+https://sansat.link/channel?id=83
+#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-vancouver-fc-cavalry-2026-05-18-04-00" group-title="Canada Canadian Premier League",Vancouver FC vs Cavalry (Fox Soccer Plus)
+https://sansat.link/channel?id=83
