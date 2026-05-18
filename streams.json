@@ -245,297 +245,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:00 [Poland Ekstraklasa] Arka Gdynia vs Nieciecza [beIN Sports US]",
-            "matchstr": "Arka Gdynia vs Nieciecza",
-            "time": "20:00",
-            "league": "Poland Ekstraklasa",
-            "sport": "Football",
-            "team1": "Arka Gdynia",
-            "team2": "Nieciecza",
-            "channel": "beIN Sports US",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "beIN Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=39"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-ekstraklasa-football-arka-gdynia-nieciecza-2026-05-18-20-00",
-            "startTimestamp": 1779123600000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Bulgaria Parva Liga] Lokomotiv Sofia 1929 vs Slavia Sofia [Nova Sport Bulgaria BG]",
-            "matchstr": "Lokomotiv Sofia 1929 vs Slavia Sofia",
-            "time": "19:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Lokomotiv Sofia 1929",
-            "team2": "Slavia Sofia",
-            "channel": "Nova Sport Bulgaria BG",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "Nova Sport Bulgaria",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=45"
-                    ],
-                    "number": 45,
-                    "language": "BG",
-                    "links": [
-                        "https://sansat.link/channel?id=45"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-lokomotiv-sofia-1929-slavia-sofia-2026-05-18-19-30",
-            "startTimestamp": 1779121800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Bulgaria Parva Liga] Montana vs Spartak Varna [Diema Sport 3 BG]",
-            "matchstr": "Montana vs Spartak Varna",
-            "time": "19:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Montana",
-            "team2": "Spartak Varna",
-            "channel": "Diema Sport 3 BG",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "Diema Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=46"
-                    ],
-                    "number": 46,
-                    "language": "BG",
-                    "links": [
-                        "https://sansat.link/channel?id=46"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-montana-spartak-varna-2026-05-18-19-30",
-            "startTimestamp": 1779121800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Bulgaria Parva Liga] Beroe vs Septemvri Sofia [Diema Sport BG]",
-            "matchstr": "Beroe vs Septemvri Sofia",
-            "time": "19:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Beroe",
-            "team2": "Septemvri Sofia",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://sansat.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-beroe-septemvri-sofia-2026-05-18-19-30",
-            "startTimestamp": 1779121800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Bulgaria Parva Liga] Dobrudzha 1919 vs Botev Vratsa [Diema Sport 2 BG]",
-            "matchstr": "Dobrudzha 1919 vs Botev Vratsa",
-            "time": "19:30",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Dobrudzha 1919",
-            "team2": "Botev Vratsa",
-            "channel": "Diema Sport 2 BG",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "Diema Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BG",
-                    "links": [
-                        "https://sansat.link/channel?id=49"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-dobrudzha-1919-botev-vratsa-2026-05-18-19-30",
-            "startTimestamp": 1779121800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Poland I Liga] Puszcza Niepo\u0142omice vs \u0141odzki KS [TVP Sport PL]",
-            "matchstr": "Puszcza Niepo\u0142omice vs \u0141odzki KS",
-            "time": "19:00",
-            "league": "Poland I Liga",
-            "sport": "Football",
-            "team1": "Puszcza Niepo\u0142omice",
-            "team2": "\u0141odzki KS",
-            "channel": "TVP Sport PL",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=61"
-                    ],
-                    "number": 61,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=61"
-                    ]
-                }
-            ],
-            "slug": "poland-i-liga-football-puszcza-niepolomice-lodzki-ks-2026-05-18-19-00",
-            "startTimestamp": 1779120000000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Djurgarden vs Sirius [TV4 Sport Live 1 SE]",
-            "matchstr": "Djurgarden vs Sirius",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Djurgarden",
-            "team2": "Sirius",
-            "channel": "TV4 Sport Live 1 SE",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-djurgarden-sirius-2026-05-18-20-00",
-            "startTimestamp": 1779123600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Allsvenskan] Orgryte vs IFK Goteborg [TV4 Fotball SE]",
-            "matchstr": "Orgryte vs IFK Goteborg",
-            "time": "20:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Orgryte",
-            "team2": "IFK Goteborg",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-orgryte-ifk-goteborg-2026-05-18-20-00",
-            "startTimestamp": 1779123600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:05 [Sweden Superettan] Oddevold vs Orebro [TV12 SE]",
-            "matchstr": "Oddevold vs Orebro",
-            "time": "20:05",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Oddevold",
-            "team2": "Orebro",
-            "channel": "TV12 SE",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "TV12",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-oddevold-orebro-2026-05-18-20-05",
-            "startTimestamp": 1779123900000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [IndyCar] Motorsport: Indianapolis 500 [Fox Sports 1 US]",
-            "matchstr": "Indianapolis 500",
-            "time": "20:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Indianapolis 500",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-18",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-indianapolis-500-2026-05-18-20-00",
-            "startTimestamp": 1779123600000,
-            "duration": 120
-        },
-        {
             "matchText": "02:30 [NHL] Hockey: Montreal Canadiens vs Buffalo Sabres [ESPN US]",
             "matchstr": "Montreal Canadiens vs Buffalo Sabres",
             "time": "02:30",
@@ -1095,6 +804,976 @@
             ],
             "slug": "france-ligue-2-football-rouen-laval-2026-05-19-21-30",
             "startTimestamp": 1779215400000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NBA] Basketball: New York vs Cleveland [NBA Game Pass US]",
+            "matchstr": "New York vs Cleveland",
+            "time": "03:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "New York",
+            "team2": "Cleveland",
+            "channel": "NBA Game Pass US",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "NBA Game Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-new-york-cleveland-2026-05-20-03-00",
+            "startTimestamp": 1779235200000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:00 [Europe UEFA Europa League] Freiburg vs Aston Villa [TNT Sports 1 GB]",
+            "matchstr": "Freiburg vs Aston Villa",
+            "time": "22:00",
+            "league": "Europe UEFA Europa League",
+            "sport": "Football",
+            "team1": "Freiburg",
+            "team2": "Aston Villa",
+            "channel": "TNT Sports 1 GB",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TNT Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=8"
+                    ]
+                },
+                {
+                    "name": "RTL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Cosmote Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "GR",
+                    "links": [
+                        "https://sansat.link/channel?id=23"
+                    ]
+                },
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "Sky Sport Uno",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://sansat.link/channel?id=47"
+                    ]
+                },
+                {
+                    "name": "Canal+ Foot",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=50"
+                    ]
+                },
+                {
+                    "name": "Ziggo Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://sansat.link/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "TRT 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://sansat.link/channel?id=91"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-europa-league-football-freiburg-aston-villa-2026-05-20-22-00",
+            "startTimestamp": 1779303600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: USA vs Germany [Magenta Sport DE]",
+            "matchstr": "USA vs Germany",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "USA",
+            "team2": "Germany",
+            "channel": "Magenta Sport DE",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Magenta Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=12"
+                    ]
+                },
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=42"
+                    ]
+                },
+                {
+                    "name": "TV3 Max",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=69"
+                    ]
+                },
+                {
+                    "name": "V Sport Vinter",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-usa-germany-2026-05-20-21-20",
+            "startTimestamp": 1779301200000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:00 [Portugal Primeira Liga] Torreense vs Casa Pia [Sport TV1 PT]",
+            "matchstr": "Torreense vs Casa Pia",
+            "time": "20:00",
+            "league": "Portugal Primeira Liga",
+            "sport": "Football",
+            "team1": "Torreense",
+            "team2": "Casa Pia",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=21"
+                    ]
+                }
+            ],
+            "slug": "portugal-primeira-liga-football-torreense-casa-pia-2026-05-20-20-00",
+            "startTimestamp": 1779296400000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:00 [Argentina Copa Argentina] Talleres Cordoba vs Atletico Tucuman [Sport TV2 PT]",
+            "matchstr": "Talleres Cordoba vs Atletico Tucuman",
+            "time": "23:00",
+            "league": "Argentina Copa Argentina",
+            "sport": "Football",
+            "team1": "Talleres Cordoba",
+            "team2": "Atletico Tucuman",
+            "channel": "Sport TV2 PT",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Sport TV2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=22"
+                    ]
+                }
+            ],
+            "slug": "argentina-copa-argentina-football-talleres-cordoba-atletico-tucuman-2026-05-20-23-00",
+            "startTimestamp": 1779307200000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [South America Copa Sudamericana] Audax Italiano vs Barracas Central [beIN SPORTS XTRA en Espanol ES]",
+            "matchstr": "Audax Italiano vs Barracas Central",
+            "time": "01:00",
+            "league": "South America Copa Sudamericana",
+            "sport": "Football",
+            "team1": "Audax Italiano",
+            "team2": "Barracas Central",
+            "channel": "beIN SPORTS XTRA en Espanol ES",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS XTRA en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=27"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS XTRA",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=38"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-sudamericana-football-audax-italiano-barracas-central-2026-05-20-01-00",
+            "startTimestamp": 1779228000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [South America Copa Libertadores] Always Ready vs Mirassol [beIN SPORTS XTRA en Espanol ES]",
+            "matchstr": "Always Ready vs Mirassol",
+            "time": "03:00",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Always Ready",
+            "team2": "Mirassol",
+            "channel": "beIN SPORTS XTRA en Espanol ES",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS XTRA en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=27"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS XTRA",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=38"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-always-ready-mirassol-2026-05-20-03-00",
+            "startTimestamp": 1779235200000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [South America Copa Libertadores] Rosario Central vs UCV [beIN Sports 1 AU]",
+            "matchstr": "Rosario Central vs UCV",
+            "time": "01:00",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Rosario Central",
+            "team2": "UCV",
+            "channel": "beIN Sports 1 AU",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "AU",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-rosario-central-ucv-2026-05-20-01-00",
+            "startTimestamp": 1779228000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [South America Copa Libertadores] Independiente del Valle vs Libertad [beIN Sports 1 AU]",
+            "matchstr": "Independiente del Valle vs Libertad",
+            "time": "05:00",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Independiente del Valle",
+            "team2": "Libertad",
+            "channel": "beIN Sports 1 AU",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "AU",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-independiente-del-valle-libertad-2026-05-20-05-00",
+            "startTimestamp": 1779242400000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:20 [IIHF World Championship] Hockey: Czech Republic vs Italy [TSN1 CA]",
+            "matchstr": "Czech Republic vs Italy",
+            "time": "17:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Czech Republic",
+            "team2": "Italy",
+            "channel": "TSN1 CA",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=42"
+                    ]
+                },
+                {
+                    "name": "V Sport Vinter",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-czech-republic-italy-2026-05-20-17-20",
+            "startTimestamp": 1779286800000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: Sweden vs Slovenia [TSN1 CA]",
+            "matchstr": "Sweden vs Slovenia",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Sweden",
+            "team2": "Slovenia",
+            "channel": "TSN1 CA",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-sweden-slovenia-2026-05-20-21-20",
+            "startTimestamp": 1779301200000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:30 [South America Copa Sudamericana] Sao Paulo vs Millonarios [beIN SPORTS 2 AU]",
+            "matchstr": "Sao Paulo vs Millonarios",
+            "time": "03:30",
+            "league": "South America Copa Sudamericana",
+            "sport": "Football",
+            "team1": "Sao Paulo",
+            "team2": "Millonarios",
+            "channel": "beIN SPORTS 2 AU",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "AU",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-sudamericana-football-sao-paulo-millonarios-2026-05-20-03-30",
+            "startTimestamp": 1779237000000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [South America Copa Libertadores] Coquimbo Unido vs Deportes Tolima [beIN SPORTS 3 AU]",
+            "matchstr": "Coquimbo Unido vs Deportes Tolima",
+            "time": "01:00",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Coquimbo Unido",
+            "team2": "Deportes Tolima",
+            "channel": "beIN SPORTS 3 AU",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "AU",
+                    "links": [
+                        "https://sansat.link/channel?id=33"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-coquimbo-unido-deportes-tolima-2026-05-20-01-00",
+            "startTimestamp": 1779228000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [WNBA] Basketball: Toronto Tempo vs Phoenix Mercury [TSN4 CA]",
+            "matchstr": "Toronto Tempo vs Phoenix Mercury",
+            "time": "05:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Toronto Tempo",
+            "team2": "Phoenix Mercury",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-toronto-tempo-phoenix-mercury-2026-05-20-05-00",
+            "startTimestamp": 1779242400000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:20 [IIHF World Championship] Hockey: Austria vs Switzerland [TSN4 CA]",
+            "matchstr": "Austria vs Switzerland",
+            "time": "17:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Austria",
+            "team2": "Switzerland",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-austria-switzerland-2026-05-20-17-20",
+            "startTimestamp": 1779286800000,
+            "duration": 180
+        },
+        {
+            "matchText": "01:00 [South America Copa Sudamericana] Torque vs Deportivo Riestra [beIN Sports English 2 GB]",
+            "matchstr": "Torque vs Deportivo Riestra",
+            "time": "01:00",
+            "league": "South America Copa Sudamericana",
+            "sport": "Football",
+            "team1": "Torque",
+            "team2": "Deportivo Riestra",
+            "channel": "beIN Sports English 2 GB",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN Sports English 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=35"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-sudamericana-football-torque-deportivo-riestra-2026-05-20-01-00",
+            "startTimestamp": 1779228000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [South America Copa Sudamericana] Deportivo Cuenca vs Deportivo Recoleta [beIN Sports English 2 GB]",
+            "matchstr": "Deportivo Cuenca vs Deportivo Recoleta",
+            "time": "05:00",
+            "league": "South America Copa Sudamericana",
+            "sport": "Football",
+            "team1": "Deportivo Cuenca",
+            "team2": "Deportivo Recoleta",
+            "channel": "beIN Sports English 2 GB",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN Sports English 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=35"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-sudamericana-football-deportivo-cuenca-deportivo-recoleta-2026-05-20-05-00",
+            "startTimestamp": 1779242400000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [South America Copa Libertadores] Fluminense vs Bolivar [beIN SPORTS US]",
+            "matchstr": "Fluminense vs Bolivar",
+            "time": "01:00",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Fluminense",
+            "team2": "Bolivar",
+            "channel": "beIN SPORTS US",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=40"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-fluminense-bolivar-2026-05-20-01-00",
+            "startTimestamp": 1779228000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [South America Copa Libertadores] Boca Juniors vs Cruzeiro [beIN SPORTS US]",
+            "matchstr": "Boca Juniors vs Cruzeiro",
+            "time": "03:30",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Boca Juniors",
+            "team2": "Cruzeiro",
+            "channel": "beIN SPORTS US",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=40"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-boca-juniors-cruzeiro-2026-05-20-03-30",
+            "startTimestamp": 1779237000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [South America Copa Sudamericana] America de Cali vs Tigre [beIN SPORTS US]",
+            "matchstr": "America de Cali vs Tigre",
+            "time": "05:00",
+            "league": "South America Copa Sudamericana",
+            "sport": "Football",
+            "team1": "America de Cali",
+            "team2": "Tigre",
+            "channel": "beIN SPORTS US",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "beIN SPORTS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN SPORTS en Espanol",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=40"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-sudamericana-football-america-de-cali-tigre-2026-05-20-05-00",
+            "startTimestamp": 1779242400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Czech Republic Czech Cup] Jablonec vs Karvina [Oneplay Sport CZ]",
+            "matchstr": "Jablonec vs Karvina",
+            "time": "19:00",
+            "league": "Czech Republic Czech Cup",
+            "sport": "Football",
+            "team1": "Jablonec",
+            "team2": "Karvina",
+            "channel": "Oneplay Sport CZ",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Oneplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                }
+            ],
+            "slug": "czech-republic-czech-cup-football-jablonec-karvina-2026-05-20-19-00",
+            "startTimestamp": 1779292800000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Bulgaria Bulgarian Cup] Lokomotiv Plovdiv vs CSKA Sofia [Diema Sport BG]",
+            "matchstr": "Lokomotiv Plovdiv vs CSKA Sofia",
+            "time": "19:00",
+            "league": "Bulgaria Bulgarian Cup",
+            "sport": "Football",
+            "team1": "Lokomotiv Plovdiv",
+            "team2": "CSKA Sofia",
+            "channel": "Diema Sport BG",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Diema Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://sansat.link/channel?id=48"
+                    ]
+                }
+            ],
+            "slug": "bulgaria-bulgarian-cup-football-lokomotiv-plovdiv-cska-sofia-2026-05-20-19-00",
+            "startTimestamp": 1779292800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Norway Eliteserien] Aalesund vs Brann [TV2 Sport NO]",
+            "matchstr": "Aalesund vs Brann",
+            "time": "21:00",
+            "league": "Norway Eliteserien",
+            "sport": "Football",
+            "team1": "Aalesund",
+            "team2": "Brann",
+            "channel": "TV2 Sport NO",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TV2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "NO",
+                    "links": [
+                        "https://sansat.link/channel?id=67"
+                    ]
+                }
+            ],
+            "slug": "norway-eliteserien-football-aalesund-brann-2026-05-20-21-00",
+            "startTimestamp": 1779300000000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Allsvenskan] GAIS vs Hammarby [TV4 Fotball SE]",
+            "matchstr": "GAIS vs Hammarby",
+            "time": "20:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "GAIS",
+            "team2": "Hammarby",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-gais-hammarby-2026-05-20-20-00",
+            "startTimestamp": 1779296400000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [Saudi Arabia Pro League] Al Khaleej vs Al-Ahli [Fox Sports 2 US]",
+            "matchstr": "Al Khaleej vs Al-Ahli",
+            "time": "21:00",
+            "league": "Saudi Arabia Pro League",
+            "sport": "Football",
+            "team1": "Al Khaleej",
+            "team2": "Al-Ahli",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=82"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "saudi-arabia-pro-league-football-al-khaleej-al-ahli-2026-05-20-21-00",
+            "startTimestamp": 1779300000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [South America Copa Libertadores] Santa Fe vs Platense [Fox Sports 2 Argentina ES]",
+            "matchstr": "Santa Fe vs Platense",
+            "time": "03:00",
+            "league": "South America Copa Libertadores",
+            "sport": "Football",
+            "team1": "Santa Fe",
+            "team2": "Platense",
+            "channel": "Fox Sports 2 Argentina ES",
+            "important": false,
+            "matchDate": "2026-05-20",
+            "channels": [
+                {
+                    "name": "Fox Sports 2 Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "south-america-copa-libertadores-football-santa-fe-platense-2026-05-20-03-00",
+            "startTimestamp": 1779235200000,
             "duration": 120
         }
     ]
