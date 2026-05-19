@@ -1,84 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:30 [NHL] Hockey: Montreal Canadiens vs Buffalo Sabres [ESPN US]",
-            "matchstr": "Montreal Canadiens vs Buffalo Sabres",
-            "time": "02:30",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Montreal Canadiens",
-            "team2": "Buffalo Sabres",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-05-19",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-montreal-canadiens-buffalo-sabres-2026-05-19-02-30",
-            "startTimestamp": 1779147000000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:30 [NBA] Basketball: Oklahoma City Thunder vs San Antonio Spurs [NBA League Pass US]",
-            "matchstr": "Oklahoma City Thunder vs San Antonio Spurs",
-            "time": "03:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Oklahoma City Thunder",
-            "team2": "San Antonio Spurs",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-05-19",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-19-03-30",
-            "startTimestamp": 1779150600000,
-            "duration": 180
-        },
-        {
             "matchText": "22:15 [England Premier League] Chelsea vs Tottenham Hotspur [Sky Sports Premier League GB]",
             "matchstr": "Chelsea vs Tottenham Hotspur",
             "time": "22:15",
@@ -220,34 +142,6 @@
             ],
             "slug": "england-premier-league-football-afc-bournemouth-manchester-city-2026-05-19-21-30",
             "startTimestamp": 1779215400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [WNBA] Basketball: Dallas Wings vs Washington Mystics [Sky Top Event DE]",
-            "matchstr": "Dallas Wings vs Washington Mystics",
-            "time": "03:00",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Dallas Wings",
-            "team2": "Washington Mystics",
-            "channel": "Sky Top Event DE",
-            "important": false,
-            "matchDate": "2026-05-19",
-            "channels": [
-                {
-                    "name": "Sky Top Event",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-dallas-wings-washington-mystics-2026-05-19-03-00",
-            "startTimestamp": 1779148800000,
             "duration": 120
         },
         {
