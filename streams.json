@@ -676,34 +676,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:50 [NRL] Rugby: Dolphins vs Canberra Raiders [Fox Soccer Plus US]",
-            "matchstr": "Dolphins vs Canberra Raiders",
-            "time": "12:50",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Dolphins",
-            "team2": "Canberra Raiders",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-21",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-dolphins-canberra-raiders-2026-05-21-12-50",
-            "startTimestamp": 1779357000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Saudi Arabia Pro League] Al-Fayha vs Al Hilal [Fox Soccer Plus US]",
             "matchstr": "Al-Fayha vs Al Hilal",
             "time": "21:00",
