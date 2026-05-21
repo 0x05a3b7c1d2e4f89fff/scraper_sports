@@ -620,34 +620,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:30 [AFL] Australian Football: Adelaide Crows vs Hawthorn Hawks [Fox Sports 2 US]",
-            "matchstr": "Adelaide Crows vs Hawthorn Hawks",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Adelaide Crows",
-            "team2": "Hawthorn Hawks",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-21",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-adelaide-crows-hawthorn-hawks-2026-05-21-12-30",
-            "startTimestamp": 1779355800000,
-            "duration": 180
-        },
-        {
             "matchText": "21:00 [Saudi Arabia Pro League] Al Nassr vs Damac [Fox Sports 2 US]",
             "matchstr": "Al Nassr vs Damac",
             "time": "21:00",
