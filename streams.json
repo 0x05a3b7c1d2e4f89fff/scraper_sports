@@ -1,200 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:30 [Formula 1] Motorsport: Canadian Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Canadian Grand Prix",
-            "time": "23:30",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Canadian Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-05-22",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=12"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "[Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-canadian-grand-prix-2026-05-22-23-30",
-            "startTimestamp": 1779481800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:20 [IIHF World Championship] Hockey: Sweden vs Italy [TSN1 CA]",
-            "matchstr": "Sweden vs Italy",
-            "time": "21:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Sweden",
-            "team2": "Italy",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-05-22",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                },
-                {
-                    "name": "TV3 Max",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-sweden-italy-2026-05-22-21-20",
-            "startTimestamp": 1779474000000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:20 [IIHF World Championship] Hockey: Finland vs Great Britain [TSN4 CA]",
-            "matchstr": "Finland vs Great Britain",
-            "time": "21:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Finland",
-            "team2": "Great Britain",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-22",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "MTV Urheilu 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                },
-                {
-                    "name": "MTV3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                },
-                {
-                    "name": "TV6",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-finland-great-britain-2026-05-22-21-20",
-            "startTimestamp": 1779474000000,
-            "duration": 180
-        },
-        {
             "matchText": "03:30 [NBA] Basketball: Oklahoma City Thunder vs San Antonio Spurs [NBA League Pass US]",
             "matchstr": "Oklahoma City Thunder vs San Antonio Spurs",
             "time": "03:30",
@@ -1019,10 +825,10 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [World Friendly] Mexico vs Ghana [TUDN ES]",
+            "matchText": "05:00 [International World Friendly] Mexico vs Ghana [TUDN ES]",
             "matchstr": "Mexico vs Ghana",
             "time": "05:00",
-            "league": "World Friendly",
+            "league": "International World Friendly",
             "sport": "Football",
             "team1": "Mexico",
             "team2": "Ghana",
@@ -1053,7 +859,7 @@
                     ]
                 }
             ],
-            "slug": "world-friendly-football-mexico-ghana-2026-05-23-05-00",
+            "slug": "international-world-friendly-football-mexico-ghana-2026-05-23-05-00",
             "startTimestamp": 1779501600000,
             "duration": 120
         },
