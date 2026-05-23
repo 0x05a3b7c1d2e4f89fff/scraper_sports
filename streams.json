@@ -79,45 +79,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:30 [England Championship] Hull City vs Middlesbrough [Sky Sports Football GB]",
-            "matchstr": "Hull City vs Middlesbrough",
-            "time": "17:30",
-            "league": "England Championship",
-            "sport": "Football",
-            "team1": "Hull City",
-            "team2": "Middlesbrough",
-            "channel": "Sky Sports Football GB",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Sky Sports Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "england-championship-football-hull-city-middlesbrough-2026-05-23-17-30",
-            "startTimestamp": 1779546600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Germany DFB Pokal] Bayern Munchen vs Stuttgart [ESPNU US]",
             "matchstr": "Bayern Munchen vs Stuttgart",
             "time": "21:00",
@@ -813,56 +774,6 @@
             "duration": 180
         },
         {
-            "matchText": "16:45 [European Champions Cup] Rugby: Leinster v Bordeaux B\u00e8gles [ITV4 GB]",
-            "matchstr": "Leinster v Bordeaux B\u00e8gles",
-            "time": "16:45",
-            "league": "European Champions Cup",
-            "sport": "Rugby",
-            "team1": "Leinster v Bordeaux B\u00e8gles",
-            "team2": null,
-            "channel": "ITV4 GB",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "ITV4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=35"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=51"
-                    ]
-                }
-            ],
-            "slug": "european-champions-cup-rugby-leinster-v-bordeaux-begles-2026-05-23-16-45",
-            "startTimestamp": 1779543900000,
-            "duration": 120
-        },
-        {
             "matchText": "23:30 [USA/Canada Major League Soccer] Minnesota United vs Real Salt Lake [MLS Season Pass US]",
             "matchstr": "Minnesota United vs Real Salt Lake",
             "time": "23:30",
@@ -1271,118 +1182,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Finland Veikkausliiga] SJK vs Oulu [Ruutu FI]",
-            "matchstr": "SJK vs Oulu",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "SJK",
-            "team2": "Oulu",
-            "channel": "Ruutu FI",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Ruutu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-sjk-oulu-2026-05-23-17-00",
-            "startTimestamp": 1779544800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] KuPS vs Lahti [Ruutu FI]",
-            "matchstr": "KuPS vs Lahti",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "KuPS",
-            "team2": "Lahti",
-            "channel": "Ruutu FI",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Ruutu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-kups-lahti-2026-05-23-17-00",
-            "startTimestamp": 1779544800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Croatia 1. HNL] Varazdin vs Istra 1961 [MAX Sport HR]",
-            "matchstr": "Varazdin vs Istra 1961",
-            "time": "17:00",
-            "league": "Croatia 1. HNL",
-            "sport": "Football",
-            "team1": "Varazdin",
-            "team2": "Istra 1961",
-            "channel": "MAX Sport HR",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "MAX Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "HR",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "croatia-1-hnl-football-varazdin-istra-1961-2026-05-23-17-00",
-            "startTimestamp": 1779544800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Croatia 1. HNL] Rijeka vs Gorica [MAX Sport HR]",
-            "matchstr": "Rijeka vs Gorica",
-            "time": "17:00",
-            "league": "Croatia 1. HNL",
-            "sport": "Football",
-            "team1": "Rijeka",
-            "team2": "Gorica",
-            "channel": "MAX Sport HR",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "MAX Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                }
-            ],
-            "slug": "croatia-1-hnl-football-rijeka-gorica-2026-05-23-17-00",
-            "startTimestamp": 1779544800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:45 [Croatia 1. HNL] Dinamo Zagreb vs Lokomotiva Zagreb [MAX Sport 1 HR]",
             "matchstr": "Dinamo Zagreb vs Lokomotiva Zagreb",
             "time": "19:45",
@@ -1411,34 +1210,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Finland Veikkausliiga] Ilves vs Gnistan [Ruutu FI]",
-            "matchstr": "Ilves vs Gnistan",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Ilves",
-            "team2": "Gnistan",
-            "channel": "Ruutu FI",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Ruutu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-ilves-gnistan-2026-05-23-17-00",
-            "startTimestamp": 1779544800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain La Liga] Celta de Vigo vs Sevilla [TV4 Sport Live 2 SE]",
             "matchstr": "Celta de Vigo vs Sevilla",
             "time": "22:00",
@@ -1464,34 +1235,6 @@
             ],
             "slug": "spain-la-liga-football-celta-de-vigo-sevilla-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] Jaro vs Mariehamn [Ruutu FI]",
-            "matchstr": "Jaro vs Mariehamn",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Jaro",
-            "team2": "Mariehamn",
-            "channel": "Ruutu FI",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Ruutu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=74"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-jaro-mariehamn-2026-05-23-17-00",
-            "startTimestamp": 1779544800000,
             "duration": 120
         },
         {
