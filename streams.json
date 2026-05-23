@@ -635,34 +635,6 @@
             "duration": 120
         },
         {
-            "matchText": "06:00 [Australia Supercars Championship] Motorsport: Tyrepower Tasmania Super 440 [Sportdigital1+ DE]",
-            "matchstr": "Tyrepower Tasmania Super 440",
-            "time": "06:00",
-            "league": "Australia Supercars Championship",
-            "sport": "Motorsport",
-            "team1": "Tyrepower Tasmania Super 440",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "australia-supercars-championship-motorsport-tyrepower-tasmania-super-440-2026-05-23-06-00",
-            "startTimestamp": 1779505200000,
-            "duration": 120
-        },
-        {
             "matchText": "09:00 [Australia Supercars Championship] Motorsport: Tyrepower Tasmania Super 440 [Sportdigital1+ DE]",
             "matchstr": "Tyrepower Tasmania Super 440",
             "time": "09:00",
@@ -744,45 +716,6 @@
             ],
             "slug": "spain-la-liga-football-girona-elche-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [International World Friendly] Mexico vs Ghana [TUDN ES]",
-            "matchstr": "Mexico vs Ghana",
-            "time": "05:00",
-            "league": "International World Friendly",
-            "sport": "Football",
-            "team1": "Mexico",
-            "team2": "Ghana",
-            "channel": "TUDN ES",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "FOX Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "international-world-friendly-football-mexico-ghana-2026-05-23-05-00",
-            "startTimestamp": 1779501600000,
             "duration": 120
         },
         {
@@ -1847,34 +1780,6 @@
             "duration": 180
         },
         {
-            "matchText": "06:15 [AFL] Australian Football: Gold Coast Suns vs North Melbourne Kangaroos [Fox Soccer Plus US]",
-            "matchstr": "Gold Coast Suns vs North Melbourne Kangaroos",
-            "time": "06:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Gold Coast Suns",
-            "team2": "North Melbourne Kangaroos",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-gold-coast-suns-north-melbourne-kangaroos-2026-05-23-06-15",
-            "startTimestamp": 1779506100000,
-            "duration": 180
-        },
-        {
             "matchText": "09:35 [AFL] Australian Football: West Coast Eagles vs Collingwood Magpies [Fox Soccer Plus US]",
             "matchstr": "West Coast Eagles vs Collingwood Magpies",
             "time": "09:35",
@@ -1957,34 +1862,6 @@
             "slug": "canada-canadian-premier-league-football-hfx-wanderers-inter-toronto-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
             "duration": 120
-        },
-        {
-            "matchText": "04:00 [LFA] MMA: LFA 233 [ESPN Deportes ES]",
-            "matchstr": "LFA 233",
-            "time": "04:00",
-            "league": "LFA",
-            "sport": "MMA",
-            "team1": "LFA 233",
-            "team2": null,
-            "channel": "ESPN Deportes ES",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "lfa-mma-lfa-233-2026-05-23-04-00",
-            "startTimestamp": 1779498000000,
-            "duration": 180
         },
         {
             "matchText": "21:45 [USA/Canada Major League Soccer] St. Louis City vs Austin [FOX Deportes ES]",
