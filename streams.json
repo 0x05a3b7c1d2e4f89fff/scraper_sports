@@ -1,84 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:30 [NBA] Basketball: Oklahoma City Thunder vs San Antonio Spurs [NBA League Pass US]",
-            "matchstr": "Oklahoma City Thunder vs San Antonio Spurs",
-            "time": "03:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "Oklahoma City Thunder",
-            "team2": "San Antonio Spurs",
-            "channel": "NBA League Pass US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-23-03-30",
-            "startTimestamp": 1779496200000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [NHL] Hockey: Vegas Golden Knights vs Colorado Avalanche [ESPN US]",
-            "matchstr": "Vegas Golden Knights vs Colorado Avalanche",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Vegas Golden Knights",
-            "team2": "Colorado Avalanche",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-vegas-golden-knights-colorado-avalanche-2026-05-23-03-00",
-            "startTimestamp": 1779494400000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [Spain La Liga] Getafe vs Osasuna [Now Sports 3 HK]",
             "matchstr": "Getafe vs Osasuna",
             "time": "22:00",
@@ -1869,34 +1791,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [NASCAR Craftsman Truck Series] Motorsport: North Carolina Education Lottery 200 [Fox Sports 1 US]",
-            "matchstr": "North Carolina Education Lottery 200",
-            "time": "02:30",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Motorsport",
-            "team1": "North Carolina Education Lottery 200",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-motorsport-north-carolina-education-lottery-200-2026-05-23-02-30",
-            "startTimestamp": 1779492600000,
-            "duration": 120
-        },
-        {
             "matchText": "09:15 [AFL] Australian Football: Sydney Swans vs Geelong Cats [Fox Sports 2 US]",
             "matchstr": "Sydney Swans vs Geelong Cats",
             "time": "09:15",
@@ -2063,34 +1957,6 @@
             "slug": "canada-canadian-premier-league-football-hfx-wanderers-inter-toronto-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
             "duration": 120
-        },
-        {
-            "matchText": "02:30 [LFA] MMA: LFA 233 Prelims [ESPN Deportes ES]",
-            "matchstr": "LFA 233 Prelims",
-            "time": "02:30",
-            "league": "LFA",
-            "sport": "MMA",
-            "team1": "LFA 233 Prelims",
-            "team2": null,
-            "channel": "ESPN Deportes ES",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "lfa-mma-lfa-233-prelims-2026-05-23-02-30",
-            "startTimestamp": 1779492600000,
-            "duration": 180
         },
         {
             "matchText": "04:00 [LFA] MMA: LFA 233 [ESPN Deportes ES]",
