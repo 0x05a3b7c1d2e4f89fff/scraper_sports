@@ -557,34 +557,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:10 [Australia A-League] Auckland vs Sydney FC [Sportdigital FUSSBALL DE]",
-            "matchstr": "Auckland vs Sydney FC",
-            "time": "11:10",
-            "league": "Australia A-League",
-            "sport": "Football",
-            "team1": "Auckland",
-            "team2": "Sydney FC",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "australia-a-league-football-auckland-sydney-fc-2026-05-23-11-10",
-            "startTimestamp": 1779523800000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [Poland Ekstraklasa] Lech Poznan vs Wis\u0142a P\u0142ock [Sportdigital FUSSBALL DE]",
             "matchstr": "Lech Poznan vs Wis\u0142a P\u0142ock",
             "time": "18:30",
@@ -1735,34 +1707,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:00 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
-            "matchstr": "Royal Rally of Scandinavia",
-            "time": "12:00",
-            "league": "WRC",
-            "sport": "Football",
-            "team1": "Royal Rally of Scandinavia",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-23-12-00",
-            "startTimestamp": 1779526800000,
-            "duration": 120
-        },
-        {
             "matchText": "15:20 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
             "matchstr": "Royal Rally of Scandinavia",
             "time": "15:20",
@@ -1819,34 +1763,6 @@
             "duration": 120
         },
         {
-            "matchText": "09:15 [AFL] Australian Football: Sydney Swans vs Geelong Cats [Fox Sports 2 US]",
-            "matchstr": "Sydney Swans vs Geelong Cats",
-            "time": "09:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Sydney Swans",
-            "team2": "Geelong Cats",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-sydney-swans-geelong-cats-2026-05-23-09-15",
-            "startTimestamp": 1779516900000,
-            "duration": 180
-        },
-        {
             "matchText": "12:35 [AFL] Australian Football: Carlton Blues vs Port Adelaide Power [Fox Sports 2 US]",
             "matchstr": "Carlton Blues vs Port Adelaide Power",
             "time": "12:35",
@@ -1872,34 +1788,6 @@
             ],
             "slug": "afl-australian-football-carlton-blues-port-adelaide-power-2026-05-23-12-35",
             "startTimestamp": 1779528900000,
-            "duration": 180
-        },
-        {
-            "matchText": "09:35 [AFL] Australian Football: West Coast Eagles vs Collingwood Magpies [Fox Soccer Plus US]",
-            "matchstr": "West Coast Eagles vs Collingwood Magpies",
-            "time": "09:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "West Coast Eagles",
-            "team2": "Collingwood Magpies",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-west-coast-eagles-collingwood-magpies-2026-05-23-09-35",
-            "startTimestamp": 1779518100000,
             "duration": 180
         },
         {
@@ -4886,6 +4774,955 @@
             ],
             "slug": "nascar-euro-series-motorsport-nascar-gp-france-2026-05-24-15-30",
             "startTimestamp": 1779625800000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NBA] Basketball: Oklahoma City Thunder vs San Antonio Spurs [Sportsnet One CA]",
+            "matchstr": "Oklahoma City Thunder vs San Antonio Spurs",
+            "time": "03:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "Oklahoma City Thunder",
+            "team2": "San Antonio Spurs",
+            "channel": "Sportsnet One CA",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sportsnet One",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "Sky Top Event",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=12"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-25-03-00",
+            "startTimestamp": 1779667200000,
+            "duration": 180
+        },
+        {
+            "matchText": "01:00 [WNBA] Basketball: Washington Mystics vs Seattle Storm [ABC US]",
+            "matchstr": "Washington Mystics vs Seattle Storm",
+            "time": "01:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Washington Mystics",
+            "team2": "Seattle Storm",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=2"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-washington-mystics-seattle-storm-2026-05-25-01-00",
+            "startTimestamp": 1779660000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NHL] Hockey: Colorado Avalanche vs Vegas Golden Knights [ESPN US]",
+            "matchstr": "Colorado Avalanche vs Vegas Golden Knights",
+            "time": "03:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Colorado Avalanche",
+            "team2": "Vegas Golden Knights",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=3"
+                    ]
+                },
+                {
+                    "name": "V Sport Vinter",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-colorado-avalanche-vegas-golden-knights-2026-05-25-03-00",
+            "startTimestamp": 1779667200000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:00 [England League Two] Notts County vs Salford City [Sky Sports Football GB]",
+            "matchstr": "Notts County vs Salford City",
+            "time": "17:00",
+            "league": "England League Two",
+            "sport": "Football",
+            "team1": "Notts County",
+            "team2": "Salford City",
+            "channel": "Sky Sports Football GB",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sky Sports Football",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=4"
+                    ]
+                },
+                {
+                    "name": "CBS Sports Golazo Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=9"
+                    ]
+                }
+            ],
+            "slug": "england-league-two-football-notts-county-salford-city-2026-05-25-17-00",
+            "startTimestamp": 1779717600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [UFL] American Football: St. Louis Battlehawks vs Houston Roughnecks [ESPN2 US]",
+            "matchstr": "St. Louis Battlehawks vs Houston Roughnecks",
+            "time": "02:00",
+            "league": "UFL",
+            "sport": "American Football",
+            "team1": "St. Louis Battlehawks",
+            "team2": "Houston Roughnecks",
+            "channel": "ESPN2 US",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "ESPN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=5"
+                    ],
+                    "number": 5,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=5"
+                    ]
+                }
+            ],
+            "slug": "ufl-american-football-st-louis-battlehawks-houston-roughnecks-2026-05-25-02-00",
+            "startTimestamp": 1779663600000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [Mexico Liga MX] Pumas UNAM vs Cruz Azul [CBS Sports Network US]",
+            "matchstr": "Pumas UNAM vs Cruz Azul",
+            "time": "04:00",
+            "league": "Mexico Liga MX",
+            "sport": "Football",
+            "team1": "Pumas UNAM",
+            "team2": "Cruz Azul",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=8"
+                    ]
+                },
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=30"
+                    ]
+                }
+            ],
+            "slug": "mexico-liga-mx-football-pumas-unam-cruz-azul-2026-05-25-04-00",
+            "startTimestamp": 1779670800000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Scotland Scottish Premiership] St. Mirren vs Partick Thistle [CBS Sports Golazo Network US]",
+            "matchstr": "St. Mirren vs Partick Thistle",
+            "time": "22:00",
+            "league": "Scotland Scottish Premiership",
+            "sport": "Football",
+            "team1": "St. Mirren",
+            "team2": "Partick Thistle",
+            "channel": "CBS Sports Golazo Network US",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "CBS Sports Golazo Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "Sportdigital FUSSBALL 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "scotland-scottish-premiership-football-st-mirren-partick-thistle-2026-05-25-22-00",
+            "startTimestamp": 1779735600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:30 [Germany Bundesliga] Paderborn vs Wolfsburg [Sky Sport Bundesliga 1 DE]",
+            "matchstr": "Paderborn vs Wolfsburg",
+            "time": "21:30",
+            "league": "Germany Bundesliga",
+            "sport": "Football",
+            "team1": "Paderborn",
+            "team2": "Wolfsburg",
+            "channel": "Sky Sport Bundesliga 1 DE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=51"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-football-paderborn-wolfsburg-2026-05-25-21-30",
+            "startTimestamp": 1779733800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: Germany vs Great Britain [Magenta Sport DE]",
+            "matchstr": "Germany vs Great Britain",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Germany",
+            "team2": "Great Britain",
+            "channel": "Magenta Sport DE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Magenta Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=13"
+                    ],
+                    "number": 13,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=13"
+                    ]
+                },
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "TV10",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-germany-great-britain-2026-05-25-21-20",
+            "startTimestamp": 1779733200000,
+            "duration": 180
+        },
+        {
+            "matchText": "00:30 [Brazil Brasileirao] Corinthians vs Atletico Mineiro [Sportdigital FUSSBALL DE]",
+            "matchstr": "Corinthians vs Atletico Mineiro",
+            "time": "00:30",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Corinthians",
+            "team2": "Atletico Mineiro",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-corinthians-atletico-mineiro-2026-05-25-00-30",
+            "startTimestamp": 1779658200000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Europe UEFA U17 European Championship] Croatia U17 vs Belgium U17 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Croatia U17 vs Belgium U17",
+            "time": "14:30",
+            "league": "Europe UEFA U17 European Championship",
+            "sport": "Football",
+            "team1": "Croatia U17",
+            "team2": "Belgium U17",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-european-championship-football-croatia-u17-belgium-u17-2026-05-25-14-30",
+            "startTimestamp": 1779708600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA U17 European Championship] Estonia U17 vs Spain U17 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Estonia U17 vs Spain U17",
+            "time": "20:00",
+            "league": "Europe UEFA U17 European Championship",
+            "sport": "Football",
+            "team1": "Estonia U17",
+            "team2": "Spain U17",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-european-championship-football-estonia-u17-spain-u17-2026-05-25-20-00",
+            "startTimestamp": 1779728400000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [NASCAR Cup Series] Motorsport: Coca vs Cola 600 [Sportdigital1+ DE]",
+            "matchstr": "Coca vs Cola 600",
+            "time": "01:00",
+            "league": "NASCAR Cup Series",
+            "sport": "Motorsport",
+            "team1": "Coca",
+            "team2": "Cola 600",
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "nascar-cup-series-motorsport-coca-cola-600-2026-05-25-01-00",
+            "startTimestamp": 1779660000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:20 [IIHF World Championship] Hockey: Czech Republic vs Norway [TSN2 CA]",
+            "matchstr": "Czech Republic vs Norway",
+            "time": "17:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Czech Republic",
+            "team2": "Norway",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-czech-republic-norway-2026-05-25-17-20",
+            "startTimestamp": 1779718800000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: Slovenia vs Italy [TSN2 CA]",
+            "matchstr": "Slovenia vs Italy",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Slovenia",
+            "team2": "Italy",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-slovenia-italy-2026-05-25-21-20",
+            "startTimestamp": 1779733200000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:20 [IIHF World Championship] Hockey: USA vs Hungary [TSN4 CA]",
+            "matchstr": "USA vs Hungary",
+            "time": "17:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "USA",
+            "team2": "Hungary",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "TV10",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-usa-hungary-2026-05-25-17-20",
+            "startTimestamp": 1779718800000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:00 [USA/Canada Major League Soccer] Los Angeles FC vs Seattle Sounders FC [TSN5 CA]",
+            "matchstr": "Los Angeles FC vs Seattle Sounders FC",
+            "time": "04:00",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Los Angeles FC",
+            "team2": "Seattle Sounders FC",
+            "channel": "TSN5 CA",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TSN5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=35"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-los-angeles-fc-seattle-sounders-fc-2026-05-25-04-00",
+            "startTimestamp": 1779670800000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:45 [Bulgaria Parva Liga] Lokomotiv Plovdiv vs Botev Plovdiv [Diema Sport BG]",
+            "matchstr": "Lokomotiv Plovdiv vs Botev Plovdiv",
+            "time": "17:45",
+            "league": "Bulgaria Parva Liga",
+            "sport": "Football",
+            "team1": "Lokomotiv Plovdiv",
+            "team2": "Botev Plovdiv",
+            "channel": "Diema Sport BG",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Diema Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://sansat.link/channel?id=48"
+                    ]
+                }
+            ],
+            "slug": "bulgaria-parva-liga-football-lokomotiv-plovdiv-botev-plovdiv-2026-05-25-17-45",
+            "startTimestamp": 1779720300000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [Bulgaria Parva Liga] Ludogorets vs CSKA Sofia [Diema Sport BG]",
+            "matchstr": "Ludogorets vs CSKA Sofia",
+            "time": "20:30",
+            "league": "Bulgaria Parva Liga",
+            "sport": "Football",
+            "team1": "Ludogorets",
+            "team2": "CSKA Sofia",
+            "channel": "Diema Sport BG",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Diema Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://sansat.link/channel?id=48"
+                    ]
+                }
+            ],
+            "slug": "bulgaria-parva-liga-football-ludogorets-cska-sofia-2026-05-25-20-30",
+            "startTimestamp": 1779730200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:45 [Bulgaria Parva Liga] Cherno More vs Arda [Diema Sport 2 BG]",
+            "matchstr": "Cherno More vs Arda",
+            "time": "17:45",
+            "league": "Bulgaria Parva Liga",
+            "sport": "Football",
+            "team1": "Cherno More",
+            "team2": "Arda",
+            "channel": "Diema Sport 2 BG",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Diema Sport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BG",
+                    "links": [
+                        "https://sansat.link/channel?id=49"
+                    ]
+                }
+            ],
+            "slug": "bulgaria-parva-liga-football-cherno-more-arda-2026-05-25-17-45",
+            "startTimestamp": 1779720300000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [Bulgaria Parva Liga] CSKA 1948 vs Levski Sofia [Diema Sport 2 BG]",
+            "matchstr": "CSKA 1948 vs Levski Sofia",
+            "time": "20:30",
+            "league": "Bulgaria Parva Liga",
+            "sport": "Football",
+            "team1": "CSKA 1948",
+            "team2": "Levski Sofia",
+            "channel": "Diema Sport 2 BG",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Diema Sport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BG",
+                    "links": [
+                        "https://sansat.link/channel?id=49"
+                    ]
+                }
+            ],
+            "slug": "bulgaria-parva-liga-football-cska-1948-levski-sofia-2026-05-25-20-30",
+            "startTimestamp": 1779730200000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:00 [USA/Canada Major League Soccer] Columbus Crew vs Atlanta United [Sport 2 IL]",
+            "matchstr": "Columbus Crew vs Atlanta United",
+            "time": "00:00",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Columbus Crew",
+            "team2": "Atlanta United",
+            "channel": "Sport 2 IL",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "IL",
+                    "links": [
+                        "https://sansat.link/channel?id=62"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-columbus-crew-atlanta-united-2026-05-25-00-00",
+            "startTimestamp": 1779656400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Allsvenskan] IFK Goteborg vs Mjallby [TV4 Fotball SE]",
+            "matchstr": "IFK Goteborg vs Mjallby",
+            "time": "20:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "IFK Goteborg",
+            "team2": "Mjallby",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-ifk-goteborg-mjallby-2026-05-25-20-00",
+            "startTimestamp": 1779728400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Allsvenskan] Elfsborg vs Hacken [TV4 Sportkanalen SE]",
+            "matchstr": "Elfsborg vs Hacken",
+            "time": "20:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Elfsborg",
+            "team2": "Hacken",
+            "channel": "TV4 Sportkanalen SE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-elfsborg-hacken-2026-05-25-20-00",
+            "startTimestamp": 1779728400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:05 [Sweden Allsvenskan] Sweden vs Superettan [TV12 SE]",
+            "matchstr": "Sweden vs Superettan",
+            "time": "20:05",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Sweden",
+            "team2": "Superettan",
+            "channel": "TV12 SE",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "TV12",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-sweden-superettan-2026-05-25-20-05",
+            "startTimestamp": 1779728700000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:00 [Canada Canadian Premier League] Cavalry vs Pacific FC [Fox Sports 2 US]",
+            "matchstr": "Cavalry vs Pacific FC",
+            "time": "00:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Cavalry",
+            "team2": "Pacific FC",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-cavalry-pacific-fc-2026-05-25-00-00",
+            "startTimestamp": 1779656400000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [USA/Canada Major League Soccer] Inter Miami vs Philadelphia Union [FOX Deportes ES]",
+            "matchstr": "Inter Miami vs Philadelphia Union",
+            "time": "02:00",
+            "league": "USA/Canada Major League Soccer",
+            "sport": "Football",
+            "team1": "Inter Miami",
+            "team2": "Philadelphia Union",
+            "channel": "FOX Deportes ES",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "FOX Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "usa-canada-major-league-soccer-football-inter-miami-philadelphia-union-2026-05-25-02-00",
+            "startTimestamp": 1779663600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Austria Bundesliga] Rapid Wien vs Ried [Sky Sport Austria 1 AT]",
+            "matchstr": "Rapid Wien vs Ried",
+            "time": "18:00",
+            "league": "Austria Bundesliga",
+            "sport": "Football",
+            "team1": "Rapid Wien",
+            "team2": "Ried",
+            "channel": "Sky Sport Austria 1 AT",
+            "important": false,
+            "matchDate": "2026-05-25",
+            "channels": [
+                {
+                    "name": "Sky Sport Austria 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "AT",
+                    "links": [
+                        "https://sansat.link/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "austria-bundesliga-football-rapid-wien-ried-2026-05-25-18-00",
+            "startTimestamp": 1779721200000,
             "duration": 120
         }
     ]
