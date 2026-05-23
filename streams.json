@@ -118,14 +118,14 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Germany DFB Pokal] Bayern Munchen vs Stuttgart [ESPNU EN]",
+            "matchText": "21:00 [Germany DFB Pokal] Bayern Munchen vs Stuttgart [ESPNU US]",
             "matchstr": "Bayern Munchen vs Stuttgart",
             "time": "21:00",
             "league": "Germany DFB Pokal",
             "sport": "Football",
             "team1": "Bayern Munchen",
             "team2": "Stuttgart",
-            "channel": "ESPNU EN",
+            "channel": "ESPNU US",
             "important": false,
             "matchDate": "2026-05-23",
             "channels": [
@@ -135,7 +135,7 @@
                         "https://nrdrse.link/ch.php?id=5"
                     ],
                     "number": 5,
-                    "language": "EN",
+                    "language": "US",
                     "links": [
                         "https://sansat.link/channel?id=5"
                     ]
@@ -190,12 +190,12 @@
             "duration": 120
         },
         {
-            "matchText": "22:00 [Spain La Liga] Simulcasr [Now Sports 2 HK]",
-            "matchstr": "Simulcasr",
+            "matchText": "22:00 [Spain La Liga] Simulcast [Now Sports 2 HK]",
+            "matchstr": "Simulcast",
             "time": "22:00",
             "league": "Spain La Liga",
             "sport": "Football",
-            "team1": "Simulcasr",
+            "team1": "Simulcast",
             "team2": null,
             "channel": "Now Sports 2 HK",
             "important": false,
@@ -213,7 +213,7 @@
                     ]
                 }
             ],
-            "slug": "spain-la-liga-football-simulcasr-2026-05-23-22-00",
+            "slug": "spain-la-liga-football-simulcast-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
             "duration": 120
         },
@@ -376,34 +376,6 @@
             ],
             "slug": "europe-uefa-women-s-champions-league-football-barcelona-ol-lyonnes-2026-05-23-19-00",
             "startTimestamp": 1779552000000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:15 [DTM] Motorsport: Zandvoort [Pro Sieben DE]",
-            "matchstr": "Zandvoort",
-            "time": "14:15",
-            "league": "DTM",
-            "sport": "Motorsport",
-            "team1": "Zandvoort",
-            "team2": null,
-            "channel": "Pro Sieben DE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Pro Sieben",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "dtm-motorsport-zandvoort-2026-05-23-14-15",
-            "startTimestamp": 1779534900000,
             "duration": 120
         },
         {
@@ -730,56 +702,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:20 [IIHF World Championship] Hockey: Denmark vs Slovenia [TSN1 CA]",
-            "matchstr": "Denmark vs Slovenia",
-            "time": "13:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Denmark",
-            "team2": "Slovenia",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "V sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "NO",
-                    "links": [
-                        "https://sansat.link/channel?id=68"
-                    ]
-                },
-                {
-                    "name": "Viasat Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-denmark-slovenia-2026-05-23-13-20",
-            "startTimestamp": 1779531600000,
-            "duration": 180
-        },
-        {
             "matchText": "17:20 [IIHF World Championship] Hockey: Slovakia vs Czech Republic [TSN1 CA]",
             "matchstr": "Slovakia vs Czech Republic",
             "time": "17:20",
@@ -888,56 +810,6 @@
             ],
             "slug": "iihf-world-championship-hockey-norway-sweden-2026-05-23-21-20",
             "startTimestamp": 1779560400000,
-            "duration": 180
-        },
-        {
-            "matchText": "13:20 [IIHF World Championship] Hockey: Latvia vs USA [TSN3 CA]",
-            "matchstr": "Latvia vs USA",
-            "time": "13:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Latvia",
-            "team2": "USA",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=33"
-                    ]
-                },
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=45"
-                    ],
-                    "number": 45,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=45"
-                    ]
-                },
-                {
-                    "name": "TV10",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-latvia-usa-2026-05-23-13-20",
-            "startTimestamp": 1779531600000,
             "duration": 180
         },
         {
@@ -1511,6 +1383,62 @@
             "duration": 120
         },
         {
+            "matchText": "17:00 [Finland Veikkausliiga] SJK vs Oulu [Ruutu FI]",
+            "matchstr": "SJK vs Oulu",
+            "time": "17:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "SJK",
+            "team2": "Oulu",
+            "channel": "Ruutu FI",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "Ruutu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-sjk-oulu-2026-05-23-17-00",
+            "startTimestamp": 1779544800000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Finland Veikkausliiga] KuPS vs Lahti [Ruutu FI]",
+            "matchstr": "KuPS vs Lahti",
+            "time": "17:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "KuPS",
+            "team2": "Lahti",
+            "channel": "Ruutu FI",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "Ruutu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=68"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-kups-lahti-2026-05-23-17-00",
+            "startTimestamp": 1779544800000,
+            "duration": 120
+        },
+        {
             "matchText": "17:00 [Croatia 1. HNL] Varazdin vs Istra 1961 [MAX Sport HR]",
             "matchstr": "Varazdin vs Istra 1961",
             "time": "17:00",
@@ -1623,6 +1551,34 @@
             "duration": 120
         },
         {
+            "matchText": "17:00 [Finland Veikkausliiga] Ilves vs Gnistan [Ruutu FI]",
+            "matchstr": "Ilves vs Gnistan",
+            "time": "17:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Ilves",
+            "team2": "Gnistan",
+            "channel": "Ruutu FI",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "Ruutu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-ilves-gnistan-2026-05-23-17-00",
+            "startTimestamp": 1779544800000,
+            "duration": 120
+        },
+        {
             "matchText": "22:00 [Spain La Liga] Celta de Vigo vs Sevilla [TV4 Sport Live 2 SE]",
             "matchstr": "Celta de Vigo vs Sevilla",
             "time": "22:00",
@@ -1648,6 +1604,34 @@
             ],
             "slug": "spain-la-liga-football-celta-de-vigo-sevilla-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Finland Veikkausliiga] Jaro vs Mariehamn [Ruutu FI]",
+            "matchstr": "Jaro vs Mariehamn",
+            "time": "17:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Jaro",
+            "team2": "Mariehamn",
+            "channel": "Ruutu FI",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "Ruutu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-jaro-mariehamn-2026-05-23-17-00",
+            "startTimestamp": 1779544800000,
             "duration": 120
         },
         {
@@ -1760,62 +1744,6 @@
             ],
             "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-23-18-15",
             "startTimestamp": 1779549300000,
-            "duration": 120
-        },
-        {
-            "matchText": "12:35 [AFL] Australian Football: Carlton Blues vs Port Adelaide Power [Fox Sports 2 US]",
-            "matchstr": "Carlton Blues vs Port Adelaide Power",
-            "time": "12:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Carlton Blues",
-            "team2": "Port Adelaide Power",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-carlton-blues-port-adelaide-power-2026-05-23-12-35",
-            "startTimestamp": 1779528900000,
-            "duration": 180
-        },
-        {
-            "matchText": "12:35 [NRL] Rugby: Gold Coast Titans vs Manly Sea Eagles [Fox Soccer Plus US]",
-            "matchstr": "Gold Coast Titans vs Manly Sea Eagles",
-            "time": "12:35",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Gold Coast Titans",
-            "team2": "Manly Sea Eagles",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-gold-coast-titans-manly-sea-eagles-2026-05-23-12-35",
-            "startTimestamp": 1779528900000,
             "duration": 120
         },
         {
@@ -5614,13 +5542,13 @@
             "duration": 120
         },
         {
-            "matchText": "20:05 [Sweden Allsvenskan] Sweden vs Superettan [TV12 SE]",
-            "matchstr": "Sweden vs Superettan",
+            "matchText": "20:05 [Sweden Superettan] Norrk\u00f6ping vs \u00d6ster [TV12 SE]",
+            "matchstr": "Norrk\u00f6ping vs \u00d6ster",
             "time": "20:05",
-            "league": "Sweden Allsvenskan",
+            "league": "Sweden Superettan",
             "sport": "Football",
-            "team1": "Sweden",
-            "team2": "Superettan",
+            "team1": "Norrk\u00f6ping",
+            "team2": "\u00d6ster",
             "channel": "TV12 SE",
             "important": false,
             "matchDate": "2026-05-25",
@@ -5637,7 +5565,7 @@
                     ]
                 }
             ],
-            "slug": "sweden-allsvenskan-football-sweden-superettan-2026-05-25-20-05",
+            "slug": "sweden-superettan-football-norrkoping-oster-2026-05-25-20-05",
             "startTimestamp": 1779728700000,
             "duration": 120
         },

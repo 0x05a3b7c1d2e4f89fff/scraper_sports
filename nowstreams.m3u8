@@ -21,7 +21,7 @@ https://sansat.link/channel?id=35
 https://sansat.link/channel?id=51
 #EXTINF:-1 tvg-id="germany-dfb-pokal-football-bayern-munchen-stuttgart-2026-05-23-21-00" group-title="Germany DFB Pokal",Bayern Munchen vs Stuttgart (ESPN Deportes)
 https://sansat.link/channel?id=86
-#EXTINF:-1 tvg-id="spain-la-liga-football-simulcasr-2026-05-23-22-00" group-title="Spain La Liga",Simulcasr (Now Sports 2)
+#EXTINF:-1 tvg-id="spain-la-liga-football-simulcast-2026-05-23-22-00" group-title="Spain La Liga",Simulcast (Now Sports 2)
 https://sansat.link/channel?id=6
 #EXTINF:-1 tvg-id="formula-1-motorsport-canadian-grand-prix-2026-05-23-19-00" group-title="Formula 1",Canadian Grand Prix (Sky Sport F1)
 https://sansat.link/channel?id=7
@@ -43,8 +43,6 @@ https://sansat.link/channel?id=79
 https://sansat.link/channel?id=8
 #EXTINF:-1 tvg-id="europe-uefa-women-s-champions-league-football-barcelona-ol-lyonnes-2026-05-23-19-00" group-title="Europe UEFA Women's Champions League",Barcelona vs OL Lyonnes (ESPN Deportes)
 https://sansat.link/channel?id=86
-#EXTINF:-1 tvg-id="dtm-motorsport-zandvoort-2026-05-23-14-15" group-title="DTM",Zandvoort (Pro Sieben)
-https://sansat.link/channel?id=12
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-austria-germany-2026-05-23-21-20" group-title="IIHF World Championship",Austria vs Germany (Magenta Sport)
 https://sansat.link/channel?id=14
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-austria-germany-2026-05-23-21-20" group-title="IIHF World Championship",Austria vs Germany (CT Sport)
@@ -79,12 +77,6 @@ https://sansat.link/channel?id=20
 https://sansat.link/channel?id=21
 #EXTINF:-1 tvg-id="spain-la-liga-football-girona-elche-2026-05-23-22-00" group-title="Spain La Liga",Girona vs Elche (DAZN LaLiga 2)
 https://sansat.link/channel?id=26
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-denmark-slovenia-2026-05-23-13-20" group-title="IIHF World Championship",Denmark vs Slovenia (TSN1)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-denmark-slovenia-2026-05-23-13-20" group-title="IIHF World Championship",Denmark vs Slovenia (V sport 1)
-https://sansat.link/channel?id=68
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-denmark-slovenia-2026-05-23-13-20" group-title="IIHF World Championship",Denmark vs Slovenia (Viasat Vinter)
-https://sansat.link/channel?id=77
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovakia-czech-republic-2026-05-23-17-20" group-title="IIHF World Championship",Slovakia vs Czech Republic (TSN1)
 https://sansat.link/channel?id=31
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-slovakia-czech-republic-2026-05-23-17-20" group-title="IIHF World Championship",Slovakia vs Czech Republic (CT Sport)
@@ -99,12 +91,6 @@ https://sansat.link/channel?id=31
 https://sansat.link/channel?id=67
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-sweden-2026-05-23-21-20" group-title="IIHF World Championship",Norway vs Sweden (Viaplay Sport)
 https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-latvia-usa-2026-05-23-13-20" group-title="IIHF World Championship",Latvia vs USA (TSN3)
-https://sansat.link/channel?id=33
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-latvia-usa-2026-05-23-13-20" group-title="IIHF World Championship",Latvia vs USA (CT Sport)
-https://sansat.link/channel?id=45
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-latvia-usa-2026-05-23-13-20" group-title="IIHF World Championship",Latvia vs USA (TV10)
-https://sansat.link/channel?id=73
 #EXTINF:-1 tvg-id="european-champions-cup-rugby-leinster-v-bordeaux-begles-2026-05-23-16-45" group-title="European Champions Cup",Leinster v Bordeaux Bègles (ITV4)
 https://sansat.link/channel?id=34
 #EXTINF:-1 tvg-id="european-champions-cup-rugby-leinster-v-bordeaux-begles-2026-05-23-16-45" group-title="European Champions Cup",Leinster v Bordeaux Bègles (Premier Sports 1)
@@ -153,6 +139,10 @@ https://sansat.link/channel?id=63
 https://sansat.link/channel?id=64
 #EXTINF:-1 tvg-id="poland-ekstraklasa-football-gornik-zabrze-radomiak-radom-2026-05-23-18-30" group-title="Poland Ekstraklasa",Gornik Zabrze vs Radomiak Radom (Canal+ Sport 5)
 https://sansat.link/channel?id=65
+#EXTINF:-1 tvg-id="finland-veikkausliiga-football-sjk-oulu-2026-05-23-17-00" group-title="Finland Veikkausliiga",SJK vs Oulu (Ruutu)
+https://sansat.link/channel?id=66
+#EXTINF:-1 tvg-id="finland-veikkausliiga-football-kups-lahti-2026-05-23-17-00" group-title="Finland Veikkausliiga",KuPS vs Lahti (Ruutu)
+https://sansat.link/channel?id=68
 #EXTINF:-1 tvg-id="croatia-1-hnl-football-varazdin-istra-1961-2026-05-23-17-00" group-title="Croatia 1. HNL",Varazdin vs Istra 1961 (MAX Sport)
 https://sansat.link/channel?id=69
 #EXTINF:-1 tvg-id="croatia-1-hnl-football-rijeka-gorica-2026-05-23-17-00" group-title="Croatia 1. HNL",Rijeka vs Gorica (MAX Sport)
@@ -161,8 +151,12 @@ https://sansat.link/channel?id=70
 https://sansat.link/channel?id=70
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-halmstad-orgryte-2026-05-23-16-00" group-title="Sweden Allsvenskan",Halmstad vs Orgryte (TV4 Sport Live 1)
 https://sansat.link/channel?id=71
+#EXTINF:-1 tvg-id="finland-veikkausliiga-football-ilves-gnistan-2026-05-23-17-00" group-title="Finland Veikkausliiga",Ilves vs Gnistan (Ruutu)
+https://sansat.link/channel?id=72
 #EXTINF:-1 tvg-id="spain-la-liga-football-celta-de-vigo-sevilla-2026-05-23-22-00" group-title="Spain La Liga",Celta de Vigo vs Sevilla (TV4 Sport Live 2)
 https://sansat.link/channel?id=72
+#EXTINF:-1 tvg-id="finland-veikkausliiga-football-jaro-mariehamn-2026-05-23-17-00" group-title="Finland Veikkausliiga",Jaro vs Mariehamn (Ruutu)
+https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="spain-la-liga-football-real-betis-levante-2026-05-23-22-00" group-title="Spain La Liga",Real Betis vs Levante (TV4 Sport Live 4)
 https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-kalmar-degerfors-2026-05-23-16-00" group-title="Sweden Allsvenskan",Kalmar vs Degerfors (TV4 Fotball)
@@ -171,10 +165,6 @@ https://sansat.link/channel?id=75
 https://sansat.link/channel?id=76
 #EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-23-18-15" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
 https://sansat.link/channel?id=76
-#EXTINF:-1 tvg-id="afl-australian-football-carlton-blues-port-adelaide-power-2026-05-23-12-35" group-title="AFL",Carlton Blues vs Port Adelaide Power (Fox Sports 2)
-https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="nrl-rugby-gold-coast-titans-manly-sea-eagles-2026-05-23-12-35" group-title="NRL",Gold Coast Titans vs Manly Sea Eagles (Fox Soccer Plus)
-https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-hfx-wanderers-inter-toronto-2026-05-23-22-00" group-title="Canada Canadian Premier League",HFX Wanderers vs Inter Toronto (Fox Soccer Plus)
 https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="usa-canada-major-league-soccer-football-st-louis-city-austin-2026-05-23-21-45" group-title="USA/Canada Major League Soccer",St. Louis City vs Austin (FOX Deportes)
@@ -525,7 +515,7 @@ https://sansat.link/channel?id=62
 https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-elfsborg-hacken-2026-05-25-20-00" group-title="Sweden Allsvenskan",Elfsborg vs Hacken (TV4 Sportkanalen)
 https://sansat.link/channel?id=76
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-sweden-superettan-2026-05-25-20-05" group-title="Sweden Allsvenskan",Sweden vs Superettan (TV12)
+#EXTINF:-1 tvg-id="sweden-superettan-football-norrkoping-oster-2026-05-25-20-05" group-title="Sweden Superettan",Norrköping vs Öster (TV12)
 https://sansat.link/channel?id=77
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-cavalry-pacific-fc-2026-05-25-00-00" group-title="Canada Canadian Premier League",Cavalry vs Pacific FC (Fox Sports 2)
 https://sansat.link/channel?id=82
