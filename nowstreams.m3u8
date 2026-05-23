@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
+#EXTINF:-1 tvg-id="ufl-american-football-columbus-aviators-birmingham-stallions-2026-05-23-22-00" group-title="UFL",Columbus Aviators vs Birmingham Stallions (ABC)
+https://sansat.link/channel?id=1
+#EXTINF:-1 tvg-id="ufl-american-football-columbus-aviators-birmingham-stallions-2026-05-23-22-00" group-title="UFL",Columbus Aviators vs Birmingham Stallions (Sportdigital1+)
+https://sansat.link/channel?id=20
 #EXTINF:-1 tvg-id="spain-la-liga-football-getafe-osasuna-2026-05-23-22-00" group-title="Spain La Liga",Getafe vs Osasuna (Now Sports 3)
 https://sansat.link/channel?id=3
 #EXTINF:-1 tvg-id="spain-la-liga-football-getafe-osasuna-2026-05-23-22-00" group-title="Spain La Liga",Getafe vs Osasuna (Movistar Plus+)
@@ -71,7 +75,7 @@ https://sansat.link/channel?id=38
 https://sansat.link/channel?id=19
 #EXTINF:-1 tvg-id="brazil-brasileirao-football-sao-paulo-botafogo-2026-05-23-23-00" group-title="Brazil Brasileirao",Sao Paulo vs Botafogo (Vamos)
 https://sansat.link/channel?id=96
-#EXTINF:-1 tvg-id="australia-supercars-championship-motorsport-tyrepower-tasmania-super-440-2026-05-23-09-00" group-title="Australia Supercars Championship",Tyrepower Tasmania Super 440 (Sportdigital1+)
+#EXTINF:-1 tvg-id="efa-american-football-nordic-storm-raiders-tirol-2026-05-23-19-00" group-title="EFA",Nordic Storm vs Raiders Tirol (Sportdigital1+)
 https://sansat.link/channel?id=20
 #EXTINF:-1 tvg-id="portugal-segunda-liga-football-farense-cf-os-belenenses-2026-05-23-22-30" group-title="Portugal Segunda liga",Farense vs CF Os Belenenses (Sport TV1)
 https://sansat.link/channel?id=21
@@ -135,8 +139,6 @@ https://sansat.link/channel?id=76
 https://sansat.link/channel?id=48
 #EXTINF:-1 tvg-id="belgium-pro-league-football-oh-leuven-genk-2026-05-23-21-45" group-title="Belgium Pro League",OH Leuven vs Genk (DAZN Pro League 1)
 https://sansat.link/channel?id=49
-#EXTINF:-1 tvg-id="super-rugby-pacific-rugby-hurricanes-highlanders-brive-2026-05-23-10-05" group-title="Super Rugby Pacific",Hurricanes vs Highlanders Brive (Canal+ Sport)
-https://sansat.link/channel?id=50
 #EXTINF:-1 tvg-id="france-pro-d2-rugby-provence-rugby-brive-2026-05-23-19-30" group-title="France PRO D2",Provence Rugby vs Brive (Canal+)
 https://sansat.link/channel?id=50
 #EXTINF:-1 tvg-id="poland-ekstraklasa-football-legia-warszawa-motor-lublin-2026-05-23-18-30" group-title="Poland Ekstraklasa",Legia Warszawa vs Motor Lublin (Canal+ 360)
@@ -167,6 +169,12 @@ https://sansat.link/channel?id=72
 https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-kalmar-degerfors-2026-05-23-16-00" group-title="Sweden Allsvenskan",Kalmar vs Degerfors (TV4 Fotball)
 https://sansat.link/channel?id=75
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-23-12-00" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=76
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-23-15-20" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=76
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-23-18-15" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=76
 #EXTINF:-1 tvg-id="afl-australian-football-sydney-swans-geelong-cats-2026-05-23-09-15" group-title="AFL",Sydney Swans vs Geelong Cats (Fox Sports 2)
 https://sansat.link/channel?id=82
 #EXTINF:-1 tvg-id="afl-australian-football-carlton-blues-port-adelaide-power-2026-05-23-12-35" group-title="AFL",Carlton Blues vs Port Adelaide Power (Fox Sports 2)
@@ -305,6 +313,14 @@ https://sansat.link/channel?id=19
 https://sansat.link/channel?id=32
 #EXTINF:-1 tvg-id="england-premier-league-football-fulham-newcastle-united-2026-05-24-18-00" group-title="England Premier League",Fulham vs Newcastle United (Sky Sport 258)
 https://sansat.link/channel?id=48
+#EXTINF:-1 tvg-id="australia-supercars-championship-motorsport-tyrepower-tasmania-super-440-2026-05-24-07-45" group-title="Australia Supercars Championship",Tyrepower Tasmania Super 440 (Sportdigital1+)
+https://sansat.link/channel?id=20
+#EXTINF:-1 tvg-id="nascar-euro-series-motorsport-nascar-gp-frankreich-2026-05-24-11-30" group-title="NASCAR Euro Series",NASCAR GP Frankreich (Sportdigital1+)
+https://sansat.link/channel?id=20
+#EXTINF:-1 tvg-id="nascar-euro-series-motorsport-nascar-gp-frankreich-2026-05-24-15-35" group-title="NASCAR Euro Series",NASCAR GP Frankreich (Sportdigital1+)
+https://sansat.link/channel?id=20
+#EXTINF:-1 tvg-id="mlb-baseball-milwaukee-brewers-los-angeles-dodgers-2026-05-24-21-05" group-title="MLB",Milwaukee Brewers vs Los Angeles Dodgers (Sportdigital1+)
+https://sansat.link/channel?id=20
 #EXTINF:-1 tvg-id="portugal-taca-de-portugal-football-sporting-cp-torreense-2026-05-24-19-15" group-title="Portugal Taca de Portugal",Sporting CP vs Torreense (Sport TV1)
 https://sansat.link/channel?id=21
 #EXTINF:-1 tvg-id="portugal-taca-de-portugal-football-sporting-cp-torreense-2026-05-24-19-15" group-title="Portugal Taca de Portugal",Sporting CP vs Torreense (beIN SPORTS)
@@ -391,6 +407,14 @@ https://sansat.link/channel?id=71
 https://sansat.link/channel?id=72
 #EXTINF:-1 tvg-id="italy-serie-a-football-lecce-genoa-2026-05-24-21-45" group-title="Italy Serie A",Lecce vs Genoa (TV4 Sport Live 2)
 https://sansat.link/channel?id=72
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-24-08-40" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=73
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-24-11-25" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=73
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-24-14-05" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=73
+#EXTINF:-1 tvg-id="wrc-football-royal-rally-of-scandinavia-2026-05-24-18-00" group-title="WRC",Royal Rally of Scandinavia (TV4 Motor)
+https://sansat.link/channel?id=73
 #EXTINF:-1 tvg-id="sweden-allsvenskan-football-hammarby-aik-2026-05-24-15-00" group-title="Sweden Allsvenskan",Hammarby vs AIK (TV4 Fotball)
 https://sansat.link/channel?id=76
 #EXTINF:-1 tvg-id="motocross-world-championship-motorsport-mxgp-2026-05-24-18-00" group-title="Motocross World Championship",MXGP (CBS Sports Network)

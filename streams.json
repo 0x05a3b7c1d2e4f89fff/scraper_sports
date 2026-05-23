@@ -1,6 +1,45 @@
 {
     "matches": [
         {
+            "matchText": "22:00 [UFL] American Football: Columbus Aviators vs Birmingham Stallions [ABC US]",
+            "matchstr": "Columbus Aviators vs Birmingham Stallions",
+            "time": "22:00",
+            "league": "UFL",
+            "sport": "American Football",
+            "team1": "Columbus Aviators",
+            "team2": "Birmingham Stallions",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "ufl-american-football-columbus-aviators-birmingham-stallions-2026-05-23-22-00",
+            "startTimestamp": 1779562800000,
+            "duration": 120
+        },
+        {
             "matchText": "22:00 [Spain La Liga] Getafe vs Osasuna [Now Sports 3 HK]",
             "matchstr": "Getafe vs Osasuna",
             "time": "22:00",
@@ -635,13 +674,13 @@
             "duration": 120
         },
         {
-            "matchText": "09:00 [Australia Supercars Championship] Motorsport: Tyrepower Tasmania Super 440 [Sportdigital1+ DE]",
-            "matchstr": "Tyrepower Tasmania Super 440",
-            "time": "09:00",
-            "league": "Australia Supercars Championship",
-            "sport": "Motorsport",
-            "team1": "Tyrepower Tasmania Super 440",
-            "team2": null,
+            "matchText": "19:00 [EFA] American Football: Nordic Storm vs Raiders Tirol [Sportdigital1+ DE]",
+            "matchstr": "Nordic Storm vs Raiders Tirol",
+            "time": "19:00",
+            "league": "EFA",
+            "sport": "American Football",
+            "team1": "Nordic Storm",
+            "team2": "Raiders Tirol",
             "channel": "Sportdigital1+ DE",
             "important": false,
             "matchDate": "2026-05-23",
@@ -658,8 +697,8 @@
                     ]
                 }
             ],
-            "slug": "australia-supercars-championship-motorsport-tyrepower-tasmania-super-440-2026-05-23-09-00",
-            "startTimestamp": 1779516000000,
+            "slug": "efa-american-football-nordic-storm-raiders-tirol-2026-05-23-19-00",
+            "startTimestamp": 1779552000000,
             "duration": 120
         },
         {
@@ -1293,34 +1332,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:05 [Super Rugby Pacific] Rugby: Hurricanes vs Highlanders Brive [Canal+ Sport FR]",
-            "matchstr": "Hurricanes vs Highlanders Brive",
-            "time": "10:05",
-            "league": "Super Rugby Pacific",
-            "sport": "Rugby",
-            "team1": "Hurricanes",
-            "team2": "Highlanders Brive",
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "super-rugby-pacific-rugby-hurricanes-highlanders-brive-2026-05-23-10-05",
-            "startTimestamp": 1779519900000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [France PRO D2] Rugby: Provence Rugby vs Brive [Canal+ FR]",
             "matchstr": "Provence Rugby vs Brive",
             "time": "19:30",
@@ -1721,6 +1732,90 @@
             ],
             "slug": "sweden-allsvenskan-football-kalmar-degerfors-2026-05-23-16-00",
             "startTimestamp": 1779541200000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:00 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "12:00",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-23-12-00",
+            "startTimestamp": 1779526800000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:20 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "15:20",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-23-15-20",
+            "startTimestamp": 1779538800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:15 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "18:15",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-23",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-23-18-15",
+            "startTimestamp": 1779549300000,
             "duration": 120
         },
         {
@@ -2993,6 +3088,118 @@
             "duration": 120
         },
         {
+            "matchText": "07:45 [Australia Supercars Championship] Motorsport: Tyrepower Tasmania Super 440 [Sportdigital1+ DE]",
+            "matchstr": "Tyrepower Tasmania Super 440",
+            "time": "07:45",
+            "league": "Australia Supercars Championship",
+            "sport": "Motorsport",
+            "team1": "Tyrepower Tasmania Super 440",
+            "team2": null,
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "australia-supercars-championship-motorsport-tyrepower-tasmania-super-440-2026-05-24-07-45",
+            "startTimestamp": 1779597900000,
+            "duration": 120
+        },
+        {
+            "matchText": "11:30 [NASCAR Euro Series] Motorsport: NASCAR GP Frankreich [Sportdigital1+ DE]",
+            "matchstr": "NASCAR GP Frankreich",
+            "time": "11:30",
+            "league": "NASCAR Euro Series",
+            "sport": "Motorsport",
+            "team1": "NASCAR GP Frankreich",
+            "team2": null,
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "nascar-euro-series-motorsport-nascar-gp-frankreich-2026-05-24-11-30",
+            "startTimestamp": 1779611400000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:35 [NASCAR Euro Series] Motorsport: NASCAR GP Frankreich [Sportdigital1+ DE]",
+            "matchstr": "NASCAR GP Frankreich",
+            "time": "15:35",
+            "league": "NASCAR Euro Series",
+            "sport": "Motorsport",
+            "team1": "NASCAR GP Frankreich",
+            "team2": null,
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "nascar-euro-series-motorsport-nascar-gp-frankreich-2026-05-24-15-35",
+            "startTimestamp": 1779626100000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:05 [MLB] Baseball: Milwaukee Brewers vs Los Angeles Dodgers [Sportdigital1+ DE]",
+            "matchstr": "Milwaukee Brewers vs Los Angeles Dodgers",
+            "time": "21:05",
+            "league": "MLB",
+            "sport": "Baseball",
+            "team1": "Milwaukee Brewers",
+            "team2": "Los Angeles Dodgers",
+            "channel": "Sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "Sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                }
+            ],
+            "slug": "mlb-baseball-milwaukee-brewers-los-angeles-dodgers-2026-05-24-21-05",
+            "startTimestamp": 1779645900000,
+            "duration": 180
+        },
+        {
             "matchText": "19:15 [Portugal Taca de Portugal] Sporting CP vs Torreense [Sport TV1 PT]",
             "matchstr": "Sporting CP vs Torreense",
             "time": "19:15",
@@ -4007,6 +4214,118 @@
             ],
             "slug": "italy-serie-a-football-lecce-genoa-2026-05-24-21-45",
             "startTimestamp": 1779648300000,
+            "duration": 120
+        },
+        {
+            "matchText": "08:40 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "08:40",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-08-40",
+            "startTimestamp": 1779601200000,
+            "duration": 120
+        },
+        {
+            "matchText": "11:25 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "11:25",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-11-25",
+            "startTimestamp": 1779611100000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:05 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "14:05",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-14-05",
+            "startTimestamp": 1779620700000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
+            "matchstr": "Royal Rally of Scandinavia",
+            "time": "18:00",
+            "league": "WRC",
+            "sport": "Football",
+            "team1": "Royal Rally of Scandinavia",
+            "team2": null,
+            "channel": "TV4 Motor SE",
+            "important": false,
+            "matchDate": "2026-05-24",
+            "channels": [
+                {
+                    "name": "TV4 Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-18-00",
+            "startTimestamp": 1779634800000,
             "duration": 120
         },
         {
