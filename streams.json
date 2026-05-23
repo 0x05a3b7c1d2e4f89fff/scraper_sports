@@ -919,118 +919,6 @@
             "duration": 180
         },
         {
-            "matchText": "15:00 [Czech Republic 1. liga] Mlada Boleslav vs Teplice [Oneplay Sport CZ]",
-            "matchstr": "Mlada Boleslav vs Teplice",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Mlada Boleslav",
-            "team2": "Teplice",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-mlada-boleslav-teplice-2026-05-23-15-00",
-            "startTimestamp": 1779537600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Czech Republic 1. liga] Zlin vs Slovacko [Oneplay Sport CZ]",
-            "matchstr": "Zlin vs Slovacko",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Zlin",
-            "team2": "Slovacko",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=42"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-zlin-slovacko-2026-05-23-15-00",
-            "startTimestamp": 1779537600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Czech Republic 1. liga] Sigma Olomouc vs Karvina [Oneplay Sport CZ]",
-            "matchstr": "Sigma Olomouc vs Karvina",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Sigma Olomouc",
-            "team2": "Karvina",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=43"
-                    ],
-                    "number": 43,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=43"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-sigma-olomouc-karvina-2026-05-23-15-00",
-            "startTimestamp": 1779537600000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Czech Republic 1. liga] Dukla Praha vs Banik Ostrava [Oneplay Sport CZ]",
-            "matchstr": "Dukla Praha vs Banik Ostrava",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Dukla Praha",
-            "team2": "Banik Ostrava",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=44"
-                    ],
-                    "number": 44,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=44"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-dukla-praha-banik-ostrava-2026-05-23-15-00",
-            "startTimestamp": 1779537600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Italy Serie A] Bologna vs Internazionale [DAZN Zona IT]",
             "matchstr": "Bologna vs Internazionale",
             "time": "19:00",
@@ -1523,34 +1411,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Sweden Allsvenskan] Halmstad vs Orgryte [TV4 Sport Live 1 SE]",
-            "matchstr": "Halmstad vs Orgryte",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Halmstad",
-            "team2": "Orgryte",
-            "channel": "TV4 Sport Live 1 SE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-halmstad-orgryte-2026-05-23-16-00",
-            "startTimestamp": 1779541200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Finland Veikkausliiga] Ilves vs Gnistan [Ruutu FI]",
             "matchstr": "Ilves vs Gnistan",
             "time": "17:00",
@@ -1660,62 +1520,6 @@
             ],
             "slug": "spain-la-liga-football-real-betis-levante-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Sweden Allsvenskan] Kalmar vs Degerfors [TV4 Fotball SE]",
-            "matchstr": "Kalmar vs Degerfors",
-            "time": "16:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Kalmar",
-            "team2": "Degerfors",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-kalmar-degerfors-2026-05-23-16-00",
-            "startTimestamp": 1779541200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:20 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
-            "matchstr": "Royal Rally of Scandinavia",
-            "time": "15:20",
-            "league": "WRC",
-            "sport": "Football",
-            "team1": "Royal Rally of Scandinavia",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-23-15-20",
-            "startTimestamp": 1779538800000,
             "duration": 120
         },
         {
@@ -1884,34 +1688,6 @@
             ],
             "slug": "spain-la-liga-football-deportivo-alaves-rayo-vallecano-2026-05-23-22-00",
             "startTimestamp": 1779562800000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Austria Bundesliga] Austria Wien vs Salzburg [Sky Sport Austria 1 AT]",
-            "matchstr": "Austria Wien vs Salzburg",
-            "time": "15:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Austria Wien",
-            "team2": "Salzburg",
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://sansat.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-austria-wien-salzburg-2026-05-23-15-00",
-            "startTimestamp": 1779537600000,
             "duration": 120
         },
         {
