@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:30 [USA/Canada Major League Soccer] Minnesota United vs Real Salt Lake [MLS Season Pass US]",
-            "matchstr": "Minnesota United vs Real Salt Lake",
-            "time": "23:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Minnesota United",
-            "team2": "Real Salt Lake",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-23",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=36"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-minnesota-united-real-salt-lake-2026-05-23-23-30",
-            "startTimestamp": 1779568200000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [NBA] Basketball: New York Knicks vs Cleveland Cavaliers [ABC US]",
             "matchstr": "New York Knicks vs Cleveland Cavaliers",
             "time": "03:00",
@@ -748,34 +720,6 @@
             ],
             "slug": "england-premier-league-football-sunderland-chelsea-2026-05-24-18-00",
             "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [Brazil Brasileirao] Gremio vs Santos [Premier Sports 1 GB]",
-            "matchstr": "Gremio vs Santos",
-            "time": "01:00",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Gremio",
-            "team2": "Santos",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=10"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-gremio-santos-2026-05-24-01-00",
-            "startTimestamp": 1779573600000,
             "duration": 120
         },
         {
@@ -2424,34 +2368,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-atl-ottawa-forge-2026-05-24-21-00",
             "startTimestamp": 1779645600000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [Canada Canadian Premier League] Vancouver FC vs Supra du Quebec [Fox Soccer Plus US]",
-            "matchstr": "Vancouver FC vs Supra du Quebec",
-            "time": "01:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Vancouver FC",
-            "team2": "Supra du Quebec",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-vancouver-fc-supra-du-quebec-2026-05-24-01-00",
-            "startTimestamp": 1779573600000,
             "duration": 120
         },
         {
