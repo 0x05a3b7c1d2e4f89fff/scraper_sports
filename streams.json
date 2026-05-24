@@ -323,56 +323,6 @@
             "duration": 180
         },
         {
-            "matchText": "19:15 [Portugal Taca de Portugal] Sporting CP vs Torreense [Sport TV1 PT]",
-            "matchstr": "Sporting CP vs Torreense",
-            "time": "19:15",
-            "league": "Portugal Taca de Portugal",
-            "sport": "Football",
-            "team1": "Sporting CP",
-            "team2": "Torreense",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://sansat.link/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=39"
-                    ]
-                },
-                {
-                    "name": "beIN SPORTS en Espanol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=40"
-                    ],
-                    "number": 40,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=40"
-                    ]
-                }
-            ],
-            "slug": "portugal-taca-de-portugal-football-sporting-cp-torreense-2026-05-24-19-15",
-            "startTimestamp": 1779639300000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Brazil Brasileirao] Cruzeiro vs Chapecoense [Canal 11 PT]",
             "matchstr": "Cruzeiro vs Chapecoense",
             "time": "22:00",
@@ -476,62 +426,6 @@
             ],
             "slug": "africa-caf-champions-league-football-far-rabat-mamelodi-sundowns-2026-05-24-22-00",
             "startTimestamp": 1779649200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Belgium Pro League] Club Brugge vs Gent [DAZN Pro League 1 BE]",
-            "matchstr": "Club Brugge vs Gent",
-            "time": "19:30",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "Club Brugge",
-            "team2": "Gent",
-            "channel": "DAZN Pro League 1 BE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "DAZN Pro League 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://sansat.link/channel?id=49"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-club-brugge-gent-2026-05-24-19-30",
-            "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Belgium Pro League] Union Saint-Gilloise vs Anderlecht [DAZN Pro League 2 BE]",
-            "matchstr": "Union Saint-Gilloise vs Anderlecht",
-            "time": "19:30",
-            "league": "Belgium Pro League",
-            "sport": "Football",
-            "team1": "Union Saint-Gilloise",
-            "team2": "Anderlecht",
-            "channel": "DAZN Pro League 2 BE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "DAZN Pro League 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "BE",
-                    "links": [
-                        "https://sansat.link/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "belgium-pro-league-football-union-saint-gilloise-anderlecht-2026-05-24-19-30",
-            "startTimestamp": 1779640200000,
             "duration": 120
         },
         {
@@ -680,34 +574,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Canada Canadian Premier League] Atl. Ottawa vs Forge [Fox Sports 2 US]",
-            "matchstr": "Atl. Ottawa vs Forge",
-            "time": "21:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Atl. Ottawa",
-            "team2": "Forge",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-atl-ottawa-forge-2026-05-24-21-00",
-            "startTimestamp": 1779645600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [Argentina Primera Division] River Plate vs Belgrano [TNT Sports Argentina ES]",
             "matchstr": "River Plate vs Belgrano",
             "time": "21:30",
@@ -733,90 +599,6 @@
             ],
             "slug": "argentina-primera-division-football-river-plate-belgrano-2026-05-24-21-30",
             "startTimestamp": 1779647400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [IndyCar] Motorsport: Indianapolis 500 [Fox Deportes ES]",
-            "matchstr": "Indianapolis 500",
-            "time": "19:30",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Indianapolis 500",
-            "team2": null,
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-indianapolis-500-2026-05-24-19-30",
-            "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Spain Segunda Division] Simulcast [LALIGA TV Hypermotion ES]",
-            "matchstr": "Simulcast",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Simulcast",
-            "team2": null,
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=91"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-simulcast-2026-05-24-19-30",
-            "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [Spain Segunda Division] Real Valladolid vs Deportivo La Coruna [LALIGA TV Hypermotion 2 ES]",
-            "matchstr": "Real Valladolid vs Deportivo La Coruna",
-            "time": "19:30",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Real Valladolid",
-            "team2": "Deportivo La Coruna",
-            "channel": "LALIGA TV Hypermotion 2 ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=92"
-                    ],
-                    "number": 92,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=92"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-real-valladolid-deportivo-la-coruna-2026-05-24-19-30",
-            "startTimestamp": 1779640200000,
             "duration": 120
         },
         {
