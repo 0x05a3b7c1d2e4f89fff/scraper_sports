@@ -1,150 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "18:00 [England Premier League] Crystal Palace vs Arsenal [Sky Sports Premier League GB]",
-            "matchstr": "Crystal Palace vs Arsenal",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Crystal Palace",
-            "team2": "Arsenal",
-            "channel": "Sky Sports Premier League GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Premier League",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "Nova Sports Premier League",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=25"
-                    ],
-                    "number": 25,
-                    "language": "GR",
-                    "links": [
-                        "https://sansat.link/channel?id=25"
-                    ]
-                },
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=27"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-crystal-palace-arsenal-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Brighton & Hove Albion vs Manchester United [Sky Sports Tennis GB]",
-            "matchstr": "Brighton & Hove Albion vs Manchester United",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Brighton & Hove Albion",
-            "team2": "Manchester United",
-            "channel": "Sky Sports Tennis GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Tennis",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 6",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=16"
-                    ],
-                    "number": 16,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=16"
-                    ]
-                },
-                {
-                    "name": "Nova Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=23"
-                    ],
-                    "number": 23,
-                    "language": "GR",
-                    "links": [
-                        "https://sansat.link/channel?id=23"
-                    ]
-                },
-                {
-                    "name": "DAZN3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=28"
-                    ]
-                },
-                {
-                    "name": "V Sport Extra",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-brighton-hove-albion-manchester-united-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Cremonese vs Como [TNT Sports 2 GB]",
             "matchstr": "Cremonese vs Como",
             "time": "21:45",
@@ -181,56 +37,6 @@
             ],
             "slug": "italy-serie-a-football-cremonese-como-2026-05-24-21-45",
             "startTimestamp": 1779648300000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Manchester City vs Aston Villa [Sky Sports Action GB]",
-            "matchstr": "Manchester City vs Aston Villa",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Manchester City",
-            "team2": "Aston Villa",
-            "channel": "Sky Sports Action GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Action",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 8",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=18"
-                    ],
-                    "number": 18,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=18"
-                    ]
-                },
-                {
-                    "name": "Nova Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "GR",
-                    "links": [
-                        "https://sansat.link/channel?id=22"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-manchester-city-aston-villa-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
             "duration": 120
         },
         {
@@ -281,189 +87,6 @@
             ],
             "slug": "italy-serie-a-football-torino-juventus-2026-05-24-21-45",
             "startTimestamp": 1779648300000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] West Ham United vs Leeds United [Sky Sports Football GB]",
-            "matchstr": "West Ham United vs Leeds United",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "West Ham United",
-            "team2": "Leeds United",
-            "channel": "Sky Sports Football GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "USA Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=10"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "V Sport Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-west-ham-united-leeds-united-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Tottenham Hotspur vs Everton [Sky Sports Main Event GB]",
-            "matchstr": "Tottenham Hotspur vs Everton",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Tottenham Hotspur",
-            "team2": "Everton",
-            "channel": "Sky Sports Main Event GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Main Event",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=5"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=12"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "NZ",
-                    "links": [
-                        "https://sansat.link/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-tottenham-hotspur-everton-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Liverpool vs Brentford [Sky Sport 6 NZ]",
-            "matchstr": "Liverpool vs Brentford",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Liverpool",
-            "team2": "Brentford",
-            "channel": "Sky Sport 6 NZ",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sport 6",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "NZ",
-                    "links": [
-                        "https://sansat.link/channel?id=6"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=14"
-                    ]
-                },
-                {
-                    "name": "Nova Sports 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=24"
-                    ],
-                    "number": 24,
-                    "language": "GR",
-                    "links": [
-                        "https://sansat.link/channel?id=24"
-                    ]
-                },
-                {
-                    "name": "DAZN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=26"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-liverpool-brentford-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
             "duration": 120
         },
         {
@@ -523,6 +146,17 @@
                     ]
                 },
                 {
+                    "name": "Canal+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=55"
+                    ],
+                    "number": 55,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=55"
+                    ]
+                },
+                {
                     "name": "V Sport Motor",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=79"
@@ -536,73 +170,6 @@
             ],
             "slug": "formula-1-motorsport-canadian-grand-prix-2026-05-24-23-00",
             "startTimestamp": 1779652800000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Burnley vs Wolverhampton Wanderers [Sky Sports+ GB]",
-            "matchstr": "Burnley vs Wolverhampton Wanderers",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Burnley",
-            "team2": "Wolverhampton Wanderers",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-burnley-wolverhampton-wanderers-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Sunderland vs Chelsea [Sky Sports+ GB]",
-            "matchstr": "Sunderland vs Chelsea",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Sunderland",
-            "team2": "Chelsea",
-            "channel": "Sky Sports+ GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 7",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=17"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-sunderland-chelsea-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
             "duration": 120
         },
         {
@@ -678,45 +245,6 @@
             "duration": 180
         },
         {
-            "matchText": "18:00 [England Premier League] Nottingham Forest vs AFC Bournemouth [Sky Sport 5 DE]",
-            "matchstr": "Nottingham Forest vs AFC Bournemouth",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Nottingham Forest",
-            "team2": "AFC Bournemouth",
-            "channel": "Sky Sport 5 DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=15"
-                    ],
-                    "number": 15,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=15"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 254",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=44"
-                    ],
-                    "number": 44,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=44"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-nottingham-forest-afc-bournemouth-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain La Liga] Villarreal vs Atletico Madrid [DAZN1 DE]",
             "matchstr": "Villarreal vs Atletico Madrid",
             "time": "22:00",
@@ -764,56 +292,6 @@
             ],
             "slug": "spain-la-liga-football-villarreal-atletico-madrid-2026-05-24-22-00",
             "startTimestamp": 1779649200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [England Premier League] Fulham vs Newcastle United [Sky Sport 9 DE]",
-            "matchstr": "Fulham vs Newcastle United",
-            "time": "18:00",
-            "league": "England Premier League",
-            "sport": "Football",
-            "team1": "Fulham",
-            "team2": "Newcastle United",
-            "channel": "Sky Sport 9 DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sport 9",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                },
-                {
-                    "name": "Sky Sports+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 258",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "england-premier-league-football-fulham-newcastle-united-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
             "duration": 120
         },
         {
@@ -923,84 +401,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Italy Serie A] Napoli vs Udinese [beIN Sports 3 AU]",
-            "matchstr": "Napoli vs Udinese",
-            "time": "19:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Napoli",
-            "team2": "Udinese",
-            "channel": "beIN Sports 3 AU",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "beIN Sports 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "AU",
-                    "links": [
-                        "https://sansat.link/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-napoli-udinese-2026-05-24-19-00",
-            "startTimestamp": 1779638400000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:20 [IIHF World Championship] Hockey: Denmark vs Italy [TSN4 CA]",
-            "matchstr": "Denmark vs Italy",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Denmark",
-            "team2": "Italy",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "Viaplay 1 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                },
-                {
-                    "name": "TV10",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-denmark-italy-2026-05-24-17-20",
-            "startTimestamp": 1779632400000,
-            "duration": 180
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Milan vs Cagliari [beIN Sports 1 AU]",
             "matchstr": "Milan vs Cagliari",
             "time": "21:45",
@@ -1079,84 +479,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [PFL] MMA: Mohammad Yahya vs Mehdi Saadi [Oneplay Sport 2 CZ]",
-            "matchstr": "Mohammad Yahya vs Mehdi Saadi",
-            "time": "17:00",
-            "league": "PFL",
-            "sport": "MMA",
-            "team1": "Mohammad Yahya",
-            "team2": "Mehdi Saadi",
-            "channel": "Oneplay Sport 2 CZ",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=42"
-                    ]
-                },
-                {
-                    "name": "FightKlub",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "pfl-mma-mohammad-yahya-mehdi-saadi-2026-05-24-17-00",
-            "startTimestamp": 1779631200000,
-            "duration": 180
-        },
-        {
-            "matchText": "17:20 [IIHF World Championship] Hockey: Great Britain vs Latvia [CT Sport CZ]",
-            "matchstr": "Great Britain vs Latvia",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Great Britain",
-            "team2": "Latvia",
-            "channel": "CT Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=45"
-                    ],
-                    "number": 45,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=45"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-great-britain-latvia-2026-05-24-17-20",
-            "startTimestamp": 1779632400000,
-            "duration": 180
-        },
-        {
             "matchText": "19:30 [Belgium Pro League] Club Brugge vs Gent [DAZN Pro League 1 BE]",
             "matchstr": "Club Brugge vs Gent",
             "time": "19:30",
@@ -1210,62 +532,6 @@
             ],
             "slug": "belgium-pro-league-football-union-saint-gilloise-anderlecht-2026-05-24-19-30",
             "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [France Ligue 2] Laval vs Rouen [beIN Sports 1 FR]",
-            "matchstr": "Laval vs Rouen",
-            "time": "18:00",
-            "league": "France Ligue 2",
-            "sport": "Football",
-            "team1": "Laval",
-            "team2": "Rouen",
-            "channel": "beIN Sports 1 FR",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=51"
-                    ]
-                }
-            ],
-            "slug": "france-ligue-2-football-laval-rouen-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Norway Eliteserien] Kristiansund vs Viking [TV2 Sport NO]",
-            "matchstr": "Kristiansund vs Viking",
-            "time": "19:00",
-            "league": "Norway Eliteserien",
-            "sport": "Football",
-            "team1": "Kristiansund",
-            "team2": "Viking",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "NO",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "norway-eliteserien-football-kristiansund-viking-2026-05-24-19-00",
-            "startTimestamp": 1779638400000,
             "duration": 120
         },
         {
@@ -1330,34 +596,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:30 [Sweden Allsvenskan] Malmo FF vs Vasteras SK [TV4 Sport Live 1 SE]",
-            "matchstr": "Malmo FF vs Vasteras SK",
-            "time": "17:30",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Malmo FF",
-            "team2": "Vasteras SK",
-            "channel": "TV4 Sport Live 1 SE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-malmo-ff-vasteras-sk-2026-05-24-17-30",
-            "startTimestamp": 1779633000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Verona vs Roma [TV4 Sport Live 1 SE]",
             "matchstr": "Verona vs Roma",
             "time": "21:45",
@@ -1411,62 +649,6 @@
             ],
             "slug": "italy-serie-a-football-lecce-genoa-2026-05-24-21-45",
             "startTimestamp": 1779648300000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
-            "matchstr": "Royal Rally of Scandinavia",
-            "time": "18:00",
-            "league": "WRC",
-            "sport": "Football",
-            "team1": "Royal Rally of Scandinavia",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Motocross World Championship] Motorsport: MXGP [CBS Sports Network US]",
-            "matchstr": "MXGP",
-            "time": "18:00",
-            "league": "Motocross World Championship",
-            "sport": "Motorsport",
-            "team1": "MXGP",
-            "team2": null,
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "motocross-world-championship-motorsport-mxgp-2026-05-24-18-00",
-            "startTimestamp": 1779634800000,
             "duration": 120
         },
         {
@@ -1582,34 +764,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:15 [Spain Segunda Division] Albacete vs Real Sociedad II [LALIGA TV Hypermotion ES]",
-            "matchstr": "Albacete vs Real Sociedad II",
-            "time": "17:15",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Albacete",
-            "team2": "Real Sociedad II",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=91"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-albacete-real-sociedad-ii-2026-05-24-17-15",
-            "startTimestamp": 1779632100000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain Segunda Division] Simulcast [LALIGA TV Hypermotion ES]",
             "matchstr": "Simulcast",
             "time": "19:30",
@@ -1635,34 +789,6 @@
             ],
             "slug": "spain-segunda-division-football-simulcast-2026-05-24-19-30",
             "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:15 [Spain Segunda Division] FC Andorra vs Ceuta [LALIGA TV Hypermotion 2 ES]",
-            "matchstr": "FC Andorra vs Ceuta",
-            "time": "17:15",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "FC Andorra",
-            "team2": "Ceuta",
-            "channel": "LALIGA TV Hypermotion 2 ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=92"
-                    ],
-                    "number": 92,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=92"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-fc-andorra-ceuta-2026-05-24-17-15",
-            "startTimestamp": 1779632100000,
             "duration": 120
         },
         {
