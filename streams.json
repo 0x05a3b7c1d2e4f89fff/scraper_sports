@@ -679,6 +679,17 @@
                     ]
                 },
                 {
+                    "name": "Viaplay 2 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=43"
+                    ],
+                    "number": 43,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=43"
+                    ]
+                },
+                {
                     "name": "CT Sport",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=45"
@@ -884,34 +895,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:30 [NASCAR Euro Series] Motorsport: NASCAR GP Frankreich [Sportdigital1+ DE]",
-            "matchstr": "NASCAR GP Frankreich",
-            "time": "11:30",
-            "league": "NASCAR Euro Series",
-            "sport": "Motorsport",
-            "team1": "NASCAR GP Frankreich",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "nascar-euro-series-motorsport-nascar-gp-frankreich-2026-05-24-11-30",
-            "startTimestamp": 1779611400000,
-            "duration": 120
-        },
-        {
             "matchText": "15:35 [NASCAR Euro Series] Motorsport: NASCAR GP Frankreich [Sportdigital1+ DE]",
             "matchstr": "NASCAR GP Frankreich",
             "time": "15:35",
@@ -1097,6 +1080,17 @@
                     ]
                 },
                 {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
                     "name": "TV10",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=70"
@@ -1138,34 +1132,6 @@
             ],
             "slug": "ipl-cricket-kolkata-knight-riders-delhi-capitals-2026-05-24-17-00",
             "startTimestamp": 1779631200000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [IPL] Cricket: Mumbai Indians vs Rajasthan Royals [Sky Sports Mix GB]",
-            "matchstr": "Mumbai Indians vs Rajasthan Royals",
-            "time": "13:00",
-            "league": "IPL",
-            "sport": "Cricket",
-            "team1": "Mumbai Indians",
-            "team2": "Rajasthan Royals",
-            "channel": "Sky Sports Mix GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Mix",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=37"
-                    ]
-                }
-            ],
-            "slug": "ipl-cricket-mumbai-indians-rajasthan-royals-2026-05-24-13-00",
-            "startTimestamp": 1779616800000,
             "duration": 120
         },
         {
@@ -1705,34 +1671,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:25 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
-            "matchstr": "Royal Rally of Scandinavia",
-            "time": "11:25",
-            "league": "WRC",
-            "sport": "Football",
-            "team1": "Royal Rally of Scandinavia",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-11-25",
-            "startTimestamp": 1779611100000,
-            "duration": 120
-        },
-        {
             "matchText": "14:05 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
             "matchstr": "Royal Rally of Scandinavia",
             "time": "14:05",
@@ -1957,9 +1895,9 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Netherlands Eredivisie] Ajax vs Utrecht [ESPN NL]",
+            "matchText": "13:15 [Netherlands Eredivisie] Ajax vs Utrecht [ESPN NL]",
             "matchstr": "Ajax vs Utrecht",
-            "time": "19:00",
+            "time": "13:15",
             "league": "Netherlands Eredivisie",
             "sport": "Football",
             "team1": "Ajax",
@@ -1980,8 +1918,8 @@
                     ]
                 }
             ],
-            "slug": "netherlands-eredivisie-football-ajax-utrecht-2026-05-24-19-00",
-            "startTimestamp": 1779638400000,
+            "slug": "netherlands-eredivisie-football-ajax-utrecht-2026-05-24-13-15",
+            "startTimestamp": 1779617700000,
             "duration": 120
         },
         {
@@ -2094,34 +2032,6 @@
             ],
             "slug": "spain-segunda-division-football-real-valladolid-deportivo-la-coruna-2026-05-24-19-30",
             "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:30 [NASCAR Euro Series] Motorsport: NASCAR GP France [Sportdigital1+ DE]",
-            "matchstr": "NASCAR GP France",
-            "time": "11:30",
-            "league": "NASCAR Euro Series",
-            "sport": "Motorsport",
-            "team1": "NASCAR GP France",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "nascar-euro-series-motorsport-nascar-gp-france-2026-05-24-11-30",
-            "startTimestamp": 1779611400000,
             "duration": 120
         },
         {
@@ -2508,6 +2418,17 @@
                     "links": [
                         "https://sansat.link/channel?id=70"
                     ]
+                },
+                {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
+                    ]
                 }
             ],
             "slug": "iihf-world-championship-hockey-germany-great-britain-2026-05-25-21-20",
@@ -2661,6 +2582,17 @@
                     ]
                 },
                 {
+                    "name": "Viaplay 3 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                },
+                {
                     "name": "Viaplay Sport",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=80"
@@ -2711,6 +2643,17 @@
                     ]
                 },
                 {
+                    "name": "Viaplay 3 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                },
+                {
                     "name": "Viaplay Sport",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=80"
@@ -2758,6 +2701,17 @@
                     "language": "SE",
                     "links": [
                         "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
                     ]
                 }
             ],
@@ -3099,6 +3053,730 @@
             ],
             "slug": "austria-bundesliga-football-rapid-wien-ried-2026-05-25-18-00",
             "startTimestamp": 1779721200000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NBA] Basketball: New York Knicks vs Cleveland Cavaliers [ESPN US]",
+            "matchstr": "New York Knicks vs Cleveland Cavaliers",
+            "time": "03:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "New York Knicks",
+            "team2": "Cleveland Cavaliers",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-new-york-knicks-cleveland-cavaliers-2026-05-26-03-00",
+            "startTimestamp": 1779753600000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:00 [NHL] Hockey: Carolina Hurricanes vs Montreal Canadiens [TNT US]",
+            "matchstr": "Carolina Hurricanes vs Montreal Canadiens",
+            "time": "03:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Carolina Hurricanes",
+            "team2": "Montreal Canadiens",
+            "channel": "TNT US",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TNT",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "TVA Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=3"
+                    ]
+                },
+                {
+                    "name": "V Sport Vinter",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-carolina-hurricanes-montreal-canadiens-2026-05-26-03-00",
+            "startTimestamp": 1779753600000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:30 [Germany Bundesliga 2] Greuther Furth vs Rot-Weiss Essen [Sky Sport Bundesliga 1 DE]",
+            "matchstr": "Greuther Furth vs Rot-Weiss Essen",
+            "time": "21:30",
+            "league": "Germany Bundesliga 2",
+            "sport": "Football",
+            "team1": "Greuther Furth",
+            "team2": "Rot-Weiss Essen",
+            "channel": "Sky Sport Bundesliga 1 DE",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "Sky Sport Bundesliga 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Viaplay 2 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": null,
+                    "links": [
+                        "https://sansat.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "germany-bundesliga-2-football-greuther-furth-rot-weiss-essen-2026-05-26-21-30",
+            "startTimestamp": 1779820200000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [France Ligue 1] Saint-Etienne vs Nice [DAZN1 DE]",
+            "matchstr": "Saint-Etienne vs Nice",
+            "time": "21:45",
+            "league": "France Ligue 1",
+            "sport": "Football",
+            "team1": "Saint-Etienne",
+            "team2": "Nice",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "beIN Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=39"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=51"
+                    ]
+                }
+            ],
+            "slug": "france-ligue-1-football-saint-etienne-nice-2026-05-26-21-45",
+            "startTimestamp": 1779821100000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Europe UEFA U17 European Championship] Italy U17 vs France U17 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Italy U17 vs France U17",
+            "time": "14:30",
+            "league": "Europe UEFA U17 European Championship",
+            "sport": "Football",
+            "team1": "Italy U17",
+            "team2": "France U17",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-european-championship-football-italy-u17-france-u17-2026-05-26-14-30",
+            "startTimestamp": 1779795000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Europe UEFA U17 European Championship] Montenegro U17 vs Denmark U17 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Montenegro U17 vs Denmark U17",
+            "time": "19:00",
+            "league": "Europe UEFA U17 European Championship",
+            "sport": "Football",
+            "team1": "Montenegro U17",
+            "team2": "Denmark U17",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-european-championship-football-montenegro-u17-denmark-u17-2026-05-26-19-00",
+            "startTimestamp": 1779811200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:15 [ACB] Basketball: Tecnyconta Zaragoza vs Valencia [DAZN ES]",
+            "matchstr": "Tecnyconta Zaragoza vs Valencia",
+            "time": "22:15",
+            "league": "ACB",
+            "sport": "Basketball",
+            "team1": "Tecnyconta Zaragoza",
+            "team2": "Valencia",
+            "channel": "DAZN ES",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                }
+            ],
+            "slug": "acb-basketball-tecnyconta-zaragoza-valencia-2026-05-26-22-15",
+            "startTimestamp": 1779822900000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [Memorial Cup] Hockey: Everett Silvertips vs Kitchener Rangers [TSN1 CA]",
+            "matchstr": "Everett Silvertips vs Kitchener Rangers",
+            "time": "04:00",
+            "league": "Memorial Cup",
+            "sport": "Hockey",
+            "team1": "Everett Silvertips",
+            "team2": "Kitchener Rangers",
+            "channel": "TSN1 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "memorial-cup-hockey-everett-silvertips-kitchener-rangers-2026-05-26-04-00",
+            "startTimestamp": 1779757200000,
+            "duration": 180
+        },
+        {
+            "matchText": "13:20 [IIHF World Championship] Hockey: Hungary vs Latvia [TSN2 CA]",
+            "matchstr": "Hungary vs Latvia",
+            "time": "13:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Hungary",
+            "team2": "Latvia",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "TV10",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-hungary-latvia-2026-05-26-13-20",
+            "startTimestamp": 1779790800000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:20 [IIHF World Championship] Hockey: USA vs Austria [TSN2 CA]",
+            "matchstr": "USA vs Austria",
+            "time": "17:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "USA",
+            "team2": "Austria",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "TV10",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-usa-austria-2026-05-26-17-20",
+            "startTimestamp": 1779805200000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: Switzerland vs Finland [TSN2 CA]",
+            "matchstr": "Switzerland vs Finland",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Switzerland",
+            "team2": "Finland",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "TV10",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-switzerland-finland-2026-05-26-21-20",
+            "startTimestamp": 1779819600000,
+            "duration": 180
+        },
+        {
+            "matchText": "13:20 [IIHF World Championship] Hockey: Norway vs Denmark [TSN4 CA]",
+            "matchstr": "Norway vs Denmark",
+            "time": "13:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Norway",
+            "team2": "Denmark",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "TV3 +",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=69"
+                    ]
+                },
+                {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-norway-denmark-2026-05-26-13-20",
+            "startTimestamp": 1779790800000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:20 [IIHF World Championship] Hockey: Sweden vs Slovakia [TSN4 CA]",
+            "matchstr": "Sweden vs Slovakia",
+            "time": "17:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Sweden",
+            "team2": "Slovakia",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "Viaplay 3 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-sweden-slovakia-2026-05-26-17-20",
+            "startTimestamp": 1779805200000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: Czech Republic vs Canada [TSN4 CA]",
+            "matchstr": "Czech Republic vs Canada",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Czech Republic",
+            "team2": "Canada",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "Viaplay 3 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-czech-republic-canada-2026-05-26-21-20",
+            "startTimestamp": 1779819600000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:00 [Finland Suomen Cup] VPS vs Haka [Ruutu+ FI]",
+            "matchstr": "VPS vs Haka",
+            "time": "16:00",
+            "league": "Finland Suomen Cup",
+            "sport": "Football",
+            "team1": "VPS",
+            "team2": "Haka",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "finland-suomen-cup-football-vps-haka-2026-05-26-16-00",
+            "startTimestamp": 1779800400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Superettan] Orebro vs Helsingborg [TV4 Fotball SE]",
+            "matchstr": "Orebro vs Helsingborg",
+            "time": "20:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "Orebro",
+            "team2": "Helsingborg",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-orebro-helsingborg-2026-05-26-20-00",
+            "startTimestamp": 1779814800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Finland Suomen Cup] SJK Akatemia vs SJK [Ruutu+ FI]",
+            "matchstr": "SJK Akatemia vs SJK",
+            "time": "18:00",
+            "league": "Finland Suomen Cup",
+            "sport": "Football",
+            "team1": "SJK Akatemia",
+            "team2": "SJK",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "finland-suomen-cup-football-sjk-akatemia-sjk-2026-05-26-18-00",
+            "startTimestamp": 1779807600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Finland Suomen Cup] Honka vs VJS [Ruutu+ FI]",
+            "matchstr": "Honka vs VJS",
+            "time": "19:00",
+            "league": "Finland Suomen Cup",
+            "sport": "Football",
+            "team1": "Honka",
+            "team2": "VJS",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-05-26",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "finland-suomen-cup-football-honka-vjs-2026-05-26-19-00",
+            "startTimestamp": 1779811200000,
             "duration": 120
         }
     ]
