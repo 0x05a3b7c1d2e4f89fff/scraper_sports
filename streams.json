@@ -817,34 +817,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:35 [NASCAR Euro Series] Motorsport: NASCAR GP Frankreich [Sportdigital1+ DE]",
-            "matchstr": "NASCAR GP Frankreich",
-            "time": "15:35",
-            "league": "NASCAR Euro Series",
-            "sport": "Motorsport",
-            "team1": "NASCAR GP Frankreich",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "nascar-euro-series-motorsport-nascar-gp-frankreich-2026-05-24-15-35",
-            "startTimestamp": 1779626100000,
-            "duration": 120
-        },
-        {
             "matchText": "21:05 [MLB] Baseball: Milwaukee Brewers vs Los Angeles Dodgers [Sportdigital1+ DE]",
             "matchstr": "Milwaukee Brewers vs Los Angeles Dodgers",
             "time": "21:05",
@@ -1027,73 +999,6 @@
             "slug": "iihf-world-championship-hockey-denmark-italy-2026-05-24-17-20",
             "startTimestamp": 1779632400000,
             "duration": 180
-        },
-        {
-            "matchText": "17:00 [IPL] Cricket: Kolkata Knight Riders vs Delhi Capitals [Sky Sports Cricket GB]",
-            "matchstr": "Kolkata Knight Riders vs Delhi Capitals",
-            "time": "17:00",
-            "league": "IPL",
-            "sport": "Cricket",
-            "team1": "Kolkata Knight Riders",
-            "team2": "Delhi Capitals",
-            "channel": "Sky Sports Cricket GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Cricket",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=36"
-                    ]
-                }
-            ],
-            "slug": "ipl-cricket-kolkata-knight-riders-delhi-capitals-2026-05-24-17-00",
-            "startTimestamp": 1779631200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Italy Serie A] Parma vs Sassuolo [beIN Sports 1 AU]",
-            "matchstr": "Parma vs Sassuolo",
-            "time": "16:00",
-            "league": "Italy Serie A",
-            "sport": "Football",
-            "team1": "Parma",
-            "team2": "Sassuolo",
-            "channel": "beIN Sports 1 AU",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "AU",
-                    "links": [
-                        "https://sansat.link/channel?id=38"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "italy-serie-a-football-parma-sassuolo-2026-05-24-16-00",
-            "startTimestamp": 1779627600000,
-            "duration": 120
         },
         {
             "matchText": "21:45 [Italy Serie A] Milan vs Cagliari [beIN Sports 1 AU]",
@@ -1786,34 +1691,6 @@
             ],
             "slug": "spain-segunda-division-football-real-valladolid-deportivo-la-coruna-2026-05-24-19-30",
             "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:30 [NASCAR Euro Series] Motorsport: NASCAR GP France [Sportdigital1+ DE]",
-            "matchstr": "NASCAR GP France",
-            "time": "15:30",
-            "league": "NASCAR Euro Series",
-            "sport": "Motorsport",
-            "team1": "NASCAR GP France",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "nascar-euro-series-motorsport-nascar-gp-france-2026-05-24-15-30",
-            "startTimestamp": 1779625800000,
             "duration": 120
         },
         {
