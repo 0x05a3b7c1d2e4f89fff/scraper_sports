@@ -284,45 +284,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [England League One] Bolton Wanderers vs Stockport County [Sky Sports Football GB]",
-            "matchstr": "Bolton Wanderers vs Stockport County",
-            "time": "15:00",
-            "league": "England League One",
-            "sport": "Football",
-            "team1": "Bolton Wanderers",
-            "team2": "Stockport County",
-            "channel": "Sky Sports Football GB",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sky Sports Football",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "england-league-one-football-bolton-wanderers-stockport-county-2026-05-24-15-00",
-            "startTimestamp": 1779624000000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [England Premier League] West Ham United vs Leeds United [Sky Sports Football GB]",
             "matchstr": "West Ham United vs Leeds United",
             "time": "18:00",
@@ -806,45 +767,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Czech Republic 1. liga] Slavia Praha vs Viktoria Plzen [Sportdigital FUSSBALL DE]",
-            "matchstr": "Slavia Praha vs Viktoria Plzen",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Slavia Praha",
-            "team2": "Viktoria Plzen",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                },
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=42"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-slavia-praha-viktoria-plzen-2026-05-24-15-00",
-            "startTimestamp": 1779624000000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [England Premier League] Fulham vs Newcastle United [Sky Sport 9 DE]",
             "matchstr": "Fulham vs Newcastle United",
             "time": "18:00",
@@ -1252,34 +1174,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Czech Republic 1. liga] Sparta Praha vs Hradec Kralove [Oneplay Sport CZ]",
-            "matchstr": "Sparta Praha vs Hradec Kralove",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Sparta Praha",
-            "team2": "Hradec Kralove",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-sparta-praha-hradec-kralove-2026-05-24-15-00",
-            "startTimestamp": 1779624000000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [PFL] MMA: Mohammad Yahya vs Mehdi Saadi [Oneplay Sport 2 CZ]",
             "matchstr": "Mohammad Yahya vs Mehdi Saadi",
             "time": "17:00",
@@ -1317,34 +1211,6 @@
             "slug": "pfl-mma-mohammad-yahya-mehdi-saadi-2026-05-24-17-00",
             "startTimestamp": 1779631200000,
             "duration": 180
-        },
-        {
-            "matchText": "15:00 [Czech Republic 1. liga] Jablonec vs Slovan Liberec [Oneplay Sport CZ]",
-            "matchstr": "Jablonec vs Slovan Liberec",
-            "time": "15:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Jablonec",
-            "team2": "Slovan Liberec",
-            "channel": "Oneplay Sport CZ",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Oneplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=43"
-                    ],
-                    "number": 43,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=43"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-jablonec-slovan-liberec-2026-05-24-15-00",
-            "startTimestamp": 1779624000000,
-            "duration": 120
         },
         {
             "matchText": "17:20 [IIHF World Championship] Hockey: Great Britain vs Latvia [CT Sport CZ]",
@@ -1615,34 +1481,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Sweden Allsvenskan] Sirius vs GAIS [TV4 Sport Live 2 SE]",
-            "matchstr": "Sirius vs GAIS",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Sirius",
-            "team2": "GAIS",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-sirius-gais-2026-05-24-15-00",
-            "startTimestamp": 1779624000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [Italy Serie A] Lecce vs Genoa [TV4 Sport Live 2 SE]",
             "matchstr": "Lecce vs Genoa",
             "time": "21:45",
@@ -1671,34 +1509,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:05 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
-            "matchstr": "Royal Rally of Scandinavia",
-            "time": "14:05",
-            "league": "WRC",
-            "sport": "Football",
-            "team1": "Royal Rally of Scandinavia",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-14-05",
-            "startTimestamp": 1779620700000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [WRC] Royal Rally of Scandinavia [TV4 Motor SE]",
             "matchstr": "Royal Rally of Scandinavia",
             "time": "18:00",
@@ -1724,34 +1534,6 @@
             ],
             "slug": "wrc-football-royal-rally-of-scandinavia-2026-05-24-18-00",
             "startTimestamp": 1779634800000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Sweden Allsvenskan] Hammarby vs AIK [TV4 Fotball SE]",
-            "matchstr": "Hammarby vs AIK",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Hammarby",
-            "team2": "AIK",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-hammarby-aik-2026-05-24-15-00",
-            "startTimestamp": 1779624000000,
             "duration": 120
         },
         {
@@ -1892,34 +1674,6 @@
             ],
             "slug": "indycar-motorsport-indianapolis-500-2026-05-24-19-30",
             "startTimestamp": 1779640200000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:15 [Netherlands Eredivisie] Ajax vs Utrecht [ESPN NL]",
-            "matchstr": "Ajax vs Utrecht",
-            "time": "13:15",
-            "league": "Netherlands Eredivisie",
-            "sport": "Football",
-            "team1": "Ajax",
-            "team2": "Utrecht",
-            "channel": "ESPN NL",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://sansat.link/channel?id=88"
-                    ]
-                }
-            ],
-            "slug": "netherlands-eredivisie-football-ajax-utrecht-2026-05-24-13-15",
-            "startTimestamp": 1779617700000,
             "duration": 120
         },
         {
