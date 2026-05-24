@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NBA] Basketball: New York Knicks vs Cleveland Cavaliers [ABC US]",
-            "matchstr": "New York Knicks vs Cleveland Cavaliers",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "New York Knicks",
-            "team2": "Cleveland Cavaliers",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-new-york-knicks-cleveland-cavaliers-2026-05-24-03-00",
-            "startTimestamp": 1779580800000,
-            "duration": 180
-        },
-        {
             "matchText": "18:00 [England Premier League] Crystal Palace vs Arsenal [Sky Sports Premier League GB]",
             "matchstr": "Crystal Palace vs Arsenal",
             "time": "18:00",
@@ -221,45 +182,6 @@
             "slug": "italy-serie-a-football-cremonese-como-2026-05-24-21-45",
             "startTimestamp": 1779648300000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [NHL] Hockey: Montreal Canadiens vs Carolina Hurricanes [TNT US]",
-            "matchstr": "Montreal Canadiens vs Carolina Hurricanes",
-            "time": "02:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Montreal Canadiens",
-            "team2": "Carolina Hurricanes",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-montreal-canadiens-carolina-hurricanes-2026-05-24-02-00",
-            "startTimestamp": 1779577200000,
-            "duration": 180
         },
         {
             "matchText": "18:00 [England Premier League] Manchester City vs Aston Villa [Sky Sports Action GB]",
@@ -1152,118 +1074,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Charlotte vs New England [MLS Season Pass US]",
-            "matchstr": "Charlotte vs New England",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Charlotte",
-            "team2": "New England",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-charlotte-new-england-2026-05-24-02-30",
-            "startTimestamp": 1779579000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Chicago Fire vs Toronto FC [TSN2 CA]",
-            "matchstr": "Chicago Fire vs Toronto FC",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Chicago Fire",
-            "team2": "Toronto FC",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-chicago-fire-toronto-fc-2026-05-24-03-30",
-            "startTimestamp": 1779582600000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:30 [USA/Canada Major League Soccer] LA Galaxy vs Houston Dynamo [TSN2 CA]",
-            "matchstr": "LA Galaxy vs Houston Dynamo",
-            "time": "05:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "LA Galaxy",
-            "team2": "Houston Dynamo",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-la-galaxy-houston-dynamo-2026-05-24-05-30",
-            "startTimestamp": 1779589800000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] Cincinnati vs Orlando City SC [MLS Season Pass US]",
-            "matchstr": "Cincinnati vs Orlando City SC",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Cincinnati",
-            "team2": "Orlando City SC",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-cincinnati-orlando-city-sc-2026-05-24-02-30",
-            "startTimestamp": 1779579000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Italy Serie A] Napoli vs Udinese [beIN Sports 3 AU]",
             "matchstr": "Napoli vs Udinese",
             "time": "19:00",
@@ -1289,34 +1099,6 @@
             ],
             "slug": "italy-serie-a-football-napoli-udinese-2026-05-24-19-00",
             "startTimestamp": 1779638400000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [USA/Canada Major League Soccer] DC United vs CF Montreal [MLS Season Pass US]",
-            "matchstr": "DC United vs CF Montreal",
-            "time": "02:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "DC United",
-            "team2": "CF Montreal",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-dc-united-cf-montreal-2026-05-24-02-30",
-            "startTimestamp": 1779579000000,
             "duration": 120
         },
         {
@@ -1359,62 +1141,6 @@
             "duration": 180
         },
         {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Nashville SC vs New York City [MLS Season Pass US]",
-            "matchstr": "Nashville SC vs New York City",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Nashville SC",
-            "team2": "New York City",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-nashville-sc-new-york-city-2026-05-24-03-30",
-            "startTimestamp": 1779582600000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:30 [USA/Canada Major League Soccer] Sporting KC vs New York RB [MLS Season Pass US]",
-            "matchstr": "Sporting KC vs New York RB",
-            "time": "03:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Sporting KC",
-            "team2": "New York RB",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=36"
-                    ],
-                    "number": 36,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=36"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-sporting-kc-new-york-rb-2026-05-24-03-30",
-            "startTimestamp": 1779582600000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [IPL] Cricket: Kolkata Knight Riders vs Delhi Capitals [Sky Sports Cricket GB]",
             "matchstr": "Kolkata Knight Riders vs Delhi Capitals",
             "time": "17:00",
@@ -1443,34 +1169,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:30 [USA/Canada Major League Soccer] Colorado Rapids vs Dallas [MLS Season Pass US]",
-            "matchstr": "Colorado Rapids vs Dallas",
-            "time": "04:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Colorado Rapids",
-            "team2": "Dallas",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=37"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-colorado-rapids-dallas-2026-05-24-04-30",
-            "startTimestamp": 1779586200000,
-            "duration": 120
-        },
-        {
             "matchText": "13:00 [IPL] Cricket: Mumbai Indians vs Rajasthan Royals [Sky Sports Mix GB]",
             "matchstr": "Mumbai Indians vs Rajasthan Royals",
             "time": "13:00",
@@ -1496,34 +1194,6 @@
             ],
             "slug": "ipl-cricket-mumbai-indians-rajasthan-royals-2026-05-24-13-00",
             "startTimestamp": 1779616800000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [USA/Canada Major League Soccer] Portland Timbers vs SJ Earthquakes [MLS Season Pass US]",
-            "matchstr": "Portland Timbers vs SJ Earthquakes",
-            "time": "04:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "Portland Timbers",
-            "team2": "SJ Earthquakes",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-portland-timbers-sj-earthquakes-2026-05-24-04-30",
-            "startTimestamp": 1779586200000,
             "duration": 120
         },
         {
@@ -1602,34 +1272,6 @@
             ],
             "slug": "italy-serie-a-football-milan-cagliari-2026-05-24-21-45",
             "startTimestamp": 1779648300000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [USA/Canada Major League Soccer] San Diego vs Vancouver Whitecaps [MLS Season Pass US]",
-            "matchstr": "San Diego vs Vancouver Whitecaps",
-            "time": "04:30",
-            "league": "USA/Canada Major League Soccer",
-            "sport": "Football",
-            "team1": "San Diego",
-            "team2": "Vancouver Whitecaps",
-            "channel": "MLS Season Pass US",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "MLS Season Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=39"
-                    ]
-                }
-            ],
-            "slug": "usa-canada-major-league-soccer-football-san-diego-vancouver-whitecaps-2026-05-24-04-30",
-            "startTimestamp": 1779586200000,
             "duration": 120
         },
         {
@@ -2424,62 +2066,6 @@
             ],
             "slug": "argentina-primera-division-football-river-plate-belgrano-2026-05-24-21-30",
             "startTimestamp": 1779647400000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Colombia Primera A] Atletico Nacional vs Deportes Tolima [Win Sport ES]",
-            "matchstr": "Atletico Nacional vs Deportes Tolima",
-            "time": "02:00",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Atletico Nacional",
-            "team2": "Deportes Tolima",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-atletico-nacional-deportes-tolima-2026-05-24-02-00",
-            "startTimestamp": 1779577200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [Colombia Primera A] Junior vs Santa Fe [Win Sport ES]",
-            "matchstr": "Junior vs Santa Fe",
-            "time": "04:30",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Junior",
-            "team2": "Santa Fe",
-            "channel": "Win Sport ES",
-            "important": false,
-            "matchDate": "2026-05-24",
-            "channels": [
-                {
-                    "name": "Win Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-junior-santa-fe-2026-05-24-04-30",
-            "startTimestamp": 1779586200000,
             "duration": 120
         },
         {
