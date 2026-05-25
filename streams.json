@@ -179,67 +179,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:20 [IIHF World Championship] Hockey: Czech Republic vs Norway [TSN2 CA]",
-            "matchstr": "Czech Republic vs Norway",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Czech Republic",
-            "team2": "Norway",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-05-25",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                },
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                },
-                {
-                    "name": "Viaplay 3 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-czech-republic-norway-2026-05-25-17-20",
-            "startTimestamp": 1779718800000,
-            "duration": 180
-        },
-        {
             "matchText": "21:20 [IIHF World Championship] Hockey: Slovenia vs Italy [TSN2 CA]",
             "matchstr": "Slovenia vs Italy",
             "time": "21:20",
@@ -301,84 +240,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:20 [IIHF World Championship] Hockey: USA vs Hungary [TSN4 CA]",
-            "matchstr": "USA vs Hungary",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "USA",
-            "team2": "Hungary",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-25",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "TV10",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                },
-                {
-                    "name": "Viaplay 1 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-usa-hungary-2026-05-25-17-20",
-            "startTimestamp": 1779718800000,
-            "duration": 180
-        },
-        {
-            "matchText": "17:45 [Bulgaria Parva Liga] Lokomotiv Plovdiv vs Botev Plovdiv [Diema Sport BG]",
-            "matchstr": "Lokomotiv Plovdiv vs Botev Plovdiv",
-            "time": "17:45",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Lokomotiv Plovdiv",
-            "team2": "Botev Plovdiv",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-05-25",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://sansat.link/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-lokomotiv-plovdiv-botev-plovdiv-2026-05-25-17-45",
-            "startTimestamp": 1779720300000,
-            "duration": 120
-        },
-        {
             "matchText": "20:30 [Bulgaria Parva Liga] Ludogorets vs CSKA Sofia [Diema Sport BG]",
             "matchstr": "Ludogorets vs CSKA Sofia",
             "time": "20:30",
@@ -404,34 +265,6 @@
             ],
             "slug": "bulgaria-parva-liga-football-ludogorets-cska-sofia-2026-05-25-20-30",
             "startTimestamp": 1779730200000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:45 [Bulgaria Parva Liga] Cherno More vs Arda [Diema Sport 2 BG]",
-            "matchstr": "Cherno More vs Arda",
-            "time": "17:45",
-            "league": "Bulgaria Parva Liga",
-            "sport": "Football",
-            "team1": "Cherno More",
-            "team2": "Arda",
-            "channel": "Diema Sport 2 BG",
-            "important": false,
-            "matchDate": "2026-05-25",
-            "channels": [
-                {
-                    "name": "Diema Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BG",
-                    "links": [
-                        "https://sansat.link/channel?id=49"
-                    ]
-                }
-            ],
-            "slug": "bulgaria-parva-liga-football-cherno-more-arda-2026-05-25-17-45",
-            "startTimestamp": 1779720300000,
             "duration": 120
         },
         {
@@ -544,34 +377,6 @@
             ],
             "slug": "sweden-superettan-football-norrkoping-oster-2026-05-25-20-05",
             "startTimestamp": 1779728700000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Austria Bundesliga] Rapid Wien vs Ried [Sky Sport Austria 1 AT]",
-            "matchstr": "Rapid Wien vs Ried",
-            "time": "18:00",
-            "league": "Austria Bundesliga",
-            "sport": "Football",
-            "team1": "Rapid Wien",
-            "team2": "Ried",
-            "channel": "Sky Sport Austria 1 AT",
-            "important": false,
-            "matchDate": "2026-05-25",
-            "channels": [
-                {
-                    "name": "Sky Sport Austria 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "AT",
-                    "links": [
-                        "https://sansat.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "austria-bundesliga-football-rapid-wien-ried-2026-05-25-18-00",
-            "startTimestamp": 1779721200000,
             "duration": 120
         },
         {
