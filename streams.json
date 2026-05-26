@@ -90,34 +90,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Europe UEFA U17 European Championship] Montenegro U17 vs Denmark U17 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Montenegro U17 vs Denmark U17",
-            "time": "19:00",
-            "league": "Europe UEFA U17 European Championship",
-            "sport": "Football",
-            "team1": "Montenegro U17",
-            "team2": "Denmark U17",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u17-european-championship-football-montenegro-u17-denmark-u17-2026-05-26-19-00",
-            "startTimestamp": 1779811200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:15 [ACB] Basketball: Tecnyconta Zaragoza vs Valencia [DAZN ES]",
             "matchstr": "Tecnyconta Zaragoza vs Valencia",
             "time": "22:15",
@@ -255,62 +227,6 @@
             "slug": "iihf-world-championship-hockey-czech-republic-canada-2026-05-26-21-20",
             "startTimestamp": 1779819600000,
             "duration": 180
-        },
-        {
-            "matchText": "20:00 [Sweden Superettan] Orebro vs Helsingborg [TV4 Fotball SE]",
-            "matchstr": "Orebro vs Helsingborg",
-            "time": "20:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Orebro",
-            "team2": "Helsingborg",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-orebro-helsingborg-2026-05-26-20-00",
-            "startTimestamp": 1779814800000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Finland Suomen Cup] Honka vs VJS [Ruutu+ FI]",
-            "matchstr": "Honka vs VJS",
-            "time": "19:00",
-            "league": "Finland Suomen Cup",
-            "sport": "Football",
-            "team1": "Honka",
-            "team2": "VJS",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "finland-suomen-cup-football-honka-vjs-2026-05-26-19-00",
-            "startTimestamp": 1779811200000,
-            "duration": 120
         },
         {
             "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs Oklahoma City Thunder [Sportsnet 360 CA]",
@@ -744,12 +660,12 @@
                 {
                     "name": "TSN1",
                     "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
+                        "https://nrdrse.link/ch.php?id=30"
                     ],
-                    "number": 31,
+                    "number": 30,
                     "language": "CA",
                     "links": [
-                        "https://sansat.link/channel?id=31"
+                        "https://sansat.link/channel?id=30"
                     ]
                 }
             ],
