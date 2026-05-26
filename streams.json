@@ -90,34 +90,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Europe UEFA U17 European Championship] Italy U17 vs France U17 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Italy U17 vs France U17",
-            "time": "14:30",
-            "league": "Europe UEFA U17 European Championship",
-            "sport": "Football",
-            "team1": "Italy U17",
-            "team2": "France U17",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u17-european-championship-football-italy-u17-france-u17-2026-05-26-14-30",
-            "startTimestamp": 1779795000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Europe UEFA U17 European Championship] Montenegro U17 vs Denmark U17 [Sportdigital FUSSBALL DE]",
             "matchstr": "Montenegro U17 vs Denmark U17",
             "time": "19:00",
@@ -172,45 +144,6 @@
             "slug": "acb-basketball-tecnyconta-zaragoza-valencia-2026-05-26-22-15",
             "startTimestamp": 1779822900000,
             "duration": 120
-        },
-        {
-            "matchText": "13:20 [IIHF World Championship] Hockey: Hungary vs Latvia [TSN2 CA]",
-            "matchstr": "Hungary vs Latvia",
-            "time": "13:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Hungary",
-            "team2": "Latvia",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                },
-                {
-                    "name": "TV10",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-hungary-latvia-2026-05-26-13-20",
-            "startTimestamp": 1779790800000,
-            "duration": 180
         },
         {
             "matchText": "17:20 [IIHF World Championship] Hockey: USA vs Austria [TSN2 CA]",
@@ -310,67 +243,6 @@
             ],
             "slug": "iihf-world-championship-hockey-switzerland-finland-2026-05-26-21-20",
             "startTimestamp": 1779819600000,
-            "duration": 180
-        },
-        {
-            "matchText": "13:20 [IIHF World Championship] Hockey: Norway vs Denmark [TSN4 CA]",
-            "matchstr": "Norway vs Denmark",
-            "time": "13:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Norway",
-            "team2": "Denmark",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "TV3 +",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                },
-                {
-                    "name": "Viaplay 1 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-norway-denmark-2026-05-26-13-20",
-            "startTimestamp": 1779790800000,
             "duration": 180
         },
         {
