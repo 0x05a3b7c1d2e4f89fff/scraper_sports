@@ -1,95 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NBA] Basketball: New York Knicks vs Cleveland Cavaliers [ESPN US]",
-            "matchstr": "New York Knicks vs Cleveland Cavaliers",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "New York Knicks",
-            "team2": "Cleveland Cavaliers",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-new-york-knicks-cleveland-cavaliers-2026-05-26-03-00",
-            "startTimestamp": 1779753600000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [NHL] Hockey: Carolina Hurricanes vs Montreal Canadiens [TNT US]",
-            "matchstr": "Carolina Hurricanes vs Montreal Canadiens",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Carolina Hurricanes",
-            "team2": "Montreal Canadiens",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "V Sport Vinter",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-carolina-hurricanes-montreal-canadiens-2026-05-26-03-00",
-            "startTimestamp": 1779753600000,
-            "duration": 180
-        },
-        {
             "matchText": "21:30 [Germany Bundesliga 2] Greuther Furth vs Rot-Weiss Essen [Sky Sport Bundesliga 1 DE]",
             "matchstr": "Greuther Furth vs Rot-Weiss Essen",
             "time": "21:30",
@@ -261,34 +172,6 @@
             "slug": "acb-basketball-tecnyconta-zaragoza-valencia-2026-05-26-22-15",
             "startTimestamp": 1779822900000,
             "duration": 120
-        },
-        {
-            "matchText": "04:00 [Memorial Cup] Hockey: Everett Silvertips vs Kitchener Rangers [TSN1 CA]",
-            "matchstr": "Everett Silvertips vs Kitchener Rangers",
-            "time": "04:00",
-            "league": "Memorial Cup",
-            "sport": "Hockey",
-            "team1": "Everett Silvertips",
-            "team2": "Kitchener Rangers",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-05-26",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                }
-            ],
-            "slug": "memorial-cup-hockey-everett-silvertips-kitchener-rangers-2026-05-26-04-00",
-            "startTimestamp": 1779757200000,
-            "duration": 180
         },
         {
             "matchText": "13:20 [IIHF World Championship] Hockey: Hungary vs Latvia [TSN2 CA]",
