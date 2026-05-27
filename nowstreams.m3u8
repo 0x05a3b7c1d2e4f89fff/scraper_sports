@@ -13,8 +13,6 @@ https://sansat.link/channel?id=30
 https://sansat.link/channel?id=47
 #EXTINF:-1 tvg-id="europe-uefa-conference-league-football-crystal-palace-rayo-vallecano-2026-05-27-22-00" group-title="Europe UEFA Conference League",Crystal Palace vs Rayo Vallecano (Canal+ Foot)
 https://sansat.link/channel?id=50
-#EXTINF:-1 tvg-id="czech-republic-1-liga-football-artis-slovacko-2026-05-27-19-00" group-title="Czech Republic 1. liga",Artis vs Slovacko (Oneplay Sport)
-https://sansat.link/channel?id=41
 #EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-montreal-canadiens-2026-05-28-03-00" group-title="NHL",Carolina Hurricanes vs Montreal Canadiens (TNT)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-montreal-canadiens-2026-05-28-03-00" group-title="NHL",Carolina Hurricanes vs Montreal Canadiens (Viaplay 1 Urheilu)
@@ -71,24 +69,40 @@ https://sansat.link/channel?id=38
 https://sansat.link/channel?id=31
 #EXTINF:-1 tvg-id="nhl-memorial-cup-kelowna-rockets-everett-silvertips-2026-05-28-04-00" group-title="NHL",Kelowna Rockets vs Everett Silvertips (TSN1)
 https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-tbd-tbd-2026-05-28-17-20" group-title="IIHF World Championship",TBD vs TBD (CA)
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (RDS)
 https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-tbd-tbd-2026-05-28-17-20" group-title="IIHF World Championship",TBD vs TBD (FI)
-https://sansat.link/channel?id=71
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-tbd-tbd-2026-05-28-17-20" group-title="IIHF World Championship",TBD vs TBD (SE)
-https://sansat.link/channel?id=79
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-tbd-tbd-2026-05-28-21-20" group-title="IIHF World Championship",TBD vs TBD (CA)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-tbd-tbd-2026-05-28-21-20" group-title="IIHF World Championship",TBD vs TBD (FI)
-https://sansat.link/channel?id=71
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-tbd-tbd-2026-05-28-21-20" group-title="IIHF World Championship",TBD vs TBD (SE)
-https://sansat.link/channel?id=79
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (TSN2)
+https://sansat.link/channel?id=32
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (Viaplay 3 Urheilu)
+https://sansat.link/channel?id=73
 #EXTINF:-1 tvg-id="south-america-copa-libertadores-football-libertad-ucv-2026-05-28-01-00" group-title="South America Copa Libertadores",Libertad vs UCV (beIN SPORTS 2)
 https://sansat.link/channel?id=32
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (TSN2)
+https://sansat.link/channel?id=32
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (ČT Sport)
+https://sansat.link/channel?id=41
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (Viaplay 1 Urheilu)
+https://sansat.link/channel?id=71
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (Viaplay Sport)
+https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="south-america-copa-libertadores-football-bolivar-independiente-rivadavia-2026-05-28-03-30" group-title="South America Copa Libertadores",Bolivar vs Independiente Rivadavia (beIN SPORTS 3)
 https://sansat.link/channel?id=33
 #EXTINF:-1 tvg-id="wnba-basketball-toronto-tempo-chicago-sky-2026-05-28-03-00" group-title="WNBA",Toronto Tempo vs Chicago Sky (TSN4)
 https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (TSN 4)
+https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (ČT Sport)
+https://sansat.link/channel?id=41
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (Viaplay 1 Urheilu)
+https://sansat.link/channel?id=71
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (Viaplay Sport)
+https://sansat.link/channel?id=80
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-latvia-2026-05-28-21-20" group-title="IIHF World Championship",Norway vs Latvia (TSN 4)
+https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-latvia-2026-05-28-21-20" group-title="IIHF World Championship",Norway vs Latvia (Viaplay 3 Urheilu)
+https://sansat.link/channel?id=73
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-latvia-2026-05-28-21-20" group-title="IIHF World Championship",Norway vs Latvia (V sport 1)
+https://sansat.link/channel?id=79
 #EXTINF:-1 tvg-id="wnba-basketball-connecticut-sun-portland-fire-2026-05-28-05-00" group-title="WNBA",Connecticut Sun vs Portland Fire (TSN5)
 https://sansat.link/channel?id=35
 #EXTINF:-1 tvg-id="south-america-copa-libertadores-football-penarol-santa-fe-2026-05-28-03-30" group-title="South America Copa Libertadores",Penarol vs Santa Fe (beIN SPORTS)
@@ -101,7 +115,95 @@ https://sansat.link/channel?id=48
 https://sansat.link/channel?id=60
 #EXTINF:-1 tvg-id="poland-i-liga-football-wieczysta-krakow-polonia-warszawa-2026-05-28-21-00" group-title="Poland I Liga",Wieczysta Krakow vs Polonia Warszawa (TVP Sport)
 https://sansat.link/channel?id=60
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (TV10)
+https://sansat.link/channel?id=79
 #EXTINF:-1 tvg-id="afl-australian-football-hawthorn-hawks-st-kilda-saints-2026-05-28-12-30" group-title="AFL",Hawthorn Hawks vs St. Kilda Saints (Fox Sports 2)
 https://sansat.link/channel?id=82
 #EXTINF:-1 tvg-id="international-friendly-matches-football-egypt-russia-2026-05-28-15-00" group-title="International Friendly Matches",Egypt vs Russia (Fox Deportes)
 https://sansat.link/channel?id=87
+#EXTINF:-1 tvg-id="nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-29-03-30" group-title="NBA",Oklahoma City Thunder vs San Antonio Spurs (Peacock)
+https://sansat.link/channel?id=1
+#EXTINF:-1 tvg-id="nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-29-03-30" group-title="NBA",Oklahoma City Thunder vs San Antonio Spurs (Sportsnet 360)
+https://sansat.link/channel?id=2
+#EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-29-09-30" group-title="MotoGP",Italian Grand Prix (TNT Sports 2)
+https://sansat.link/channel?id=2
+#EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-29-09-30" group-title="MotoGP",Italian Grand Prix (Sky Sport MotoGP)
+https://sansat.link/channel?id=47
+#EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-29-09-30" group-title="MotoGP",Italian Grand Prix (V Sport Motor)
+https://sansat.link/channel?id=79
+#EXTINF:-1 tvg-id="rugby-english-premiership-rugby-bristol-bears-bath-2026-05-29-10-05" group-title="Rugby English Premiership",Bristol Bears vs Bath (TNT Sports 2)
+https://sansat.link/channel?id=2
+#EXTINF:-1 tvg-id="international-club-friendly-matches-football-mamelodi-sundowns-rb-leipzig-2026-05-29-20-00" group-title="International Club Friendly Matches",Mamelodi Sundowns vs RB Leipzig (Sky Sport Bundesliga 1)
+https://sansat.link/channel?id=11
+#EXTINF:-1 tvg-id="france-ligue-1-football-nice-saint-etienne-2026-05-29-21-45" group-title="France Ligue 1",Nice vs Saint-Etienne (DAZN1)
+https://sansat.link/channel?id=17
+#EXTINF:-1 tvg-id="france-ligue-1-football-nice-saint-etienne-2026-05-29-21-45" group-title="France Ligue 1",Nice vs Saint-Etienne (beIN Sports)
+https://sansat.link/channel?id=39
+#EXTINF:-1 tvg-id="france-ligue-1-football-nice-saint-etienne-2026-05-29-21-45" group-title="France Ligue 1",Nice vs Saint-Etienne (beIN Sports 1)
+https://sansat.link/channel?id=51
+#EXTINF:-1 tvg-id="europe-uefa-u17-euro-qualification-football-montenegro-u17-italy-u17-2026-05-29-14-30" group-title="Europe UEFA U17 Euro Qualification",Montenegro U17 vs Italy U17 (Sportdigital FUSSBALL)
+https://sansat.link/channel?id=19
+#EXTINF:-1 tvg-id="europe-uefa-u17-euro-qualification-football-france-u17-denmark-u17-2026-05-29-19-00" group-title="Europe UEFA U17 Euro Qualification",France U17 vs Denmark U17 (Sportdigital FUSSBALL)
+https://sansat.link/channel?id=19
+#EXTINF:-1 tvg-id="acb-basketball-tenerife-bilbao-2026-05-29-21-30" group-title="ACB",Tenerife vs Bilbao (Sportdigital1+)
+https://sansat.link/channel?id=20
+#EXTINF:-1 tvg-id="china-super-league-football-liaoning-tieren-shanghai-port-2026-05-29-14-35" group-title="China Super League",Liaoning Tieren vs Shanghai Port (Movistar+)
+https://sansat.link/channel?id=26
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-cerro-porteno-sporting-cristal-2026-05-29-01-00" group-title="South America Copa Libertadores",Cerro Porteno vs Sporting Cristal (beIN SPORTS XTRA en Espanol)
+https://sansat.link/channel?id=27
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-cerro-porteno-sporting-cristal-2026-05-29-01-00" group-title="South America Copa Libertadores",Cerro Porteno vs Sporting Cristal (beIN SPORTS XTRA)
+https://sansat.link/channel?id=38
+#EXTINF:-1 tvg-id="south-america-copa-sudamericana-football-tigre-alianza-atletico-2026-05-29-03-30" group-title="South America Copa Sudamericana",Tigre vs Alianza Atletico (beIN SPORTS XTRA en Espanol)
+https://sansat.link/channel?id=27
+#EXTINF:-1 tvg-id="south-america-copa-sudamericana-football-tigre-alianza-atletico-2026-05-29-03-30" group-title="South America Copa Sudamericana",Tigre vs Alianza Atletico (beIN SPORTS XTRA)
+https://sansat.link/channel?id=38
+#EXTINF:-1 tvg-id="south-america-copa-sudamericana-football-america-de-cali-macara-2026-05-29-03-30" group-title="South America Copa Sudamericana",America de Cali vs Macara (beIN Sports 1)
+https://sansat.link/channel?id=31
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-cruzeiro-barcelona-2026-05-29-03-30" group-title="South America Copa Libertadores",Cruzeiro vs Barcelona (beIN SPORTS 2)
+https://sansat.link/channel?id=32
+#EXTINF:-1 tvg-id="united-rugby-championship-rugby-connacht-eagles-glasgow-warriors-2026-05-29-21-45" group-title="United Rugby Championship",Connacht Eagles vs Glasgow Warriors (Sportsnet World)
+https://sansat.link/channel?id=36
+#EXTINF:-1 tvg-id="one-mma-one-friday-fights-2026-05-29-16-30" group-title="ONE",One Friday Fights (beIN Sport)
+https://sansat.link/channel?id=37
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-palmeiras-junior-2026-05-29-01-00" group-title="South America Copa Libertadores",Palmeiras vs Junior (beIN SPORTS)
+https://sansat.link/channel?id=39
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-palmeiras-junior-2026-05-29-01-00" group-title="South America Copa Libertadores",Palmeiras vs Junior (beIN SPORTS en Espanol)
+https://sansat.link/channel?id=40
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-boca-juniors-universidad-catolica-2026-05-29-03-30" group-title="South America Copa Libertadores",Boca Juniors vs Universidad Catolica (beIN SPORTS)
+https://sansat.link/channel?id=39
+#EXTINF:-1 tvg-id="south-america-copa-libertadores-football-boca-juniors-universidad-catolica-2026-05-29-03-30" group-title="South America Copa Libertadores",Boca Juniors vs Universidad Catolica (beIN SPORTS en Espanol)
+https://sansat.link/channel?id=40
+#EXTINF:-1 tvg-id="bulgaria-parva-liga-football-ludogorets-lokomotiv-plovdiv-2026-05-29-19-30" group-title="Bulgaria Parva Liga",Ludogorets vs Lokomotiv Plovdiv (Diema Sport)
+https://sansat.link/channel?id=48
+#EXTINF:-1 tvg-id="super-rugby-pacific-rugby-crusaders-hurricanes-2026-05-29-10-05" group-title="Super Rugby Pacific",Crusaders vs Hurricanes (Canal+ Sport)
+https://sansat.link/channel?id=50
+#EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-29-01-30" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
+https://sansat.link/channel?id=52
+#EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-29-07-45" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
+https://sansat.link/channel?id=52
+#EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-29-10-00" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
+https://sansat.link/channel?id=52
+#EXTINF:-1 tvg-id="hexagone-mma-mma-hexagone-2026-2026-05-29-22-00" group-title="Hexagone",MMA: Hexagone 2026 (RMC Sport 1)
+https://sansat.link/channel?id=53
+#EXTINF:-1 tvg-id="norway-eliteserien-football-aalesund-hamkam-2026-05-29-20-00" group-title="Norway Eliteserien",Aalesund vs HamKam (TV2 Sport)
+https://sansat.link/channel?id=69
+#EXTINF:-1 tvg-id="sweden-allsvenskan-football-orgryte-elfsborg-2026-05-29-20-00" group-title="Sweden Allsvenskan",Orgryte vs Elfsborg (TV4 Fotball)
+https://sansat.link/channel?id=74
+#EXTINF:-1 tvg-id="international-friendly-matches-football-bosnia-and-herzegovina-north-macedonia-2026-05-29-21-30" group-title="International Friendly Matches",Bosnia and Herzegovina vs North Macedonia (V Sport Premium)
+https://sansat.link/channel?id=78
+#EXTINF:-1 tvg-id="international-friendly-matches-football-bosnia-and-herzegovina-north-macedonia-2026-05-29-21-30" group-title="International Friendly Matches",Bosnia and Herzegovina vs North Macedonia (Fox Soccer Plus)
+https://sansat.link/channel?id=83
+#EXTINF:-1 tvg-id="nascar-craftsman-truck-series-motorsport-allegiance-200-2026-05-29-23-00" group-title="NASCAR Craftsman Truck Series",Allegiance 200 (Fox Sports 1)
+https://sansat.link/channel?id=81
+#EXTINF:-1 tvg-id="afl-australian-football-geelong-cats-carlton-blues-2026-05-29-12-40" group-title="AFL",Geelong Cats vs Carlton Blues (Fox Sports 2)
+https://sansat.link/channel?id=82
+#EXTINF:-1 tvg-id="indy-nxt-series-motorsport-detroit-grand-prix-2026-05-29-21-00" group-title="Indy NXT Series",Detroit Grand Prix (Fox Sports 2)
+https://sansat.link/channel?id=82
+#EXTINF:-1 tvg-id="indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-29-22-00" group-title="IndyCar",Chevrolet Detroit Grand Prix (Fox Sports 2)
+https://sansat.link/channel?id=82
+#EXTINF:-1 tvg-id="nrl-rugby-manly-sea-eagles-cronulla-sharks-2026-05-29-13-00" group-title="NRL",Manly Sea Eagles vs Cronulla Sharks (Fox Soccer Plus)
+https://sansat.link/channel?id=83
+#EXTINF:-1 tvg-id="austria-bundesliga-football-sturm-graz-salzburg-2026-05-29-19-30" group-title="Austria Bundesliga",Sturm Graz vs Salzburg (Sky Sport Austria 1)
+https://sansat.link/channel?id=99
+#EXTINF:-1 tvg-id="romania-liga-i-football-dinamo-bucuresti-fcsb-2026-05-29-20-30" group-title="Romania Liga I",Dinamo Bucuresti vs FCSB (Digi Sport 1)
+https://sansat.link/channel?id=100
