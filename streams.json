@@ -123,34 +123,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:05 [State of Origin] Rugby: Queensland vs New South Wales [Fox Sports 2 US]",
-            "matchstr": "Queensland vs New South Wales",
-            "time": "13:05",
-            "league": "State of Origin",
-            "sport": "Rugby",
-            "team1": "Queensland",
-            "team2": "New South Wales",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-27",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "state-of-origin-rugby-queensland-new-south-wales-2026-05-27-13-05",
-            "startTimestamp": 1779876300000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [NHL] Hockey: Carolina Hurricanes vs Montreal Canadiens [TNT US]",
             "matchstr": "Carolina Hurricanes vs Montreal Canadiens",
             "time": "03:00",
