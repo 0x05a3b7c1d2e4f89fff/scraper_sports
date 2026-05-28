@@ -469,34 +469,6 @@
             "duration": 180
         },
         {
-            "matchText": "12:30 [AFL] Australian Football: Hawthorn Hawks vs St. Kilda Saints [Fox Sports 2 US]",
-            "matchstr": "Hawthorn Hawks vs St. Kilda Saints",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Hawthorn Hawks",
-            "team2": "St. Kilda Saints",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-28",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-hawthorn-hawks-st-kilda-saints-2026-05-28-12-30",
-            "startTimestamp": 1779960600000,
-            "duration": 180
-        },
-        {
             "matchText": "15:00 [International Friendly Matches] Egypt vs Russia [Fox Deportes ES]",
             "matchstr": "Egypt vs Russia",
             "time": "15:00",
