@@ -1,1 +1,86 @@
-{}
+{
+  "Basketball": [
+    {
+      "id": "9552",
+      "name": "Las Vegas Aces at Dallas Wings (English)",
+      "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=gMkmc-dAqxpo87rpU56ap-HG5VWoDxo6Eim_p6ohc6c&e=1779982436",
+      "start": "2026-05-29T01:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
+    },
+    {
+      "id": "9551",
+      "name": "Oklahoma City Thunder at San Antonio Spurs (English)",
+      "url": "https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=9kSRwbV0rbqUF284edFfTvUOBLUiPg6E3GMAAn3hdYs&e=1779982436",
+      "start": "2026-05-29T01:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+    },
+    {
+      "id": "9551",
+      "name": "Oklahoma City Thunder at San Antonio Spurs (English)",
+      "url": "https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?st=GuxRekObmg43mFWjeeKp78K9Bs37vGYqNpb0F40PV0A&e=1779982436",
+      "start": "2026-05-29T01:30:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+    },
+    {
+      "id": "9553",
+      "name": "Indiana Fever at Golden State Valkyries (English)",
+      "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=SdKhclnFLylF_Tphahkyy8OBPF-OudFjoTACUsKhGEQ&e=1779982436",
+      "start": "2026-05-29T03:00:00",
+      "categoryId": 4,
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
+    }
+  ],
+  "Baseball": [
+    {
+      "id": "9545",
+      "name": "Los Angeles Angels at Detroit Tigers (English)",
+      "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?st=XDMkOCazW3KS44gvrrNmfFa27D32icbTgqUgNGpJLxM&e=1779982437",
+      "start": "2026-05-28T18:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+    },
+    {
+      "id": "9546",
+      "name": "Minnesota Twins at Chicago White Sox (English)",
+      "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=pZ6YRCB7LD2klR5fT-ANjkcSWhQgL99gT0k6GFA5tM4&e=1779982437",
+      "start": "2026-05-28T19:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+    },
+    {
+      "id": "9547",
+      "name": "Atlanta Braves at Boston Red Sox (English)",
+      "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=rnxE4ysoT0YzNlZm15vItpvXV27PYFNov9leRWPO9V0&e=1779982437",
+      "start": "2026-05-28T21:10:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    {
+      "id": "9548",
+      "name": "Toronto Blue Jays at Baltimore Orioles (English)",
+      "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=ZwLWpTQNpoF2vOP7de8mk9oVNDh8rmRN0q8PFXEZRK8&e=1779982436",
+      "start": "2026-05-28T23:35:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    {
+      "id": "9549",
+      "name": "Chicago Cubs at Pittsburgh Pirates (English)",
+      "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=S-JFn87gp9ZNGsbPF_pwZ3DwaRhqr0QBaNNoCxzj5Aw&e=1779982436",
+      "start": "2026-05-28T23:40:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    {
+      "id": "9550",
+      "name": "Houston Astros at Texas Rangers (English)",
+      "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=5SSy-NQ73FJ2vp2t0YUtUUf-yN0CdMbHCPMBT5P5LTA&e=1779982436",
+      "start": "2026-05-29T01:05:00",
+      "categoryId": 13,
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    }
+  ]
+}
