@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
 #EXTINF:-1 tvg-id="pdc-darts-premier-league-darts-2026-05-28-21-00" group-title="PDC",Premier League Darts (Sport1)
 https://sansat.link/channel?id=11
-#EXTINF:-1 tvg-id="germany-3-liga-football-wurzburger-kickers-lokomotive-leipzig-2026-05-28-20-00" group-title="Germany 3. Liga",Wurzburger Kickers vs Lokomotive Leipzig (Magenta Sport)
-https://sansat.link/channel?id=12
 #EXTINF:-1 tvg-id="international-friendly-matches-football-ireland-republic-qatar-2026-05-28-21-45" group-title="International Friendly Matches",Ireland Republic vs Qatar (DAZN1)
 https://sansat.link/channel?id=17
 #EXTINF:-1 tvg-id="international-friendly-matches-football-ireland-republic-qatar-2026-05-28-21-45" group-title="International Friendly Matches",Ireland Republic vs Qatar (V Sport Premium)
@@ -11,12 +9,6 @@ https://sansat.link/channel?id=78
 https://sansat.link/channel?id=82
 #EXTINF:-1 tvg-id="portugal-primeira-liga-football-casa-pia-torreense-2026-05-28-22-00" group-title="Portugal Primeira Liga",Casa Pia vs Torreense (Sport TV1)
 https://sansat.link/channel?id=21
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (RDS)
-https://sansat.link/channel?id=31
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (TSN2)
-https://sansat.link/channel?id=32
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (Viaplay 3 Urheilu)
-https://sansat.link/channel?id=73
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (TSN2)
 https://sansat.link/channel?id=32
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (ČT Sport)
@@ -25,26 +17,14 @@ https://sansat.link/channel?id=41
 https://sansat.link/channel?id=71
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-sweden-2026-05-28-21-20" group-title="IIHF World Championship",Switzerland vs Sweden (Viaplay Sport)
 https://sansat.link/channel?id=80
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (TSN 4)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (ČT Sport)
-https://sansat.link/channel?id=41
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (Viaplay 1 Urheilu)
-https://sansat.link/channel?id=71
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20" group-title="IIHF World Championship",Finland vs Czech Republic (Viaplay Sport)
-https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-latvia-2026-05-28-21-20" group-title="IIHF World Championship",Norway vs Latvia (TSN 4)
 https://sansat.link/channel?id=34
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-latvia-2026-05-28-21-20" group-title="IIHF World Championship",Norway vs Latvia (Viaplay 3 Urheilu)
 https://sansat.link/channel?id=73
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-norway-latvia-2026-05-28-21-20" group-title="IIHF World Championship",Norway vs Latvia (V sport 1)
 https://sansat.link/channel?id=79
-#EXTINF:-1 tvg-id="poland-i-liga-football-chrobry-glogow-lodzki-ks-2026-05-28-18-00" group-title="Poland I Liga",Chrobry Głogow vs Łodzki KS (TVP Sport)
-https://sansat.link/channel?id=60
 #EXTINF:-1 tvg-id="poland-i-liga-football-wieczysta-krakow-polonia-warszawa-2026-05-28-21-00" group-title="Poland I Liga",Wieczysta Krakow vs Polonia Warszawa (TVP Sport)
 https://sansat.link/channel?id=60
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-usa-2026-05-28-17-20" group-title="IIHF World Championship",Canada vs USA (TV10)
-https://sansat.link/channel?id=79
 #EXTINF:-1 tvg-id="nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-29-03-30" group-title="NBA",Oklahoma City Thunder vs San Antonio Spurs (Peacock)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="nba-basketball-oklahoma-city-thunder-san-antonio-spurs-2026-05-29-03-30" group-title="NBA",Oklahoma City Thunder vs San Antonio Spurs (Sportsnet 360)
@@ -55,7 +35,7 @@ https://sansat.link/channel?id=2
 https://sansat.link/channel?id=47
 #EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-29-09-30" group-title="MotoGP",Italian Grand Prix (V Sport Motor)
 https://sansat.link/channel?id=79
-#EXTINF:-1 tvg-id="rugby-english-premiership-rugby-bristol-bears-bath-2026-05-29-10-05" group-title="Rugby English Premiership",Bristol Bears vs Bath (TNT Sports 2)
+#EXTINF:-1 tvg-id="rugby-english-premiership-rugby-bristol-bears-bath-2026-05-29-21-45" group-title="Rugby English Premiership",Bristol Bears vs Bath (TNT Sports 2)
 https://sansat.link/channel?id=2
 #EXTINF:-1 tvg-id="international-club-friendly-matches-football-mamelodi-sundowns-rb-leipzig-2026-05-29-20-00" group-title="International Club Friendly Matches",Mamelodi Sundowns vs RB Leipzig (Sky Sport Bundesliga 1)
 https://sansat.link/channel?id=11

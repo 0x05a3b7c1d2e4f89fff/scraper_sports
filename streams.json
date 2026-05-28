@@ -29,34 +29,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:00 [Germany 3. Liga] Wurzburger Kickers vs Lokomotive Leipzig [Magenta Sport DE]",
-            "matchstr": "Wurzburger Kickers vs Lokomotive Leipzig",
-            "time": "20:00",
-            "league": "Germany 3. Liga",
-            "sport": "Football",
-            "team1": "Wurzburger Kickers",
-            "team2": "Lokomotive Leipzig",
-            "channel": "Magenta Sport DE",
-            "important": false,
-            "matchDate": "2026-05-28",
-            "channels": [
-                {
-                    "name": "Magenta Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "germany-3-liga-football-wurzburger-kickers-lokomotive-leipzig-2026-05-28-20-00",
-            "startTimestamp": 1779987600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [International Friendly Matches] Ireland Republic vs Qatar [DAZN1 DE]",
             "matchstr": "Ireland Republic vs Qatar",
             "time": "21:45",
@@ -135,56 +107,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:20 [IIHF World Championship] Hockey: Canada vs USA [RDS CA]",
-            "matchstr": "Canada vs USA",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Canada",
-            "team2": "USA",
-            "channel": "RDS CA",
-            "important": false,
-            "matchDate": "2026-05-28",
-            "channels": [
-                {
-                    "name": "RDS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                },
-                {
-                    "name": "Viaplay 3 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-canada-usa-2026-05-28-17-20",
-            "startTimestamp": 1779978000000,
-            "duration": 180
-        },
-        {
             "matchText": "21:20 [IIHF World Championship] Hockey: Switzerland vs Sweden [TSN2 CA]",
             "matchstr": "Switzerland vs Sweden",
             "time": "21:20",
@@ -246,67 +168,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:20 [IIHF World Championship] Hockey: Finland vs Czech Republic [TSN 4 CA]",
-            "matchstr": "Finland vs Czech Republic",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Finland",
-            "team2": "Czech Republic",
-            "channel": "TSN 4 CA",
-            "important": false,
-            "matchDate": "2026-05-28",
-            "channels": [
-                {
-                    "name": "TSN 4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "\u010cT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                },
-                {
-                    "name": "Viaplay 1 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=71"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-finland-czech-republic-2026-05-28-17-20",
-            "startTimestamp": 1779978000000,
-            "duration": 180
-        },
-        {
             "matchText": "21:20 [IIHF World Championship] Hockey: Norway vs Latvia [TSN 4 CA]",
             "matchstr": "Norway vs Latvia",
             "time": "21:20",
@@ -357,34 +218,6 @@
             "duration": 180
         },
         {
-            "matchText": "18:00 [Poland I Liga] Chrobry G\u0142ogow vs \u0141odzki KS [TVP Sport PL]",
-            "matchstr": "Chrobry G\u0142ogow vs \u0141odzki KS",
-            "time": "18:00",
-            "league": "Poland I Liga",
-            "sport": "Football",
-            "team1": "Chrobry G\u0142ogow",
-            "team2": "\u0141odzki KS",
-            "channel": "TVP Sport PL",
-            "important": false,
-            "matchDate": "2026-05-28",
-            "channels": [
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=60"
-                    ]
-                }
-            ],
-            "slug": "poland-i-liga-football-chrobry-glogow-lodzki-ks-2026-05-28-18-00",
-            "startTimestamp": 1779980400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [Poland I Liga] Wieczysta Krakow vs Polonia Warszawa [TVP Sport PL]",
             "matchstr": "Wieczysta Krakow vs Polonia Warszawa",
             "time": "21:00",
@@ -411,34 +244,6 @@
             "slug": "poland-i-liga-football-wieczysta-krakow-polonia-warszawa-2026-05-28-21-00",
             "startTimestamp": 1779991200000,
             "duration": 120
-        },
-        {
-            "matchText": "17:20 [IIHF World Championship] Hockey: Canada vs USA  [TV10 SE]",
-            "matchstr": "Canada vs USA",
-            "time": "17:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Canada",
-            "team2": "USA",
-            "channel": "TV10 SE",
-            "important": false,
-            "matchDate": "2026-05-28",
-            "channels": [
-                {
-                    "name": "TV10",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-canada-usa-2026-05-28-17-20",
-            "startTimestamp": 1779978000000,
-            "duration": 180
         },
         {
             "matchText": "03:30 [NBA] Basketball: Oklahoma City Thunder vs San Antonio Spurs [Peacock US]",
@@ -530,9 +335,9 @@
             "duration": 400
         },
         {
-            "matchText": "10:05 [Rugby English Premiership] Rugby: Bristol Bears vs Bath [TNT Sports 2 GB]",
+            "matchText": "21:45 [Rugby English Premiership] Rugby: Bristol Bears vs Bath [TNT Sports 2 GB]",
             "matchstr": "Bristol Bears vs Bath",
-            "time": "10:05",
+            "time": "21:45",
             "league": "Rugby English Premiership",
             "sport": "Rugby",
             "team1": "Bristol Bears",
@@ -553,8 +358,8 @@
                     ]
                 }
             ],
-            "slug": "rugby-english-premiership-rugby-bristol-bears-bath-2026-05-29-10-05",
-            "startTimestamp": 1780038300000,
+            "slug": "rugby-english-premiership-rugby-bristol-bears-bath-2026-05-29-21-45",
+            "startTimestamp": 1780080300000,
             "duration": 120
         },
         {
@@ -1666,8 +1471,7 @@
                 {
                     "name": "ABC",
                     "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1",
-                        "https://nrdrse.link/ch.php?id=2"
+                        "https://nrdrse.link/ch.php?id=1"
                     ],
                     "number": 1,
                     "language": "US",
