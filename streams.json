@@ -353,62 +353,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:05 [Super Rugby Pacific] Rugby: Crusaders vs Hurricanes [Canal+ Sport FR]",
-            "matchstr": "Crusaders vs Hurricanes",
-            "time": "10:05",
-            "league": "Super Rugby Pacific",
-            "sport": "Rugby",
-            "team1": "Crusaders",
-            "team2": "Hurricanes",
-            "channel": "Canal+ Sport FR",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "super-rugby-pacific-rugby-crusaders-hurricanes-2026-05-29-10-05",
-            "startTimestamp": 1780038300000,
-            "duration": 120
-        },
-        {
-            "matchText": "10:00 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "10:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-29-10-00",
-            "startTimestamp": 1780038000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Hexagone] MMA: MMA: Hexagone 2026 [RMC Sport 1 FR]",
             "matchstr": "MMA: Hexagone 2026",
             "time": "22:00",
@@ -641,34 +585,6 @@
             ],
             "slug": "indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-29-22-00",
             "startTimestamp": 1780081200000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [NRL] Rugby: Manly Sea Eagles vs Cronulla Sharks [Fox Soccer Plus US]",
-            "matchstr": "Manly Sea Eagles vs Cronulla Sharks",
-            "time": "13:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Manly Sea Eagles",
-            "team2": "Cronulla Sharks",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-manly-sea-eagles-cronulla-sharks-2026-05-29-13-00",
-            "startTimestamp": 1780048800000,
             "duration": 120
         },
         {
@@ -1337,6 +1253,106 @@
             ],
             "slug": "cfl-canadian-football-montreal-canadiens-carolina-hurricanes-2026-05-30-02-00",
             "startTimestamp": 1780095600000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:20 [IIHF World Championship] Hockey: Switzerland vs Norway [TSN4 CA]",
+            "matchstr": "Switzerland vs Norway",
+            "time": "16:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Switzerland",
+            "team2": "Norway",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-30",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-switzerland-norway-2026-05-30-16-20",
+            "startTimestamp": 1780147200000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:00 [IIHF World Championship] Hockey: Canada vs Finland [TSN4 CA]",
+            "matchstr": "Canada vs Finland",
+            "time": "21:00",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Canada",
+            "team2": "Finland",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-30",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-canada-finland-2026-05-30-21-00",
+            "startTimestamp": 1780164000000,
             "duration": 180
         },
         {
