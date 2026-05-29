@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "09:30 [MotoGP] Motorsport: Italian Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Italian Grand Prix",
-            "time": "09:30",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Italian Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-italian-grand-prix-2026-05-29-09-30",
-            "startTimestamp": 1780036200000,
-            "duration": 400
-        },
-        {
             "matchText": "21:45 [Rugby English Premiership] Rugby: Bristol Bears vs Bath [TNT Sports 2 GB]",
             "matchstr": "Bristol Bears vs Bath",
             "time": "21:45",
@@ -157,34 +107,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [Europe UEFA U17 Euro Qualification] Montenegro U17 vs Italy U17 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Montenegro U17 vs Italy U17",
-            "time": "14:30",
-            "league": "Europe UEFA U17 Euro Qualification",
-            "sport": "Football",
-            "team1": "Montenegro U17",
-            "team2": "Italy U17",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u17-euro-qualification-football-montenegro-u17-italy-u17-2026-05-29-14-30",
-            "startTimestamp": 1780054200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Europe UEFA U17 Euro Qualification] France U17 vs Denmark U17 [Sportdigital FUSSBALL DE]",
             "matchstr": "France U17 vs Denmark U17",
             "time": "19:00",
@@ -241,34 +163,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:35 [China Super League] Liaoning Tieren vs Shanghai Port [Movistar+ ES]",
-            "matchstr": "Liaoning Tieren vs Shanghai Port",
-            "time": "14:35",
-            "league": "China Super League",
-            "sport": "Football",
-            "team1": "Liaoning Tieren",
-            "team2": "Shanghai Port",
-            "channel": "Movistar+ ES",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Movistar+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "china-super-league-football-liaoning-tieren-shanghai-port-2026-05-29-14-35",
-            "startTimestamp": 1780054500000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [United Rugby Championship] Rugby: Connacht Eagles vs Glasgow Warriors [Sportsnet World CA]",
             "matchstr": "Connacht Eagles vs Glasgow Warriors",
             "time": "21:45",
@@ -295,34 +189,6 @@
             "slug": "united-rugby-championship-rugby-connacht-eagles-glasgow-warriors-2026-05-29-21-45",
             "startTimestamp": 1780080300000,
             "duration": 120
-        },
-        {
-            "matchText": "16:30 [ONE] MMA: One Friday Fights [beIN Sport CA]",
-            "matchstr": "One Friday Fights",
-            "time": "16:30",
-            "league": "ONE",
-            "sport": "MMA",
-            "team1": "One Friday Fights",
-            "team2": null,
-            "channel": "beIN Sport CA",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "beIN Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=37"
-                    ]
-                }
-            ],
-            "slug": "one-mma-one-friday-fights-2026-05-29-16-30",
-            "startTimestamp": 1780061400000,
-            "duration": 180
         },
         {
             "matchText": "19:30 [Bulgaria Parva Liga] Ludogorets vs Lokomotiv Plovdiv [Diema Sport BG]",
@@ -502,34 +368,6 @@
             "slug": "nascar-craftsman-truck-series-motorsport-allegiance-200-2026-05-29-23-00",
             "startTimestamp": 1780084800000,
             "duration": 120
-        },
-        {
-            "matchText": "12:40 [AFL] Australian Football: Geelong Cats vs Carlton Blues [Fox Sports 2 US]",
-            "matchstr": "Geelong Cats vs Carlton Blues",
-            "time": "12:40",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Geelong Cats",
-            "team2": "Carlton Blues",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-geelong-cats-carlton-blues-2026-05-29-12-40",
-            "startTimestamp": 1780047600000,
-            "duration": 180
         },
         {
             "matchText": "21:00 [Indy NXT Series] Motorsport: Detroit Grand Prix [Fox Sports 2 US]",
@@ -2193,6 +2031,2073 @@
             ],
             "slug": "ufl-american-football-dallas-renegades-st-louis-battlehawks-2026-05-30-03-00",
             "startTimestamp": 1780099200000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NBA] Basketball: San Antonio Spurs vs Oklahoma City Thunder [RDS CA]",
+            "matchstr": "San Antonio Spurs vs Oklahoma City Thunder",
+            "time": "03:00",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "San Antonio Spurs",
+            "team2": "Oklahoma City Thunder",
+            "channel": "RDS CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "RDS",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "NBA League Pass",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=2"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-31-03-00",
+            "startTimestamp": 1780185600000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:00 [England FA Women's Cup] Brighton & Hove Albion vs Manchester City [TNT Sports 1 GB]",
+            "matchstr": "Brighton & Hove Albion vs Manchester City",
+            "time": "17:00",
+            "league": "England FA Women's Cup",
+            "sport": "Football",
+            "team1": "Brighton & Hove Albion",
+            "team2": "Manchester City",
+            "channel": "TNT Sports 1 GB",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TNT Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                }
+            ],
+            "slug": "england-fa-women-s-cup-football-brighton-hove-albion-manchester-city-2026-05-31-17-00",
+            "startTimestamp": 1780236000000,
+            "duration": 120
+        },
+        {
+            "matchText": "10:30 [MotoGP] Motorsport: Italian Grand Prix [TNT Sports 2 GB]",
+            "matchstr": "Italian Grand Prix",
+            "time": "10:30",
+            "league": "MotoGP",
+            "sport": "Motorsport",
+            "team1": "Italian Grand Prix",
+            "team2": null,
+            "channel": "TNT Sports 2 GB",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TNT Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "Sky Sport MotoGP",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://sansat.link/channel?id=47"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=79"
+                    ],
+                    "number": 79,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=79"
+                    ]
+                }
+            ],
+            "slug": "motogp-motorsport-italian-grand-prix-2026-05-31-10-30",
+            "startTimestamp": 1780212600000,
+            "duration": 400
+        },
+        {
+            "matchText": "00:30 [Prelims] Boxing: O'Shaquie Foster vs Ray Ford [DAZN US]",
+            "matchstr": "O'Shaquie Foster vs Ray Ford",
+            "time": "00:30",
+            "league": "Prelims",
+            "sport": "Boxing",
+            "team1": "O'Shaquie Foster",
+            "team2": "Ray Ford",
+            "channel": "DAZN US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=4"
+                    ]
+                }
+            ],
+            "slug": "prelims-boxing-o-shaquie-foster-ray-ford-2026-05-31-00-30",
+            "startTimestamp": 1780176600000,
+            "duration": 180
+        },
+        {
+            "matchText": "03:00 [Main Cards] Boxing: O'Shaquie Foster vs Ray Ford [DAZN US]",
+            "matchstr": "O'Shaquie Foster vs Ray Ford",
+            "time": "03:00",
+            "league": "Main Cards",
+            "sport": "Boxing",
+            "team1": "O'Shaquie Foster",
+            "team2": "Ray Ford",
+            "channel": "DAZN US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=4"
+                    ]
+                }
+            ],
+            "slug": "main-cards-boxing-o-shaquie-foster-ray-ford-2026-05-31-03-00",
+            "startTimestamp": 1780185600000,
+            "duration": 180
+        },
+        {
+            "matchText": "04:00 [International Friendly Matches] Korea Republic vs Trinidad and Tobago [Now Sports Prime HK]",
+            "matchstr": "Korea Republic vs Trinidad and Tobago",
+            "time": "04:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Korea Republic",
+            "team2": "Trinidad and Tobago",
+            "channel": "Now Sports Prime HK",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Now Sports Prime",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=5"
+                    ],
+                    "number": 5,
+                    "language": "HK",
+                    "links": [
+                        "https://sansat.link/channel?id=5"
+                    ]
+                },
+                {
+                    "name": "M. Liga de Campeones 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=28"
+                    ],
+                    "number": 28,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=28"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-korea-republic-trinidad-and-tobago-2026-05-31-04-00",
+            "startTimestamp": 1780189200000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:25 [International Friendly Matches] Japan vs Iceland [Now Sports Prime HK]",
+            "matchstr": "Japan vs Iceland",
+            "time": "13:25",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Japan",
+            "team2": "Iceland",
+            "channel": "Now Sports Prime HK",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Now Sports Prime",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=5"
+                    ],
+                    "number": 5,
+                    "language": "HK",
+                    "links": [
+                        "https://sansat.link/channel?id=5"
+                    ]
+                },
+                {
+                    "name": "M. Liga de Campeones",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-japan-iceland-2026-05-31-13-25",
+            "startTimestamp": 1780223100000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [International Friendly Matches] Poland vs Ukraine [Sky Sport 6 NZ]",
+            "matchstr": "Poland vs Ukraine",
+            "time": "18:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Poland",
+            "team2": "Ukraine",
+            "channel": "Sky Sport 6 NZ",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sky Sport 6",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=6"
+                    ],
+                    "number": 6,
+                    "language": "NZ",
+                    "links": [
+                        "https://sansat.link/channel?id=6"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://sansat.link/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "TV2 Sport X",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=69"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-poland-ukraine-2026-05-31-18-30",
+            "startTimestamp": 1780241400000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [International Friendly Matches] Cape Verde Islands vs Serbia [Sky Sport 7 NZ]",
+            "matchstr": "Cape Verde Islands vs Serbia",
+            "time": "18:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Cape Verde Islands",
+            "team2": "Serbia",
+            "channel": "Sky Sport 7 NZ",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sky Sport 7",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "NZ",
+                    "links": [
+                        "https://sansat.link/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "Arena 1 Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "SR",
+                    "links": [
+                        "https://sansat.link/channel?id=67"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-cape-verde-islands-serbia-2026-05-31-18-00",
+            "startTimestamp": 1780239600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [United States NWSL] Chicago Stars vs San Diego Wave [CBS Sports Network US]",
+            "matchstr": "Chicago Stars vs San Diego Wave",
+            "time": "20:00",
+            "league": "United States NWSL",
+            "sport": "Football",
+            "team1": "Chicago Stars",
+            "team2": "San Diego Wave",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "united-states-nwsl-football-chicago-stars-san-diego-wave-2026-05-31-20-00",
+            "startTimestamp": 1780246800000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [International Friendly Matches] Ecuador vs Saudi Arabia [TLN CA]",
+            "matchstr": "Ecuador vs Saudi Arabia",
+            "time": "02:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Ecuador",
+            "team2": "Saudi Arabia",
+            "channel": "TLN CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TLN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                },
+                {
+                    "name": "M. Liga de Campeones",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-ecuador-saudi-arabia-2026-05-31-02-30",
+            "startTimestamp": 1780183800000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [NHRA Drag Racing] Motorsport: NHRA Potomac Nationals [Fox Sports Racing US]",
+            "matchstr": "NHRA Potomac Nationals",
+            "time": "22:00",
+            "league": "NHRA Drag Racing",
+            "sport": "Motorsport",
+            "team1": "NHRA Potomac Nationals",
+            "team2": null,
+            "channel": "Fox Sports Racing US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Sports Racing",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=9"
+                    ]
+                }
+            ],
+            "slug": "nhra-drag-racing-motorsport-nhra-potomac-nationals-2026-05-31-22-00",
+            "startTimestamp": 1780254000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:30 [International Friendly Matches] USA vs Senegal [TNT US]",
+            "matchstr": "USA vs Senegal",
+            "time": "22:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "USA",
+            "team2": "Senegal",
+            "channel": "TNT US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TNT",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=10"
+                    ]
+                },
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "Universo",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=26"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-usa-senegal-2026-05-31-22-30",
+            "startTimestamp": 1780255800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [International Friendly Matches] Germany vs Finland [ZDF DE]",
+            "matchstr": "Germany vs Finland",
+            "time": "21:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Germany",
+            "team2": "Finland",
+            "channel": "ZDF DE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "ZDF",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "TV2 Sport X",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=69"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=78"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-germany-finland-2026-05-31-21-45",
+            "startTimestamp": 1780253100000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Europe UEFA U17 European Championship] Belgium U17 vs Estonia U17 [Sportdigital FUSSBALL 2 DE]",
+            "matchstr": "Belgium U17 vs Estonia U17",
+            "time": "14:30",
+            "league": "Europe UEFA U17 European Championship",
+            "sport": "Football",
+            "team1": "Belgium U17",
+            "team2": "Estonia U17",
+            "channel": "Sportdigital FUSSBALL 2 DE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=16"
+                    ],
+                    "number": 16,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=16"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-european-championship-football-belgium-u17-estonia-u17-2026-05-31-14-30",
+            "startTimestamp": 1780227000000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:30 [Europe UEFA U17 European Championship] Spain U17 vs Croatia U17 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Spain U17 vs Croatia U17",
+            "time": "14:30",
+            "league": "Europe UEFA U17 European Championship",
+            "sport": "Football",
+            "team1": "Spain U17",
+            "team2": "Croatia U17",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-european-championship-football-spain-u17-croatia-u17-2026-05-31-14-30",
+            "startTimestamp": 1780227000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Brazil Brasileirao] RB Bragantino vs Internacional [Sportdigital FUSSBALL DE]",
+            "matchstr": "RB Bragantino vs Internacional",
+            "time": "17:00",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "RB Bragantino",
+            "team2": "Internacional",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-rb-bragantino-internacional-2026-05-31-17-00",
+            "startTimestamp": 1780236000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Brazil Brasileirao] Palmeiras vs Chapecoense [Sportdigital FUSSBALL DE]",
+            "matchstr": "Palmeiras vs Chapecoense",
+            "time": "22:00",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Palmeiras",
+            "team2": "Chapecoense",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=19"
+                    ]
+                },
+                {
+                    "name": "M. Liga de Campeones 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=28"
+                    ],
+                    "number": 28,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=28"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-palmeiras-chapecoense-2026-05-31-22-00",
+            "startTimestamp": 1780254000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [North America CONCACAF Champions Cup] Toluca vs Tigres UANL [sportdigital1+ DE]",
+            "matchstr": "Toluca vs Tigres UANL",
+            "time": "03:00",
+            "league": "North America CONCACAF Champions Cup",
+            "sport": "Football",
+            "team1": "Toluca",
+            "team2": "Tigres UANL",
+            "channel": "sportdigital1+ DE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "sportdigital1+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                },
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "north-america-concacaf-champions-cup-football-toluca-tigres-uanl-2026-05-31-03-00",
+            "startTimestamp": 1780185600000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [International Friendly Matches] Switzerland vs Jordan [RSI La 2 CH]",
+            "matchstr": "Switzerland vs Jordan",
+            "time": "16:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Switzerland",
+            "team2": "Jordan",
+            "channel": "RSI La 2 CH",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "RSI La 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=20"
+                    ],
+                    "number": 20,
+                    "language": "CH",
+                    "links": [
+                        "https://sansat.link/channel?id=20"
+                    ]
+                },
+                {
+                    "name": "TV2 Sport X",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=69"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00",
+            "startTimestamp": 1780232400000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [Brazil Brasileirao] Santos vs Vitoria [Canal 11 PT]",
+            "matchstr": "Santos vs Vitoria",
+            "time": "02:00",
+            "league": "Brazil Brasileirao",
+            "sport": "Football",
+            "team1": "Santos",
+            "team2": "Vitoria",
+            "channel": "Canal 11 PT",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Canal 11",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=21"
+                    ]
+                }
+            ],
+            "slug": "brazil-brasileirao-football-santos-vitoria-2026-05-31-02-00",
+            "startTimestamp": 1780182000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain La Liga] D. Corunha vs LAS Palmas [DAZN3 PT]",
+            "matchstr": "D. Corunha vs LAS Palmas",
+            "time": "19:30",
+            "league": "Spain La Liga",
+            "sport": "Football",
+            "team1": "D. Corunha",
+            "team2": "LAS Palmas",
+            "channel": "DAZN3 PT",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "DAZN3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=22"
+                    ]
+                }
+            ],
+            "slug": "spain-la-liga-football-d-corunha-las-palmas-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [International Friendly Matches] Mexico vs Australia [M. Liga de Campeones ES]",
+            "matchstr": "Mexico vs Australia",
+            "time": "05:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Mexico",
+            "team2": "Australia",
+            "channel": "M. Liga de Campeones ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "M. Liga de Campeones",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-mexico-australia-2026-05-31-05-00",
+            "startTimestamp": 1780192800000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:30 [United States NWSL] Washington Spirit vs Seattle Reign [TSN1 CA]",
+            "matchstr": "Washington Spirit vs Seattle Reign",
+            "time": "01:30",
+            "league": "United States NWSL",
+            "sport": "Football",
+            "team1": "Washington Spirit",
+            "team2": "Seattle Reign",
+            "channel": "TSN1 CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "united-states-nwsl-football-washington-spirit-seattle-reign-2026-05-31-01-30",
+            "startTimestamp": 1780180200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [Premiership Rugby] Rugby: Exeter Chiefs vs Leicester Tigers [Sportsnet World CA]",
+            "matchstr": "Exeter Chiefs vs Leicester Tigers",
+            "time": "17:30",
+            "league": "Premiership Rugby",
+            "sport": "Rugby",
+            "team1": "Exeter Chiefs",
+            "team2": "Leicester Tigers",
+            "channel": "Sportsnet World CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Sportsnet World",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                }
+            ],
+            "slug": "premiership-rugby-rugby-exeter-chiefs-leicester-tigers-2026-05-31-17-30",
+            "startTimestamp": 1780237800000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [IndyCar] Motorsport: Chevrolet Detroit Grand Prix [TSN5 CA]",
+            "matchstr": "Chevrolet Detroit Grand Prix",
+            "time": "19:30",
+            "league": "IndyCar",
+            "sport": "Motorsport",
+            "team1": "Chevrolet Detroit Grand Prix",
+            "team2": null,
+            "channel": "TSN5 CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TSN5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=35"
+                    ]
+                }
+            ],
+            "slug": "indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:00 [Czech Republic 1. liga] Slovacko vs Artis [Oneplay Sport 1 CZ]",
+            "matchstr": "Slovacko vs Artis",
+            "time": "14:00",
+            "league": "Czech Republic 1. liga",
+            "sport": "Football",
+            "team1": "Slovacko",
+            "team2": "Artis",
+            "channel": "Oneplay Sport 1 CZ",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Oneplay Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                }
+            ],
+            "slug": "czech-republic-1-liga-football-slovacko-artis-2026-05-31-14-00",
+            "startTimestamp": 1780225200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [International Friendly Matches] Czech Republic vs Kosovo [CT2 CZ]",
+            "matchstr": "Czech Republic vs Kosovo",
+            "time": "17:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Czech Republic",
+            "team2": "Kosovo",
+            "channel": "CT2 CZ",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "CT2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "Polsat Sport Premium 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "PL",
+                    "links": [
+                        "https://sansat.link/channel?id=62"
+                    ]
+                },
+                {
+                    "name": "RTK1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "KS",
+                    "links": [
+                        "https://sansat.link/channel?id=68"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-czech-republic-kosovo-2026-05-31-17-00",
+            "startTimestamp": 1780236000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Belgium Pro League] Gent vs Genk [DAZN Pro League 1 BE]",
+            "matchstr": "Gent vs Genk",
+            "time": "19:30",
+            "league": "Belgium Pro League",
+            "sport": "Football",
+            "team1": "Gent",
+            "team2": "Genk",
+            "channel": "DAZN Pro League 1 BE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "DAZN Pro League 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BE",
+                    "links": [
+                        "https://sansat.link/channel?id=49"
+                    ]
+                }
+            ],
+            "slug": "belgium-pro-league-football-gent-genk-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
+            "matchstr": "Rally Japan",
+            "time": "02:00",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "Rally Japan",
+            "team2": null,
+            "channel": "Canal+ Sport360 FR",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Canal+ Sport360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=52"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-31-02-00",
+            "startTimestamp": 1780182000000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
+            "matchstr": "Rally Japan",
+            "time": "03:00",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "Rally Japan",
+            "team2": null,
+            "channel": "Canal+ Sport360 FR",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Canal+ Sport360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=52"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-31-03-00",
+            "startTimestamp": 1780185600000,
+            "duration": 120
+        },
+        {
+            "matchText": "06:15 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
+            "matchstr": "Rally Japan",
+            "time": "06:15",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "Rally Japan",
+            "team2": null,
+            "channel": "Canal+ Sport360 FR",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Canal+ Sport360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=52"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-31-06-15",
+            "startTimestamp": 1780197300000,
+            "duration": 120
+        },
+        {
+            "matchText": "08:00 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
+            "matchstr": "Rally Japan",
+            "time": "08:00",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "Rally Japan",
+            "team2": null,
+            "channel": "Canal+ Sport360 FR",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Canal+ Sport360",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=52"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-31-08-00",
+            "startTimestamp": 1780203600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Norway OBOS-ligaen] Egersund vs Str\u00f8msgodset [TV2 Sport NO]",
+            "matchstr": "Egersund vs Str\u00f8msgodset",
+            "time": "18:00",
+            "league": "Norway OBOS-ligaen",
+            "sport": "Football",
+            "team1": "Egersund",
+            "team2": "Str\u00f8msgodset",
+            "channel": "TV2 Sport NO",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "NO",
+                    "links": [
+                        "https://sansat.link/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "norway-obos-ligaen-football-egersund-stromsgodset-2026-05-31-18-00",
+            "startTimestamp": 1780239600000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Sweden Allsvenskan] Vasteras SK vs IFK Goteborg [TV4 Sport Live 2 SE]",
+            "matchstr": "Vasteras SK vs IFK Goteborg",
+            "time": "15:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Vasteras SK",
+            "team2": "IFK Goteborg",
+            "channel": "TV4 Sport Live 2 SE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV4 Sport Live 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-vasteras-sk-ifk-goteborg-2026-05-31-15-00",
+            "startTimestamp": 1780228800000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Sweden Allsvenskan] Hacken vs Hammarby [TV4 Fotball SE]",
+            "matchstr": "Hacken vs Hammarby",
+            "time": "15:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Hacken",
+            "team2": "Hammarby",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-hacken-hammarby-2026-05-31-15-00",
+            "startTimestamp": 1780228800000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Deportivo La Coruna vs Las Palmas [TV4 Fotball SE]",
+            "matchstr": "Deportivo La Coruna vs Las Palmas",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Deportivo La Coruna",
+            "team2": "Las Palmas",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "LALIGA TV Hypermotion 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=93"
+                    ],
+                    "number": 93,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=93"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-deportivo-la-coruna-las-palmas-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Sweden Allsvenskan] Degerfors vs Brommapojkarna [TV4 Sportkanalen SE]",
+            "matchstr": "Degerfors vs Brommapojkarna",
+            "time": "15:00",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Degerfors",
+            "team2": "Brommapojkarna",
+            "channel": "TV4 Sportkanalen SE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-degerfors-brommapojkarna-2026-05-31-15-00",
+            "startTimestamp": 1780228800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Sweden Superettan] Helsingborg vs Norrkoping [TV4 Sportkanalen SE]",
+            "matchstr": "Helsingborg vs Norrkoping",
+            "time": "18:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "Helsingborg",
+            "team2": "Norrkoping",
+            "channel": "TV4 Sportkanalen SE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-helsingborg-norrkoping-2026-05-31-18-00",
+            "startTimestamp": 1780239600000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [Sweden Allsvenskan] Mjallby vs Djurgarden [TV4 Play SE]",
+            "matchstr": "Mjallby vs Djurgarden",
+            "time": "17:30",
+            "league": "Sweden Allsvenskan",
+            "sport": "Football",
+            "team1": "Mjallby",
+            "team2": "Djurgarden",
+            "channel": "TV4 Play SE",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TV4 Play",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "sweden-allsvenskan-football-mjallby-djurgarden-2026-05-31-17-30",
+            "startTimestamp": 1780237800000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [Finland Veikkausliiga] Oulu vs Jaro [Ruutu+ FI]",
+            "matchstr": "Oulu vs Jaro",
+            "time": "16:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Oulu",
+            "team2": "Jaro",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-oulu-jaro-2026-05-31-16-00",
+            "startTimestamp": 1780232400000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:30 [IndyCar] Motorsport: Chevrolet Detroit Grand Prix [Fox Sports 1 US]",
+            "matchstr": "Chevrolet Detroit Grand Prix",
+            "time": "16:30",
+            "league": "IndyCar",
+            "sport": "Motorsport",
+            "team1": "Chevrolet Detroit Grand Prix",
+            "team2": null,
+            "channel": "Fox Sports 1 US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-31-16-30",
+            "startTimestamp": 1780234200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [Indy NXT Series] Motorsport: Detroit Grand Prix [Fox Sports 1 US]",
+            "matchstr": "Detroit Grand Prix",
+            "time": "17:30",
+            "league": "Indy NXT Series",
+            "sport": "Motorsport",
+            "team1": "Detroit Grand Prix",
+            "team2": null,
+            "channel": "Fox Sports 1 US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "indy-nxt-series-motorsport-detroit-grand-prix-2026-05-31-17-30",
+            "startTimestamp": 1780237800000,
+            "duration": 120
+        },
+        {
+            "matchText": "07:00 [NRL] Rugby: St. George Illawarra Dragons vs Brisbane Broncos [Fox Sports 2 US]",
+            "matchstr": "St. George Illawarra Dragons vs Brisbane Broncos",
+            "time": "07:00",
+            "league": "NRL",
+            "sport": "Rugby",
+            "team1": "St. George Illawarra Dragons",
+            "team2": "Brisbane Broncos",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "nrl-rugby-st-george-illawarra-dragons-brisbane-broncos-2026-05-31-07-00",
+            "startTimestamp": 1780200000000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [Canada Canadian Premier League] Pacific FC vs Atl. Ottawa [Fox Soccer Plus US]",
+            "matchstr": "Pacific FC vs Atl. Ottawa",
+            "time": "01:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Pacific FC",
+            "team2": "Atl. Ottawa",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-pacific-fc-atl-ottawa-2026-05-31-01-00",
+            "startTimestamp": 1780178400000,
+            "duration": 120
+        },
+        {
+            "matchText": "08:15 [AFL] Australian Football: Greater Western Sydney Giants vs Melbourne Demons [Fox occer Plus US]",
+            "matchstr": "Greater Western Sydney Giants vs Melbourne Demons",
+            "time": "08:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Greater Western Sydney Giants",
+            "team2": "Melbourne Demons",
+            "channel": "Fox occer Plus US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox occer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-greater-western-sydney-giants-melbourne-demons-2026-05-31-08-15",
+            "startTimestamp": 1780204500000,
+            "duration": 180
+        },
+        {
+            "matchText": "12:20 [AFL] Australian Football: Essendon Bombers vs West Coast Eagles [Fox occer Plus US]",
+            "matchstr": "Essendon Bombers vs West Coast Eagles",
+            "time": "12:20",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Essendon Bombers",
+            "team2": "West Coast Eagles",
+            "channel": "Fox occer Plus US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox occer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-essendon-bombers-west-coast-eagles-2026-05-31-12-20",
+            "startTimestamp": 1780219200000,
+            "duration": 180
+        },
+        {
+            "matchText": "23:00 [Canada Canadian Premier League] Forge vs Cavalry [Fox Soccer Plus US]",
+            "matchstr": "Forge vs Cavalry",
+            "time": "23:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Forge",
+            "team2": "Cavalry",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-forge-cavalry-2026-05-31-23-00",
+            "startTimestamp": 1780257600000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:00 [Argentina Copa Argentina] Instituto vs Lanus [TyC Sports Argentina ES]",
+            "matchstr": "Instituto vs Lanus",
+            "time": "00:00",
+            "league": "Argentina Copa Argentina",
+            "sport": "Football",
+            "team1": "Instituto",
+            "team2": "Lanus",
+            "channel": "TyC Sports Argentina ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TyC Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-copa-argentina-football-instituto-lanus-2026-05-31-00-00",
+            "startTimestamp": 1780174800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:30 [Argentina Copa Argentina] Estudiantes vs Rosario Central [TyC Sports Argentina ES]",
+            "matchstr": "Estudiantes vs Rosario Central",
+            "time": "21:30",
+            "league": "Argentina Copa Argentina",
+            "sport": "Football",
+            "team1": "Estudiantes",
+            "team2": "Rosario Central",
+            "channel": "TyC Sports Argentina ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TyC Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-copa-argentina-football-estudiantes-rosario-central-2026-05-31-21-30",
+            "startTimestamp": 1780252200000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:30 [Chile Primera Division] Universidad Chile vs Deportes Concepcion [TNT SPORTS Premium ES]",
+            "matchstr": "Universidad Chile vs Deportes Concepcion",
+            "time": "00:30",
+            "league": "Chile Primera Division",
+            "sport": "Football",
+            "team1": "Universidad Chile",
+            "team2": "Deportes Concepcion",
+            "channel": "TNT SPORTS Premium ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TNT SPORTS Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=85"
+                    ]
+                }
+            ],
+            "slug": "chile-primera-division-football-universidad-chile-deportes-concepcion-2026-05-31-00-30",
+            "startTimestamp": 1780176600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Chile Primera Division] Deportes Limache vs Coquimbo Unido [TNT SPORTS Premium ES]",
+            "matchstr": "Deportes Limache vs Coquimbo Unido",
+            "time": "19:30",
+            "league": "Chile Primera Division",
+            "sport": "Football",
+            "team1": "Deportes Limache",
+            "team2": "Coquimbo Unido",
+            "channel": "TNT SPORTS Premium ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TNT SPORTS Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=85"
+                    ]
+                }
+            ],
+            "slug": "chile-primera-division-football-deportes-limache-coquimbo-unido-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Chile Primera Division] Huachipato vs Universidad Catolica [TNT SPORTS Premium ES]",
+            "matchstr": "Huachipato vs Universidad Catolica",
+            "time": "22:00",
+            "league": "Chile Primera Division",
+            "sport": "Football",
+            "team1": "Huachipato",
+            "team2": "Universidad Catolica",
+            "channel": "TNT SPORTS Premium ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TNT SPORTS Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=85"
+                    ],
+                    "number": 85,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=85"
+                    ]
+                }
+            ],
+            "slug": "chile-primera-division-football-huachipato-universidad-catolica-2026-05-31-22-00",
+            "startTimestamp": 1780254000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [United States NWSL] Gotham FC vs Houston Dash [ESPN Deportes ES]",
+            "matchstr": "Gotham FC vs Houston Dash",
+            "time": "22:00",
+            "league": "United States NWSL",
+            "sport": "Football",
+            "team1": "Gotham FC",
+            "team2": "Houston Dash",
+            "channel": "ESPN Deportes ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "united-states-nwsl-football-gotham-fc-houston-dash-2026-05-31-22-00",
+            "startTimestamp": 1780254000000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [World Maurice Revello Tournament] China PR U20 vs Saudi Arabia U23 [Fox Deportes ES]",
+            "matchstr": "China PR U20 vs Saudi Arabia U23",
+            "time": "16:00",
+            "league": "World Maurice Revello Tournament",
+            "sport": "Football",
+            "team1": "China PR U20",
+            "team2": "Saudi Arabia U23",
+            "channel": "Fox Deportes ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "world-maurice-revello-tournament-football-china-pr-u20-saudi-arabia-u23-2026-05-31-16-00",
+            "startTimestamp": 1780232400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [World Maurice Revello Tournament] Congo DR U20 vs Tunisia U20 [Fox Deportes ES]",
+            "matchstr": "Congo DR U20 vs Tunisia U20",
+            "time": "19:30",
+            "league": "World Maurice Revello Tournament",
+            "sport": "Football",
+            "team1": "Congo DR U20",
+            "team2": "Tunisia U20",
+            "channel": "Fox Deportes ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "world-maurice-revello-tournament-football-congo-dr-u20-tunisia-u20-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Simulcast [LALIGA TV Hypermotion ES]",
+            "matchstr": "Simulcast",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Simulcast",
+            "team2": null,
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=91"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-simulcast-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Spain Segunda Division] Leganes vs Mirandes [LALIGA TV Hypermotion ES]",
+            "matchstr": "Leganes vs Mirandes",
+            "time": "22:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Leganes",
+            "team2": "Mirandes",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=91"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-leganes-mirandes-2026-05-31-22-00",
+            "startTimestamp": 1780254000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] CD Castellon vs Eibar [LALIGA TV Hypermotion 2 ES]",
+            "matchstr": "CD Castellon vs Eibar",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "CD Castellon",
+            "team2": "Eibar",
+            "channel": "LALIGA TV Hypermotion 2 ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=92"
+                    ],
+                    "number": 92,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=92"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-cd-castellon-eibar-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Spain Segunda Division] Cordoba vs Huesca [LALIGA TV Hypermotion 2 ES]",
+            "matchstr": "Cordoba vs Huesca",
+            "time": "22:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Cordoba",
+            "team2": "Huesca",
+            "channel": "LALIGA TV Hypermotion 2 ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=92"
+                    ],
+                    "number": 92,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=92"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-cordoba-huesca-2026-05-31-22-00",
+            "startTimestamp": 1780254000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Almeria vs Real Valladolid [LALIGA TV Hypermotion 4 ES]",
+            "matchstr": "Almeria vs Real Valladolid",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Almeria",
+            "team2": "Real Valladolid",
+            "channel": "LALIGA TV Hypermotion 4 ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion 4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=94"
+                    ],
+                    "number": 94,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=94"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-almeria-real-valladolid-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Real Zaragoza vs Malaga [LALIGA TV Hypermotion 5 ES]",
+            "matchstr": "Real Zaragoza vs Malaga",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Real Zaragoza",
+            "team2": "Malaga",
+            "channel": "LALIGA TV Hypermotion 5 ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion 5",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=95"
+                    ],
+                    "number": 95,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=95"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-real-zaragoza-malaga-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Racing Santander vs Cadiz [LALIGA TV Hypermotion ES]",
+            "matchstr": "Racing Santander vs Cadiz",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Racing Santander",
+            "team2": "Cadiz",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=96"
+                    ],
+                    "number": 96,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=96"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-racing-santander-cadiz-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [Spain Segunda Division] Burgos vs FC Andorra [LALIGA TV Hypermotion ES]",
+            "matchstr": "Burgos vs FC Andorra",
+            "time": "19:30",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Burgos",
+            "team2": "FC Andorra",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=97"
+                    ],
+                    "number": 97,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=97"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-burgos-fc-andorra-2026-05-31-19-30",
+            "startTimestamp": 1780245000000,
             "duration": 120
         }
     ]
