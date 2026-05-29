@@ -1,62 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [Hexagone] MMA: MMA: Hexagone 2026 [RMC Sport 1 FR]",
-            "matchstr": "MMA: Hexagone 2026",
-            "time": "22:00",
-            "league": "Hexagone",
-            "sport": "MMA",
-            "team1": "MMA: Hexagone 2026",
-            "team2": null,
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=53"
-                    ],
-                    "number": 53,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=53"
-                    ]
-                }
-            ],
-            "slug": "hexagone-mma-mma-hexagone-2026-2026-05-29-22-00",
-            "startTimestamp": 1780081200000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:00 [NASCAR Craftsman Truck Series] Motorsport: Allegiance 200 [Fox Sports 1 US]",
-            "matchstr": "Allegiance 200",
-            "time": "23:00",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Motorsport",
-            "team1": "Allegiance 200",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-29",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-motorsport-allegiance-200-2026-05-29-23-00",
-            "startTimestamp": 1780084800000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [NHL] Hockey: Montreal Canadiens vs Carolina Hurricanes [TNT US]",
             "matchstr": "Montreal Canadiens vs Carolina Hurricanes",
             "time": "03:00",
@@ -1270,34 +1214,6 @@
             ],
             "slug": "sweden-superettan-football-landskrona-brage-2026-05-30-14-00",
             "startTimestamp": 1780138800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:05 [NASCAR Craftsman Truck Series] Motorsport: Allegiance 200 [Fox Sports 1 US]",
-            "matchstr": "Allegiance 200",
-            "time": "00:05",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Motorsport",
-            "team1": "Allegiance 200",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-motorsport-allegiance-200-2026-05-30-00-05",
-            "startTimestamp": 1780088700000,
             "duration": 120
         },
         {
