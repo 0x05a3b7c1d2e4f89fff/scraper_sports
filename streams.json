@@ -128,56 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "09:30 [MotoGP] Motorsport: Italian Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Italian Grand Prix",
-            "time": "09:30",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Italian Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-italian-grand-prix-2026-05-30-09-30",
-            "startTimestamp": 1780122600000,
-            "duration": 400
-        },
-        {
             "matchText": "20:00 [WNBA] Basketball: Seattle Storm vs Toronto Tempo [ABC US]",
             "matchstr": "Seattle Storm vs Toronto Tempo",
             "time": "20:00",
@@ -585,34 +535,6 @@
             "duration": 180
         },
         {
-            "matchText": "14:00 [Czech Republic 1. liga] Taborsko vs Banik Ostrava [Oneplay Sport 1 CZ]",
-            "matchstr": "Taborsko vs Banik Ostrava",
-            "time": "14:00",
-            "league": "Czech Republic 1. liga",
-            "sport": "Football",
-            "team1": "Taborsko",
-            "team2": "Banik Ostrava",
-            "channel": "Oneplay Sport 1 CZ",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Oneplay Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                }
-            ],
-            "slug": "czech-republic-1-liga-football-taborsko-banik-ostrava-2026-05-30-14-00",
-            "startTimestamp": 1780138800000,
-            "duration": 120
-        },
-        {
             "matchText": "15:30 [France TOP 14] Rugby: Simulcast [Canal+ FR]",
             "matchstr": "Simulcast",
             "time": "15:30",
@@ -893,34 +815,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:00 [Sweden Superettan] Landskrona vs Brage [TV4 Sportkanalen SE]",
-            "matchstr": "Landskrona vs Brage",
-            "time": "14:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Landskrona",
-            "team2": "Brage",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-landskrona-brage-2026-05-30-14-00",
-            "startTimestamp": 1780138800000,
-            "duration": 120
-        },
-        {
             "matchText": "15:00 [Indy NXT Series] Motorsport: Detroit Grand Prix [Fox Sports 1 US]",
             "matchstr": "Detroit Grand Prix",
             "time": "15:00",
@@ -1031,34 +925,6 @@
             "slug": "indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-30-20-00",
             "startTimestamp": 1780160400000,
             "duration": 120
-        },
-        {
-            "matchText": "12:35 [AFL] Australian Football: Collingwood Magpies vs Western Bulldogs [Fox Sports 2 US]",
-            "matchstr": "Collingwood Magpies vs Western Bulldogs",
-            "time": "12:35",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Collingwood Magpies",
-            "team2": "Western Bulldogs",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-collingwood-magpies-western-bulldogs-2026-05-30-12-35",
-            "startTimestamp": 1780133700000,
-            "duration": 180
         },
         {
             "matchText": "22:00 [Canada Canadian Premier League] HFX Wanderers vs Vancouver FC [Fox Soccer Plus US]",
