@@ -206,14 +206,14 @@
             "duration": 120
         },
         {
-            "matchText": "11:00 [UFC] MMA: UFC: Fight Night [Discovery + UK]",
+            "matchText": "11:00 [UFC] MMA: UFC: Fight Night [Discovery + GB]",
             "matchstr": "UFC: Fight Night",
             "time": "11:00",
             "league": "UFC",
             "sport": "MMA",
             "team1": "UFC: Fight Night",
             "team2": null,
-            "channel": "Discovery + UK",
+            "channel": "Discovery + GB",
             "important": false,
             "matchDate": "2026-05-30",
             "channels": [
@@ -223,7 +223,7 @@
                         "https://nrdrse.link/ch.php?id=4"
                     ],
                     "number": 4,
-                    "language": "UK",
+                    "language": "GB",
                     "links": [
                         "https://sansat.link/channel?id=4"
                     ]
@@ -256,14 +256,14 @@
             "duration": 180
         },
         {
-            "matchText": "14:00 [UFC] MMA: Song Yadong vs Deiveson Figueiredo [Discovery + UK]",
+            "matchText": "14:00 [UFC] MMA: Song Yadong vs Deiveson Figueiredo [Discovery + GB]",
             "matchstr": "Song Yadong vs Deiveson Figueiredo",
             "time": "14:00",
             "league": "UFC",
             "sport": "MMA",
             "team1": "Song Yadong",
             "team2": "Deiveson Figueiredo",
-            "channel": "Discovery + UK",
+            "channel": "Discovery + GB",
             "important": false,
             "matchDate": "2026-05-30",
             "channels": [
@@ -273,7 +273,7 @@
                         "https://nrdrse.link/ch.php?id=4"
                     ],
                     "number": 4,
-                    "language": "UK",
+                    "language": "GB",
                     "links": [
                         "https://sansat.link/channel?id=4"
                     ]
@@ -747,62 +747,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:30 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "08:30",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-30-08-30",
-            "startTimestamp": 1780119000000,
-            "duration": 120
-        },
-        {
-            "matchText": "09:45 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "09:45",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-30-09-45",
-            "startTimestamp": 1780123500000,
-            "duration": 120
-        },
-        {
             "matchText": "15:30 [France TOP 14] Rugby: Toulouse vs Lyon [Canal+ Live 4 FR]",
             "matchstr": "Toulouse vs Lyon",
             "time": "15:30",
@@ -1137,34 +1081,6 @@
             "slug": "indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-30-20-00",
             "startTimestamp": 1780160400000,
             "duration": 120
-        },
-        {
-            "matchText": "09:15 [AFL] Australian Football: Fremantle Dockers vs Brisbane Lions [Fox Sports 2 US]",
-            "matchstr": "Fremantle Dockers vs Brisbane Lions",
-            "time": "09:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Fremantle Dockers",
-            "team2": "Brisbane Lions",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-fremantle-dockers-brisbane-lions-2026-05-30-09-15",
-            "startTimestamp": 1780121700000,
-            "duration": 180
         },
         {
             "matchText": "12:35 [AFL] Australian Football: Collingwood Magpies vs Western Bulldogs [Fox Sports 2 US]",
