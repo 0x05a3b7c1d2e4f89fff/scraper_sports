@@ -24,6 +24,17 @@
                     ]
                 },
                 {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=10"
+                    ]
+                },
+                {
                     "name": "ZDF",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=11"
@@ -251,34 +262,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:15 [Spain Segunda Division] Ceuta vs Albacete [LALIGA TV Hypermotion ES]",
-            "matchstr": "Ceuta vs Albacete",
-            "time": "17:15",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Ceuta",
-            "team2": "Albacete",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=26"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-ceuta-albacete-2026-05-30-17-15",
-            "startTimestamp": 1780150500000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Granada vs Sporting Gijon [LALIGA TV Hypermotion 2 ES]",
             "matchstr": "Granada vs Sporting Gijon",
             "time": "22:00",
@@ -305,84 +288,6 @@
             "slug": "spain-segunda-division-football-granada-sporting-gijon-2026-05-30-22-00",
             "startTimestamp": 1780167600000,
             "duration": 120
-        },
-        {
-            "matchText": "17:15 [Spain Segunda Division] Real Sociedad II vs Cultural Leonesa [LALIGA TV Hypermotion 2 ES]",
-            "matchstr": "Real Sociedad II vs Cultural Leonesa",
-            "time": "17:15",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "Real Sociedad II",
-            "team2": "Cultural Leonesa",
-            "channel": "LALIGA TV Hypermotion 2 ES",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=27"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-real-sociedad-ii-cultural-leonesa-2026-05-30-17-15",
-            "startTimestamp": 1780150500000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:20 [IIHF World Championship] Hockey: Switzerland vs Norway [TSN4 CA]",
-            "matchstr": "Switzerland vs Norway",
-            "time": "16:20",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Switzerland",
-            "team2": "Norway",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "MTV Urheilu 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                },
-                {
-                    "name": "Viaplay",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-switzerland-norway-2026-05-30-16-20",
-            "startTimestamp": 1780147200000,
-            "duration": 180
         },
         {
             "matchText": "21:00 [IIHF World Championship] Hockey: Canada vs Finland [TSN4 CA]",
@@ -460,34 +365,6 @@
             ],
             "slug": "france-top-14-rugby-montpellier-pau-2026-05-30-22-05",
             "startTimestamp": 1780167900000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Norway Eliteserien] Molde vs Sandefjord [TV2 Sport NO]",
-            "matchstr": "Molde vs Sandefjord",
-            "time": "17:00",
-            "league": "Norway Eliteserien",
-            "sport": "Football",
-            "team1": "Molde",
-            "team2": "Sandefjord",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "NO",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "norway-eliteserien-football-molde-sandefjord-2026-05-30-17-00",
-            "startTimestamp": 1780149600000,
             "duration": 120
         },
         {

@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-psg-arsenal-2026-05-30-19-00" group-title="Europe UEFA Champions League",PSG vs Arsenal (TNT Sports 1)
 https://sansat.link/channel?id=1
+#EXTINF:-1 tvg-id="europe-uefa-champions-league-football-psg-arsenal-2026-05-30-19-00" group-title="Europe UEFA Champions League",PSG vs Arsenal (DAZN)
+https://sansat.link/channel?id=10
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-psg-arsenal-2026-05-30-19-00" group-title="Europe UEFA Champions League",PSG vs Arsenal (ZDF)
 https://sansat.link/channel?id=11
 #EXTINF:-1 tvg-id="europe-uefa-champions-league-football-psg-arsenal-2026-05-30-19-00" group-title="Europe UEFA Champions League",PSG vs Arsenal (Cosmote Sport 1)
@@ -29,18 +31,8 @@ https://sansat.link/channel?id=19
 https://sansat.link/channel?id=28
 #EXTINF:-1 tvg-id="portugal-segunda-liga-football-cf-os-belenenses-farense-2026-05-30-22-30" group-title="Portugal Segunda liga",CF Os Belenenses vs Farense (Sport TV1)
 https://sansat.link/channel?id=21
-#EXTINF:-1 tvg-id="spain-segunda-division-football-ceuta-albacete-2026-05-30-17-15" group-title="Spain Segunda Division",Ceuta vs Albacete (LALIGA TV Hypermotion)
-https://sansat.link/channel?id=26
 #EXTINF:-1 tvg-id="spain-segunda-division-football-granada-sporting-gijon-2026-05-30-22-00" group-title="Spain Segunda Division",Granada vs Sporting Gijon (LALIGA TV Hypermotion 2)
 https://sansat.link/channel?id=26
-#EXTINF:-1 tvg-id="spain-segunda-division-football-real-sociedad-ii-cultural-leonesa-2026-05-30-17-15" group-title="Spain Segunda Division",Real Sociedad II vs Cultural Leonesa (LALIGA TV Hypermotion 2)
-https://sansat.link/channel?id=27
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-norway-2026-05-30-16-20" group-title="IIHF World Championship",Switzerland vs Norway (TSN4)
-https://sansat.link/channel?id=34
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-norway-2026-05-30-16-20" group-title="IIHF World Championship",Switzerland vs Norway (MTV Urheilu 1)
-https://sansat.link/channel?id=70
-#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-norway-2026-05-30-16-20" group-title="IIHF World Championship",Switzerland vs Norway (Viaplay)
-https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-finland-2026-05-30-21-00" group-title="IIHF World Championship",Canada vs Finland (TSN4)
 https://sansat.link/channel?id=34
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-finland-2026-05-30-21-00" group-title="IIHF World Championship",Canada vs Finland (MTV Urheilu 1)
@@ -49,8 +41,6 @@ https://sansat.link/channel?id=70
 https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="france-top-14-rugby-montpellier-pau-2026-05-30-22-05" group-title="France TOP 14",Montpellier vs Pau (Canal+)
 https://sansat.link/channel?id=50
-#EXTINF:-1 tvg-id="norway-eliteserien-football-molde-sandefjord-2026-05-30-17-00" group-title="Norway Eliteserien",Molde vs Sandefjord (TV2 Sport)
-https://sansat.link/channel?id=69
 #EXTINF:-1 tvg-id="indy-nxt-series-motorsport-detroit-grand-prix-2026-05-30-19-00" group-title="Indy NXT Series",Detroit Grand Prix (Fox Sports 1)
 https://sansat.link/channel?id=81
 #EXTINF:-1 tvg-id="indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-30-20-00" group-title="IndyCar",Chevrolet Detroit Grand Prix (Fox Sports 1)
