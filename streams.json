@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NHL] Hockey: Montreal Canadiens vs Carolina Hurricanes [TNT US]",
-            "matchstr": "Montreal Canadiens vs Carolina Hurricanes",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Montreal Canadiens",
-            "team2": "Carolina Hurricanes",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-montreal-canadiens-carolina-hurricanes-2026-05-30-03-00",
-            "startTimestamp": 1780099200000,
-            "duration": 180
-        },
-        {
             "matchText": "19:00 [Europe UEFA Champions League] PSG vs Arsenal [TNT Sports 1 GB]",
             "matchstr": "PSG vs Arsenal",
             "time": "19:00",
@@ -585,34 +535,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [CFL] Canadian Football: Montreal Canadiens vs Carolina Hurricanes [TSN2 CA]",
-            "matchstr": "Montreal Canadiens vs Carolina Hurricanes",
-            "time": "02:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Montreal Canadiens",
-            "team2": "Carolina Hurricanes",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-montreal-canadiens-carolina-hurricanes-2026-05-30-02-00",
-            "startTimestamp": 1780095600000,
-            "duration": 180
-        },
-        {
             "matchText": "16:20 [IIHF World Championship] Hockey: Switzerland vs Norway [TSN4 CA]",
             "matchstr": "Switzerland vs Norway",
             "time": "16:20",
@@ -822,90 +744,6 @@
             ],
             "slug": "france-top-14-rugby-perpignan-castres-2026-05-30-15-30",
             "startTimestamp": 1780144200000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:45 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "01:45",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-30-01-45",
-            "startTimestamp": 1780094700000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:45 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "02:45",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-30-02-45",
-            "startTimestamp": 1780098300000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:30 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "04:30",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-30-04-30",
-            "startTimestamp": 1780104600000,
             "duration": 120
         },
         {
@@ -1217,34 +1055,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [NASCAR Craftsman Truck Series] Motorsport: Allegiance 200 [Fox Sports 1 US]",
-            "matchstr": "Allegiance 200",
-            "time": "03:00",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Motorsport",
-            "team1": "Allegiance 200",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-motorsport-allegiance-200-2026-05-30-03-00",
-            "startTimestamp": 1780099200000,
-            "duration": 120
-        },
-        {
             "matchText": "15:00 [Indy NXT Series] Motorsport: Detroit Grand Prix [Fox Sports 1 US]",
             "matchstr": "Detroit Grand Prix",
             "time": "15:00",
@@ -1357,34 +1167,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Canada Canadian Premier League] Supra du Quebec vs Inter Toronto [Fox Sports 2 US]",
-            "matchstr": "Supra du Quebec vs Inter Toronto",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Supra du Quebec",
-            "team2": "Inter Toronto",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-supra-du-quebec-inter-toronto-2026-05-30-02-00",
-            "startTimestamp": 1780095600000,
-            "duration": 120
-        },
-        {
             "matchText": "09:15 [AFL] Australian Football: Fremantle Dockers vs Brisbane Lions [Fox Sports 2 US]",
             "matchstr": "Fremantle Dockers vs Brisbane Lions",
             "time": "09:15",
@@ -1494,34 +1276,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-hfx-wanderers-vancouver-fc-2026-05-30-22-00",
             "startTimestamp": 1780167600000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [UFL] American Football: Dallas Renegades vs St. Louis Battlehawks [Fox Deportes ES]",
-            "matchstr": "Dallas Renegades vs St. Louis Battlehawks",
-            "time": "03:00",
-            "league": "UFL",
-            "sport": "American Football",
-            "team1": "Dallas Renegades",
-            "team2": "St. Louis Battlehawks",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "ufl-american-football-dallas-renegades-st-louis-battlehawks-2026-05-30-03-00",
-            "startTimestamp": 1780099200000,
             "duration": 120
         },
         {
