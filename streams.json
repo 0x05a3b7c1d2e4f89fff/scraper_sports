@@ -206,56 +206,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:00 [UFC] MMA: UFC: Fight Night [Discovery + GB]",
-            "matchstr": "UFC: Fight Night",
-            "time": "11:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "UFC: Fight Night",
-            "team2": null,
-            "channel": "Discovery + GB",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Discovery +",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "VOO Sport World 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=89"
-                    ],
-                    "number": 89,
-                    "language": "BE",
-                    "links": [
-                        "https://sansat.link/channel?id=89"
-                    ]
-                },
-                {
-                    "name": "Go3 Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=90"
-                    ],
-                    "number": 90,
-                    "language": "LV",
-                    "links": [
-                        "https://sansat.link/channel?id=90"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-ufc-fight-night-2026-05-30-11-00",
-            "startTimestamp": 1780128000000,
-            "duration": 180
-        },
-        {
             "matchText": "14:00 [UFC] MMA: Song Yadong vs Deiveson Figueiredo [Discovery + GB]",
             "matchstr": "Song Yadong vs Deiveson Figueiredo",
             "time": "14:00",
