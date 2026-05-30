@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="portugal-segunda-liga-football-cf-os-belenenses-farense-2026-05-30-22-30" group-title="Portugal Segunda liga",CF Os Belenenses vs Farense (Sport TV1)
-https://sansat.link/channel?id=21
 #EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-31-03-00" group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder (RDS)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-31-03-00" group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder (NBA League Pass)
@@ -95,6 +93,22 @@ https://sansat.link/channel?id=87
 https://sansat.link/channel?id=31
 #EXTINF:-1 tvg-id="premiership-rugby-rugby-exeter-chiefs-leicester-tigers-2026-05-31-17-30" group-title="Premiership Rugby",Exeter Chiefs vs Leicester Tigers (Sportsnet World)
 https://sansat.link/channel?id=32
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-norway-2026-05-31-16-30" group-title="IIHF World Championship",Canada vs Norway (TSN4)
+https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-norway-2026-05-31-16-30" group-title="IIHF World Championship",Canada vs Norway (CT Sport)
+https://sansat.link/channel?id=42
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-norway-2026-05-31-16-30" group-title="IIHF World Championship",Canada vs Norway (Viaplay 1 Urheilu)
+https://sansat.link/channel?id=70
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-norway-2026-05-31-16-30" group-title="IIHF World Championship",Canada vs Norway (Viaplay Sport)
+https://sansat.link/channel?id=80
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (TSN4)
+https://sansat.link/channel?id=34
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (CT Sport)
+https://sansat.link/channel?id=42
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (MTV Urheilu 1)
+https://sansat.link/channel?id=70
+#EXTINF:-1 tvg-id="iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20" group-title="IIHF World Championship",Switzerland vs Finland (Viaplay Sport)
+https://sansat.link/channel?id=80
 #EXTINF:-1 tvg-id="indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-31-19-30" group-title="IndyCar",Chevrolet Detroit Grand Prix (TSN5)
 https://sansat.link/channel?id=35
 #EXTINF:-1 tvg-id="czech-republic-1-liga-football-slovacko-artis-2026-05-31-14-00" group-title="Czech Republic 1. liga",Slovacko vs Artis (Oneplay Sport 1)
@@ -147,8 +161,6 @@ https://sansat.link/channel?id=83
 https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="canada-canadian-premier-league-football-forge-cavalry-2026-05-31-23-00" group-title="Canada Canadian Premier League",Forge vs Cavalry (Fox Soccer Plus)
 https://sansat.link/channel?id=83
-#EXTINF:-1 tvg-id="argentina-copa-argentina-football-instituto-lanus-2026-05-31-00-00" group-title="Argentina Copa Argentina",Instituto vs Lanus (TyC Sports Argentina)
-https://sansat.link/channel?id=84
 #EXTINF:-1 tvg-id="argentina-copa-argentina-football-estudiantes-rosario-central-2026-05-31-21-30" group-title="Argentina Copa Argentina",Estudiantes vs Rosario Central (TyC Sports Argentina)
 https://sansat.link/channel?id=84
 #EXTINF:-1 tvg-id="chile-primera-division-football-universidad-chile-deportes-concepcion-2026-05-31-00-30" group-title="Chile Primera Division",Universidad Chile vs Deportes Concepcion (TNT SPORTS Premium)

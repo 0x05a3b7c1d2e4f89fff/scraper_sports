@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:30 [Portugal Segunda liga] CF Os Belenenses vs Farense [Sport TV1 PT]",
-            "matchstr": "CF Os Belenenses vs Farense",
-            "time": "22:30",
-            "league": "Portugal Segunda liga",
-            "sport": "Football",
-            "team1": "CF Os Belenenses",
-            "team2": "Farense",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-05-30",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://sansat.link/channel?id=21"
-                    ]
-                }
-            ],
-            "slug": "portugal-segunda-liga-football-cf-os-belenenses-farense-2026-05-30-22-30",
-            "startTimestamp": 1780169400000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [NBA] Basketball: San Antonio Spurs vs Oklahoma City Thunder [RDS CA]",
             "matchstr": "San Antonio Spurs vs Oklahoma City Thunder",
             "time": "03:00",
@@ -971,6 +943,128 @@
             "duration": 120
         },
         {
+            "matchText": "16:30 [IIHF World Championship] Hockey: Canada vs Norway [TSN4 CA]",
+            "matchstr": "Canada vs Norway",
+            "time": "16:30",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Canada",
+            "team2": "Norway",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=42"
+                    ]
+                },
+                {
+                    "name": "Viaplay 1 Urheilu",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-canada-norway-2026-05-31-16-30",
+            "startTimestamp": 1780234200000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:20 [IIHF World Championship] Hockey: Switzerland vs Finland [TSN4 CA]",
+            "matchstr": "Switzerland vs Finland",
+            "time": "21:20",
+            "league": "IIHF World Championship",
+            "sport": "Hockey",
+            "team1": "Switzerland",
+            "team2": "Finland",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-05-31",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=42"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "iihf-world-championship-hockey-switzerland-finland-2026-05-31-21-20",
+            "startTimestamp": 1780251600000,
+            "duration": 180
+        },
+        {
             "matchText": "19:30 [IndyCar] Motorsport: Chevrolet Detroit Grand Prix [TSN5 CA]",
             "matchstr": "Chevrolet Detroit Grand Prix",
             "time": "19:30",
@@ -1645,34 +1739,6 @@
             ],
             "slug": "canada-canadian-premier-league-football-forge-cavalry-2026-05-31-23-00",
             "startTimestamp": 1780257600000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:00 [Argentina Copa Argentina] Instituto vs Lanus [TyC Sports Argentina ES]",
-            "matchstr": "Instituto vs Lanus",
-            "time": "00:00",
-            "league": "Argentina Copa Argentina",
-            "sport": "Football",
-            "team1": "Instituto",
-            "team2": "Lanus",
-            "channel": "TyC Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TyC Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "argentina-copa-argentina-football-instituto-lanus-2026-05-31-00-00",
-            "startTimestamp": 1780174800000,
             "duration": 120
         },
         {
