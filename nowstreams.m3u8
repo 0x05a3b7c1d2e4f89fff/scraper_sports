@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
 #EXTINF:-1 tvg-id="england-fa-women-s-cup-football-brighton-hove-albion-manchester-city-2026-05-31-17-00" group-title="England FA Women's Cup",Brighton & Hove Albion vs Manchester City (TNT Sports 1)
 https://sansat.link/channel?id=1
-#EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-31-10-30" group-title="MotoGP",Italian Grand Prix (TNT Sports 2)
-https://sansat.link/channel?id=2
-#EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-31-10-30" group-title="MotoGP",Italian Grand Prix (Sky Sport MotoGP)
-https://sansat.link/channel?id=47
-#EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-31-10-30" group-title="MotoGP",Italian Grand Prix (V Sport Motor)
-https://sansat.link/channel?id=79
 #EXTINF:-1 tvg-id="international-friendly-matches-football-poland-ukraine-2026-05-31-18-30" group-title="International Friendly Matches",Poland vs Ukraine (Sky Sport 6)
 https://sansat.link/channel?id=6
 #EXTINF:-1 tvg-id="international-friendly-matches-football-poland-ukraine-2026-05-31-18-30" group-title="International Friendly Matches",Poland vs Ukraine (TVP Sport)
@@ -41,12 +35,6 @@ https://sansat.link/channel?id=19
 https://sansat.link/channel?id=19
 #EXTINF:-1 tvg-id="brazil-brasileirao-football-palmeiras-chapecoense-2026-05-31-22-00" group-title="Brazil Brasileirao",Palmeiras vs Chapecoense (M. Liga de Campeones 2)
 https://sansat.link/channel?id=28
-#EXTINF:-1 tvg-id="international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00" group-title="International Friendly Matches",Switzerland vs Jordan (RSI La 2)
-https://sansat.link/channel?id=20
-#EXTINF:-1 tvg-id="international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00" group-title="International Friendly Matches",Switzerland vs Jordan (TV2 Sport X)
-https://sansat.link/channel?id=69
-#EXTINF:-1 tvg-id="international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00" group-title="International Friendly Matches",Switzerland vs Jordan (Fox Sports 2)
-https://sansat.link/channel?id=82
 #EXTINF:-1 tvg-id="spain-la-liga-football-deportivo-la-coruna-las-palmas-2026-05-31-19-30" group-title="Spain La Liga",Deportivo La Coruna vs Las Palmas (DAZN3)
 https://sansat.link/channel?id=22
 #EXTINF:-1 tvg-id="premiership-rugby-rugby-exeter-chiefs-leicester-tigers-2026-05-31-17-30" group-title="Premiership Rugby",Exeter Chiefs vs Leicester Tigers (Sportsnet World)
@@ -73,28 +61,18 @@ https://sansat.link/channel?id=35
 https://sansat.link/channel?id=41
 #EXTINF:-1 tvg-id="international-friendly-matches-football-czech-republic-kosovo-2026-05-31-17-00" group-title="International Friendly Matches",Czech Republic vs Kosovo (Polsat Sport Premium 2)
 https://sansat.link/channel?id=62
-#EXTINF:-1 tvg-id="international-friendly-matches-football-czech-republic-kosovo-2026-05-31-17-00" group-title="International Friendly Matches",Czech Republic vs Kosovo (RTK1)
+#EXTINF:-1 tvg-id="international-friendly-matches-football-czech-republic-kosovo-2026-05-31-17-00" group-title="International Friendly Matches",Czech Republic vs Kosovo (SuperSport 2)
 https://sansat.link/channel?id=68
 #EXTINF:-1 tvg-id="belgium-pro-league-football-gent-genk-2026-05-31-19-30" group-title="Belgium Pro League",Gent vs Genk (DAZN Pro League 1)
 https://sansat.link/channel?id=49
 #EXTINF:-1 tvg-id="norway-obos-ligaen-football-egersund-stromsgodset-2026-05-31-18-00" group-title="Norway OBOS-ligaen",Egersund vs Strømsgodset (TV2 Sport)
 https://sansat.link/channel?id=66
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-vasteras-sk-ifk-goteborg-2026-05-31-15-00" group-title="Sweden Allsvenskan",Vasteras SK vs IFK Goteborg (TV4 Sport Live 2)
-https://sansat.link/channel?id=72
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-hacken-hammarby-2026-05-31-15-00" group-title="Sweden Allsvenskan",Hacken vs Hammarby (TV4 Fotball)
-https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="spain-segunda-division-football-deportivo-la-coruna-las-palmas-2026-05-31-19-30" group-title="Spain Segunda Division",Deportivo La Coruna vs Las Palmas (TV4 Fotball)
 https://sansat.link/channel?id=74
 #EXTINF:-1 tvg-id="spain-segunda-division-football-deportivo-la-coruna-las-palmas-2026-05-31-19-30" group-title="Spain Segunda Division",Deportivo La Coruna vs Las Palmas (LALIGA TV Hypermotion 3)
 https://sansat.link/channel?id=93
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-degerfors-brommapojkarna-2026-05-31-15-00" group-title="Sweden Allsvenskan",Degerfors vs Brommapojkarna (TV4 Sportkanalen)
-https://sansat.link/channel?id=75
 #EXTINF:-1 tvg-id="sweden-superettan-football-helsingborg-norrkoping-2026-05-31-18-00" group-title="Sweden Superettan",Helsingborg vs Norrkoping (TV4 Sportkanalen)
 https://sansat.link/channel?id=75
-#EXTINF:-1 tvg-id="sweden-allsvenskan-football-mjallby-djurgarden-2026-05-31-17-30" group-title="Sweden Allsvenskan",Mjallby vs Djurgarden (TV4 Play)
-https://sansat.link/channel?id=76
-#EXTINF:-1 tvg-id="finland-veikkausliiga-football-oulu-jaro-2026-05-31-16-00" group-title="Finland Veikkausliiga",Oulu vs Jaro (Ruutu+)
-https://sansat.link/channel?id=77
 #EXTINF:-1 tvg-id="indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-31-16-30" group-title="IndyCar",Chevrolet Detroit Grand Prix (Fox Sports 1)
 https://sansat.link/channel?id=81
 #EXTINF:-1 tvg-id="indy-nxt-series-motorsport-detroit-grand-prix-2026-05-31-17-30" group-title="Indy NXT Series",Detroit Grand Prix (Fox Sports 1)
@@ -109,8 +87,6 @@ https://sansat.link/channel?id=85
 https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="united-states-nwsl-football-gotham-fc-houston-dash-2026-05-31-22-00" group-title="United States NWSL",Gotham FC vs Houston Dash (ESPN Deportes)
 https://sansat.link/channel?id=86
-#EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-china-pr-u20-saudi-arabia-u23-2026-05-31-16-00" group-title="World Maurice Revello Tournament",China PR U20 vs Saudi Arabia U23 (Fox Deportes)
-https://sansat.link/channel?id=87
 #EXTINF:-1 tvg-id="world-maurice-revello-tournament-football-congo-dr-u20-tunisia-u20-2026-05-31-19-30" group-title="World Maurice Revello Tournament",Congo DR U20 vs Tunisia U20 (Fox Deportes)
 https://sansat.link/channel?id=87
 #EXTINF:-1 tvg-id="spain-segunda-division-football-simulcast-2026-05-31-19-30" group-title="Spain Segunda Division",Simulcast (LALIGA TV Hypermotion)

@@ -29,56 +29,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:30 [MotoGP] Motorsport: Italian Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Italian Grand Prix",
-            "time": "10:30",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Italian Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://sansat.link/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-italian-grand-prix-2026-05-31-10-30",
-            "startTimestamp": 1780212600000,
-            "duration": 400
-        },
-        {
             "matchText": "18:30 [International Friendly Matches] Poland vs Ukraine [Sky Sport 6 NZ]",
             "matchstr": "Poland vs Ukraine",
             "time": "18:30",
@@ -402,56 +352,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [International Friendly Matches] Switzerland vs Jordan [RSI La 2 CH]",
-            "matchstr": "Switzerland vs Jordan",
-            "time": "16:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Switzerland",
-            "team2": "Jordan",
-            "channel": "RSI La 2 CH",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "RSI La 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "CH",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                },
-                {
-                    "name": "TV2 Sport X",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=69"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00",
-            "startTimestamp": 1780232400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain La Liga] Deportivo La Coruna vs Las Palmas [DAZN3 PT]",
             "matchstr": "Deportivo La Coruna vs Las Palmas",
             "time": "19:30",
@@ -692,12 +592,12 @@
                     ]
                 },
                 {
-                    "name": "RTK1",
+                    "name": "SuperSport 2",
                     "oldLinks": [
                         "https://nrdrse.link/ch.php?id=68"
                     ],
                     "number": 68,
-                    "language": "KS",
+                    "language": "AL",
                     "links": [
                         "https://sansat.link/channel?id=68"
                     ]
@@ -764,62 +664,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Sweden Allsvenskan] Vasteras SK vs IFK Goteborg [TV4 Sport Live 2 SE]",
-            "matchstr": "Vasteras SK vs IFK Goteborg",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Vasteras SK",
-            "team2": "IFK Goteborg",
-            "channel": "TV4 Sport Live 2 SE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TV4 Sport Live 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-vasteras-sk-ifk-goteborg-2026-05-31-15-00",
-            "startTimestamp": 1780228800000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [Sweden Allsvenskan] Hacken vs Hammarby [TV4 Fotball SE]",
-            "matchstr": "Hacken vs Hammarby",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Hacken",
-            "team2": "Hammarby",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=74"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-hacken-hammarby-2026-05-31-15-00",
-            "startTimestamp": 1780228800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain Segunda Division] Deportivo La Coruna vs Las Palmas [TV4 Fotball SE]",
             "matchstr": "Deportivo La Coruna vs Las Palmas",
             "time": "19:30",
@@ -859,34 +703,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [Sweden Allsvenskan] Degerfors vs Brommapojkarna [TV4 Sportkanalen SE]",
-            "matchstr": "Degerfors vs Brommapojkarna",
-            "time": "15:00",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Degerfors",
-            "team2": "Brommapojkarna",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-degerfors-brommapojkarna-2026-05-31-15-00",
-            "startTimestamp": 1780228800000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Sweden Superettan] Helsingborg vs Norrkoping [TV4 Sportkanalen SE]",
             "matchstr": "Helsingborg vs Norrkoping",
             "time": "18:00",
@@ -912,62 +728,6 @@
             ],
             "slug": "sweden-superettan-football-helsingborg-norrkoping-2026-05-31-18-00",
             "startTimestamp": 1780239600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Sweden Allsvenskan] Mjallby vs Djurgarden [TV4 Play SE]",
-            "matchstr": "Mjallby vs Djurgarden",
-            "time": "17:30",
-            "league": "Sweden Allsvenskan",
-            "sport": "Football",
-            "team1": "Mjallby",
-            "team2": "Djurgarden",
-            "channel": "TV4 Play SE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TV4 Play",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "sweden-allsvenskan-football-mjallby-djurgarden-2026-05-31-17-30",
-            "startTimestamp": 1780237800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Finland Veikkausliiga] Oulu vs Jaro [Ruutu+ FI]",
-            "matchstr": "Oulu vs Jaro",
-            "time": "16:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Oulu",
-            "team2": "Jaro",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-oulu-jaro-2026-05-31-16-00",
-            "startTimestamp": 1780232400000,
             "duration": 120
         },
         {
@@ -1164,34 +924,6 @@
             ],
             "slug": "united-states-nwsl-football-gotham-fc-houston-dash-2026-05-31-22-00",
             "startTimestamp": 1780254000000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [World Maurice Revello Tournament] China PR U20 vs Saudi Arabia U23 [Fox Deportes ES]",
-            "matchstr": "China PR U20 vs Saudi Arabia U23",
-            "time": "16:00",
-            "league": "World Maurice Revello Tournament",
-            "sport": "Football",
-            "team1": "China PR U20",
-            "team2": "Saudi Arabia U23",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "world-maurice-revello-tournament-football-china-pr-u20-saudi-arabia-u23-2026-05-31-16-00",
-            "startTimestamp": 1780232400000,
             "duration": 120
         },
         {
