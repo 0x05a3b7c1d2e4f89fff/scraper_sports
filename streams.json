@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NBA] Basketball: San Antonio Spurs vs Oklahoma City Thunder [RDS CA]",
-            "matchstr": "San Antonio Spurs vs Oklahoma City Thunder",
-            "time": "03:00",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "San Antonio Spurs",
-            "team2": "Oklahoma City Thunder",
-            "channel": "RDS CA",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "RDS",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "NBA League Pass",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-31-03-00",
-            "startTimestamp": 1780185600000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [England FA Women's Cup] Brighton & Hove Albion vs Manchester City [TNT Sports 1 GB]",
             "matchstr": "Brighton & Hove Albion vs Manchester City",
             "time": "17:00",
@@ -116,101 +77,6 @@
             "slug": "motogp-motorsport-italian-grand-prix-2026-05-31-10-30",
             "startTimestamp": 1780212600000,
             "duration": 400
-        },
-        {
-            "matchText": "00:30 [Prelims] Boxing: O'Shaquie Foster vs Ray Ford [DAZN US]",
-            "matchstr": "O'Shaquie Foster vs Ray Ford",
-            "time": "00:30",
-            "league": "Prelims",
-            "sport": "Boxing",
-            "team1": "O'Shaquie Foster",
-            "team2": "Ray Ford",
-            "channel": "DAZN US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "prelims-boxing-o-shaquie-foster-ray-ford-2026-05-31-00-30",
-            "startTimestamp": 1780176600000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [Main Cards] Boxing: O'Shaquie Foster vs Ray Ford [DAZN US]",
-            "matchstr": "O'Shaquie Foster vs Ray Ford",
-            "time": "03:00",
-            "league": "Main Cards",
-            "sport": "Boxing",
-            "team1": "O'Shaquie Foster",
-            "team2": "Ray Ford",
-            "channel": "DAZN US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=4"
-                    ]
-                }
-            ],
-            "slug": "main-cards-boxing-o-shaquie-foster-ray-ford-2026-05-31-03-00",
-            "startTimestamp": 1780185600000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:00 [International Friendly Matches] Korea Republic vs Trinidad and Tobago [Now Sports Prime HK]",
-            "matchstr": "Korea Republic vs Trinidad and Tobago",
-            "time": "04:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Korea Republic",
-            "team2": "Trinidad and Tobago",
-            "channel": "Now Sports Prime HK",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Now Sports Prime",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "HK",
-                    "links": [
-                        "https://sansat.link/channel?id=5"
-                    ]
-                },
-                {
-                    "name": "M. Liga de Campeones 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=28"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-korea-republic-trinidad-and-tobago-2026-05-31-04-00",
-            "startTimestamp": 1780189200000,
-            "duration": 120
         },
         {
             "matchText": "13:25 [International Friendly Matches] Japan vs Iceland [Now Sports Prime HK]",
@@ -366,56 +232,6 @@
             ],
             "slug": "united-states-nwsl-football-chicago-stars-san-diego-wave-2026-05-31-20-00",
             "startTimestamp": 1780246800000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [International Friendly Matches] Ecuador vs Saudi Arabia [TLN CA]",
-            "matchstr": "Ecuador vs Saudi Arabia",
-            "time": "02:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Ecuador",
-            "team2": "Saudi Arabia",
-            "channel": "TLN CA",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TLN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                },
-                {
-                    "name": "M. Liga de Campeones",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=29"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-ecuador-saudi-arabia-2026-05-31-02-30",
-            "startTimestamp": 1780183800000,
             "duration": 120
         },
         {
@@ -681,56 +497,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [North America CONCACAF Champions Cup] Toluca vs Tigres UANL [sportdigital1+ DE]",
-            "matchstr": "Toluca vs Tigres UANL",
-            "time": "03:00",
-            "league": "North America CONCACAF Champions Cup",
-            "sport": "Football",
-            "team1": "Toluca",
-            "team2": "Tigres UANL",
-            "channel": "sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "sportdigital1+",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                },
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "north-america-concacaf-champions-cup-football-toluca-tigres-uanl-2026-05-31-03-00",
-            "startTimestamp": 1780185600000,
-            "duration": 120
-        },
-        {
             "matchText": "16:00 [International Friendly Matches] Switzerland vs Jordan [RSI La 2 CH]",
             "matchstr": "Switzerland vs Jordan",
             "time": "16:00",
@@ -781,34 +547,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Brazil Brasileirao] Santos vs Vitoria [Canal 11 PT]",
-            "matchstr": "Santos vs Vitoria",
-            "time": "02:00",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "Santos",
-            "team2": "Vitoria",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://sansat.link/channel?id=21"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-santos-vitoria-2026-05-31-02-00",
-            "startTimestamp": 1780182000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Spain La Liga] D. Corunha vs LAS Palmas [DAZN3 PT]",
             "matchstr": "D. Corunha vs LAS Palmas",
             "time": "19:30",
@@ -834,84 +572,6 @@
             ],
             "slug": "spain-la-liga-football-d-corunha-las-palmas-2026-05-31-19-30",
             "startTimestamp": 1780245000000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [International Friendly Matches] Mexico vs Australia [M. Liga de Campeones ES]",
-            "matchstr": "Mexico vs Australia",
-            "time": "05:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Mexico",
-            "team2": "Australia",
-            "channel": "M. Liga de Campeones ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "M. Liga de Campeones",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-mexico-australia-2026-05-31-05-00",
-            "startTimestamp": 1780192800000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:30 [United States NWSL] Washington Spirit vs Seattle Reign [TSN1 CA]",
-            "matchstr": "Washington Spirit vs Seattle Reign",
-            "time": "01:30",
-            "league": "United States NWSL",
-            "sport": "Football",
-            "team1": "Washington Spirit",
-            "team2": "Seattle Reign",
-            "channel": "TSN1 CA",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                }
-            ],
-            "slug": "united-states-nwsl-football-washington-spirit-seattle-reign-2026-05-31-01-30",
-            "startTimestamp": 1780180200000,
             "duration": 120
         },
         {
@@ -1196,62 +856,6 @@
             ],
             "slug": "belgium-pro-league-football-gent-genk-2026-05-31-19-30",
             "startTimestamp": 1780245000000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "02:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-31-02-00",
-            "startTimestamp": 1780182000000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [World Rally Championship] Motorsport: Rally Japan [Canal+ Sport360 FR]",
-            "matchstr": "Rally Japan",
-            "time": "03:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "Rally Japan",
-            "team2": null,
-            "channel": "Canal+ Sport360 FR",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://sansat.link/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-rally-japan-2026-05-31-03-00",
-            "startTimestamp": 1780185600000,
             "duration": 120
         },
         {
@@ -1630,34 +1234,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [Canada Canadian Premier League] Pacific FC vs Atl. Ottawa [Fox Soccer Plus US]",
-            "matchstr": "Pacific FC vs Atl. Ottawa",
-            "time": "01:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Pacific FC",
-            "team2": "Atl. Ottawa",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-pacific-fc-atl-ottawa-2026-05-31-01-00",
-            "startTimestamp": 1780178400000,
-            "duration": 120
-        },
-        {
             "matchText": "08:15 [AFL] Australian Football: Greater Western Sydney Giants vs Melbourne Demons [Fox occer Plus US]",
             "matchstr": "Greater Western Sydney Giants vs Melbourne Demons",
             "time": "08:15",
@@ -1767,34 +1343,6 @@
             ],
             "slug": "argentina-copa-argentina-football-estudiantes-rosario-central-2026-05-31-21-30",
             "startTimestamp": 1780252200000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Chile Primera Division] Universidad Chile vs Deportes Concepcion [TNT SPORTS Premium ES]",
-            "matchstr": "Universidad Chile vs Deportes Concepcion",
-            "time": "00:30",
-            "league": "Chile Primera Division",
-            "sport": "Football",
-            "team1": "Universidad Chile",
-            "team2": "Deportes Concepcion",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-primera-division-football-universidad-chile-deportes-concepcion-2026-05-31-00-30",
-            "startTimestamp": 1780176600000,
             "duration": 120
         },
         {

@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-31-03-00" group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder (RDS)
-https://sansat.link/channel?id=1
-#EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-oklahoma-city-thunder-2026-05-31-03-00" group-title="NBA",San Antonio Spurs vs Oklahoma City Thunder (NBA League Pass)
-https://sansat.link/channel?id=2
 #EXTINF:-1 tvg-id="england-fa-women-s-cup-football-brighton-hove-albion-manchester-city-2026-05-31-17-00" group-title="England FA Women's Cup",Brighton & Hove Albion vs Manchester City (TNT Sports 1)
 https://sansat.link/channel?id=1
 #EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-31-10-30" group-title="MotoGP",Italian Grand Prix (TNT Sports 2)
@@ -11,14 +7,6 @@ https://sansat.link/channel?id=2
 https://sansat.link/channel?id=47
 #EXTINF:-1 tvg-id="motogp-motorsport-italian-grand-prix-2026-05-31-10-30" group-title="MotoGP",Italian Grand Prix (V Sport Motor)
 https://sansat.link/channel?id=79
-#EXTINF:-1 tvg-id="prelims-boxing-o-shaquie-foster-ray-ford-2026-05-31-00-30" group-title="Prelims",O'Shaquie Foster vs Ray Ford (DAZN)
-https://sansat.link/channel?id=4
-#EXTINF:-1 tvg-id="main-cards-boxing-o-shaquie-foster-ray-ford-2026-05-31-03-00" group-title="Main Cards",O'Shaquie Foster vs Ray Ford (DAZN)
-https://sansat.link/channel?id=4
-#EXTINF:-1 tvg-id="international-friendly-matches-football-korea-republic-trinidad-and-tobago-2026-05-31-04-00" group-title="International Friendly Matches",Korea Republic vs Trinidad and Tobago (Now Sports Prime)
-https://sansat.link/channel?id=5
-#EXTINF:-1 tvg-id="international-friendly-matches-football-korea-republic-trinidad-and-tobago-2026-05-31-04-00" group-title="International Friendly Matches",Korea Republic vs Trinidad and Tobago (M. Liga de Campeones 2)
-https://sansat.link/channel?id=28
 #EXTINF:-1 tvg-id="international-friendly-matches-football-japan-iceland-2026-05-31-13-25" group-title="International Friendly Matches",Japan vs Iceland (Now Sports Prime)
 https://sansat.link/channel?id=5
 #EXTINF:-1 tvg-id="international-friendly-matches-football-japan-iceland-2026-05-31-13-25" group-title="International Friendly Matches",Japan vs Iceland (M. Liga de Campeones)
@@ -35,12 +23,6 @@ https://sansat.link/channel?id=7
 https://sansat.link/channel?id=67
 #EXTINF:-1 tvg-id="united-states-nwsl-football-chicago-stars-san-diego-wave-2026-05-31-20-00" group-title="United States NWSL",Chicago Stars vs San Diego Wave (CBS Sports Network)
 https://sansat.link/channel?id=8
-#EXTINF:-1 tvg-id="international-friendly-matches-football-ecuador-saudi-arabia-2026-05-31-02-30" group-title="International Friendly Matches",Ecuador vs Saudi Arabia (TLN)
-https://sansat.link/channel?id=9
-#EXTINF:-1 tvg-id="international-friendly-matches-football-ecuador-saudi-arabia-2026-05-31-02-30" group-title="International Friendly Matches",Ecuador vs Saudi Arabia (Sportdigital FUSSBALL)
-https://sansat.link/channel?id=19
-#EXTINF:-1 tvg-id="international-friendly-matches-football-ecuador-saudi-arabia-2026-05-31-02-30" group-title="International Friendly Matches",Ecuador vs Saudi Arabia (M. Liga de Campeones)
-https://sansat.link/channel?id=29
 #EXTINF:-1 tvg-id="nhra-drag-racing-motorsport-nhra-potomac-nationals-2026-05-31-22-00" group-title="NHRA Drag Racing",NHRA Potomac Nationals (Fox Sports Racing)
 https://sansat.link/channel?id=9
 #EXTINF:-1 tvg-id="international-friendly-matches-football-usa-senegal-2026-05-31-22-30" group-title="International Friendly Matches",USA vs Senegal (TNT)
@@ -67,30 +49,14 @@ https://sansat.link/channel?id=19
 https://sansat.link/channel?id=19
 #EXTINF:-1 tvg-id="brazil-brasileirao-football-palmeiras-chapecoense-2026-05-31-22-00" group-title="Brazil Brasileirao",Palmeiras vs Chapecoense (M. Liga de Campeones 2)
 https://sansat.link/channel?id=28
-#EXTINF:-1 tvg-id="north-america-concacaf-champions-cup-football-toluca-tigres-uanl-2026-05-31-03-00" group-title="North America CONCACAF Champions Cup",Toluca vs Tigres UANL (sportdigital1+)
-https://sansat.link/channel?id=20
-#EXTINF:-1 tvg-id="north-america-concacaf-champions-cup-football-toluca-tigres-uanl-2026-05-31-03-00" group-title="North America CONCACAF Champions Cup",Toluca vs Tigres UANL (TUDN)
-https://sansat.link/channel?id=30
-#EXTINF:-1 tvg-id="north-america-concacaf-champions-cup-football-toluca-tigres-uanl-2026-05-31-03-00" group-title="North America CONCACAF Champions Cup",Toluca vs Tigres UANL (Fox Sports 1)
-https://sansat.link/channel?id=81
 #EXTINF:-1 tvg-id="international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00" group-title="International Friendly Matches",Switzerland vs Jordan (RSI La 2)
 https://sansat.link/channel?id=20
 #EXTINF:-1 tvg-id="international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00" group-title="International Friendly Matches",Switzerland vs Jordan (TV2 Sport X)
 https://sansat.link/channel?id=69
 #EXTINF:-1 tvg-id="international-friendly-matches-football-switzerland-jordan-2026-05-31-16-00" group-title="International Friendly Matches",Switzerland vs Jordan (Fox Sports 2)
 https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="brazil-brasileirao-football-santos-vitoria-2026-05-31-02-00" group-title="Brazil Brasileirao",Santos vs Vitoria (Canal 11)
-https://sansat.link/channel?id=21
 #EXTINF:-1 tvg-id="spain-la-liga-football-d-corunha-las-palmas-2026-05-31-19-30" group-title="Spain La Liga",D. Corunha vs LAS Palmas (DAZN3)
 https://sansat.link/channel?id=22
-#EXTINF:-1 tvg-id="international-friendly-matches-football-mexico-australia-2026-05-31-05-00" group-title="International Friendly Matches",Mexico vs Australia (M. Liga de Campeones)
-https://sansat.link/channel?id=29
-#EXTINF:-1 tvg-id="international-friendly-matches-football-mexico-australia-2026-05-31-05-00" group-title="International Friendly Matches",Mexico vs Australia (TUDN)
-https://sansat.link/channel?id=30
-#EXTINF:-1 tvg-id="international-friendly-matches-football-mexico-australia-2026-05-31-05-00" group-title="International Friendly Matches",Mexico vs Australia (Fox Deportes)
-https://sansat.link/channel?id=87
-#EXTINF:-1 tvg-id="united-states-nwsl-football-washington-spirit-seattle-reign-2026-05-31-01-30" group-title="United States NWSL",Washington Spirit vs Seattle Reign (TSN1)
-https://sansat.link/channel?id=31
 #EXTINF:-1 tvg-id="premiership-rugby-rugby-exeter-chiefs-leicester-tigers-2026-05-31-17-30" group-title="Premiership Rugby",Exeter Chiefs vs Leicester Tigers (Sportsnet World)
 https://sansat.link/channel?id=32
 #EXTINF:-1 tvg-id="iihf-world-championship-hockey-canada-norway-2026-05-31-16-30" group-title="IIHF World Championship",Canada vs Norway (TSN4)
@@ -121,10 +87,6 @@ https://sansat.link/channel?id=62
 https://sansat.link/channel?id=68
 #EXTINF:-1 tvg-id="belgium-pro-league-football-gent-genk-2026-05-31-19-30" group-title="Belgium Pro League",Gent vs Genk (DAZN Pro League 1)
 https://sansat.link/channel?id=49
-#EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-31-02-00" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
-https://sansat.link/channel?id=52
-#EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-31-03-00" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
-https://sansat.link/channel?id=52
 #EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-31-06-15" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
 https://sansat.link/channel?id=52
 #EXTINF:-1 tvg-id="world-rally-championship-motorsport-rally-japan-2026-05-31-08-00" group-title="World Rally Championship",Rally Japan (Canal+ Sport360)
@@ -153,8 +115,6 @@ https://sansat.link/channel?id=81
 https://sansat.link/channel?id=81
 #EXTINF:-1 tvg-id="nrl-rugby-st-george-illawarra-dragons-brisbane-broncos-2026-05-31-07-00" group-title="NRL",St. George Illawarra Dragons vs Brisbane Broncos (Fox Sports 2)
 https://sansat.link/channel?id=82
-#EXTINF:-1 tvg-id="canada-canadian-premier-league-football-pacific-fc-atl-ottawa-2026-05-31-01-00" group-title="Canada Canadian Premier League",Pacific FC vs Atl. Ottawa (Fox Soccer Plus)
-https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="afl-australian-football-greater-western-sydney-giants-melbourne-demons-2026-05-31-08-15" group-title="AFL",Greater Western Sydney Giants vs Melbourne Demons (Fox occer Plus)
 https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="afl-australian-football-essendon-bombers-west-coast-eagles-2026-05-31-12-20" group-title="AFL",Essendon Bombers vs West Coast Eagles (Fox occer Plus)
@@ -163,8 +123,6 @@ https://sansat.link/channel?id=83
 https://sansat.link/channel?id=83
 #EXTINF:-1 tvg-id="argentina-copa-argentina-football-estudiantes-rosario-central-2026-05-31-21-30" group-title="Argentina Copa Argentina",Estudiantes vs Rosario Central (TyC Sports Argentina)
 https://sansat.link/channel?id=84
-#EXTINF:-1 tvg-id="chile-primera-division-football-universidad-chile-deportes-concepcion-2026-05-31-00-30" group-title="Chile Primera Division",Universidad Chile vs Deportes Concepcion (TNT SPORTS Premium)
-https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="chile-primera-division-football-deportes-limache-coquimbo-unido-2026-05-31-19-30" group-title="Chile Primera Division",Deportes Limache vs Coquimbo Unido (TNT SPORTS Premium)
 https://sansat.link/channel?id=85
 #EXTINF:-1 tvg-id="chile-primera-division-football-huachipato-universidad-catolica-2026-05-31-22-00" group-title="Chile Primera Division",Huachipato vs Universidad Catolica (TNT SPORTS Premium)
