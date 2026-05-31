@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "17:00 [England FA Women's Cup] Brighton & Hove Albion vs Manchester City [TNT Sports 1 GB]",
-            "matchstr": "Brighton & Hove Albion vs Manchester City",
-            "time": "17:00",
-            "league": "England FA Women's Cup",
-            "sport": "Football",
-            "team1": "Brighton & Hove Albion",
-            "team2": "Manchester City",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                }
-            ],
-            "slug": "england-fa-women-s-cup-football-brighton-hove-albion-manchester-city-2026-05-31-17-00",
-            "startTimestamp": 1780236000000,
-            "duration": 120
-        },
-        {
             "matchText": "18:30 [International Friendly Matches] Poland vs Ukraine [Sky Sport 6 NZ]",
             "matchstr": "Poland vs Ukraine",
             "time": "18:30",
@@ -76,45 +48,6 @@
             ],
             "slug": "international-friendly-matches-football-poland-ukraine-2026-05-31-18-30",
             "startTimestamp": 1780241400000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [International Friendly Matches] Cape Verde Islands vs Serbia [Sky Sport 7 NZ]",
-            "matchstr": "Cape Verde Islands vs Serbia",
-            "time": "18:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Cape Verde Islands",
-            "team2": "Serbia",
-            "channel": "Sky Sport 7 NZ",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Sky Sport 7",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "NZ",
-                    "links": [
-                        "https://sansat.link/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Arena 1 Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "SR",
-                    "links": [
-                        "https://sansat.link/channel?id=67"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-cape-verde-islands-serbia-2026-05-31-18-00",
-            "startTimestamp": 1780239600000,
             "duration": 120
         },
         {
@@ -285,34 +218,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Brazil Brasileirao] RB Bragantino vs Internacional [Sportdigital FUSSBALL DE]",
-            "matchstr": "RB Bragantino vs Internacional",
-            "time": "17:00",
-            "league": "Brazil Brasileirao",
-            "sport": "Football",
-            "team1": "RB Bragantino",
-            "team2": "Internacional",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "brazil-brasileirao-football-rb-bragantino-internacional-2026-05-31-17-00",
-            "startTimestamp": 1780236000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Brazil Brasileirao] Palmeiras vs Chapecoense [Sportdigital FUSSBALL DE]",
             "matchstr": "Palmeiras vs Chapecoense",
             "time": "22:00",
@@ -378,95 +283,6 @@
             "slug": "spain-la-liga-football-deportivo-la-coruna-las-palmas-2026-05-31-19-30",
             "startTimestamp": 1780245000000,
             "duration": 120
-        },
-        {
-            "matchText": "17:30 [Premiership Rugby] Rugby: Exeter Chiefs vs Leicester Tigers [Sportsnet World CA]",
-            "matchstr": "Exeter Chiefs vs Leicester Tigers",
-            "time": "17:30",
-            "league": "Premiership Rugby",
-            "sport": "Rugby",
-            "team1": "Exeter Chiefs",
-            "team2": "Leicester Tigers",
-            "channel": "Sportsnet World CA",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Sportsnet World",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "premiership-rugby-rugby-exeter-chiefs-leicester-tigers-2026-05-31-17-30",
-            "startTimestamp": 1780237800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [IIHF World Championship] Hockey: Canada vs Norway [TSN4 CA]",
-            "matchstr": "Canada vs Norway",
-            "time": "16:30",
-            "league": "IIHF World Championship",
-            "sport": "Hockey",
-            "team1": "Canada",
-            "team2": "Norway",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=42"
-                    ]
-                },
-                {
-                    "name": "Viaplay 1 Urheilu",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "iihf-world-championship-hockey-canada-norway-2026-05-31-16-30",
-            "startTimestamp": 1780234200000,
-            "duration": 180
         },
         {
             "matchText": "21:20 [IIHF World Championship] Hockey: Switzerland vs Finland [TSN4 CA]",
@@ -558,56 +374,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [International Friendly Matches] Czech Republic vs Kosovo [CT2 CZ]",
-            "matchstr": "Czech Republic vs Kosovo",
-            "time": "17:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Czech Republic",
-            "team2": "Kosovo",
-            "channel": "CT2 CZ",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "CT2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://sansat.link/channel?id=41"
-                    ]
-                },
-                {
-                    "name": "Polsat Sport Premium 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=62"
-                    ],
-                    "number": 62,
-                    "language": "PL",
-                    "links": [
-                        "https://sansat.link/channel?id=62"
-                    ]
-                },
-                {
-                    "name": "SuperSport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "AL",
-                    "links": [
-                        "https://sansat.link/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-czech-republic-kosovo-2026-05-31-17-00",
-            "startTimestamp": 1780236000000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [Belgium Pro League] Gent vs Genk [DAZN Pro League 1 BE]",
             "matchstr": "Gent vs Genk",
             "time": "19:30",
@@ -633,34 +399,6 @@
             ],
             "slug": "belgium-pro-league-football-gent-genk-2026-05-31-19-30",
             "startTimestamp": 1780245000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Norway OBOS-ligaen] Egersund vs Str\u00f8msgodset [TV2 Sport NO]",
-            "matchstr": "Egersund vs Str\u00f8msgodset",
-            "time": "18:00",
-            "league": "Norway OBOS-ligaen",
-            "sport": "Football",
-            "team1": "Egersund",
-            "team2": "Str\u00f8msgodset",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "NO",
-                    "links": [
-                        "https://sansat.link/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "norway-obos-ligaen-football-egersund-stromsgodset-2026-05-31-18-00",
-            "startTimestamp": 1780239600000,
             "duration": 120
         },
         {
@@ -700,90 +438,6 @@
             ],
             "slug": "spain-segunda-division-football-deportivo-la-coruna-las-palmas-2026-05-31-19-30",
             "startTimestamp": 1780245000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Sweden Superettan] Helsingborg vs Norrkoping [TV4 Sportkanalen SE]",
-            "matchstr": "Helsingborg vs Norrkoping",
-            "time": "18:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Helsingborg",
-            "team2": "Norrkoping",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-helsingborg-norrkoping-2026-05-31-18-00",
-            "startTimestamp": 1780239600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:30 [IndyCar] Motorsport: Chevrolet Detroit Grand Prix [Fox Sports 1 US]",
-            "matchstr": "Chevrolet Detroit Grand Prix",
-            "time": "16:30",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Chevrolet Detroit Grand Prix",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-chevrolet-detroit-grand-prix-2026-05-31-16-30",
-            "startTimestamp": 1780234200000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [Indy NXT Series] Motorsport: Detroit Grand Prix [Fox Sports 1 US]",
-            "matchstr": "Detroit Grand Prix",
-            "time": "17:30",
-            "league": "Indy NXT Series",
-            "sport": "Motorsport",
-            "team1": "Detroit Grand Prix",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-05-31",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indy-nxt-series-motorsport-detroit-grand-prix-2026-05-31-17-30",
-            "startTimestamp": 1780237800000,
             "duration": 120
         },
         {
