@@ -57,14 +57,14 @@
             "duration": 120
         },
         {
-            "matchText": "21:45 [International Friendly Matches] Austria vs Tunisia [Servus TV AU]",
+            "matchText": "21:45 [International Friendly Matches] Austria vs Tunisia [Servus TV AT]",
             "matchstr": "Austria vs Tunisia",
             "time": "21:45",
             "league": "International Friendly Matches",
             "sport": "Football",
             "team1": "Austria",
             "team2": "Tunisia",
-            "channel": "Servus TV AU",
+            "channel": "Servus TV AT",
             "important": false,
             "matchDate": "2026-06-01",
             "channels": [
@@ -74,7 +74,7 @@
                         "https://nrdrse.link/ch.php?id=12"
                     ],
                     "number": 12,
-                    "language": "AU",
+                    "language": "AT",
                     "links": [
                         "https://sansat.link/channel?id=12"
                     ]
@@ -182,62 +182,6 @@
             ],
             "slug": "international-friendly-matches-football-bulgaria-montenegro-2026-06-01-19-00",
             "startTimestamp": 1780329600000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Europe UEFA U17 European Championship] France U17 vs Montenegro U17 [Sportdigital FUSSBALL DE]",
-            "matchstr": "France U17 vs Montenegro U17",
-            "time": "14:30",
-            "league": "Europe UEFA U17 European Championship",
-            "sport": "Football",
-            "team1": "France U17",
-            "team2": "Montenegro U17",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-06-01",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u17-european-championship-football-france-u17-montenegro-u17-2026-06-01-14-30",
-            "startTimestamp": 1780313400000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [Europe UEFA U17 European Championship] Denmark U17 vs Italy U17 [Sportdigital FUSSBALL 2 DE]",
-            "matchstr": "Denmark U17 vs Italy U17",
-            "time": "14:30",
-            "league": "Europe UEFA U17 European Championship",
-            "sport": "Football",
-            "team1": "Denmark U17",
-            "team2": "Italy U17",
-            "channel": "Sportdigital FUSSBALL 2 DE",
-            "important": false,
-            "matchDate": "2026-06-01",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u17-european-championship-football-denmark-u17-italy-u17-2026-06-01-14-30",
-            "startTimestamp": 1780313400000,
             "duration": 120
         },
         {
@@ -380,34 +324,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [World Maurice Revello Tournament] Japan U20 vs Cote d'Ivoire U20 [Fox Deportes ES]",
-            "matchstr": "Japan U20 vs Cote d'Ivoire U20",
-            "time": "16:00",
-            "league": "World Maurice Revello Tournament",
-            "sport": "Football",
-            "team1": "Japan U20",
-            "team2": "Cote d'Ivoire U20",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-06-01",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "world-maurice-revello-tournament-football-japan-u20-cote-d-ivoire-u20-2026-06-01-16-00",
-            "startTimestamp": 1780318800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [World Maurice Revello Tournament] Venezuela U20 vs Canada U20 [Fox Deportes ES]",
             "matchstr": "Venezuela U20 vs Canada U20",
             "time": "19:30",
@@ -450,12 +366,12 @@
                 {
                     "name": "TLN",
                     "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
+                        "https://nrdrse.link/ch.php?id=9"
                     ],
-                    "number": 10,
+                    "number": 9,
                     "language": "CA",
                     "links": [
-                        "https://sansat.link/channel?id=10"
+                        "https://sansat.link/channel?id=9"
                     ]
                 },
                 {
@@ -756,6 +672,34 @@
             ],
             "slug": "world-maurice-revello-tournament-football-saudi-arabia-u23-colombia-u20-2026-06-02-19-30",
             "startTimestamp": 1780417800000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
+            "matchstr": "Indonesia Open",
+            "time": "05:00",
+            "league": "BWF World Tour",
+            "sport": "Badminton",
+            "team1": "Indonesia Open",
+            "team2": null,
+            "channel": "TV 2 Sport DK",
+            "important": false,
+            "matchDate": "2026-06-02",
+            "channels": [
+                {
+                    "name": "TV 2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-02-05-00",
+            "startTimestamp": 1780365600000,
             "duration": 120
         },
         {
@@ -1283,6 +1227,34 @@
             "duration": 120
         },
         {
+            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
+            "matchstr": "Indonesia Open",
+            "time": "05:00",
+            "league": "BWF World Tour",
+            "sport": "Badminton",
+            "team1": "Indonesia Open",
+            "team2": null,
+            "channel": "TV 2 Sport DK",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "TV 2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-03-05-00",
+            "startTimestamp": 1780452000000,
+            "duration": 120
+        },
+        {
             "matchText": "02:30 [WNBA] Basketball: Connecticut Sun vs Atlanta Dream [TSN2 CA]",
             "matchstr": "Connecticut Sun vs Atlanta Dream",
             "time": "02:30",
@@ -1336,6 +1308,1792 @@
             ],
             "slug": "europe-uefa-u17-euro-qualification-football-latvia-u17-albania-u17-2026-06-03-18-00",
             "startTimestamp": 1780498800000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [NBA] Basketball: New York Knicks vs San Antonio Spurs [ABC US]",
+            "matchstr": "New York Knicks vs San Antonio Spurs",
+            "time": "03:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "New York Knicks",
+            "team2": "San Antonio Spurs",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-new-york-knicks-san-antonio-spurs-2026-06-04-03-30",
+            "startTimestamp": 1780533000000,
+            "duration": 180
+        },
+        {
+            "matchText": "19:30 [BBL] Basketball: FC Bayern M\u00fcnchen vs Telekom Baskets Bonn [Next Level Sports US]",
+            "matchstr": "FC Bayern M\u00fcnchen vs Telekom Baskets Bonn",
+            "time": "19:30",
+            "league": "BBL",
+            "sport": "Basketball",
+            "team1": "FC Bayern M\u00fcnchen",
+            "team2": "Telekom Baskets Bonn",
+            "channel": "Next Level Sports US",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Next Level Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=10"
+                    ]
+                }
+            ],
+            "slug": "bbl-basketball-fc-bayern-munchen-telekom-baskets-bonn-2026-06-04-19-30",
+            "startTimestamp": 1780590600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:30 [BBL] Basketball: Alba Berlin vs Bamberg [Next Level Sports US]",
+            "matchstr": "Alba Berlin vs Bamberg",
+            "time": "21:30",
+            "league": "BBL",
+            "sport": "Basketball",
+            "team1": "Alba Berlin",
+            "team2": "Bamberg",
+            "channel": "Next Level Sports US",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Next Level Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=10"
+                    ]
+                }
+            ],
+            "slug": "bbl-basketball-alba-berlin-bamberg-2026-06-04-21-30",
+            "startTimestamp": 1780597800000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [WNBA] Basketball: New York Liberty VS Toronto Tempo [Sky Sport Mix DE]",
+            "matchstr": "New York Liberty VS Toronto Tempo",
+            "time": "03:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "New York Liberty VS Toronto Tempo",
+            "team2": null,
+            "channel": "Sky Sport Mix DE",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Sky Sport Mix",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-new-york-liberty-vs-toronto-tempo-2026-06-04-03-00",
+            "startTimestamp": 1780531200000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [WNBA] Basketball: Seattle Storm VS Phoenix Mercury [Sky Sport Mix DE]",
+            "matchstr": "Seattle Storm VS Phoenix Mercury",
+            "time": "05:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Seattle Storm VS Phoenix Mercury",
+            "team2": null,
+            "channel": "Sky Sport Mix DE",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Sky Sport Mix",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-seattle-storm-vs-phoenix-mercury-2026-06-04-05-00",
+            "startTimestamp": 1780538400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Sweden vs Greece [DAZN1 DE]",
+            "matchstr": "Sweden vs Greece",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Sweden",
+            "team2": "Greece",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "Alpha TV",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=24"
+                    ],
+                    "number": 24,
+                    "language": "GR",
+                    "links": [
+                        "https://sansat.link/channel?id=24"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-sweden-greece-2026-06-04-20-00",
+            "startTimestamp": 1780592400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:10 [International Friendly Matches] France vs C\u00f4te d'Ivoire [DAZN1 DE]",
+            "matchstr": "France vs C\u00f4te d'Ivoire",
+            "time": "22:10",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "France",
+            "team2": "C\u00f4te d'Ivoire",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "Nova Sports Prime",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "GR",
+                    "links": [
+                        "https://sansat.link/channel?id=23"
+                    ]
+                },
+                {
+                    "name": "TF1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=50"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-france-cote-d-ivoire-2026-06-04-22-10",
+            "startTimestamp": 1780600200000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [International Friendly Matches] Slovenia vs Cyprus [DAZN2 DE]",
+            "matchstr": "Slovenia vs Cyprus",
+            "time": "15:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Slovenia",
+            "team2": "Cyprus",
+            "channel": "DAZN2 DE",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "DAZN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=18"
+                    ],
+                    "number": 18,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=18"
+                    ]
+                },
+                {
+                    "name": "Nova Sports Start",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "GR",
+                    "links": [
+                        "https://sansat.link/channel?id=23"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-slovenia-cyprus-2026-06-04-15-00",
+            "startTimestamp": 1780574400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [International Friendly Matches] Spain vs Iraq [Nova Sports Start GR]",
+            "matchstr": "Spain vs Iraq",
+            "time": "22:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Spain",
+            "team2": "Iraq",
+            "channel": "Nova Sports Start GR",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Nova Sports Start",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=25"
+                    ],
+                    "number": 25,
+                    "language": "GR",
+                    "links": [
+                        "https://sansat.link/channel?id=25"
+                    ]
+                },
+                {
+                    "name": "TVE La 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "Polsat Sport Premium 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=61"
+                    ],
+                    "number": 61,
+                    "language": "PL",
+                    "links": [
+                        "https://sansat.link/channel?id=61"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-spain-iraq-2026-06-04-22-00",
+            "startTimestamp": 1780599600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [International Friendly Matches] Northern Ireland vs Guinea [Diema Sport BG]",
+            "matchstr": "Northern Ireland vs Guinea",
+            "time": "19:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Northern Ireland",
+            "team2": "Guinea",
+            "channel": "Diema Sport BG",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Diema Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://sansat.link/channel?id=48"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-northern-ireland-guinea-2026-06-04-19-00",
+            "startTimestamp": 1780588800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [International Friendly Matches] Sweden U21 vs Finland U21 [V Sport Premium SE]",
+            "matchstr": "Sweden U21 vs Finland U21",
+            "time": "18:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Sweden U21",
+            "team2": "Finland U21",
+            "channel": "V Sport Premium SE",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=78"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-sweden-u21-finland-u21-2026-06-04-18-00",
+            "startTimestamp": 1780585200000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:30 [AFL] Australian Football: Geelong Cats vs Adelaide Crows [Fox Soccer Plus US]",
+            "matchstr": "Geelong Cats vs Adelaide Crows",
+            "time": "12:30",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Geelong Cats",
+            "team2": "Adelaide Crows",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-geelong-cats-adelaide-crows-2026-06-04-12-30",
+            "startTimestamp": 1780565400000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Andorra vs Liechtenstein [Fox Soccer Plus US]",
+            "matchstr": "Andorra vs Liechtenstein",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Andorra",
+            "team2": "Liechtenstein",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-andorra-liechtenstein-2026-06-04-20-00",
+            "startTimestamp": 1780592400000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [International Friendly Matches] Korea Republic vs El Salvador [SporTV BR]",
+            "matchstr": "Korea Republic vs El Salvador",
+            "time": "02:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Korea Republic",
+            "team2": "El Salvador",
+            "channel": "SporTV BR",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "SporTV",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "BR",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-korea-republic-el-salvador-2026-06-04-02-00",
+            "startTimestamp": 1780527600000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:10 [Argentina Copa Argentina] San Lorenzo vs Deportivo Riestra [TyC Sports Argentina ES]",
+            "matchstr": "San Lorenzo vs Deportivo Riestra",
+            "time": "03:10",
+            "league": "Argentina Copa Argentina",
+            "sport": "Football",
+            "team1": "San Lorenzo",
+            "team2": "Deportivo Riestra",
+            "channel": "TyC Sports Argentina ES",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "TyC Sports Argentina",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "argentina-copa-argentina-football-san-lorenzo-deportivo-riestra-2026-06-04-03-10",
+            "startTimestamp": 1780531800000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
+            "matchstr": "Indonesia Open",
+            "time": "05:00",
+            "league": "BWF World Tour",
+            "sport": "Badminton",
+            "team1": "Indonesia Open",
+            "team2": null,
+            "channel": "TV 2 Sport DK",
+            "important": false,
+            "matchDate": "2026-06-04",
+            "channels": [
+                {
+                    "name": "TV 2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-04-05-00",
+            "startTimestamp": 1780538400000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NHL] Hockey: Vegas Golden Knights vs Carolina Hurricanes [ABC US]",
+            "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
+            "time": "03:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Vegas Golden Knights",
+            "team2": "Carolina Hurricanes",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=80"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-05-03-00",
+            "startTimestamp": 1780617600000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:00 [FIFA Women's World Cup Qualifying] Spain vs England [ITV 1 GB]",
+            "matchstr": "Spain vs England",
+            "time": "22:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Spain",
+            "team2": "England",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "Movistar+",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=27"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-spain-england-2026-06-05-22-00",
+            "startTimestamp": 1780686000000,
+            "duration": 120
+        },
+        {
+            "matchText": "10:00 [MotoGP] Motorsport: Hungarian Grand Prix [TNT Sports 2 GB]",
+            "matchstr": "Hungarian Grand Prix",
+            "time": "10:00",
+            "league": "MotoGP",
+            "sport": "Motorsport",
+            "team1": "Hungarian Grand Prix",
+            "team2": null,
+            "channel": "TNT Sports 2 GB",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "TNT Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "DAZN MotoGP",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "V Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "motogp-motorsport-hungarian-grand-prix-2026-06-05-10-00",
+            "startTimestamp": 1780642800000,
+            "duration": 400
+        },
+        {
+            "matchText": "14:30 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Monaco Grand Prix",
+            "time": "14:30",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Monaco Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-05-14-30",
+            "startTimestamp": 1780659000000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Monaco Grand Prix",
+            "time": "18:00",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Monaco Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://sansat.link/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-05-18-00",
+            "startTimestamp": 1780671600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [CFL] Canadian Football: Montreal Alouettes vs Hamilton Tiger vs Cats [CBS Sports Network US]",
+            "matchstr": "Montreal Alouettes vs Hamilton Tiger vs Cats",
+            "time": "02:30",
+            "league": "CFL",
+            "sport": "Canadian Football",
+            "team1": "Montreal Alouettes",
+            "team2": "Hamilton Tiger vs Cats",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "cfl-canadian-football-montreal-alouettes-hamilton-tiger-vs-cats-2026-06-05-02-30",
+            "startTimestamp": 1780615800000,
+            "duration": 180
+        },
+        {
+            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Austria vs Slovenia [ORF eins DE]",
+            "matchstr": "Austria vs Slovenia",
+            "time": "19:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Austria",
+            "team2": "Slovenia",
+            "channel": "ORF eins DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "ORF eins",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=11"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-austria-slovenia-2026-06-05-19-00",
+            "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [FIFA Women's World Cup Qualifying] Switzerland vs Malta [SRF zwei DE]",
+            "matchstr": "Switzerland vs Malta",
+            "time": "20:30",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Switzerland",
+            "team2": "Malta",
+            "channel": "SRF zwei DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "SRF zwei",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=12"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-switzerland-malta-2026-06-05-20-30",
+            "startTimestamp": 1780680600000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:35 [FIFA Women's World Cup Qualifying] Germany vs Norway [Das Erste DE]",
+            "matchstr": "Germany vs Norway",
+            "time": "21:35",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Germany",
+            "team2": "Norway",
+            "channel": "Das Erste DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Das Erste",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=13"
+                    ],
+                    "number": 13,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=13"
+                    ]
+                },
+                {
+                    "name": "NRK1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=64"
+                    ],
+                    "number": 64,
+                    "language": "NO",
+                    "links": [
+                        "https://sansat.link/channel?id=64"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-germany-norway-2026-06-05-21-35",
+            "startTimestamp": 1780684500000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] San Marino vs Bangladesh [DAZN1 DE]",
+            "matchstr": "San Marino vs Bangladesh",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "San Marino",
+            "team2": "Bangladesh",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=17"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-san-marino-bangladesh-2026-06-05-20-00",
+            "startTimestamp": 1780678800000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [FIFA Women's World Cup Qualifying] Portugal vs Latvia [Canal 11 PT]",
+            "matchstr": "Portugal vs Latvia",
+            "time": "22:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Portugal",
+            "team2": "Latvia",
+            "channel": "Canal 11 PT",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Canal 11",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://sansat.link/channel?id=21"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-portugal-latvia-2026-06-05-22-00",
+            "startTimestamp": 1780686000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [International Friendly Matches] Mexico vs Serbia [M. Liga de Campeones ES]",
+            "matchstr": "Mexico vs Serbia",
+            "time": "05:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Mexico",
+            "team2": "Serbia",
+            "channel": "M. Liga de Campeones ES",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "M. Liga de Campeones",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "TUDN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://sansat.link/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-mexico-serbia-2026-06-05-05-00",
+            "startTimestamp": 1780624800000,
+            "duration": 120
+        },
+        {
+            "matchText": "10:05 [Super Rugby Pacific] Rugby: Hurricanes vs Brumbies [Sky Sport 1 NZ]",
+            "matchstr": "Hurricanes vs Brumbies",
+            "time": "10:05",
+            "league": "Super Rugby Pacific",
+            "sport": "Rugby",
+            "team1": "Hurricanes",
+            "team2": "Brumbies",
+            "channel": "Sky Sport 1 NZ",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Sky Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "NZ",
+                    "links": [
+                        "https://sansat.link/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "super-rugby-pacific-rugby-hurricanes-brumbies-2026-06-05-10-05",
+            "startTimestamp": 1780643100000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [Bare Knuckle Fighting] MMA: BKFC Fight Night [Fight Network CA]",
+            "matchstr": "BKFC Fight Night",
+            "time": "02:00",
+            "league": "Bare Knuckle Fighting",
+            "sport": "MMA",
+            "team1": "BKFC Fight Night",
+            "team2": null,
+            "channel": "Fight Network CA",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Fight Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=38"
+                    ]
+                }
+            ],
+            "slug": "bare-knuckle-fighting-mma-bkfc-fight-night-2026-06-05-02-00",
+            "startTimestamp": 1780614000000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:30 [One] MMA: One Friday Fights [beIN Sport US]",
+            "matchstr": "One Friday Fights",
+            "time": "16:30",
+            "league": "One",
+            "sport": "MMA",
+            "team1": "One Friday Fights",
+            "team2": null,
+            "channel": "beIN Sport US",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "beIN Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=39"
+                    ],
+                    "number": 39,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=39"
+                    ]
+                }
+            ],
+            "slug": "one-mma-one-friday-fights-2026-06-05-16-30",
+            "startTimestamp": 1780666200000,
+            "duration": 180
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Moldova vs Bulgaria [Sport 1 CZ]",
+            "matchstr": "Moldova vs Bulgaria",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Moldova",
+            "team2": "Bulgaria",
+            "channel": "Sport 1 CZ",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-moldova-bulgaria-2026-06-05-20-00",
+            "startTimestamp": 1780678800000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [FIFA Women's World Cup Qualifying] Czech Republic vs Albania [\u010cT2 CZ]",
+            "matchstr": "Czech Republic vs Albania",
+            "time": "18:30",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Czech Republic",
+            "team2": "Albania",
+            "channel": "\u010cT2 CZ",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "\u010cT2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://sansat.link/channel?id=42"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-czech-republic-albania-2026-06-05-18-30",
+            "startTimestamp": 1780673400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:15 [FIFA Women's World Cup Qualifying] Italy vs Serbia [RAI 2 IT]",
+            "matchstr": "Italy vs Serbia",
+            "time": "19:15",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Italy",
+            "team2": "Serbia",
+            "channel": "RAI 2 IT",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "RAI 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://sansat.link/channel?id=47"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-italy-serbia-2026-06-05-19-15",
+            "startTimestamp": 1780676100000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Poland vs France [W9 FR]",
+            "matchstr": "Poland vs France",
+            "time": "19:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Poland",
+            "team2": "France",
+            "channel": "W9 FR",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "W9",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://sansat.link/channel?id=50"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=61"
+                    ],
+                    "number": 61,
+                    "language": "PL",
+                    "links": [
+                        "https://sansat.link/channel?id=61"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-poland-france-2026-06-05-19-00",
+            "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [International Friendly Matches] Czech Republic vs Guatemala [Polsat Sport 3 PL]",
+            "matchstr": "Czech Republic vs Guatemala",
+            "time": "03:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Czech Republic",
+            "team2": "Guatemala",
+            "channel": "Polsat Sport 3 PL",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Polsat Sport 3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=63"
+                    ],
+                    "number": 63,
+                    "language": "PL",
+                    "links": [
+                        "https://sansat.link/channel?id=63"
+                    ]
+                },
+                {
+                    "name": "SporTV",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=84"
+                    ],
+                    "number": 84,
+                    "language": "BR",
+                    "links": [
+                        "https://sansat.link/channel?id=84"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-czech-republic-guatemala-2026-06-05-03-00",
+            "startTimestamp": 1780617600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Russia vs Burkina Faso [Match Premier RU]",
+            "matchstr": "Russia vs Burkina Faso",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Russia",
+            "team2": "Burkina Faso",
+            "channel": "Match Premier RU",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Match Premier",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "RU",
+                    "links": [
+                        "https://sansat.link/channel?id=65"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-russia-burkina-faso-2026-06-05-20-00",
+            "startTimestamp": 1780678800000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [FIFA Women's World Cup Qualifying] Azerbaijan vs Hungary [M4 Sports HU]",
+            "matchstr": "Azerbaijan vs Hungary",
+            "time": "17:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Azerbaijan",
+            "team2": "Hungary",
+            "channel": "M4 Sports HU",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "M4 Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "HU",
+                    "links": [
+                        "https://sansat.link/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-azerbaijan-hungary-2026-06-05-17-00",
+            "startTimestamp": 1780668000000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:45 [International Friendly Matches] Hungary vs Finland [M4 Sports HU]",
+            "matchstr": "Hungary vs Finland",
+            "time": "20:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Hungary",
+            "team2": "Finland",
+            "channel": "M4 Sports HU",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "M4 Sports",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "HU",
+                    "links": [
+                        "https://sansat.link/channel?id=66"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=79"
+                    ],
+                    "number": 79,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=79"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-hungary-finland-2026-06-05-20-45",
+            "startTimestamp": 1780681500000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [International Friendly Matches] Georgia vs Bahrain [1TV GE]",
+            "matchstr": "Georgia vs Bahrain",
+            "time": "19:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Georgia",
+            "team2": "Bahrain",
+            "channel": "1TV GE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "1TV",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "GE",
+                    "links": [
+                        "https://sansat.link/channel?id=67"
+                    ]
+                },
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=96"
+                    ],
+                    "number": 96,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=96"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-georgia-bahrain-2026-06-05-19-00",
+            "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Ukraine vs Iceland [MEGOGO Football 1 UA]",
+            "matchstr": "Ukraine vs Iceland",
+            "time": "19:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Ukraine",
+            "team2": "Iceland",
+            "channel": "MEGOGO Football 1 UA",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "MEGOGO Football 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "UA",
+                    "links": [
+                        "https://sansat.link/channel?id=68"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-ukraine-iceland-2026-06-05-19-00",
+            "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:15 [FIFA Women's World Cup Qualifying] Denmark vs Sweden [DR 1 DK]",
+            "matchstr": "Denmark vs Sweden",
+            "time": "20:15",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Denmark",
+            "team2": "Sweden",
+            "channel": "DR 1 DK",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "DR 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=69"
+                    ]
+                },
+                {
+                    "name": "SVT 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "SE",
+                    "links": [
+                        "https://sansat.link/channel?id=71"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-denmark-sweden-2026-06-05-20-15",
+            "startTimestamp": 1780679700000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Kosovo vs Croatia [MAX Sport 1 HR]",
+            "matchstr": "Kosovo vs Croatia",
+            "time": "20:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Kosovo",
+            "team2": "Croatia",
+            "channel": "MAX Sport 1 HR",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "MAX Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://sansat.link/channel?id=70"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-kosovo-croatia-2026-06-05-20-00",
+            "startTimestamp": 1780678800000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [FIFA Women's World Cup Qualifying] Slovakia vs Finland [YLE TV2 FI]",
+            "matchstr": "Slovakia vs Finland",
+            "time": "17:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Slovakia",
+            "team2": "Finland",
+            "channel": "YLE TV2 FI",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "YLE TV2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://sansat.link/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-slovakia-finland-2026-06-05-17-00",
+            "startTimestamp": 1780668000000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [World Series of Darts] Darts: Nordic Darts Masters [See DK]",
+            "matchstr": "Nordic Darts Masters",
+            "time": "20:00",
+            "league": "World Series of Darts",
+            "sport": "Darts",
+            "team1": "Nordic Darts Masters",
+            "team2": null,
+            "channel": "See DK",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "See",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "world-series-of-darts-darts-nordic-darts-masters-2026-06-05-20-00",
+            "startTimestamp": 1780678800000,
+            "duration": 180
+        },
+        {
+            "matchText": "11:00 [NRL] Rugby: Newcastle Knights vs Melbourne Storm [Fox Sports 2 US]",
+            "matchstr": "Newcastle Knights vs Melbourne Storm",
+            "time": "11:00",
+            "league": "NRL",
+            "sport": "Rugby",
+            "team1": "Newcastle Knights",
+            "team2": "Melbourne Storm",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "nrl-rugby-newcastle-knights-melbourne-storm-2026-06-05-11-00",
+            "startTimestamp": 1780646400000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:40 [AFL] Australian Football: Western Bulldogs vs Hawthorn Hawks [Fox Soccer Plus US]",
+            "matchstr": "Western Bulldogs vs Hawthorn Hawks",
+            "time": "12:40",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Western Bulldogs",
+            "team2": "Hawthorn Hawks",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://sansat.link/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-western-bulldogs-hawthorn-hawks-2026-06-05-12-40",
+            "startTimestamp": 1780652400000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:30 [FIFA Women's World Cup Qualifying] Republic of Ireland vs Netherlands [NPO3 NL]",
+            "matchstr": "Republic of Ireland vs Netherlands",
+            "time": "21:30",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Republic of Ireland",
+            "team2": "Netherlands",
+            "channel": "NPO3 NL",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "NPO3",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://sansat.link/channel?id=88"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-republic-of-ireland-netherlands-2026-06-05-21-30",
+            "startTimestamp": 1780684200000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [International Friendly Matches] Azerbaijan vs Malta [DAZN DE]",
+            "matchstr": "Azerbaijan vs Malta",
+            "time": "21:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Azerbaijan",
+            "team2": "Malta",
+            "channel": "DAZN DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=97"
+                    ],
+                    "number": 97,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=97"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-azerbaijan-malta-2026-06-05-21-00",
+            "startTimestamp": 1780682400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [International Friendly Matches] Slovakia vs Montenegro [DAZN DE]",
+            "matchstr": "Slovakia vs Montenegro",
+            "time": "19:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Slovakia",
+            "team2": "Montenegro",
+            "channel": "DAZN DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=98"
+                    ],
+                    "number": 98,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=98"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-slovakia-montenegro-2026-06-05-19-00",
+            "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [International Friendly Matches] Belarus vs Syria [DAZN DE]",
+            "matchstr": "Belarus vs Syria",
+            "time": "19:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Belarus",
+            "team2": "Syria",
+            "channel": "DAZN DE",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "DE",
+                    "links": [
+                        "https://sansat.link/channel?id=99"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-belarus-syria-2026-06-05-19-00",
+            "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
+            "matchstr": "Indonesia Open",
+            "time": "05:00",
+            "league": "BWF World Tour",
+            "sport": "Badminton",
+            "team1": "Indonesia Open",
+            "team2": null,
+            "channel": "TV 2 Sport DK",
+            "important": false,
+            "matchDate": "2026-06-05",
+            "channels": [
+                {
+                    "name": "TV 2 Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "DK",
+                    "links": [
+                        "https://sansat.link/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-05-05-00",
+            "startTimestamp": 1780624800000,
             "duration": 120
         }
     ]
