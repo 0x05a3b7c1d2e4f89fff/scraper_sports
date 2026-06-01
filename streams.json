@@ -1281,6 +1281,62 @@
             "slug": "world-maurice-revello-tournament-football-cote-d-ivoire-u20-venezuela-u20-2026-06-03-19-30",
             "startTimestamp": 1780504200000,
             "duration": 120
+        },
+        {
+            "matchText": "02:30 [WNBA] Basketball: Connecticut Sun vs Atlanta Dream [TSN2 CA]",
+            "matchstr": "Connecticut Sun vs Atlanta Dream",
+            "time": "02:30",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Connecticut Sun",
+            "team2": "Atlanta Dream",
+            "channel": "TSN2 CA",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://sansat.link/channel?id=32"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-connecticut-sun-atlanta-dream-2026-06-03-02-30",
+            "startTimestamp": 1780443000000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Europe UEFA U17 Euro Qualification] Latvia U17 vs Albania U17 [Sport 2 IL]",
+            "matchstr": "Latvia U17 vs Albania U17",
+            "time": "18:00",
+            "league": "Europe UEFA U17 Euro Qualification",
+            "sport": "Football",
+            "team1": "Latvia U17",
+            "team2": "Albania U17",
+            "channel": "Sport 2 IL",
+            "important": false,
+            "matchDate": "2026-06-03",
+            "channels": [
+                {
+                    "name": "Sport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=63"
+                    ],
+                    "number": 63,
+                    "language": "IL",
+                    "links": [
+                        "https://sansat.link/channel?id=63"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u17-euro-qualification-football-latvia-u17-albania-u17-2026-06-03-18-00",
+            "startTimestamp": 1780498800000,
+            "duration": 120
         }
     ]
 }
