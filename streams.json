@@ -1,84 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "02:00 [International Friendly Matches] Colombia vs Costa Rica [TLN CA]",
-            "matchstr": "Colombia vs Costa Rica",
-            "time": "02:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Colombia",
-            "team2": "Costa Rica",
-            "channel": "TLN CA",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "TLN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://sansat.link/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "Canal del Futbol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "EC",
-                    "links": [
-                        "https://sansat.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-colombia-costa-rica-2026-06-02-02-00",
-            "startTimestamp": 1780354800000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [WNBA] Basketball: Seattle Storm vs Dallas Wings [USA Network US]",
-            "matchstr": "Seattle Storm vs Dallas Wings",
-            "time": "03:00",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Seattle Storm",
-            "team2": "Dallas Wings",
-            "channel": "USA Network US",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "USA Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=10"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-seattle-storm-dallas-wings-2026-06-02-03-00",
-            "startTimestamp": 1780358400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [International Friendly Matches] Croatia vs Belgium [DAZN1 DE]",
             "matchstr": "Croatia vs Belgium",
             "time": "19:00",
@@ -218,56 +140,6 @@
             "duration": 120
         },
         {
-            "matchText": "04:00 [International Friendly Matches] Canada vs Uzbekistan [M. Liga de Campeones 2 ES]",
-            "matchstr": "Canada vs Uzbekistan",
-            "time": "04:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Canada",
-            "team2": "Uzbekistan",
-            "channel": "M. Liga de Campeones 2 ES",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "M. Liga de Campeones 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=28"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-canada-uzbekistan-2026-06-02-04-00",
-            "startTimestamp": 1780362000000,
-            "duration": 120
-        },
-        {
             "matchText": "16:00 [World Maurice Revello Tournament] China PR U20 vs Congo DR U20 [Fox Deportes ES]",
             "matchstr": "China PR U20 vs Congo DR U20",
             "time": "16:00",
@@ -321,34 +193,6 @@
             ],
             "slug": "world-maurice-revello-tournament-football-saudi-arabia-u23-colombia-u20-2026-06-02-19-30",
             "startTimestamp": 1780417800000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
-            "matchstr": "Indonesia Open",
-            "time": "05:00",
-            "league": "BWF World Tour",
-            "sport": "Badminton",
-            "team1": "Indonesia Open",
-            "team2": null,
-            "channel": "TV 2 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "TV 2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-02-05-00",
-            "startTimestamp": 1780365600000,
             "duration": 120
         },
         {
