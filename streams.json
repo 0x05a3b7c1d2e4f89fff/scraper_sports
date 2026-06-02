@@ -1,95 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "21:45 [International Friendly Matches] Wales vs Ghana [DAZN1 DE]",
-            "matchstr": "Wales vs Ghana",
-            "time": "21:45",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Wales",
-            "team2": "Ghana",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=17"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://sansat.link/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-wales-ghana-2026-06-02-21-45",
-            "startTimestamp": 1780425900000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [International Friendly Matches] Georgia vs Romania [DAZN2 DE]",
-            "matchstr": "Georgia vs Romania",
-            "time": "20:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Georgia",
-            "team2": "Romania",
-            "channel": "DAZN2 DE",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=18"
-                    ],
-                    "number": 18,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=18"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "NZ",
-                    "links": [
-                        "https://sansat.link/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-georgia-romania-2026-06-02-20-00",
-            "startTimestamp": 1780419600000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [NHL] Hockey: Vegas Golden Knights vs Carolina Hurricanes [ABC US]",
             "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
             "time": "03:00",
@@ -357,13 +268,13 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [WNBA] Basketball: Vegas Golden Knights vs Carolina Hurricanes [TSN2 CA]",
-            "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
+            "matchText": "02:30 [WNBA] Basketball: Connecticut Sun vs Atlanta Dream [TSN2 CA]",
+            "matchstr": "Connecticut Sun vs Atlanta Dream",
             "time": "02:30",
             "league": "WNBA",
             "sport": "Basketball",
-            "team1": "Vegas Golden Knights",
-            "team2": "Carolina Hurricanes",
+            "team1": "Connecticut Sun",
+            "team2": "Atlanta Dream",
             "channel": "TSN2 CA",
             "important": false,
             "matchDate": "2026-06-03",
@@ -380,7 +291,7 @@
                     ]
                 }
             ],
-            "slug": "wnba-basketball-vegas-golden-knights-carolina-hurricanes-2026-06-03-02-30",
+            "slug": "wnba-basketball-connecticut-sun-atlanta-dream-2026-06-03-02-30",
             "startTimestamp": 1780443000000,
             "duration": 120
         },
@@ -639,34 +550,6 @@
             ],
             "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-03-05-00",
             "startTimestamp": 1780452000000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:30 [WNBA] Basketball: Connecticut Sun vs Atlanta Dream [TSN2 CA]",
-            "matchstr": "Connecticut Sun vs Atlanta Dream",
-            "time": "02:30",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Connecticut Sun",
-            "team2": "Atlanta Dream",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-connecticut-sun-atlanta-dream-2026-06-03-02-30",
-            "startTimestamp": 1780443000000,
             "duration": 120
         },
         {
