@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "19:00 [International Friendly Matches] Croatia vs Belgium [DAZN1 DE]",
-            "matchstr": "Croatia vs Belgium",
-            "time": "19:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Croatia",
-            "team2": "Belgium",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://sansat.link/channel?id=17"
-                    ]
-                },
-                {
-                    "name": "La Une",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://sansat.link/channel?id=49"
-                    ]
-                },
-                {
-                    "name": "Nova",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://sansat.link/channel?id=70"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-croatia-belgium-2026-06-02-19-00",
-            "startTimestamp": 1780416000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [International Friendly Matches] Wales vs Ghana [DAZN1 DE]",
             "matchstr": "Wales vs Ghana",
             "time": "21:45",
@@ -137,62 +87,6 @@
             ],
             "slug": "international-friendly-matches-football-georgia-romania-2026-06-02-20-00",
             "startTimestamp": 1780419600000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [World Maurice Revello Tournament] China PR U20 vs Congo DR U20 [Fox Deportes ES]",
-            "matchstr": "China PR U20 vs Congo DR U20",
-            "time": "16:00",
-            "league": "World Maurice Revello Tournament",
-            "sport": "Football",
-            "team1": "China PR U20",
-            "team2": "Congo DR U20",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "world-maurice-revello-tournament-football-china-pr-u20-congo-dr-u20-2026-06-02-16-00",
-            "startTimestamp": 1780405200000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [World Maurice Revello Tournament] Saudi Arabia U23 vs Colombia U20 [Fox Deportes ES]",
-            "matchstr": "Saudi Arabia U23 vs Colombia U20",
-            "time": "19:30",
-            "league": "World Maurice Revello Tournament",
-            "sport": "Football",
-            "team1": "Saudi Arabia U23",
-            "team2": "Colombia U20",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-06-02",
-            "channels": [
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "world-maurice-revello-tournament-football-saudi-arabia-u23-colombia-u20-2026-06-02-19-30",
-            "startTimestamp": 1780417800000,
             "duration": 120
         },
         {
@@ -2559,34 +2453,6 @@
             ],
             "slug": "international-friendly-matches-football-belarus-syria-2026-06-05-19-00",
             "startTimestamp": 1780675200000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
-            "matchstr": "Indonesia Open",
-            "time": "05:00",
-            "league": "BWF World Tour",
-            "sport": "Badminton",
-            "team1": "Indonesia Open",
-            "team2": null,
-            "channel": "TV 2 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "TV 2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-05-05-00",
-            "startTimestamp": 1780624800000,
             "duration": 120
         }
     ]
