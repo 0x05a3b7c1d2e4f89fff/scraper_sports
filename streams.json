@@ -1,95 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NHL] Hockey: Vegas Golden Knights vs Carolina Hurricanes [ABC US]",
-            "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Vegas Golden Knights",
-            "team2": "Carolina Hurricanes",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://sansat.link/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "Viaplay",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://sansat.link/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-03-03-00",
-            "startTimestamp": 1780444800000,
-            "duration": 180
-        },
-        {
-            "matchText": "03:00 [International Friendly Matches] Haiti vs New Zealand [Premier Sports 2 GB]",
-            "matchstr": "Haiti vs New Zealand",
-            "time": "03:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Haiti",
-            "team2": "New Zealand",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://sansat.link/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-haiti-new-zealand-2026-06-03-03-00",
-            "startTimestamp": 1780444800000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [International Friendly Matches] Netherlands vs Algeria [DAZN1 DE]",
             "matchstr": "Netherlands vs Algeria",
             "time": "21:45",
@@ -268,34 +179,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [WNBA] Basketball: Connecticut Sun vs Atlanta Dream [TSN2 CA]",
-            "matchstr": "Connecticut Sun vs Atlanta Dream",
-            "time": "02:30",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Connecticut Sun",
-            "team2": "Atlanta Dream",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://sansat.link/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-connecticut-sun-atlanta-dream-2026-06-03-02-30",
-            "startTimestamp": 1780443000000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [International Friendly Matches] Luxembourg vs Italy [Sky Sport 5 NZ]",
             "matchstr": "Luxembourg vs Italy",
             "time": "21:45",
@@ -413,62 +296,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:30 [Colombia Primera A] Junior vs Atletico Nacional [Win+ Futbol ES]",
-            "matchstr": "Junior vs Atletico Nacional",
-            "time": "03:30",
-            "league": "Colombia Primera A",
-            "sport": "Football",
-            "team1": "Junior",
-            "team2": "Atletico Nacional",
-            "channel": "Win+ Futbol ES",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "Win+ Futbol",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "colombia-primera-a-football-junior-atletico-nacional-2026-06-03-03-30",
-            "startTimestamp": 1780446600000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:10 [Argentina Copa Argentina] Barracas Central vs Huracan [TyC Sports Argentina ES]",
-            "matchstr": "Barracas Central vs Huracan",
-            "time": "03:10",
-            "league": "Argentina Copa Argentina",
-            "sport": "Football",
-            "team1": "Barracas Central",
-            "team2": "Huracan",
-            "channel": "TyC Sports Argentina ES",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "TyC Sports Argentina",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://sansat.link/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "argentina-copa-argentina-football-barracas-central-huracan-2026-06-03-03-10",
-            "startTimestamp": 1780445400000,
-            "duration": 120
-        },
-        {
             "matchText": "16:00 [World Maurice Revello Tournament] Japan U20 vs Portugal U20 [Fox Deportes ES]",
             "matchstr": "Japan U20 vs Portugal U20",
             "time": "16:00",
@@ -522,34 +349,6 @@
             ],
             "slug": "world-maurice-revello-tournament-football-cote-d-ivoire-u20-venezuela-u20-2026-06-03-19-30",
             "startTimestamp": 1780504200000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [BWF World Tour] Badminton: Indonesia Open [TV 2 Sport DK]",
-            "matchstr": "Indonesia Open",
-            "time": "05:00",
-            "league": "BWF World Tour",
-            "sport": "Badminton",
-            "team1": "Indonesia Open",
-            "team2": null,
-            "channel": "TV 2 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "TV 2 Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "DK",
-                    "links": [
-                        "https://sansat.link/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "bwf-world-tour-badminton-indonesia-open-2026-06-03-05-00",
-            "startTimestamp": 1780452000000,
             "duration": 120
         },
         {
