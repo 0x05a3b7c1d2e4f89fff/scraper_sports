@@ -20,7 +20,7 @@
                     "number": 17,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=17"
+                        "https://s2.kora.st/channel?id=17"
                     ]
                 },
                 {
@@ -31,7 +31,7 @@
                     "number": 71,
                     "language": "FI",
                     "links": [
-                        "https://sansat.link/channel?id=71"
+                        "https://s2.kora.st/channel?id=71"
                     ]
                 },
                 {
@@ -42,7 +42,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=83"
+                        "https://s2.kora.st/channel?id=83"
                     ]
                 },
                 {
@@ -53,7 +53,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://sansat.link/channel?id=88"
+                        "https://s2.kora.st/channel?id=88"
                     ]
                 }
             ],
@@ -81,7 +81,7 @@
                     "number": 18,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=18"
+                        "https://s2.kora.st/channel?id=18"
                     ]
                 },
                 {
@@ -92,7 +92,7 @@
                     "number": 36,
                     "language": "NZ",
                     "links": [
-                        "https://sansat.link/channel?id=36"
+                        "https://s2.kora.st/channel?id=36"
                     ]
                 },
                 {
@@ -103,51 +103,12 @@
                     "number": 60,
                     "language": "PL",
                     "links": [
-                        "https://sansat.link/channel?id=60"
+                        "https://s2.kora.st/channel?id=60"
                     ]
                 }
             ],
             "slug": "international-friendly-matches-football-poland-nigeria-2026-06-03-21-45",
             "startTimestamp": 1780512300000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [International Friendly Matches] Denmark vs Congo DR [Sport TV1 PT]",
-            "matchstr": "Denmark vs Congo DR",
-            "time": "21:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Denmark",
-            "team2": "Congo DR",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://sansat.link/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "MTV Urheilu 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://sansat.link/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-denmark-congo-dr-2026-06-03-21-00",
-            "startTimestamp": 1780509600000,
             "duration": 120
         },
         {
@@ -170,7 +131,7 @@
                     "number": 35,
                     "language": "NZ",
                     "links": [
-                        "https://sansat.link/channel?id=35"
+                        "https://s2.kora.st/channel?id=35"
                     ]
                 },
                 {
@@ -181,7 +142,7 @@
                     "number": 42,
                     "language": "CZ",
                     "links": [
-                        "https://sansat.link/channel?id=42"
+                        "https://s2.kora.st/channel?id=42"
                     ]
                 },
                 {
@@ -192,7 +153,7 @@
                     "number": 47,
                     "language": "IT",
                     "links": [
-                        "https://sansat.link/channel?id=47"
+                        "https://s2.kora.st/channel?id=47"
                     ]
                 }
             ],
@@ -220,7 +181,7 @@
                     "number": 62,
                     "language": "AL",
                     "links": [
-                        "https://sansat.link/channel?id=62"
+                        "https://s2.kora.st/channel?id=62"
                     ]
                 },
                 {
@@ -231,7 +192,7 @@
                     "number": 65,
                     "language": "IL",
                     "links": [
-                        "https://sansat.link/channel?id=65"
+                        "https://s2.kora.st/channel?id=65"
                     ]
                 }
             ],
@@ -259,7 +220,7 @@
                     "number": 64,
                     "language": "SA",
                     "links": [
-                        "https://sansat.link/channel?id=64"
+                        "https://s2.kora.st/channel?id=64"
                     ]
                 }
             ],
@@ -268,87 +229,42 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [World Maurice Revello Tournament] Japan U20 vs Portugal U20 [Fox Deportes ES]",
-            "matchstr": "Japan U20 vs Portugal U20",
-            "time": "16:00",
-            "league": "World Maurice Revello Tournament",
+            "matchText": "21:00 [International Friendly Matches] Denmark vs Congo DR [Sport TV1 PT]",
+            "matchstr": "Denmark vs Congo DR",
+            "time": "21:00",
+            "league": "International Friendly Matches",
             "sport": "Football",
-            "team1": "Japan U20",
-            "team2": "Portugal U20",
-            "channel": "Fox Deportes ES",
+            "team1": "Denmark",
+            "team2": "Congo DR",
+            "channel": "Sport TV1 PT",
             "important": false,
             "matchDate": "2026-06-03",
             "channels": [
                 {
-                    "name": "Fox Deportes",
+                    "name": "Sport TV1",
                     "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
+                        "https://nrdrse.link/ch.php?id=21"
                     ],
-                    "number": 87,
-                    "language": "ES",
+                    "number": 21,
+                    "language": "PT",
                     "links": [
-                        "https://sansat.link/channel?id=87"
+                        "https://s2.kora.st/channel?id=21"
                     ]
-                }
-            ],
-            "slug": "world-maurice-revello-tournament-football-japan-u20-portugal-u20-2026-06-03-16-00",
-            "startTimestamp": 1780491600000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [World Maurice Revello Tournament] Cote d'Ivoire U20 vs Venezuela U20 [Fox Deportes ES]",
-            "matchstr": "Cote d'Ivoire U20 vs Venezuela U20",
-            "time": "19:30",
-            "league": "World Maurice Revello Tournament",
-            "sport": "Football",
-            "team1": "Cote d'Ivoire U20",
-            "team2": "Venezuela U20",
-            "channel": "Fox Deportes ES",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
+                },
                 {
-                    "name": "Fox Deportes",
+                    "name": "MTV Urheilu 2",
                     "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
+                        "https://nrdrse.link/ch.php?id=72"
                     ],
-                    "number": 87,
-                    "language": "ES",
+                    "number": 72,
+                    "language": "FI",
                     "links": [
-                        "https://sansat.link/channel?id=87"
+                        "https://s2.kora.st/channel?id=72"
                     ]
                 }
             ],
-            "slug": "world-maurice-revello-tournament-football-cote-d-ivoire-u20-venezuela-u20-2026-06-03-19-30",
-            "startTimestamp": 1780504200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Europe UEFA U17 Euro Qualification] Latvia U17 vs Albania U17 [Sport 2 IL]",
-            "matchstr": "Latvia U17 vs Albania U17",
-            "time": "18:00",
-            "league": "Europe UEFA U17 Euro Qualification",
-            "sport": "Football",
-            "team1": "Latvia U17",
-            "team2": "Albania U17",
-            "channel": "Sport 2 IL",
-            "important": false,
-            "matchDate": "2026-06-03",
-            "channels": [
-                {
-                    "name": "Sport 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=63"
-                    ],
-                    "number": 63,
-                    "language": "IL",
-                    "links": [
-                        "https://sansat.link/channel?id=63"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u17-euro-qualification-football-latvia-u17-albania-u17-2026-06-03-18-00",
-            "startTimestamp": 1780498800000,
+            "slug": "international-friendly-matches-football-denmark-congo-dr-2026-06-03-21-00",
+            "startTimestamp": 1780509600000,
             "duration": 120
         },
         {
@@ -371,7 +287,7 @@
                     "number": 1,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=1"
+                        "https://s2.kora.st/channel?id=1"
                     ]
                 },
                 {
@@ -382,7 +298,7 @@
                     "number": 31,
                     "language": "CA",
                     "links": [
-                        "https://sansat.link/channel?id=31"
+                        "https://s2.kora.st/channel?id=31"
                     ]
                 },
                 {
@@ -393,7 +309,7 @@
                     "number": 86,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=86"
+                        "https://s2.kora.st/channel?id=86"
                     ]
                 }
             ],
@@ -421,7 +337,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=10"
+                        "https://s2.kora.st/channel?id=10"
                     ]
                 }
             ],
@@ -449,7 +365,7 @@
                     "number": 10,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=10"
+                        "https://s2.kora.st/channel?id=10"
                     ]
                 }
             ],
@@ -477,7 +393,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=11"
+                        "https://s2.kora.st/channel?id=11"
                     ]
                 }
             ],
@@ -505,7 +421,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=11"
+                        "https://s2.kora.st/channel?id=11"
                     ]
                 }
             ],
@@ -533,7 +449,7 @@
                     "number": 17,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=17"
+                        "https://s2.kora.st/channel?id=17"
                     ]
                 },
                 {
@@ -544,7 +460,7 @@
                     "number": 24,
                     "language": "GR",
                     "links": [
-                        "https://sansat.link/channel?id=24"
+                        "https://s2.kora.st/channel?id=24"
                     ]
                 },
                 {
@@ -555,7 +471,7 @@
                     "number": 80,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=80"
+                        "https://s2.kora.st/channel?id=80"
                     ]
                 }
             ],
@@ -583,7 +499,7 @@
                     "number": 17,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=17"
+                        "https://s2.kora.st/channel?id=17"
                     ]
                 },
                 {
@@ -594,7 +510,7 @@
                     "number": 23,
                     "language": "GR",
                     "links": [
-                        "https://sansat.link/channel?id=23"
+                        "https://s2.kora.st/channel?id=23"
                     ]
                 },
                 {
@@ -605,7 +521,7 @@
                     "number": 50,
                     "language": "FR",
                     "links": [
-                        "https://sansat.link/channel?id=50"
+                        "https://s2.kora.st/channel?id=50"
                     ]
                 },
                 {
@@ -616,7 +532,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=83"
+                        "https://s2.kora.st/channel?id=83"
                     ]
                 }
             ],
@@ -644,7 +560,7 @@
                     "number": 18,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=18"
+                        "https://s2.kora.st/channel?id=18"
                     ]
                 },
                 {
@@ -655,7 +571,7 @@
                     "number": 23,
                     "language": "GR",
                     "links": [
-                        "https://sansat.link/channel?id=23"
+                        "https://s2.kora.st/channel?id=23"
                     ]
                 }
             ],
@@ -683,7 +599,7 @@
                     "number": 25,
                     "language": "GR",
                     "links": [
-                        "https://sansat.link/channel?id=25"
+                        "https://s2.kora.st/channel?id=25"
                     ]
                 },
                 {
@@ -694,7 +610,7 @@
                     "number": 29,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=29"
+                        "https://s2.kora.st/channel?id=29"
                     ]
                 },
                 {
@@ -705,7 +621,7 @@
                     "number": 61,
                     "language": "PL",
                     "links": [
-                        "https://sansat.link/channel?id=61"
+                        "https://s2.kora.st/channel?id=61"
                     ]
                 },
                 {
@@ -716,7 +632,7 @@
                     "number": 73,
                     "language": "FI",
                     "links": [
-                        "https://sansat.link/channel?id=73"
+                        "https://s2.kora.st/channel?id=73"
                     ]
                 }
             ],
@@ -744,7 +660,7 @@
                     "number": 48,
                     "language": "BG",
                     "links": [
-                        "https://sansat.link/channel?id=48"
+                        "https://s2.kora.st/channel?id=48"
                     ]
                 }
             ],
@@ -772,7 +688,7 @@
                     "number": 78,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=78"
+                        "https://s2.kora.st/channel?id=78"
                     ]
                 }
             ],
@@ -800,7 +716,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=83"
+                        "https://s2.kora.st/channel?id=83"
                     ]
                 }
             ],
@@ -828,7 +744,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=83"
+                        "https://s2.kora.st/channel?id=83"
                     ]
                 }
             ],
@@ -856,7 +772,7 @@
                     "number": 84,
                     "language": "BR",
                     "links": [
-                        "https://sansat.link/channel?id=84"
+                        "https://s2.kora.st/channel?id=84"
                     ]
                 }
             ],
@@ -884,7 +800,7 @@
                     "number": 84,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=84"
+                        "https://s2.kora.st/channel?id=84"
                     ]
                 }
             ],
@@ -912,7 +828,7 @@
                     "number": 100,
                     "language": "DK",
                     "links": [
-                        "https://sansat.link/channel?id=100"
+                        "https://s2.kora.st/channel?id=100"
                     ]
                 }
             ],
@@ -940,7 +856,7 @@
                     "number": 1,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=1"
+                        "https://s2.kora.st/channel?id=1"
                     ]
                 },
                 {
@@ -951,7 +867,7 @@
                     "number": 80,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=80"
+                        "https://s2.kora.st/channel?id=80"
                     ]
                 },
                 {
@@ -962,7 +878,7 @@
                     "number": 86,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=86"
+                        "https://s2.kora.st/channel?id=86"
                     ]
                 }
             ],
@@ -990,7 +906,7 @@
                     "number": 1,
                     "language": "GB",
                     "links": [
-                        "https://sansat.link/channel?id=1"
+                        "https://s2.kora.st/channel?id=1"
                     ]
                 },
                 {
@@ -1001,7 +917,7 @@
                     "number": 27,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=27"
+                        "https://s2.kora.st/channel?id=27"
                     ]
                 }
             ],
@@ -1029,7 +945,7 @@
                     "number": 2,
                     "language": "GB",
                     "links": [
-                        "https://sansat.link/channel?id=2"
+                        "https://s2.kora.st/channel?id=2"
                     ]
                 },
                 {
@@ -1040,7 +956,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=30"
+                        "https://s2.kora.st/channel?id=30"
                     ]
                 },
                 {
@@ -1051,7 +967,7 @@
                     "number": 76,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=76"
+                        "https://s2.kora.st/channel?id=76"
                     ]
                 }
             ],
@@ -1079,7 +995,7 @@
                     "number": 7,
                     "language": "GB",
                     "links": [
-                        "https://sansat.link/channel?id=7"
+                        "https://s2.kora.st/channel?id=7"
                     ]
                 },
                 {
@@ -1090,7 +1006,7 @@
                     "number": 29,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=29"
+                        "https://s2.kora.st/channel?id=29"
                     ]
                 },
                 {
@@ -1101,7 +1017,7 @@
                     "number": 77,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=77"
+                        "https://s2.kora.st/channel?id=77"
                     ]
                 }
             ],
@@ -1129,7 +1045,7 @@
                     "number": 7,
                     "language": "GB",
                     "links": [
-                        "https://sansat.link/channel?id=7"
+                        "https://s2.kora.st/channel?id=7"
                     ]
                 },
                 {
@@ -1140,7 +1056,7 @@
                     "number": 29,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=29"
+                        "https://s2.kora.st/channel?id=29"
                     ]
                 },
                 {
@@ -1151,7 +1067,7 @@
                     "number": 77,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=77"
+                        "https://s2.kora.st/channel?id=77"
                     ]
                 }
             ],
@@ -1179,7 +1095,7 @@
                     "number": 8,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=8"
+                        "https://s2.kora.st/channel?id=8"
                     ]
                 }
             ],
@@ -1207,7 +1123,7 @@
                     "number": 11,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=11"
+                        "https://s2.kora.st/channel?id=11"
                     ]
                 }
             ],
@@ -1235,7 +1151,7 @@
                     "number": 12,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=12"
+                        "https://s2.kora.st/channel?id=12"
                     ]
                 }
             ],
@@ -1263,7 +1179,7 @@
                     "number": 13,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=13"
+                        "https://s2.kora.st/channel?id=13"
                     ]
                 },
                 {
@@ -1274,7 +1190,7 @@
                     "number": 64,
                     "language": "NO",
                     "links": [
-                        "https://sansat.link/channel?id=64"
+                        "https://s2.kora.st/channel?id=64"
                     ]
                 }
             ],
@@ -1302,7 +1218,7 @@
                     "number": 17,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=17"
+                        "https://s2.kora.st/channel?id=17"
                     ]
                 }
             ],
@@ -1330,7 +1246,7 @@
                     "number": 21,
                     "language": "PT",
                     "links": [
-                        "https://sansat.link/channel?id=21"
+                        "https://s2.kora.st/channel?id=21"
                     ]
                 }
             ],
@@ -1358,7 +1274,7 @@
                     "number": 29,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=29"
+                        "https://s2.kora.st/channel?id=29"
                     ]
                 },
                 {
@@ -1369,7 +1285,7 @@
                     "number": 30,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=30"
+                        "https://s2.kora.st/channel?id=30"
                     ]
                 },
                 {
@@ -1380,7 +1296,7 @@
                     "number": 87,
                     "language": "ES",
                     "links": [
-                        "https://sansat.link/channel?id=87"
+                        "https://s2.kora.st/channel?id=87"
                     ]
                 }
             ],
@@ -1408,7 +1324,7 @@
                     "number": 31,
                     "language": "NZ",
                     "links": [
-                        "https://sansat.link/channel?id=31"
+                        "https://s2.kora.st/channel?id=31"
                     ]
                 }
             ],
@@ -1436,7 +1352,7 @@
                     "number": 38,
                     "language": "CA",
                     "links": [
-                        "https://sansat.link/channel?id=38"
+                        "https://s2.kora.st/channel?id=38"
                     ]
                 }
             ],
@@ -1464,7 +1380,7 @@
                     "number": 39,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=39"
+                        "https://s2.kora.st/channel?id=39"
                     ]
                 }
             ],
@@ -1492,7 +1408,7 @@
                     "number": 41,
                     "language": "CZ",
                     "links": [
-                        "https://sansat.link/channel?id=41"
+                        "https://s2.kora.st/channel?id=41"
                     ]
                 },
                 {
@@ -1503,7 +1419,7 @@
                     "number": 72,
                     "language": "FI",
                     "links": [
-                        "https://sansat.link/channel?id=72"
+                        "https://s2.kora.st/channel?id=72"
                     ]
                 }
             ],
@@ -1531,7 +1447,7 @@
                     "number": 42,
                     "language": "CZ",
                     "links": [
-                        "https://sansat.link/channel?id=42"
+                        "https://s2.kora.st/channel?id=42"
                     ]
                 }
             ],
@@ -1559,7 +1475,7 @@
                     "number": 47,
                     "language": "IT",
                     "links": [
-                        "https://sansat.link/channel?id=47"
+                        "https://s2.kora.st/channel?id=47"
                     ]
                 }
             ],
@@ -1587,7 +1503,7 @@
                     "number": 50,
                     "language": "FR",
                     "links": [
-                        "https://sansat.link/channel?id=50"
+                        "https://s2.kora.st/channel?id=50"
                     ]
                 },
                 {
@@ -1598,7 +1514,7 @@
                     "number": 61,
                     "language": "PL",
                     "links": [
-                        "https://sansat.link/channel?id=61"
+                        "https://s2.kora.st/channel?id=61"
                     ]
                 }
             ],
@@ -1626,7 +1542,7 @@
                     "number": 63,
                     "language": "PL",
                     "links": [
-                        "https://sansat.link/channel?id=63"
+                        "https://s2.kora.st/channel?id=63"
                     ]
                 },
                 {
@@ -1637,7 +1553,7 @@
                     "number": 84,
                     "language": "BR",
                     "links": [
-                        "https://sansat.link/channel?id=84"
+                        "https://s2.kora.st/channel?id=84"
                     ]
                 }
             ],
@@ -1665,7 +1581,7 @@
                     "number": 65,
                     "language": "RU",
                     "links": [
-                        "https://sansat.link/channel?id=65"
+                        "https://s2.kora.st/channel?id=65"
                     ]
                 }
             ],
@@ -1693,7 +1609,7 @@
                     "number": 66,
                     "language": "HU",
                     "links": [
-                        "https://sansat.link/channel?id=66"
+                        "https://s2.kora.st/channel?id=66"
                     ]
                 }
             ],
@@ -1721,7 +1637,7 @@
                     "number": 66,
                     "language": "HU",
                     "links": [
-                        "https://sansat.link/channel?id=66"
+                        "https://s2.kora.st/channel?id=66"
                     ]
                 },
                 {
@@ -1732,7 +1648,7 @@
                     "number": 79,
                     "language": "FI",
                     "links": [
-                        "https://sansat.link/channel?id=79"
+                        "https://s2.kora.st/channel?id=79"
                     ]
                 },
                 {
@@ -1743,7 +1659,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=83"
+                        "https://s2.kora.st/channel?id=83"
                     ]
                 }
             ],
@@ -1771,7 +1687,7 @@
                     "number": 67,
                     "language": "GE",
                     "links": [
-                        "https://sansat.link/channel?id=67"
+                        "https://s2.kora.st/channel?id=67"
                     ]
                 },
                 {
@@ -1782,7 +1698,7 @@
                     "number": 96,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=96"
+                        "https://s2.kora.st/channel?id=96"
                     ]
                 }
             ],
@@ -1810,7 +1726,7 @@
                     "number": 68,
                     "language": "UA",
                     "links": [
-                        "https://sansat.link/channel?id=68"
+                        "https://s2.kora.st/channel?id=68"
                     ]
                 }
             ],
@@ -1838,7 +1754,7 @@
                     "number": 69,
                     "language": "DK",
                     "links": [
-                        "https://sansat.link/channel?id=69"
+                        "https://s2.kora.st/channel?id=69"
                     ]
                 },
                 {
@@ -1849,7 +1765,7 @@
                     "number": 71,
                     "language": "SE",
                     "links": [
-                        "https://sansat.link/channel?id=71"
+                        "https://s2.kora.st/channel?id=71"
                     ]
                 }
             ],
@@ -1877,7 +1793,7 @@
                     "number": 70,
                     "language": "HR",
                     "links": [
-                        "https://sansat.link/channel?id=70"
+                        "https://s2.kora.st/channel?id=70"
                     ]
                 }
             ],
@@ -1905,7 +1821,7 @@
                     "number": 72,
                     "language": "FI",
                     "links": [
-                        "https://sansat.link/channel?id=72"
+                        "https://s2.kora.st/channel?id=72"
                     ]
                 }
             ],
@@ -1933,7 +1849,7 @@
                     "number": 75,
                     "language": "DK",
                     "links": [
-                        "https://sansat.link/channel?id=75"
+                        "https://s2.kora.st/channel?id=75"
                     ]
                 }
             ],
@@ -1961,7 +1877,7 @@
                     "number": 82,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=82"
+                        "https://s2.kora.st/channel?id=82"
                     ]
                 }
             ],
@@ -1989,7 +1905,7 @@
                     "number": 83,
                     "language": "US",
                     "links": [
-                        "https://sansat.link/channel?id=83"
+                        "https://s2.kora.st/channel?id=83"
                     ]
                 }
             ],
@@ -2017,7 +1933,7 @@
                     "number": 88,
                     "language": "NL",
                     "links": [
-                        "https://sansat.link/channel?id=88"
+                        "https://s2.kora.st/channel?id=88"
                     ]
                 }
             ],
@@ -2045,7 +1961,7 @@
                     "number": 97,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=97"
+                        "https://s2.kora.st/channel?id=97"
                     ]
                 }
             ],
@@ -2073,7 +1989,7 @@
                     "number": 98,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=98"
+                        "https://s2.kora.st/channel?id=98"
                     ]
                 }
             ],
@@ -2101,12 +2017,1234 @@
                     "number": 99,
                     "language": "DE",
                     "links": [
-                        "https://sansat.link/channel?id=99"
+                        "https://s2.kora.st/channel?id=99"
                     ]
                 }
             ],
             "slug": "international-friendly-matches-football-belarus-syria-2026-06-05-19-00",
             "startTimestamp": 1780675200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [International Friendly Matches] England vs New Zealand [ITV 1 GB]",
+            "matchstr": "England vs New Zealand",
+            "time": "22:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "England",
+            "team2": "New Zealand",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=80"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-england-new-zealand-2026-06-06-22-00",
+            "startTimestamp": 1780772400000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [NBA] Basketball: New York Knicks vs San Antonio Spurs [ESPN US]",
+            "matchstr": "New York Knicks vs San Antonio Spurs",
+            "time": "03:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "New York Knicks",
+            "team2": "San Antonio Spurs",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=3"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-new-york-knicks-san-antonio-spurs-2026-06-06-03-30",
+            "startTimestamp": 1780705800000,
+            "duration": 180
+        },
+        {
+            "matchText": "09:40 [MotoGP] Motorsport: Hungarian Grand Prix [TNT Sports 2 GB]",
+            "matchstr": "Hungarian Grand Prix",
+            "time": "09:40",
+            "league": "MotoGP",
+            "sport": "Motorsport",
+            "team1": "Hungarian Grand Prix",
+            "team2": null,
+            "channel": "TNT Sports 2 GB",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "TNT Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "DAZN MotoGP",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "V Sport 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=76"
+                    ],
+                    "number": 76,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=76"
+                    ]
+                }
+            ],
+            "slug": "motogp-motorsport-hungarian-grand-prix-2026-06-06-09-40",
+            "startTimestamp": 1780728000000,
+            "duration": 400
+        },
+        {
+            "matchText": "20:00 [WNBA] Basketball: Seattle Storm vs Minnesota Lynx [ABC US]",
+            "matchstr": "Seattle Storm vs Minnesota Lynx",
+            "time": "20:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Seattle Storm",
+            "team2": "Minnesota Lynx",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=3"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-seattle-storm-minnesota-lynx-2026-06-06-20-00",
+            "startTimestamp": 1780765200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [WNBA] Basketball: Golden State Valkyries vs Las Vegas Aces [ABC US]",
+            "matchstr": "Golden State Valkyries vs Las Vegas Aces",
+            "time": "22:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Golden State Valkyries",
+            "team2": "Las Vegas Aces",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=3"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-golden-state-valkyries-las-vegas-aces-2026-06-06-22-00",
+            "startTimestamp": 1780772400000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:30 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Monaco Grand Prix",
+            "time": "13:30",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Monaco Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-06-13-30",
+            "startTimestamp": 1780741800000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Monaco Grand Prix",
+            "time": "17:00",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Monaco Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-06-17-00",
+            "startTimestamp": 1780754400000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [CFL] Canadian Football: Winnipeg Blue Bombers vs Calgary Stampeders [CBS Sports Network US]",
+            "matchstr": "Winnipeg Blue Bombers vs Calgary Stampeders",
+            "time": "04:00",
+            "league": "CFL",
+            "sport": "Canadian Football",
+            "team1": "Winnipeg Blue Bombers",
+            "team2": "Calgary Stampeders",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "cfl-canadian-football-winnipeg-blue-bombers-calgary-stampeders-2026-06-06-04-00",
+            "startTimestamp": 1780707600000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:30 [International Friendly Matches] USA vs Germany [TNT US]",
+            "matchstr": "USA vs Germany",
+            "time": "21:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "USA",
+            "team2": "Germany",
+            "channel": "TNT US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "TNT",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=10"
+                    ]
+                },
+                {
+                    "name": "RTL",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Universo",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-usa-germany-2026-06-06-21-30",
+            "startTimestamp": 1780770600000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [International Friendly Matches] Australia vs Switzerland [SRF zwei AT]",
+            "matchstr": "Australia vs Switzerland",
+            "time": "22:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Australia",
+            "team2": "Switzerland",
+            "channel": "SRF zwei AT",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "SRF zwei",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "AT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=12"
+                    ]
+                },
+                {
+                    "name": "Sky Sport 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "NZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=32"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-australia-switzerland-2026-06-06-22-00",
+            "startTimestamp": 1780772400000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [International Friendly Matches] Belgium vs Tunisia [DAZN1 DE]",
+            "matchstr": "Belgium vs Tunisia",
+            "time": "16:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Belgium",
+            "team2": "Tunisia",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "La Une",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=49"
+                    ],
+                    "number": 49,
+                    "language": "BE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=49"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=78"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-belgium-tunisia-2026-06-06-16-00",
+            "startTimestamp": 1780750800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:45 [International Friendly Matches] Romania vs Wales [DAZN1 DE]",
+            "matchstr": "Romania vs Wales",
+            "time": "20:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Romania",
+            "team2": "Wales",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=17"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-romania-wales-2026-06-06-20-45",
+            "startTimestamp": 1780767900000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:00 [International Friendly Matches] Bolivia vs Scotland [DAZN1 DE]",
+            "matchstr": "Bolivia vs Scotland",
+            "time": "23:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Bolivia",
+            "team2": "Scotland",
+            "channel": "DAZN1 DE",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "DAZN1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=17"
+                    ],
+                    "number": 17,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=17"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-bolivia-scotland-2026-06-06-23-00",
+            "startTimestamp": 1780776000000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:45 [International Friendly Matches] Portugal vs Chile [DAZN2 DE]",
+            "matchstr": "Portugal vs Chile",
+            "time": "20:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Portugal",
+            "team2": "Chile",
+            "channel": "DAZN2 DE",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "DAZN2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=18"
+                    ],
+                    "number": 18,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=18"
+                    ]
+                },
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "Sky Sport Select",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=38"
+                    ],
+                    "number": 38,
+                    "language": "NZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=38"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-portugal-chile-2026-06-06-20-45",
+            "startTimestamp": 1780767900000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [International Friendly Matches] Puerto Rico vs Saudi Arabia [Sport TV2 PT]",
+            "matchstr": "Puerto Rico vs Saudi Arabia",
+            "time": "02:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Puerto Rico",
+            "team2": "Saudi Arabia",
+            "channel": "Sport TV2 PT",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Sport TV2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=22"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-puerto-rico-saudi-arabia-2026-06-06-02-00",
+            "startTimestamp": 1780700400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Spain Segunda Division] CD Castellon vs Almeria [LALIGA TV Hypermotion ES]",
+            "matchstr": "CD Castellon vs Almeria",
+            "time": "22:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "CD Castellon",
+            "team2": "Almeria",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=26"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-cd-castellon-almeria-2026-06-06-22-00",
+            "startTimestamp": 1780772400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [International Friendly Matches] Armenia vs Kazakhstan [beIN Sports English 1 GB]",
+            "matchstr": "Armenia vs Kazakhstan",
+            "time": "19:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Armenia",
+            "team2": "Kazakhstan",
+            "channel": "beIN Sports English 1 GB",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "beIN Sports English 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-armenia-kazakhstan-2026-06-06-19-00",
+            "startTimestamp": 1780761600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [International Friendly Matches] Estonia vs Faroe Islands [beIN Sports English 2 GB]",
+            "matchstr": "Estonia vs Faroe Islands",
+            "time": "18:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Estonia",
+            "team2": "Faroe Islands",
+            "channel": "beIN Sports English 2 GB",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "beIN Sports English 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=33"
+                    ]
+                },
+                {
+                    "name": "ETV 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "EE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=65"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-estonia-faroe-islands-2026-06-06-18-00",
+            "startTimestamp": 1780758000000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [International Friendly Matches] Canada vs Ireland Republic [TSN4 CA]",
+            "matchstr": "Canada vs Ireland Republic",
+            "time": "02:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Canada",
+            "team2": "Ireland Republic",
+            "channel": "TSN4 CA",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "TSN4",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=34"
+                    ],
+                    "number": 34,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=34"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-canada-ireland-republic-2026-06-06-02-30",
+            "startTimestamp": 1780702200000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [International Friendly Matches] Azerbaijan U21 vs Bahrain U21 [CBC Sport AZ]",
+            "matchstr": "Azerbaijan U21 vs Bahrain U21",
+            "time": "17:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Azerbaijan U21",
+            "team2": "Bahrain U21",
+            "channel": "CBC Sport AZ",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "CBC Sport",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=64"
+                    ],
+                    "number": 64,
+                    "language": "AZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=64"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-azerbaijan-u21-bahrain-u21-2026-06-06-17-00",
+            "startTimestamp": 1780754400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [International Friendly Matches] Panama vs Bosnia and Herzegovina [BHT 1 BH]",
+            "matchstr": "Panama vs Bosnia and Herzegovina",
+            "time": "22:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Panama",
+            "team2": "Bosnia and Herzegovina",
+            "channel": "BHT 1 BH",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "BHT 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "BH",
+                    "links": [
+                        "https://s2.kora.st/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-panama-bosnia-and-herzegovina-2026-06-06-22-00",
+            "startTimestamp": 1780772400000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NHRA Drag Racing] Motorsport: New England Nationals [Fox Sports 1 US]",
+            "matchstr": "New England Nationals",
+            "time": "03:00",
+            "league": "NHRA Drag Racing",
+            "sport": "Motorsport",
+            "team1": "New England Nationals",
+            "team2": null,
+            "channel": "Fox Sports 1 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "nhra-drag-racing-motorsport-new-england-nationals-2026-06-06-03-00",
+            "startTimestamp": 1780704000000,
+            "duration": 120
+        },
+        {
+            "matchText": "10:15 [AFL] Australian Football: Brisbane Lions vs Gold Coast Suns [Fox Sports 1 US]",
+            "matchstr": "Brisbane Lions vs Gold Coast Suns",
+            "time": "10:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Brisbane Lions",
+            "team2": "Gold Coast Suns",
+            "channel": "Fox Sports 1 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-brisbane-lions-gold-coast-suns-2026-06-06-10-15",
+            "startTimestamp": 1780730100000,
+            "duration": 180
+        },
+        {
+            "matchText": "19:30 [IndyCar] Motorsport: Bommarito Automotive Group 500 [Fox Sports 1 US]",
+            "matchstr": "Bommarito Automotive Group 500",
+            "time": "19:30",
+            "league": "IndyCar",
+            "sport": "Motorsport",
+            "team1": "Bommarito Automotive Group 500",
+            "team2": null,
+            "channel": "Fox Sports 1 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-19-30",
+            "startTimestamp": 1780763400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:30 [NASCAR Craftsman Truck Series] Motorsport: NCTS Race at Michigan [Fox Sports 1 US]",
+            "matchstr": "NCTS Race at Michigan",
+            "time": "20:30",
+            "league": "NASCAR Craftsman Truck Series",
+            "sport": "Motorsport",
+            "team1": "NCTS Race at Michigan",
+            "team2": null,
+            "channel": "Fox Sports 1 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                }
+            ],
+            "slug": "nascar-craftsman-truck-series-motorsport-ncts-race-at-michigan-2026-06-06-20-30",
+            "startTimestamp": 1780767000000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:00 [ARCA Menards Series] Motorsport: Michigan ARCA 200 [Fox Sports 2 US]",
+            "matchstr": "Michigan ARCA 200",
+            "time": "00:00",
+            "league": "ARCA Menards Series",
+            "sport": "Motorsport",
+            "team1": "Michigan ARCA 200",
+            "team2": null,
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "arca-menards-series-motorsport-michigan-arca-200-2026-06-06-00-00",
+            "startTimestamp": 1780693200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Indy NXT Series] Motorsport: World Wide Technology Raceway [Fox Sports 2 US]",
+            "matchstr": "World Wide Technology Raceway",
+            "time": "22:00",
+            "league": "Indy NXT Series",
+            "sport": "Motorsport",
+            "team1": "World Wide Technology Raceway",
+            "team2": null,
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "indy-nxt-series-motorsport-world-wide-technology-raceway-2026-06-06-22-00",
+            "startTimestamp": 1780772400000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:30 [IndyCar] Motorsport: Bommarito Automotive Group 500 [Fox Sports 2 US]",
+            "matchstr": "Bommarito Automotive Group 500",
+            "time": "23:30",
+            "league": "IndyCar",
+            "sport": "Motorsport",
+            "team1": "Bommarito Automotive Group 500",
+            "team2": null,
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-23-30",
+            "startTimestamp": 1780777800000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [International Friendly Matches] Haiti vs Peru [Fox Soccer Plus US]",
+            "matchstr": "Haiti vs Peru",
+            "time": "03:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Haiti",
+            "team2": "Peru",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                },
+                {
+                    "name": "Fox Deportes",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=87"
+                    ],
+                    "number": 87,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=87"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-haiti-peru-2026-06-06-03-00",
+            "startTimestamp": 1780704000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [Canada Canadian Premier League] Vancouver FC vs Atl. Ottawa [Fox Soccer Plus US]",
+            "matchstr": "Vancouver FC vs Atl. Ottawa",
+            "time": "05:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Vancouver FC",
+            "team2": "Atl. Ottawa",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-vancouver-fc-atl-ottawa-2026-06-06-05-00",
+            "startTimestamp": 1780711200000,
+            "duration": 120
+        },
+        {
+            "matchText": "07:15 [AFL] Australian Football: Fremantle Dockers vs North Melbourne Kangaroos [Fox Soccer Plus US]",
+            "matchstr": "Fremantle Dockers vs North Melbourne Kangaroos",
+            "time": "07:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Fremantle Dockers",
+            "team2": "North Melbourne Kangaroos",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-fremantle-dockers-north-melbourne-kangaroos-2026-06-06-07-15",
+            "startTimestamp": 1780719300000,
+            "duration": 180
+        },
+        {
+            "matchText": "13:15 [AFL] Australian Football: Port Adelaide Power vs West Coast Eagles [Fox Soccer Plus US]",
+            "matchstr": "Port Adelaide Power vs West Coast Eagles",
+            "time": "13:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Port Adelaide Power",
+            "team2": "West Coast Eagles",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-port-adelaide-power-west-coast-eagles-2026-06-06-13-15",
+            "startTimestamp": 1780740900000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:00 [International Friendly Matches] Lithuania vs Latvia [Fox Soccer Plus US]",
+            "matchstr": "Lithuania vs Latvia",
+            "time": "16:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Lithuania",
+            "team2": "Latvia",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-lithuania-latvia-2026-06-06-16-00",
+            "startTimestamp": 1780750800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [International Friendly Matches] Albania vs Luxembourg [DAZN DE]",
+            "matchstr": "Albania vs Luxembourg",
+            "time": "21:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Albania",
+            "team2": "Luxembourg",
+            "channel": "DAZN DE",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=98"
+                    ],
+                    "number": 98,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=98"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-albania-luxembourg-2026-06-06-21-00",
+            "startTimestamp": 1780768800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Gibraltar vs Cayman Islands [DAZN DE]",
+            "matchstr": "Gibraltar vs Cayman Islands",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Gibraltar",
+            "team2": "Cayman Islands",
+            "channel": "DAZN DE",
+            "important": false,
+            "matchDate": "2026-06-06",
+            "channels": [
+                {
+                    "name": "DAZN",
+                    "oldLinks": [
+                        "https://nrdrse.link/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=99"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-gibraltar-cayman-islands-2026-06-06-20-00",
+            "startTimestamp": 1780765200000,
             "duration": 120
         }
     ]
