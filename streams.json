@@ -168,45 +168,6 @@
             "duration": 120
         },
         {
-            "matchText": "15:00 [International Friendly Matches] Slovenia vs Cyprus [DAZN2 DE]",
-            "matchstr": "Slovenia vs Cyprus",
-            "time": "15:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Slovenia",
-            "team2": "Cyprus",
-            "channel": "DAZN2 DE",
-            "important": false,
-            "matchDate": "2026-06-04",
-            "channels": [
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=18"
-                    ],
-                    "number": 18,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=18"
-                    ]
-                },
-                {
-                    "name": "Nova Sports Start",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=23"
-                    ],
-                    "number": 23,
-                    "language": "GR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=23"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-slovenia-cyprus-2026-06-04-15-00",
-            "startTimestamp": 1780574400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [International Friendly Matches] Spain vs Iraq [Nova Sports Start GR]",
             "matchstr": "Spain vs Iraq",
             "time": "22:00",
@@ -322,34 +283,6 @@
             "slug": "international-friendly-matches-football-sweden-u21-finland-u21-2026-06-04-18-00",
             "startTimestamp": 1780585200000,
             "duration": 120
-        },
-        {
-            "matchText": "12:30 [AFL] Australian Football: Geelong Cats vs Adelaide Crows [Fox Soccer Plus US]",
-            "matchstr": "Geelong Cats vs Adelaide Crows",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Geelong Cats",
-            "team2": "Adelaide Crows",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-04",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-geelong-cats-adelaide-crows-2026-06-04-12-30",
-            "startTimestamp": 1780565400000,
-            "duration": 180
         },
         {
             "matchText": "20:00 [International Friendly Matches] Andorra vs Liechtenstein [Fox Soccer Plus US]",
