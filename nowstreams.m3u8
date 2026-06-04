@@ -1,14 +1,6 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="bbl-basketball-fc-bayern-munchen-telekom-baskets-bonn-2026-06-04-19-30" group-title="BBL",FC Bayern München vs Telekom Baskets Bonn (Next Level Sports)
-https://s2.kora.st/channel?id=10
 #EXTINF:-1 tvg-id="bbl-basketball-alba-berlin-bamberg-2026-06-04-21-30" group-title="BBL",Alba Berlin vs Bamberg (Next Level Sports)
 https://s2.kora.st/channel?id=10
-#EXTINF:-1 tvg-id="international-friendly-matches-football-sweden-greece-2026-06-04-20-00" group-title="International Friendly Matches",Sweden vs Greece (DAZN1)
-https://s2.kora.st/channel?id=17
-#EXTINF:-1 tvg-id="international-friendly-matches-football-sweden-greece-2026-06-04-20-00" group-title="International Friendly Matches",Sweden vs Greece (Alpha TV)
-https://s2.kora.st/channel?id=24
-#EXTINF:-1 tvg-id="international-friendly-matches-football-sweden-greece-2026-06-04-20-00" group-title="International Friendly Matches",Sweden vs Greece (Viaplay Sport)
-https://s2.kora.st/channel?id=80
 #EXTINF:-1 tvg-id="international-friendly-matches-football-france-cote-d-ivoire-2026-06-04-22-10" group-title="International Friendly Matches",France vs Côte d'Ivoire (DAZN1)
 https://s2.kora.st/channel?id=17
 #EXTINF:-1 tvg-id="international-friendly-matches-football-france-cote-d-ivoire-2026-06-04-22-10" group-title="International Friendly Matches",France vs Côte d'Ivoire (Nova Sports Prime)
@@ -25,12 +17,6 @@ https://s2.kora.st/channel?id=29
 https://s2.kora.st/channel?id=61
 #EXTINF:-1 tvg-id="international-friendly-matches-football-spain-iraq-2026-06-04-22-00" group-title="International Friendly Matches",Spain vs Iraq (MTV Urheilu 3)
 https://s2.kora.st/channel?id=73
-#EXTINF:-1 tvg-id="international-friendly-matches-football-northern-ireland-guinea-2026-06-04-19-00" group-title="International Friendly Matches",Northern Ireland vs Guinea (Diema Sport)
-https://s2.kora.st/channel?id=48
-#EXTINF:-1 tvg-id="international-friendly-matches-football-sweden-u21-finland-u21-2026-06-04-18-00" group-title="International Friendly Matches",Sweden U21 vs Finland U21 (V Sport Premium)
-https://s2.kora.st/channel?id=78
-#EXTINF:-1 tvg-id="international-friendly-matches-football-andorra-liechtenstein-2026-06-04-20-00" group-title="International Friendly Matches",Andorra vs Liechtenstein (Fox Soccer Plus)
-https://s2.kora.st/channel?id=83
 #EXTINF:-1 tvg-id="nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-05-03-00" group-title="NHL",Vegas Golden Knights vs Carolina Hurricanes (ABC)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-05-03-00" group-title="NHL",Vegas Golden Knights vs Carolina Hurricanes (Viaplay Sport)
@@ -253,3 +239,119 @@ https://s2.kora.st/channel?id=83
 https://s2.kora.st/channel?id=98
 #EXTINF:-1 tvg-id="international-friendly-matches-football-gibraltar-cayman-islands-2026-06-06-20-00" group-title="International Friendly Matches",Gibraltar vs Cayman Islands (DAZN)
 https://s2.kora.st/channel?id=99
+#EXTINF:-1 tvg-id="ufc-mma-ufc-fight-night-2026-06-07-00-00" group-title="UFC",UFC: Fight Night (TNT Sports 1)
+https://s2.kora.st/channel?id=1
+#EXTINF:-1 tvg-id="ufc-mma-ufc-fight-night-2026-06-07-00-00" group-title="UFC",UFC: Fight Night (RMC Sport 1)
+https://s2.kora.st/channel?id=50
+#EXTINF:-1 tvg-id="ufc-mma-belal-muhammad-gabriel-bonfim-2026-06-07-03-00" group-title="UFC",Belal Muhammad vs Gabriel Bonfim (TNT Sports 1)
+https://s2.kora.st/channel?id=1
+#EXTINF:-1 tvg-id="ufc-mma-belal-muhammad-gabriel-bonfim-2026-06-07-03-00" group-title="UFC",Belal Muhammad vs Gabriel Bonfim (RMC Sport 1)
+https://s2.kora.st/channel?id=50
+#EXTINF:-1 tvg-id="motogp-motorsport-hungarian-grand-prix-2026-06-07-10-40" group-title="MotoGP",Hungarian Grand Prix (TNT Sports 2)
+https://s2.kora.st/channel?id=2
+#EXTINF:-1 tvg-id="motogp-motorsport-hungarian-grand-prix-2026-06-07-10-40" group-title="MotoGP",Hungarian Grand Prix (DAZN MotoGP)
+https://s2.kora.st/channel?id=30
+#EXTINF:-1 tvg-id="motogp-motorsport-hungarian-grand-prix-2026-06-07-10-40" group-title="MotoGP",Hungarian Grand Prix (V Sport 1)
+https://s2.kora.st/channel?id=76
+#EXTINF:-1 tvg-id="world-women-s-friendly-football-brazil-usa-2026-06-07-00-30" group-title="World Women's Friendly",Brazil vs USA (TNT)
+https://s2.kora.st/channel?id=3
+#EXTINF:-1 tvg-id="world-women-s-friendly-football-brazil-usa-2026-06-07-00-30" group-title="World Women's Friendly",Brazil vs USA (Universo)
+https://s2.kora.st/channel?id=28
+#EXTINF:-1 tvg-id="international-friendly-matches-football-morocco-norway-2026-06-07-22-00" group-title="International Friendly Matches",Morocco vs Norway (ITV 4)
+https://s2.kora.st/channel?id=4
+#EXTINF:-1 tvg-id="international-friendly-matches-football-morocco-norway-2026-06-07-22-00" group-title="International Friendly Matches",Morocco vs Norway (M. Liga de Campeones)
+https://s2.kora.st/channel?id=29
+#EXTINF:-1 tvg-id="international-friendly-matches-football-morocco-norway-2026-06-07-22-00" group-title="International Friendly Matches",Morocco vs Norway (TV 2 Direkte)
+https://s2.kora.st/channel?id=68
+#EXTINF:-1 tvg-id="international-friendly-matches-football-morocco-norway-2026-06-07-22-00" group-title="International Friendly Matches",Morocco vs Norway (ESPN Deportes)
+https://s2.kora.st/channel?id=86
+#EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-vegas-golden-knights-2026-06-07-03-00" group-title="NHL",Carolina Hurricanes vs Vegas Golden Knights (ABC)
+https://s2.kora.st/channel?id=5
+#EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-vegas-golden-knights-2026-06-07-03-00" group-title="NHL",Carolina Hurricanes vs Vegas Golden Knights (TVA Sports)
+https://s2.kora.st/channel?id=7
+#EXTINF:-1 tvg-id="nhl-hockey-carolina-hurricanes-vegas-golden-knights-2026-06-07-03-00" group-title="NHL",Carolina Hurricanes vs Vegas Golden Knights (Viaplay Sport)
+https://s2.kora.st/channel?id=80
+#EXTINF:-1 tvg-id="formula-1-motorsport-monaco-grand-prix-2026-06-07-16-00" group-title="Formula 1",Monaco Grand Prix (Sky Sports F1)
+https://s2.kora.st/channel?id=7
+#EXTINF:-1 tvg-id="formula-1-motorsport-monaco-grand-prix-2026-06-07-16-00" group-title="Formula 1",Monaco Grand Prix (DAZN F1)
+https://s2.kora.st/channel?id=29
+#EXTINF:-1 tvg-id="cfl-canadian-football-edmonton-elks-ottawa-redblacks-2026-06-07-02-00" group-title="CFL",Edmonton Elks vs Ottawa RedBlacks (CBS Sports Network)
+https://s2.kora.st/channel?id=8
+#EXTINF:-1 tvg-id="motocross-world-championship-motorsport-mx2-2026-06-07-16-00" group-title="Motocross World Championship",MX2 (CBS Sports Network)
+https://s2.kora.st/channel?id=8
+#EXTINF:-1 tvg-id="motocross-world-championship-motorsport-mxgp-2026-06-07-17-00" group-title="Motocross World Championship",MXGP (CBS Sports Network)
+https://s2.kora.st/channel?id=8
+#EXTINF:-1 tvg-id="international-friendly-matches-football-liechtenstein-cyprus-2026-06-07-16-00" group-title="International Friendly Matches",Liechtenstein vs Cyprus (Sky Sport Select)
+https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="international-friendly-matches-football-liechtenstein-cyprus-2026-06-07-16-00" group-title="International Friendly Matches",Liechtenstein vs Cyprus (Nova Sports Start)
+https://s2.kora.st/channel?id=24
+#EXTINF:-1 tvg-id="international-friendly-matches-football-liechtenstein-cyprus-2026-06-07-16-00" group-title="International Friendly Matches",Liechtenstein vs Cyprus (Fox Sports 2)
+https://s2.kora.st/channel?id=82
+#EXTINF:-1 tvg-id="international-friendly-matches-football-denmark-ukraine-2026-06-07-19-30" group-title="International Friendly Matches",Denmark vs Ukraine (Sky Sport 9)
+https://s2.kora.st/channel?id=9
+#EXTINF:-1 tvg-id="international-friendly-matches-football-denmark-ukraine-2026-06-07-19-30" group-title="International Friendly Matches",Denmark vs Ukraine (TV2 Denmark)
+https://s2.kora.st/channel?id=69
+#EXTINF:-1 tvg-id="international-friendly-matches-football-denmark-ukraine-2026-06-07-19-30" group-title="International Friendly Matches",Denmark vs Ukraine (Fox Sports 2)
+https://s2.kora.st/channel?id=82
+#EXTINF:-1 tvg-id="international-friendly-matches-football-brazil-egypt-2026-06-07-01-00" group-title="International Friendly Matches",Brazil vs Egypt (Sport TV1)
+https://s2.kora.st/channel?id=21
+#EXTINF:-1 tvg-id="international-friendly-matches-football-brazil-egypt-2026-06-07-01-00" group-title="International Friendly Matches",Brazil vs Egypt (SporTV)
+https://s2.kora.st/channel?id=84
+#EXTINF:-1 tvg-id="international-friendly-matches-football-brazil-egypt-2026-06-07-01-00" group-title="International Friendly Matches",Brazil vs Egypt (ESPN Deportes)
+https://s2.kora.st/channel?id=86
+#EXTINF:-1 tvg-id="international-friendly-matches-football-greece-italy-2026-06-07-22-00" group-title="International Friendly Matches",Greece vs Italy (Alpha TV)
+https://s2.kora.st/channel?id=23
+#EXTINF:-1 tvg-id="international-friendly-matches-football-greece-italy-2026-06-07-22-00" group-title="International Friendly Matches",Greece vs Italy (RAI 1)
+https://s2.kora.st/channel?id=47
+#EXTINF:-1 tvg-id="international-friendly-matches-football-greece-italy-2026-06-07-22-00" group-title="International Friendly Matches",Greece vs Italy (DAZN)
+https://s2.kora.st/channel?id=99
+#EXTINF:-1 tvg-id="spain-segunda-division-basketball-las-palmas-malaga-2026-06-07-22-00" group-title="Spain Segunda Division",Las Palmas vs Malaga (LALIGA TV Hypermotion)
+https://s2.kora.st/channel?id=26
+#EXTINF:-1 tvg-id="chile-copa-de-la-liga-basketball-nublense-univ-concepcion-2026-06-07-01-00" group-title="Chile Copa De La Liga",Nublense vs Univ. Concepcion (TNT SPORTS Premium)
+https://s2.kora.st/channel?id=27
+#EXTINF:-1 tvg-id="international-friendly-matches-football-argentina-honduras-2026-06-07-03-00" group-title="International Friendly Matches",Argentina vs Honduras (M. Liga de Campeones)
+https://s2.kora.st/channel?id=29
+#EXTINF:-1 tvg-id="international-friendly-matches-football-argentina-honduras-2026-06-07-03-00" group-title="International Friendly Matches",Argentina vs Honduras (TyC Sports Argentina)
+https://s2.kora.st/channel?id=85
+#EXTINF:-1 tvg-id="international-friendly-matches-football-argentina-honduras-2026-06-07-03-00" group-title="International Friendly Matches",Argentina vs Honduras (ESPN Deportes)
+https://s2.kora.st/channel?id=86
+#EXTINF:-1 tvg-id="canada-canadian-premier-league-basketball-supra-du-quebec-pacific-fc-2026-06-07-02-00" group-title="Canada Canadian Premier League",Supra du Quebec vs Pacific FC (TSN2)
+https://s2.kora.st/channel?id=32
+#EXTINF:-1 tvg-id="wnba-basketball-chicago-sky-toronto-tempo-2026-06-07-22-00" group-title="WNBA",Chicago Sky vs Toronto Tempo (TSN3)
+https://s2.kora.st/channel?id=33
+#EXTINF:-1 tvg-id="nascar-cup-series-motorsport-firekeepers-casino-400-2026-06-07-22-00" group-title="NASCAR Cup Series",FireKeepers Casino 400 (TSN5)
+https://s2.kora.st/channel?id=35
+#EXTINF:-1 tvg-id="nhra-drag-racing-motorsport-new-england-nationals-2026-06-07-22-00" group-title="NHRA Drag Racing",New England Nationals (Fox Sports Racing)
+https://s2.kora.st/channel?id=37
+#EXTINF:-1 tvg-id="international-friendly-matches-football-venezuela-turkey-2026-06-07-01-00" group-title="International Friendly Matches",Venezuela vs Turkey (Diema Sport 3)
+https://s2.kora.st/channel?id=48
+#EXTINF:-1 tvg-id="international-friendly-matches-football-venezuela-turkey-2026-06-07-01-00" group-title="International Friendly Matches",Venezuela vs Turkey (Fox Soccer Plus)
+https://s2.kora.st/channel?id=83
+#EXTINF:-1 tvg-id="international-friendly-matches-football-venezuela-turkey-2026-06-07-01-00" group-title="International Friendly Matches",Venezuela vs Turkey (TRT Spor)
+https://s2.kora.st/channel?id=91
+#EXTINF:-1 tvg-id="international-friendly-matches-football-kosovo-andorra-2026-06-07-20-00" group-title="International Friendly Matches",Kosovo vs Andorra (Diema Sport)
+https://s2.kora.st/channel?id=48
+#EXTINF:-1 tvg-id="international-friendly-matches-football-oman-mozambique-2026-06-07-16-00" group-title="International Friendly Matches",Oman vs Mozambique (Oman TV)
+https://s2.kora.st/channel?id=65
+#EXTINF:-1 tvg-id="international-friendly-matches-football-croatia-slovenia-2026-06-07-21-45" group-title="International Friendly Matches",Croatia vs Slovenia (Nova TV)
+https://s2.kora.st/channel?id=70
+#EXTINF:-1 tvg-id="international-friendly-matches-football-croatia-slovenia-2026-06-07-21-45" group-title="International Friendly Matches",Croatia vs Slovenia (MTV Urheilu 1)
+https://s2.kora.st/channel?id=71
+#EXTINF:-1 tvg-id="international-friendly-matches-football-croatia-slovenia-2026-06-07-21-45" group-title="International Friendly Matches",Croatia vs Slovenia (Fox Sports 2)
+https://s2.kora.st/channel?id=82
+#EXTINF:-1 tvg-id="formula-1-motorsport-monaco-grand-prix-2026-06-07-17-00" group-title="Formula 1",Monaco Grand Prix (V Sport Motor)
+https://s2.kora.st/channel?id=77
+#EXTINF:-1 tvg-id="indycar-motorsport-bommarito-automotive-group-500-2026-06-07-03-00" group-title="IndyCar",Bommarito Automotive Group 500 (Fox Sports 1)
+https://s2.kora.st/channel?id=81
+#EXTINF:-1 tvg-id="indycar-motorsport-bommarito-automotive-group-500-2026-06-07-04-00" group-title="IndyCar",Bommarito Automotive Group 500 (Fox Sports 1)
+https://s2.kora.st/channel?id=81
+#EXTINF:-1 tvg-id="indy-nxt-series-motorsport-world-wide-technology-raceway-2026-06-07-01-00" group-title="Indy NXT Series",World Wide Technology Raceway (Fox Sports 2)
+https://s2.kora.st/channel?id=82
+#EXTINF:-1 tvg-id="afl-australian-football-st-kilda-saints-sydney-swans-2026-06-07-08-15" group-title="AFL",St. Kilda Saints vs Sydney Swans (Fox Sports 2)
+https://s2.kora.st/channel?id=82
+#EXTINF:-1 tvg-id="nrl-rugby-penrith-panthers-wests-tigers-2026-06-07-07-00" group-title="NRL",Penrith Panthers vs Wests Tigers (Fox Soccer Plus)
+https://s2.kora.st/channel?id=83
+#EXTINF:-1 tvg-id="afl-australian-football-carlton-blues-essendon-bombers-2026-06-07-12-20" group-title="AFL",Carlton Blues vs Essendon Bombers (Fox Soccer Plus)
+https://s2.kora.st/channel?id=83
+#EXTINF:-1 tvg-id="canada-canadian-premier-league-basketball-inter-toronto-forge-2026-06-07-21-00" group-title="Canada Canadian Premier League",Inter Toronto vs Forge (Fox Soccer Plus)
+https://s2.kora.st/channel?id=83
