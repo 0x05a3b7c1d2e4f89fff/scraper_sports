@@ -341,34 +341,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:05 [Super Rugby Pacific] Rugby: Hurricanes vs Brumbies [Sky Sport 1 NZ]",
-            "matchstr": "Hurricanes vs Brumbies",
-            "time": "10:05",
-            "league": "Super Rugby Pacific",
-            "sport": "Rugby",
-            "team1": "Hurricanes",
-            "team2": "Brumbies",
-            "channel": "Sky Sport 1 NZ",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Sky Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=31"
-                    ]
-                }
-            ],
-            "slug": "super-rugby-pacific-rugby-hurricanes-brumbies-2026-06-05-10-05",
-            "startTimestamp": 1780643100000,
-            "duration": 120
-        },
-        {
             "matchText": "16:30 [One] MMA: One Friday Fights [beIN Sport US]",
             "matchstr": "One Friday Fights",
             "time": "16:30",
@@ -825,34 +797,6 @@
             "slug": "world-series-of-darts-darts-nordic-darts-masters-2026-06-05-20-00",
             "startTimestamp": 1780678800000,
             "duration": 180
-        },
-        {
-            "matchText": "11:00 [NRL] Rugby: Newcastle Knights vs Melbourne Storm [Fox Sports 2 US]",
-            "matchstr": "Newcastle Knights vs Melbourne Storm",
-            "time": "11:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Newcastle Knights",
-            "team2": "Melbourne Storm",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-newcastle-knights-melbourne-storm-2026-06-05-11-00",
-            "startTimestamp": 1780646400000,
-            "duration": 120
         },
         {
             "matchText": "12:40 [AFL] Australian Football: Western Bulldogs vs Hawthorn Hawks [Fox Soccer Plus US]",
