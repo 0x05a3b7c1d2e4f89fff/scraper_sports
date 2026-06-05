@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [NHL] Hockey: Vegas Golden Knights vs Carolina Hurricanes [ABC US]",
-            "matchstr": "Vegas Golden Knights vs Carolina Hurricanes",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Vegas Golden Knights",
-            "team2": "Carolina Hurricanes",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=80"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-vegas-golden-knights-carolina-hurricanes-2026-06-05-03-00",
-            "startTimestamp": 1780617600000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [FIFA Women's World Cup Qualifying] Spain vs England [ITV 1 GB]",
             "matchstr": "Spain vs England",
             "time": "22:00",
@@ -240,34 +190,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [CFL] Canadian Football: Montreal Alouettes vs Hamilton Tiger vs Cats [CBS Sports Network US]",
-            "matchstr": "Montreal Alouettes vs Hamilton Tiger vs Cats",
-            "time": "02:30",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Montreal Alouettes",
-            "team2": "Hamilton Tiger vs Cats",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-montreal-alouettes-hamilton-tiger-vs-cats-2026-06-05-02-30",
-            "startTimestamp": 1780615800000,
-            "duration": 180
-        },
-        {
             "matchText": "19:00 [FIFA Women's World Cup Qualifying] Austria vs Slovenia [ORF eins DE]",
             "matchstr": "Austria vs Slovenia",
             "time": "19:00",
@@ -419,56 +341,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [International Friendly Matches] Mexico vs Serbia [M. Liga de Campeones ES]",
-            "matchstr": "Mexico vs Serbia",
-            "time": "05:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Mexico",
-            "team2": "Serbia",
-            "channel": "M. Liga de Campeones ES",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "M. Liga de Campeones",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "TUDN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-mexico-serbia-2026-06-05-05-00",
-            "startTimestamp": 1780624800000,
-            "duration": 120
-        },
-        {
             "matchText": "10:05 [Super Rugby Pacific] Rugby: Hurricanes vs Brumbies [Sky Sport 1 NZ]",
             "matchstr": "Hurricanes vs Brumbies",
             "time": "10:05",
@@ -495,34 +367,6 @@
             "slug": "super-rugby-pacific-rugby-hurricanes-brumbies-2026-06-05-10-05",
             "startTimestamp": 1780643100000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [Bare Knuckle Fighting] MMA: BKFC Fight Night [Fight Network CA]",
-            "matchstr": "BKFC Fight Night",
-            "time": "02:00",
-            "league": "Bare Knuckle Fighting",
-            "sport": "MMA",
-            "team1": "BKFC Fight Night",
-            "team2": null,
-            "channel": "Fight Network CA",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Fight Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "bare-knuckle-fighting-mma-bkfc-fight-night-2026-06-05-02-00",
-            "startTimestamp": 1780614000000,
-            "duration": 180
         },
         {
             "matchText": "16:30 [One] MMA: One Friday Fights [beIN Sport US]",
@@ -684,45 +528,6 @@
             ],
             "slug": "fifa-women-s-world-cup-qualifying-football-poland-france-2026-06-05-19-00",
             "startTimestamp": 1780675200000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [International Friendly Matches] Czech Republic vs Guatemala [Polsat Sport 3 PL]",
-            "matchstr": "Czech Republic vs Guatemala",
-            "time": "03:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Czech Republic",
-            "team2": "Guatemala",
-            "channel": "Polsat Sport 3 PL",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Polsat Sport 3",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=63"
-                    ],
-                    "number": 63,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=63"
-                    ]
-                },
-                {
-                    "name": "SporTV",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "BR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-czech-republic-guatemala-2026-06-05-03-00",
-            "startTimestamp": 1780617600000,
             "duration": 120
         },
         {
