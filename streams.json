@@ -40,106 +40,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [MotoGP] Motorsport: Hungarian Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Hungarian Grand Prix",
-            "time": "10:00",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Hungarian Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-hungarian-grand-prix-2026-06-05-10-00",
-            "startTimestamp": 1780642800000,
-            "duration": 400
-        },
-        {
-            "matchText": "14:30 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Monaco Grand Prix",
-            "time": "14:30",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Monaco Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-05-14-30",
-            "startTimestamp": 1780659000000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Monaco Grand Prix",
             "time": "18:00",
@@ -531,34 +431,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [FIFA Women's World Cup Qualifying] Azerbaijan vs Hungary [M4 Sports HU]",
-            "matchstr": "Azerbaijan vs Hungary",
-            "time": "17:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Azerbaijan",
-            "team2": "Hungary",
-            "channel": "M4 Sports HU",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "M4 Sports",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "HU",
-                    "links": [
-                        "https://s2.kora.st/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-azerbaijan-hungary-2026-06-05-17-00",
-            "startTimestamp": 1780668000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:45 [International Friendly Matches] Hungary vs Finland [M4 Sports HU]",
             "matchstr": "Hungary vs Finland",
             "time": "20:45",
@@ -743,34 +615,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [FIFA Women's World Cup Qualifying] Slovakia vs Finland [YLE TV2 FI]",
-            "matchstr": "Slovakia vs Finland",
-            "time": "17:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Slovakia",
-            "team2": "Finland",
-            "channel": "YLE TV2 FI",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "YLE TV2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-slovakia-finland-2026-06-05-17-00",
-            "startTimestamp": 1780668000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [World Series of Darts] Darts: Nordic Darts Masters [See DK]",
             "matchstr": "Nordic Darts Masters",
             "time": "20:00",
@@ -796,34 +640,6 @@
             ],
             "slug": "world-series-of-darts-darts-nordic-darts-masters-2026-06-05-20-00",
             "startTimestamp": 1780678800000,
-            "duration": 180
-        },
-        {
-            "matchText": "12:40 [AFL] Australian Football: Western Bulldogs vs Hawthorn Hawks [Fox Soccer Plus US]",
-            "matchstr": "Western Bulldogs vs Hawthorn Hawks",
-            "time": "12:40",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Western Bulldogs",
-            "team2": "Hawthorn Hawks",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-05",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-western-bulldogs-hawthorn-hawks-2026-06-05-12-40",
-            "startTimestamp": 1780652400000,
             "duration": 180
         },
         {
@@ -883,9 +699,9 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [International Friendly Matches] Slovakia vs Montenegro [DAZN DE]",
+            "matchText": "19:30 [International Friendly Matches] Slovakia vs Montenegro [DAZN DE]",
             "matchstr": "Slovakia vs Montenegro",
-            "time": "19:00",
+            "time": "19:30",
             "league": "International Friendly Matches",
             "sport": "Football",
             "team1": "Slovakia",
@@ -906,8 +722,8 @@
                     ]
                 }
             ],
-            "slug": "international-friendly-matches-football-slovakia-montenegro-2026-06-05-19-00",
-            "startTimestamp": 1780675200000,
+            "slug": "international-friendly-matches-football-slovakia-montenegro-2026-06-05-19-30",
+            "startTimestamp": 1780677000000,
             "duration": 120
         },
         {
@@ -2790,11 +2606,11 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [Chile Copa De La Liga] Basketball: Nublense vs Univ. Concepcion [TNT SPORTS Premium ES]",
+            "matchText": "01:00 [Chile Copa De La Liga] Nublense vs Univ. Concepcion [TNT SPORTS Premium ES]",
             "matchstr": "Nublense vs Univ. Concepcion",
             "time": "01:00",
             "league": "Chile Copa De La Liga",
-            "sport": "Basketball",
+            "sport": "Football",
             "team1": "Nublense",
             "team2": "Univ. Concepcion",
             "channel": "TNT SPORTS Premium ES",
@@ -2813,7 +2629,7 @@
                     ]
                 }
             ],
-            "slug": "chile-copa-de-la-liga-basketball-nublense-univ-concepcion-2026-06-07-01-00",
+            "slug": "chile-copa-de-la-liga-football-nublense-univ-concepcion-2026-06-07-01-00",
             "startTimestamp": 1780783200000,
             "duration": 120
         },
@@ -2868,11 +2684,11 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Canada Canadian Premier League] Basketball: Supra du Quebec vs Pacific FC [TSN2 CA]",
+            "matchText": "02:00 [Canada Canadian Premier League] Supra du Quebec vs Pacific FC [TSN2 CA]",
             "matchstr": "Supra du Quebec vs Pacific FC",
             "time": "02:00",
             "league": "Canada Canadian Premier League",
-            "sport": "Basketball",
+            "sport": "Football",
             "team1": "Supra du Quebec",
             "team2": "Pacific FC",
             "channel": "TSN2 CA",
@@ -2891,7 +2707,7 @@
                     ]
                 }
             ],
-            "slug": "canada-canadian-premier-league-basketball-supra-du-quebec-pacific-fc-2026-06-07-02-00",
+            "slug": "canada-canadian-premier-league-football-supra-du-quebec-pacific-fc-2026-06-07-02-00",
             "startTimestamp": 1780786800000,
             "duration": 120
         },
@@ -3332,11 +3148,11 @@
             "duration": 180
         },
         {
-            "matchText": "21:00 [Canada Canadian Premier League] Basketball: Inter Toronto vs Forge [Fox Soccer Plus US]",
+            "matchText": "21:00 [Canada Canadian Premier League] Inter Toronto vs Forge [Fox Soccer Plus US]",
             "matchstr": "Inter Toronto vs Forge",
             "time": "21:00",
             "league": "Canada Canadian Premier League",
-            "sport": "Basketball",
+            "sport": "Football",
             "team1": "Inter Toronto",
             "team2": "Forge",
             "channel": "Fox Soccer Plus US",
@@ -3355,7 +3171,7 @@
                     ]
                 }
             ],
-            "slug": "canada-canadian-premier-league-basketball-inter-toronto-forge-2026-06-07-21-00",
+            "slug": "canada-canadian-premier-league-football-inter-toronto-forge-2026-06-07-21-00",
             "startTimestamp": 1780855200000,
             "duration": 120
         }
