@@ -932,34 +932,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:00 [ARCA Menards Series] Motorsport: Michigan ARCA 200 [Fox Sports 2 US]",
-            "matchstr": "Michigan ARCA 200",
-            "time": "00:00",
-            "league": "ARCA Menards Series",
-            "sport": "Motorsport",
-            "team1": "Michigan ARCA 200",
-            "team2": null,
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "arca-menards-series-motorsport-michigan-arca-200-2026-06-06-00-00",
-            "startTimestamp": 1780693200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Indy NXT Series] Motorsport: World Wide Technology Raceway [Fox Sports 2 US]",
             "matchstr": "World Wide Technology Raceway",
             "time": "22:00",
