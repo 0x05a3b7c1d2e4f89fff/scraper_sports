@@ -118,56 +118,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Monaco Grand Prix",
-            "time": "17:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Monaco Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-06-17-00",
-            "startTimestamp": 1780754400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:30 [International Friendly Matches] USA vs Germany [TNT US]",
             "matchstr": "USA vs Germany",
             "time": "21:30",
@@ -254,56 +204,6 @@
             ],
             "slug": "international-friendly-matches-football-australia-switzerland-2026-06-06-22-00",
             "startTimestamp": 1780772400000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [International Friendly Matches] Belgium vs Tunisia [DAZN1 DE]",
-            "matchstr": "Belgium vs Tunisia",
-            "time": "16:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Belgium",
-            "team2": "Tunisia",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=17"
-                    ]
-                },
-                {
-                    "name": "La Une",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=49"
-                    ],
-                    "number": 49,
-                    "language": "BE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=49"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-belgium-tunisia-2026-06-06-16-00",
-            "startTimestamp": 1780750800000,
             "duration": 120
         },
         {
@@ -519,34 +419,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [International Friendly Matches] Azerbaijan U21 vs Bahrain U21 [CBC Sport AZ]",
-            "matchstr": "Azerbaijan U21 vs Bahrain U21",
-            "time": "17:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Azerbaijan U21",
-            "team2": "Bahrain U21",
-            "channel": "CBC Sport AZ",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "CBC Sport",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=64"
-                    ],
-                    "number": 64,
-                    "language": "AZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=64"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-azerbaijan-u21-bahrain-u21-2026-06-06-17-00",
-            "startTimestamp": 1780754400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [International Friendly Matches] Panama vs Bosnia and Herzegovina [BHT 1 BH]",
             "matchstr": "Panama vs Bosnia and Herzegovina",
             "time": "22:00",
@@ -684,34 +556,6 @@
             ],
             "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-23-30",
             "startTimestamp": 1780777800000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [International Friendly Matches] Lithuania vs Latvia [Fox Soccer Plus US]",
-            "matchstr": "Lithuania vs Latvia",
-            "time": "16:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Lithuania",
-            "team2": "Latvia",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-lithuania-latvia-2026-06-06-16-00",
-            "startTimestamp": 1780750800000,
             "duration": 120
         },
         {
