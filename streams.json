@@ -51,56 +51,6 @@
             "duration": 120
         },
         {
-            "matchText": "09:40 [MotoGP] Motorsport: Hungarian Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Hungarian Grand Prix",
-            "time": "09:40",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Hungarian Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-hungarian-grand-prix-2026-06-06-09-40",
-            "startTimestamp": 1780728000000,
-            "duration": 400
-        },
-        {
             "matchText": "20:00 [WNBA] Basketball: Seattle Storm vs Minnesota Lynx [ABC US]",
             "matchstr": "Seattle Storm vs Minnesota Lynx",
             "time": "20:00",
@@ -165,56 +115,6 @@
             ],
             "slug": "wnba-basketball-golden-state-valkyries-las-vegas-aces-2026-06-06-22-00",
             "startTimestamp": 1780772400000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:30 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Monaco Grand Prix",
-            "time": "13:30",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Monaco Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-06-13-30",
-            "startTimestamp": 1780741800000,
             "duration": 120
         },
         {
@@ -785,34 +685,6 @@
             "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-23-30",
             "startTimestamp": 1780777800000,
             "duration": 120
-        },
-        {
-            "matchText": "13:15 [AFL] Australian Football: Port Adelaide Power vs West Coast Eagles [Fox Soccer Plus US]",
-            "matchstr": "Port Adelaide Power vs West Coast Eagles",
-            "time": "13:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Port Adelaide Power",
-            "team2": "West Coast Eagles",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-port-adelaide-power-west-coast-eagles-2026-06-06-13-15",
-            "startTimestamp": 1780740900000,
-            "duration": 180
         },
         {
             "matchText": "16:00 [International Friendly Matches] Lithuania vs Latvia [Fox Soccer Plus US]",
@@ -3183,6 +3055,840 @@
             ],
             "slug": "international-friendly-matches-football-belarus-burkina-faso-2026-06-09-19-30",
             "startTimestamp": 1781022600000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:00 [NHL] Hockey: Carolina Hurricanes vs Vegas Golden Knights [ABC US]",
+            "matchstr": "Carolina Hurricanes vs Vegas Golden Knights",
+            "time": "03:00",
+            "league": "NHL",
+            "sport": "Hockey",
+            "team1": "Carolina Hurricanes",
+            "team2": "Vegas Golden Knights",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "TVA Sports",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=80"
+                    ]
+                }
+            ],
+            "slug": "nhl-hockey-carolina-hurricanes-vegas-golden-knights-2026-06-10-03-00",
+            "startTimestamp": 1781049600000,
+            "duration": 180
+        },
+        {
+            "matchText": "23:00 [International Friendly Matches] England vs Costa Rica [ITV 1 GB]",
+            "matchstr": "England vs Costa Rica",
+            "time": "23:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "England",
+            "team2": "Costa Rica",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=78"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-england-costa-rica-2026-06-10-23-00",
+            "startTimestamp": 1781121600000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [International Friendly Women] Athletics: Brazil vs United States [TNT US]",
+            "matchstr": "Brazil vs United States",
+            "time": "03:30",
+            "league": "International Friendly Women",
+            "sport": "Athletics",
+            "team1": "Brazil",
+            "team2": "United States",
+            "channel": "TNT US",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "TNT",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=3"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-women-athletics-brazil-united-states-2026-06-10-03-30",
+            "startTimestamp": 1781051400000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [WNBA] Basketball: Atlanta Dream vs Chicago Sky [ESPN US]",
+            "matchstr": "Atlanta Dream vs Chicago Sky",
+            "time": "02:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Atlanta Dream",
+            "team2": "Chicago Sky",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=9"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-atlanta-dream-chicago-sky-2026-06-10-02-00",
+            "startTimestamp": 1781046000000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [International Friendly Matches] Argentina vs Iceland [ESPN US]",
+            "matchstr": "Argentina vs Iceland",
+            "time": "04:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Argentina",
+            "team2": "Iceland",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-argentina-iceland-2026-06-10-04-00",
+            "startTimestamp": 1781053200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:45 [International Friendly Matches] Portugal vs Nigeria [Sport TV1 PT]",
+            "matchstr": "Portugal vs Nigeria",
+            "time": "22:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Portugal",
+            "team2": "Nigeria",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "Nova Sports Prime",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=25"
+                    ],
+                    "number": 25,
+                    "language": "GR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=25"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=80"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-portugal-nigeria-2026-06-10-22-45",
+            "startTimestamp": 1781120700000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Spain Segunda Division] M\u00e1laga vs Las Palmas [LALIGA TV Hypermotion ES]",
+            "matchstr": "M\u00e1laga vs Las Palmas",
+            "time": "22:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "M\u00e1laga",
+            "team2": "Las Palmas",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=26"
+                    ]
+                },
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-malaga-las-palmas-2026-06-10-22-00",
+            "startTimestamp": 1781118000000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [Canada Canadian Premier League] Atl. Ottawa vs Supra du Quebec [TSN1 CA]",
+            "matchstr": "Atl. Ottawa vs Supra du Quebec",
+            "time": "02:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Atl. Ottawa",
+            "team2": "Supra du Quebec",
+            "channel": "TSN1 CA",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-atl-ottawa-supra-du-quebec-2026-06-10-02-00",
+            "startTimestamp": 1781046000000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [International Friendly Matches] Iraq vs Venezuela [Al Iraqiya Sports SA]",
+            "matchstr": "Iraq vs Venezuela",
+            "time": "04:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Iraq",
+            "team2": "Venezuela",
+            "channel": "Al Iraqiya Sports SA",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "Al Iraqiya Sports",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "SA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=65"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-iraq-venezuela-2026-06-10-04-00",
+            "startTimestamp": 1781053200000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:30 [Diamond League] Athletics: Oslo Diamond League [SVT1 SE]",
+            "matchstr": "Oslo Diamond League",
+            "time": "21:30",
+            "league": "Diamond League",
+            "sport": "Athletics",
+            "team1": "Oslo Diamond League",
+            "team2": null,
+            "channel": "SVT1 SE",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "SVT1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                }
+            ],
+            "slug": "diamond-league-athletics-oslo-diamond-league-2026-06-10-21-30",
+            "startTimestamp": 1781116200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Superettan] \u00d6rebro vs GIF Sundsvall [TV4 Fotball SE]",
+            "matchstr": "\u00d6rebro vs GIF Sundsvall",
+            "time": "20:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "\u00d6rebro",
+            "team2": "GIF Sundsvall",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-06-10",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-orebro-gif-sundsvall-2026-06-10-20-00",
+            "startTimestamp": 1781110800000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs New York Knicks [ABC US]",
+            "matchstr": "San Antonio Spurs vs New York Knicks",
+            "time": "03:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "San Antonio Spurs",
+            "team2": "New York Knicks",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-11-03-30",
+            "startTimestamp": 1781137800000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:00 [FIFA World Cup] Mexico vs South Africa [ITV 1 GB]",
+            "matchstr": "Mexico vs South Africa",
+            "time": "22:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Mexico",
+            "team2": "South Africa",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "SBS",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "AU",
+                    "links": [
+                        "https://s2.kora.st/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "ZDF",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "ERT 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "GR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=23"
+                    ]
+                },
+                {
+                    "name": "Azteca 7",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "MX",
+                    "links": [
+                        "https://s2.kora.st/channel?id=27"
+                    ]
+                },
+                {
+                    "name": "TVE La 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "\u010cT Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=41"
+                    ]
+                },
+                {
+                    "name": "RAI 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=47"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "TV 2 Direkte",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "NO",
+                    "links": [
+                        "https://s2.kora.st/channel?id=68"
+                    ]
+                },
+                {
+                    "name": "TV2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://s2.kora.st/channel?id=69"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "TV4 Sweden",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "TRT 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=91"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-mexico-south-africa-2026-06-11-22-00",
+            "startTimestamp": 1781204400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Superettan] Helsingborg vs Landskrona [TV4 Sportkanalen SE]",
+            "matchstr": "Helsingborg vs Landskrona",
+            "time": "20:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "Helsingborg",
+            "team2": "Landskrona",
+            "channel": "TV4 Sportkanalen SE",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-helsingborg-landskrona-2026-06-11-20-00",
+            "startTimestamp": 1781197200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [Canada Canadian Premier League] Forge vs HFX Wanderers [Fox Sports 2 US]",
+            "matchstr": "Forge vs HFX Wanderers",
+            "time": "02:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Forge",
+            "team2": "HFX Wanderers",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-forge-hfx-wanderers-2026-06-11-02-00",
+            "startTimestamp": 1781132400000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:30 [AFL] Australian Football: Adelaide Crows vs Western Bulldogs [Fox Sports 2 US]",
+            "matchstr": "Adelaide Crows vs Western Bulldogs",
+            "time": "12:30",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Adelaide Crows",
+            "team2": "Western Bulldogs",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-adelaide-crows-western-bulldogs-2026-06-11-12-30",
+            "startTimestamp": 1781170200000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:30 [Canada Canadian Premier League] Inter Toronto vs Cavalry [Fox Soccer Plus US]",
+            "matchstr": "Inter Toronto vs Cavalry",
+            "time": "02:30",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Inter Toronto",
+            "team2": "Cavalry",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-inter-toronto-cavalry-2026-06-11-02-30",
+            "startTimestamp": 1781134200000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:50 [NRL] Rugby: Brisbane Broncos vs South Sydney Rabbitohs [Fox Soccer Plus US]",
+            "matchstr": "Brisbane Broncos vs South Sydney Rabbitohs",
+            "time": "12:50",
+            "league": "NRL",
+            "sport": "Rugby",
+            "team1": "Brisbane Broncos",
+            "team2": "South Sydney Rabbitohs",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-11",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "nrl-rugby-brisbane-broncos-south-sydney-rabbitohs-2026-06-11-12-50",
+            "startTimestamp": 1781171400000,
             "duration": 120
         }
     ]
