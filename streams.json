@@ -51,45 +51,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [WNBA] Basketball: Seattle Storm vs Minnesota Lynx [ABC US]",
-            "matchstr": "Seattle Storm vs Minnesota Lynx",
-            "time": "20:00",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Seattle Storm",
-            "team2": "Minnesota Lynx",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-seattle-storm-minnesota-lynx-2026-06-06-20-00",
-            "startTimestamp": 1780765200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [WNBA] Basketball: Golden State Valkyries vs Las Vegas Aces [ABC US]",
             "matchstr": "Golden State Valkyries vs Las Vegas Aces",
             "time": "22:00",
@@ -207,34 +168,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:45 [International Friendly Matches] Romania vs Wales [DAZN1 DE]",
-            "matchstr": "Romania vs Wales",
-            "time": "20:45",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Romania",
-            "team2": "Wales",
-            "channel": "DAZN1 DE",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "DAZN1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=17"
-                    ],
-                    "number": 17,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=17"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-romania-wales-2026-06-06-20-45",
-            "startTimestamp": 1780767900000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [International Friendly Matches] Bolivia vs Scotland [DAZN1 DE]",
             "matchstr": "Bolivia vs Scotland",
             "time": "23:00",
@@ -271,56 +204,6 @@
             ],
             "slug": "international-friendly-matches-football-bolivia-scotland-2026-06-06-23-00",
             "startTimestamp": 1780776000000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:45 [International Friendly Matches] Portugal vs Chile [DAZN2 DE]",
-            "matchstr": "Portugal vs Chile",
-            "time": "20:45",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Portugal",
-            "team2": "Chile",
-            "channel": "DAZN2 DE",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "DAZN2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=18"
-                    ],
-                    "number": 18,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=18"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Select",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=38"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-portugal-chile-2026-06-06-20-45",
-            "startTimestamp": 1780767900000,
             "duration": 120
         },
         {
@@ -380,62 +263,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [IndyCar] Motorsport: Bommarito Automotive Group 500 [Fox Sports 1 US]",
-            "matchstr": "Bommarito Automotive Group 500",
-            "time": "19:30",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Bommarito Automotive Group 500",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-19-30",
-            "startTimestamp": 1780763400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:30 [NASCAR Craftsman Truck Series] Motorsport: NCTS Race at Michigan [Fox Sports 1 US]",
-            "matchstr": "NCTS Race at Michigan",
-            "time": "20:30",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Motorsport",
-            "team1": "NCTS Race at Michigan",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-motorsport-ncts-race-at-michigan-2026-06-06-20-30",
-            "startTimestamp": 1780767000000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Indy NXT Series] Motorsport: World Wide Technology Raceway [Fox Sports 2 US]",
             "matchstr": "World Wide Technology Raceway",
             "time": "22:00",
@@ -489,62 +316,6 @@
             ],
             "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-23-30",
             "startTimestamp": 1780777800000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [International Friendly Matches] Albania vs Luxembourg [DAZN DE]",
-            "matchstr": "Albania vs Luxembourg",
-            "time": "21:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Albania",
-            "team2": "Luxembourg",
-            "channel": "DAZN DE",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=98"
-                    ],
-                    "number": 98,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=98"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-albania-luxembourg-2026-06-06-21-00",
-            "startTimestamp": 1780768800000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [International Friendly Matches] Gibraltar vs Cayman Islands [DAZN DE]",
-            "matchstr": "Gibraltar vs Cayman Islands",
-            "time": "20:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Gibraltar",
-            "team2": "Cayman Islands",
-            "channel": "DAZN DE",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-gibraltar-cayman-islands-2026-06-06-20-00",
-            "startTimestamp": 1780765200000,
             "duration": 120
         },
         {
