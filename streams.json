@@ -815,34 +815,6 @@
             "duration": 120
         },
         {
-            "matchText": "07:15 [AFL] Australian Football: Fremantle Dockers vs North Melbourne Kangaroos [Fox Soccer Plus US]",
-            "matchstr": "Fremantle Dockers vs North Melbourne Kangaroos",
-            "time": "07:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Fremantle Dockers",
-            "team2": "North Melbourne Kangaroos",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-fremantle-dockers-north-melbourne-kangaroos-2026-06-06-07-15",
-            "startTimestamp": 1780719300000,
-            "duration": 180
-        },
-        {
             "matchText": "13:15 [AFL] Australian Football: Port Adelaide Power vs West Coast Eagles [Fox Soccer Plus US]",
             "matchstr": "Port Adelaide Power vs West Coast Eagles",
             "time": "13:15",
@@ -2151,6 +2123,1094 @@
             ],
             "slug": "canada-canadian-premier-league-football-inter-toronto-forge-2026-06-07-21-00",
             "startTimestamp": 1780855200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [International Friendly Matches] Colombia vs Jordan [Sport TV1 PT]",
+            "matchstr": "Colombia vs Jordan",
+            "time": "02:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Colombia",
+            "team2": "Jordan",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "M. Liga de Campeones",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-colombia-jordan-2026-06-08-02-00",
+            "startTimestamp": 1780873200000,
+            "duration": 120
+        },
+        {
+            "matchText": "01:00 [Chile Copa De La Liga] Deportes Limache vs Everton [TNT SPORTS Premium ES]",
+            "matchstr": "Deportes Limache vs Everton",
+            "time": "01:00",
+            "league": "Chile Copa De La Liga",
+            "sport": "Football",
+            "team1": "Deportes Limache",
+            "team2": "Everton",
+            "channel": "TNT SPORTS Premium ES",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "TNT SPORTS Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=27"
+                    ]
+                }
+            ],
+            "slug": "chile-copa-de-la-liga-football-deportes-limache-everton-2026-06-08-01-00",
+            "startTimestamp": 1780869600000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [IndyCar] Motorsport: Bommarito Automotive Group 500 [TSN5 CA]",
+            "matchstr": "Bommarito Automotive Group 500",
+            "time": "04:00",
+            "league": "IndyCar",
+            "sport": "Motorsport",
+            "team1": "Bommarito Automotive Group 500",
+            "team2": null,
+            "channel": "TSN5 CA",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "TSN5",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=35"
+                    ],
+                    "number": 35,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=35"
+                    ]
+                }
+            ],
+            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-08-04-00",
+            "startTimestamp": 1780880400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:15 [International Friendly Matches] Italy U21 vs Albania U21 [Rai 2 IT]",
+            "matchstr": "Italy U21 vs Albania U21",
+            "time": "19:15",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Italy U21",
+            "team2": "Albania U21",
+            "channel": "Rai 2 IT",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "Rai 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=47"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-italy-u21-albania-u21-2026-06-08-19-15",
+            "startTimestamp": 1780935300000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:10 [International Friendly Matches] France vs Northern Ireland [TF1 FR]",
+            "matchstr": "France vs Northern Ireland",
+            "time": "22:10",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "France",
+            "team2": "Northern Ireland",
+            "channel": "TF1 FR",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "TF1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=50"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "V Sport Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=78"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-france-northern-ireland-2026-06-08-22-10",
+            "startTimestamp": 1780945800000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:45 [International Friendly Matches] Netherlands vs Uzbekistan [TV 2 Sport 2 NO]",
+            "matchstr": "Netherlands vs Uzbekistan",
+            "time": "21:45",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Netherlands",
+            "team2": "Uzbekistan",
+            "channel": "TV 2 Sport 2 NO",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "TV 2 Sport 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "NO",
+                    "links": [
+                        "https://s2.kora.st/channel?id=68"
+                    ]
+                },
+                {
+                    "name": "Viaplay Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=80"
+                    ],
+                    "number": 80,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=80"
+                    ]
+                },
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                },
+                {
+                    "name": "NPO 3",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-netherlands-uzbekistan-2026-06-08-21-45",
+            "startTimestamp": 1780944300000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [International Friendly Matches] Norway U21 vs Finland U21 [TV2 Sport NO]",
+            "matchstr": "Norway U21 vs Finland U21",
+            "time": "19:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Norway U21",
+            "team2": "Finland U21",
+            "channel": "TV2 Sport NO",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "TV2 Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "NO",
+                    "links": [
+                        "https://s2.kora.st/channel?id=69"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-norway-u21-finland-u21-2026-06-08-19-00",
+            "startTimestamp": 1780934400000,
+            "duration": 120
+        },
+        {
+            "matchText": "08:15 [AFL] Australian Football: Melbourne Demons vs Collingwood Magpies [Fox Sports 2 US]",
+            "matchstr": "Melbourne Demons vs Collingwood Magpies",
+            "time": "08:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Melbourne Demons",
+            "team2": "Collingwood Magpies",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-melbourne-demons-collingwood-magpies-2026-06-08-08-15",
+            "startTimestamp": 1780895700000,
+            "duration": 180
+        },
+        {
+            "matchText": "09:05 [NRL] Rugby: Parramatta Eels vs Canterbury Bulldogs [Fox Soccer Plus US]",
+            "matchstr": "Parramatta Eels vs Canterbury Bulldogs",
+            "time": "09:05",
+            "league": "NRL",
+            "sport": "Rugby",
+            "team1": "Parramatta Eels",
+            "team2": "Canterbury Bulldogs",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-08",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "nrl-rugby-parramatta-eels-canterbury-bulldogs-2026-06-08-09-05",
+            "startTimestamp": 1780898700000,
+            "duration": 120
+        },
+        {
+            "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs New York Knicks [ABC US]",
+            "matchstr": "San Antonio Spurs vs New York Knicks",
+            "time": "03:30",
+            "league": "NBA",
+            "sport": "Basketball",
+            "team1": "San Antonio Spurs",
+            "team2": "New York Knicks",
+            "channel": "ABC US",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "ABC",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-09-03-30",
+            "startTimestamp": 1780965000000,
+            "duration": 180
+        },
+        {
+            "matchText": "22:00 [FIFA Women's World Cup Qualifying] England vs Ukraine [ITV 1 GB]",
+            "matchstr": "England vs Ukraine",
+            "time": "22:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "England",
+            "team2": "Ukraine",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-england-ukraine-2026-06-09-22-00",
+            "startTimestamp": 1781031600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Sweden vs Italy [CBS Sports Network US]",
+            "matchstr": "Sweden vs Italy",
+            "time": "20:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Sweden",
+            "team2": "Italy",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                },
+                {
+                    "name": "SVT2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=72"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-sweden-italy-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [FIFA Women's World Cup Qualifying] France vs Republic of Ireland [CBS Sports Golazo Network US]",
+            "matchstr": "France vs Republic of Ireland",
+            "time": "22:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "France",
+            "team2": "Republic of Ireland",
+            "channel": "CBS Sports Golazo Network US",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "CBS Sports Golazo Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "France 4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=54"
+                    ],
+                    "number": 54,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=54"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-france-republic-of-ireland-2026-06-09-22-00",
+            "startTimestamp": 1781031600000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [WNBA] Basketball: Seattle Storm vs Las Vegas Aces [USA Network US]",
+            "matchstr": "Seattle Storm vs Las Vegas Aces",
+            "time": "05:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "Seattle Storm",
+            "team2": "Las Vegas Aces",
+            "channel": "USA Network US",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "USA Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=10"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-seattle-storm-las-vegas-aces-2026-06-09-05-00",
+            "startTimestamp": 1780970400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Slovenia vs Germany [ZDF DE]",
+            "matchstr": "Slovenia vs Germany",
+            "time": "19:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Slovenia",
+            "team2": "Germany",
+            "channel": "ZDF DE",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "ZDF",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-slovenia-germany-2026-06-09-19-00",
+            "startTimestamp": 1781020800000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [International Friendly Matches] Peru vs Spain [Sport TV1 PT]",
+            "matchstr": "Peru vs Spain",
+            "time": "05:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Peru",
+            "team2": "Spain",
+            "channel": "Sport TV1 PT",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "TVE La 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-peru-spain-2026-06-09-05-00",
+            "startTimestamp": 1780970400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Finland vs Portugal [Canal 11 PT]",
+            "matchstr": "Finland vs Portugal",
+            "time": "20:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Finland",
+            "team2": "Portugal",
+            "channel": "Canal 11 PT",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "Canal 11",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-finland-portugal-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Spain Segunda Division] Almer\u00eda vs CD Castellon [LALIGA TV Hypermotion ES]",
+            "matchstr": "Almer\u00eda vs CD Castellon",
+            "time": "22:00",
+            "league": "Spain Segunda Division",
+            "sport": "Football",
+            "team1": "Almer\u00eda",
+            "team2": "CD Castellon",
+            "channel": "LALIGA TV Hypermotion ES",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "LALIGA TV Hypermotion",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=26"
+                    ],
+                    "number": 26,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=26"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "spain-segunda-division-football-almeria-cd-castellon-2026-06-09-22-00",
+            "startTimestamp": 1781031600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Wales vs Czech Republic [CT Sport CZ]",
+            "matchstr": "Wales vs Czech Republic",
+            "time": "20:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Wales",
+            "team2": "Czech Republic",
+            "channel": "CT Sport CZ",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=41"
+                    ],
+                    "number": 41,
+                    "language": "CZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=41"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-wales-czech-republic-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [International Friendly Matches] Armenia vs Moldova [Sport 2 CZ]",
+            "matchstr": "Armenia vs Moldova",
+            "time": "17:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Armenia",
+            "team2": "Moldova",
+            "channel": "Sport 2 CZ",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "Sport 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=42"
+                    ],
+                    "number": 42,
+                    "language": "CZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=42"
+                    ]
+                },
+                {
+                    "name": "Diema Sport 3",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://s2.kora.st/channel?id=48"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-armenia-moldova-2026-06-09-17-30",
+            "startTimestamp": 1781015400000,
+            "duration": 120
+        },
+        {
+            "matchText": "21:00 [International Friendly Matches] Azerbaijan vs San Marino [Diema Sport 3 BG]",
+            "matchstr": "Azerbaijan vs San Marino",
+            "time": "21:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Azerbaijan",
+            "team2": "San Marino",
+            "channel": "Diema Sport 3 BG",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "Diema Sport 3",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=48"
+                    ],
+                    "number": 48,
+                    "language": "BG",
+                    "links": [
+                        "https://s2.kora.st/channel?id=48"
+                    ]
+                },
+                {
+                    "name": "CBC Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "AZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-azerbaijan-san-marino-2026-06-09-21-00",
+            "startTimestamp": 1781028000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [FIFA Women's World Cup Qualifying] Netherlands vs Poland [TVP Sport PL]",
+            "matchstr": "Netherlands vs Poland",
+            "time": "22:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Netherlands",
+            "team2": "Poland",
+            "channel": "TVP Sport PL",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "NPO3",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-netherlands-poland-2026-06-09-22-00",
+            "startTimestamp": 1781031600000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [FIFA Women's World Cup Qualifying] Iceland vs Spain [RUV2 IC]",
+            "matchstr": "Iceland vs Spain",
+            "time": "22:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Iceland",
+            "team2": "Spain",
+            "channel": "RUV2 IC",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "RUV2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=64"
+                    ],
+                    "number": 64,
+                    "language": "IC",
+                    "links": [
+                        "https://s2.kora.st/channel?id=64"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-iceland-spain-2026-06-09-22-00",
+            "startTimestamp": 1781031600000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:30 [International Friendly Matches] Kyrgyzstan vs Palestine [Palestine Sport SA]",
+            "matchstr": "Kyrgyzstan vs Palestine",
+            "time": "17:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Kyrgyzstan",
+            "team2": "Palestine",
+            "channel": "Palestine Sport SA",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "Palestine Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=65"
+                    ],
+                    "number": 65,
+                    "language": "SA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=65"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-kyrgyzstan-palestine-2026-06-09-17-30",
+            "startTimestamp": 1781015400000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [International Friendly Matches] Azerbaijan U21 vs Kyrgyzstan U21 [CBC Sport AZ]",
+            "matchstr": "Azerbaijan U21 vs Kyrgyzstan U21",
+            "time": "17:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Azerbaijan U21",
+            "team2": "Kyrgyzstan U21",
+            "channel": "CBC Sport AZ",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "CBC Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "AZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-azerbaijan-u21-kyrgyzstan-u21-2026-06-09-17-00",
+            "startTimestamp": 1781013600000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [International Friendly Matches] Hungary vs Kazakhstan [M4 Sports HU]",
+            "matchstr": "Hungary vs Kazakhstan",
+            "time": "20:00",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Hungary",
+            "team2": "Kazakhstan",
+            "channel": "M4 Sports HU",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "M4 Sports",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "HU",
+                    "links": [
+                        "https://s2.kora.st/channel?id=67"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-hungary-kazakhstan-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Norway vs Austria [TV 2 Direkte NO]",
+            "matchstr": "Norway vs Austria",
+            "time": "19:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Norway",
+            "team2": "Austria",
+            "channel": "TV 2 Direkte NO",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "TV 2 Direkte",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=68"
+                    ],
+                    "number": 68,
+                    "language": "NO",
+                    "links": [
+                        "https://s2.kora.st/channel?id=68"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-norway-austria-2026-06-09-19-00",
+            "startTimestamp": 1781020800000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Serbia vs Denmark [DR1 DK]",
+            "matchstr": "Serbia vs Denmark",
+            "time": "20:00",
+            "league": "FIFA Women's World Cup Qualifying",
+            "sport": "Football",
+            "team1": "Serbia",
+            "team2": "Denmark",
+            "channel": "DR1 DK",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "DR1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=69"
+                    ],
+                    "number": 69,
+                    "language": "DK",
+                    "links": [
+                        "https://s2.kora.st/channel?id=69"
+                    ]
+                }
+            ],
+            "slug": "fifa-women-s-world-cup-qualifying-football-serbia-denmark-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Superettan] Oddevold vs Norrk\u00f6ping [TV4 Fotball SE]",
+            "matchstr": "Oddevold vs Norrk\u00f6ping",
+            "time": "20:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "Oddevold",
+            "team2": "Norrk\u00f6ping",
+            "channel": "TV4 Fotball SE",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "TV4 Fotball",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-oddevold-norrkoping-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Sweden Superettan] \u00d6ster vs V\u00e4rnamo [TV4 Sportkanalen SE]",
+            "matchstr": "\u00d6ster vs V\u00e4rnamo",
+            "time": "20:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "\u00d6ster",
+            "team2": "V\u00e4rnamo",
+            "channel": "TV4 Sportkanalen SE",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-oster-varnamo-2026-06-09-20-00",
+            "startTimestamp": 1781024400000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:30 [International Friendly Matches] Belarus vs Burkina Faso [Fox Soccer Plus US]",
+            "matchstr": "Belarus vs Burkina Faso",
+            "time": "19:30",
+            "league": "International Friendly Matches",
+            "sport": "Football",
+            "team1": "Belarus",
+            "team2": "Burkina Faso",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-09",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "international-friendly-matches-football-belarus-burkina-faso-2026-06-09-19-30",
+            "startTimestamp": 1781022600000,
             "duration": 120
         }
     ]
