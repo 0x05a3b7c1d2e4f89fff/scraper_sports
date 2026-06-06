@@ -51,56 +51,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:30 [NBA] Basketball: New York Knicks vs San Antonio Spurs [ESPN US]",
-            "matchstr": "New York Knicks vs San Antonio Spurs",
-            "time": "03:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "New York Knicks",
-            "team2": "San Antonio Spurs",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-new-york-knicks-san-antonio-spurs-2026-06-06-03-30",
-            "startTimestamp": 1780705800000,
-            "duration": 180
-        },
-        {
             "matchText": "09:40 [MotoGP] Motorsport: Hungarian Grand Prix [TNT Sports 2 GB]",
             "matchstr": "Hungarian Grand Prix",
             "time": "09:40",
@@ -316,34 +266,6 @@
             "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-06-17-00",
             "startTimestamp": 1780754400000,
             "duration": 120
-        },
-        {
-            "matchText": "04:00 [CFL] Canadian Football: Winnipeg Blue Bombers vs Calgary Stampeders [CBS Sports Network US]",
-            "matchstr": "Winnipeg Blue Bombers vs Calgary Stampeders",
-            "time": "04:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Winnipeg Blue Bombers",
-            "team2": "Calgary Stampeders",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-winnipeg-blue-bombers-calgary-stampeders-2026-06-06-04-00",
-            "startTimestamp": 1780707600000,
-            "duration": 180
         },
         {
             "matchText": "21:30 [International Friendly Matches] USA vs Germany [TNT US]",
@@ -602,34 +524,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [International Friendly Matches] Puerto Rico vs Saudi Arabia [Sport TV2 PT]",
-            "matchstr": "Puerto Rico vs Saudi Arabia",
-            "time": "02:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Puerto Rico",
-            "team2": "Saudi Arabia",
-            "channel": "Sport TV2 PT",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Sport TV2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=22"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-puerto-rico-saudi-arabia-2026-06-06-02-00",
-            "startTimestamp": 1780700400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] CD Castellon vs Almeria [LALIGA TV Hypermotion ES]",
             "matchstr": "CD Castellon vs Almeria",
             "time": "22:00",
@@ -725,45 +619,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [International Friendly Matches] Canada vs Ireland Republic [TSN4 CA]",
-            "matchstr": "Canada vs Ireland Republic",
-            "time": "02:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Canada",
-            "team2": "Ireland Republic",
-            "channel": "TSN4 CA",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "TSN4",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=34"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-canada-ireland-republic-2026-06-06-02-30",
-            "startTimestamp": 1780702200000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [International Friendly Matches] Azerbaijan U21 vs Bahrain U21 [CBC Sport AZ]",
             "matchstr": "Azerbaijan U21 vs Bahrain U21",
             "time": "17:00",
@@ -817,34 +672,6 @@
             ],
             "slug": "international-friendly-matches-football-panama-bosnia-and-herzegovina-2026-06-06-22-00",
             "startTimestamp": 1780772400000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [NHRA Drag Racing] Motorsport: New England Nationals [Fox Sports 1 US]",
-            "matchstr": "New England Nationals",
-            "time": "03:00",
-            "league": "NHRA Drag Racing",
-            "sport": "Motorsport",
-            "team1": "New England Nationals",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nhra-drag-racing-motorsport-new-england-nationals-2026-06-06-03-00",
-            "startTimestamp": 1780704000000,
             "duration": 120
         },
         {
@@ -985,73 +812,6 @@
             ],
             "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-23-30",
             "startTimestamp": 1780777800000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [International Friendly Matches] Haiti vs Peru [Fox Soccer Plus US]",
-            "matchstr": "Haiti vs Peru",
-            "time": "03:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Haiti",
-            "team2": "Peru",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                },
-                {
-                    "name": "Fox Deportes",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=87"
-                    ],
-                    "number": 87,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=87"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-haiti-peru-2026-06-06-03-00",
-            "startTimestamp": 1780704000000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [Canada Canadian Premier League] Vancouver FC vs Atl. Ottawa [Fox Soccer Plus US]",
-            "matchstr": "Vancouver FC vs Atl. Ottawa",
-            "time": "05:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Vancouver FC",
-            "team2": "Atl. Ottawa",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-vancouver-fc-atl-ottawa-2026-06-06-05-00",
-            "startTimestamp": 1780711200000,
             "duration": 120
         },
         {
