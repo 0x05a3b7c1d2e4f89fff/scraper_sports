@@ -603,62 +603,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:15 [AFL] Australian Football: St. Kilda Saints vs Sydney Swans [Fox Sports 2 US]",
-            "matchstr": "St. Kilda Saints vs Sydney Swans",
-            "time": "08:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "St. Kilda Saints",
-            "team2": "Sydney Swans",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-st-kilda-saints-sydney-swans-2026-06-07-08-15",
-            "startTimestamp": 1780809300000,
-            "duration": 180
-        },
-        {
-            "matchText": "07:00 [NRL] Rugby: Penrith Panthers vs Wests Tigers [Fox Soccer Plus US]",
-            "matchstr": "Penrith Panthers vs Wests Tigers",
-            "time": "07:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Penrith Panthers",
-            "team2": "Wests Tigers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-penrith-panthers-wests-tigers-2026-06-07-07-00",
-            "startTimestamp": 1780804800000,
-            "duration": 120
-        },
-        {
             "matchText": "12:20 [AFL] Australian Football: Carlton Blues vs Essendon Bombers [Fox Soccer Plus US]",
             "matchstr": "Carlton Blues vs Essendon Bombers",
             "time": "12:20",
@@ -2349,17 +2293,6 @@
                     ]
                 },
                 {
-                    "name": "TVE La 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
                     "name": "TSN1",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=31"
@@ -2489,6 +2422,17 @@
                     "language": "TR",
                     "links": [
                         "https://s2.kora.st/channel?id=91"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
                     ]
                 }
             ],
