@@ -62,56 +62,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [International Friendly Matches] Denmark vs Ukraine [Sky Sport 9 NZ]",
-            "matchstr": "Denmark vs Ukraine",
-            "time": "19:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Denmark",
-            "team2": "Ukraine",
-            "channel": "Sky Sport 9 NZ",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Sky Sport 9",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "TV2 Denmark",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=69"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-denmark-ukraine-2026-06-07-19-30",
-            "startTimestamp": 1780849800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [International Friendly Matches] Greece vs Italy [Alpha TV GR]",
             "matchstr": "Greece vs Italy",
             "time": "22:00",
@@ -274,34 +224,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [International Friendly Matches] Kosovo vs Andorra [Diema Sport BG]",
-            "matchstr": "Kosovo vs Andorra",
-            "time": "20:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Kosovo",
-            "team2": "Andorra",
-            "channel": "Diema Sport BG",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Diema Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://s2.kora.st/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-kosovo-andorra-2026-06-07-20-00",
-            "startTimestamp": 1780851600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:45 [International Friendly Matches] Croatia vs Slovenia [Nova TV HR]",
             "matchstr": "Croatia vs Slovenia",
             "time": "21:45",
@@ -349,34 +271,6 @@
             ],
             "slug": "international-friendly-matches-football-croatia-slovenia-2026-06-07-21-45",
             "startTimestamp": 1780857900000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [Canada Canadian Premier League] Inter Toronto vs Forge [Fox Soccer Plus US]",
-            "matchstr": "Inter Toronto vs Forge",
-            "time": "21:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Inter Toronto",
-            "team2": "Forge",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-inter-toronto-forge-2026-06-07-21-00",
-            "startTimestamp": 1780855200000,
             "duration": 120
         },
         {
