@@ -144,6 +144,17 @@
                     "links": [
                         "https://s2.kora.st/channel?id=29"
                     ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=77"
+                    ]
                 }
             ],
             "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-07-16-00",
@@ -572,34 +583,6 @@
             ],
             "slug": "international-friendly-matches-football-croatia-slovenia-2026-06-07-21-45",
             "startTimestamp": 1780857900000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Formula 1] Motorsport: Monaco Grand Prix [V Sport Motor SE]",
-            "matchstr": "Monaco Grand Prix",
-            "time": "17:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Monaco Grand Prix",
-            "team2": null,
-            "channel": "V Sport Motor SE",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-07-17-00",
-            "startTimestamp": 1780840800000,
             "duration": 120
         },
         {
