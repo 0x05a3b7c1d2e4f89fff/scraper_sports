@@ -1,73 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:30 [IndyCar] Motorsport: Bommarito Automotive Group 500 [Fox Sports 2 US]",
-            "matchstr": "Bommarito Automotive Group 500",
-            "time": "23:30",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Bommarito Automotive Group 500",
-            "team2": null,
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-06",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://nrdrse.link/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-06-23-30",
-            "startTimestamp": 1780777800000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:00 [UFC] MMA: UFC: Fight Night [TNT Sports 1 GB]",
-            "matchstr": "UFC: Fight Night",
-            "time": "00:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "UFC: Fight Night",
-            "team2": null,
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-ufc-fight-night-2026-06-07-00-00",
-            "startTimestamp": 1780779600000,
-            "duration": 180
-        },
-        {
             "matchText": "03:00 [UFC] MMA: Belal Muhammad vs Gabriel Bonfim [TNT Sports 1 GB]",
             "matchstr": "Belal Muhammad vs Gabriel Bonfim",
             "time": "03:00",
@@ -155,45 +88,6 @@
             "slug": "motogp-motorsport-hungarian-grand-prix-2026-06-07-10-40",
             "startTimestamp": 1780818000000,
             "duration": 400
-        },
-        {
-            "matchText": "00:30 [World Women's Friendly] Brazil vs USA [TNT US]",
-            "matchstr": "Brazil vs USA",
-            "time": "00:30",
-            "league": "World Women's Friendly",
-            "sport": "Football",
-            "team1": "Brazil",
-            "team2": "USA",
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "Universo",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=28"
-                    ],
-                    "number": 28,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=28"
-                    ]
-                }
-            ],
-            "slug": "world-women-s-friendly-football-brazil-usa-2026-06-07-00-30",
-            "startTimestamp": 1780781400000,
-            "duration": 120
         },
         {
             "matchText": "22:00 [International Friendly Matches] Morocco vs Norway [ITV 4 GB]",
@@ -530,56 +424,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [International Friendly Matches] Brazil vs Egypt [Sport TV1 PT]",
-            "matchstr": "Brazil vs Egypt",
-            "time": "01:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Brazil",
-            "team2": "Egypt",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "SporTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "BR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-brazil-egypt-2026-06-07-01-00",
-            "startTimestamp": 1780783200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [International Friendly Matches] Greece vs Italy [Alpha TV GR]",
             "matchstr": "Greece vs Italy",
             "time": "22:00",
@@ -655,34 +499,6 @@
             ],
             "slug": "spain-segunda-division-basketball-las-palmas-malaga-2026-06-07-22-00",
             "startTimestamp": 1780858800000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [Chile Copa De La Liga] Nublense vs Univ. Concepcion [TNT SPORTS Premium ES]",
-            "matchstr": "Nublense vs Univ. Concepcion",
-            "time": "01:00",
-            "league": "Chile Copa De La Liga",
-            "sport": "Football",
-            "team1": "Nublense",
-            "team2": "Univ. Concepcion",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=27"
-                    ]
-                }
-            ],
-            "slug": "chile-copa-de-la-liga-football-nublense-univ-concepcion-2026-06-07-01-00",
-            "startTimestamp": 1780783200000,
             "duration": 120
         },
         {
@@ -845,56 +661,6 @@
             ],
             "slug": "nhra-drag-racing-motorsport-new-england-nationals-2026-06-07-22-00",
             "startTimestamp": 1780858800000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [International Friendly Matches] Venezuela vs Turkey [Diema Sport 3 BG]",
-            "matchstr": "Venezuela vs Turkey",
-            "time": "01:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Venezuela",
-            "team2": "Turkey",
-            "channel": "Diema Sport 3 BG",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Diema Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://s2.kora.st/channel?id=48"
-                    ]
-                },
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                },
-                {
-                    "name": "TRT Spor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=91"
-                    ],
-                    "number": 91,
-                    "language": "TR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=91"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-venezuela-turkey-2026-06-07-01-00",
-            "startTimestamp": 1780783200000,
             "duration": 120
         },
         {
@@ -1085,34 +851,6 @@
             ],
             "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-07-04-00",
             "startTimestamp": 1780794000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:00 [Indy NXT Series] Motorsport: World Wide Technology Raceway [Fox Sports 2 US]",
-            "matchstr": "World Wide Technology Raceway",
-            "time": "01:00",
-            "league": "Indy NXT Series",
-            "sport": "Motorsport",
-            "team1": "World Wide Technology Raceway",
-            "team2": null,
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "indy-nxt-series-motorsport-world-wide-technology-raceway-2026-06-07-01-00",
-            "startTimestamp": 1780783200000,
             "duration": 120
         },
         {
