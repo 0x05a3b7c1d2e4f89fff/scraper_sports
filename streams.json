@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [UFC] MMA: Belal Muhammad vs Gabriel Bonfim [TNT Sports 1 GB]",
-            "matchstr": "Belal Muhammad vs Gabriel Bonfim",
-            "time": "03:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Belal Muhammad",
-            "team2": "Gabriel Bonfim",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-belal-muhammad-gabriel-bonfim-2026-06-07-03-00",
-            "startTimestamp": 1780790400000,
-            "duration": 180
-        },
-        {
             "matchText": "10:40 [MotoGP] Motorsport: Hungarian Grand Prix [TNT Sports 2 GB]",
             "matchstr": "Hungarian Grand Prix",
             "time": "10:40",
@@ -151,56 +112,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [NHL] Hockey: Carolina Hurricanes vs Vegas Golden Knights [ABC US]",
-            "matchstr": "Carolina Hurricanes vs Vegas Golden Knights",
-            "time": "03:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "Carolina Hurricanes",
-            "team2": "Vegas Golden Knights",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=5"
-                    ]
-                },
-                {
-                    "name": "TVA Sports",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-carolina-hurricanes-vegas-golden-knights-2026-06-07-03-00",
-            "startTimestamp": 1780790400000,
-            "duration": 180
-        },
-        {
             "matchText": "16:00 [Formula 1] Motorsport: Monaco Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Monaco Grand Prix",
             "time": "16:00",
@@ -238,34 +149,6 @@
             "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-07-16-00",
             "startTimestamp": 1780837200000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [CFL] Canadian Football: Edmonton Elks vs Ottawa RedBlacks [CBS Sports Network US]",
-            "matchstr": "Edmonton Elks vs Ottawa RedBlacks",
-            "time": "02:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Edmonton Elks",
-            "team2": "Ottawa RedBlacks",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-edmonton-elks-ottawa-redblacks-2026-06-07-02-00",
-            "startTimestamp": 1780786800000,
-            "duration": 180
         },
         {
             "matchText": "16:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
@@ -502,84 +385,6 @@
             "duration": 120
         },
         {
-            "matchText": "03:00 [International Friendly Matches] Argentina vs Honduras [M. Liga de Campeones ES]",
-            "matchstr": "Argentina vs Honduras",
-            "time": "03:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Argentina",
-            "team2": "Honduras",
-            "channel": "M. Liga de Campeones ES",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "M. Liga de Campeones",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "TyC Sports Argentina",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=85"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-argentina-honduras-2026-06-07-03-00",
-            "startTimestamp": 1780790400000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Canada Canadian Premier League] Supra du Quebec vs Pacific FC [TSN2 CA]",
-            "matchstr": "Supra du Quebec vs Pacific FC",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Supra du Quebec",
-            "team2": "Pacific FC",
-            "channel": "TSN2 CA",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-supra-du-quebec-pacific-fc-2026-06-07-02-00",
-            "startTimestamp": 1780786800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [WNBA] Basketball: Chicago Sky vs Toronto Tempo [TSN3 CA]",
             "matchstr": "Chicago Sky vs Toronto Tempo",
             "time": "22:00",
@@ -795,62 +600,6 @@
             ],
             "slug": "formula-1-motorsport-monaco-grand-prix-2026-06-07-17-00",
             "startTimestamp": 1780840800000,
-            "duration": 120
-        },
-        {
-            "matchText": "03:00 [IndyCar] Motorsport: Bommarito Automotive Group 500 [Fox Sports 1 US]",
-            "matchstr": "Bommarito Automotive Group 500",
-            "time": "03:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Bommarito Automotive Group 500",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-07-03-00",
-            "startTimestamp": 1780790400000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [IndyCar] Motorsport: Bommarito Automotive Group 500 [Fox Sports 1 US]",
-            "matchstr": "Bommarito Automotive Group 500",
-            "time": "04:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Bommarito Automotive Group 500",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-07",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-bommarito-automotive-group-500-2026-06-07-04-00",
-            "startTimestamp": 1780794000000,
             "duration": 120
         },
         {
