@@ -179,62 +179,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:15 [AFL] Australian Football: Melbourne Demons vs Collingwood Magpies [Fox Sports 2 US]",
-            "matchstr": "Melbourne Demons vs Collingwood Magpies",
-            "time": "08:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Melbourne Demons",
-            "team2": "Collingwood Magpies",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-08",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-melbourne-demons-collingwood-magpies-2026-06-08-08-15",
-            "startTimestamp": 1780895700000,
-            "duration": 180
-        },
-        {
-            "matchText": "09:05 [NRL] Rugby: Parramatta Eels vs Canterbury Bulldogs [Fox Soccer Plus US]",
-            "matchstr": "Parramatta Eels vs Canterbury Bulldogs",
-            "time": "09:05",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Parramatta Eels",
-            "team2": "Canterbury Bulldogs",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-08",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-parramatta-eels-canterbury-bulldogs-2026-06-08-09-05",
-            "startTimestamp": 1780898700000,
-            "duration": 120
-        },
-        {
             "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs New York Knicks [ABC US]",
             "matchstr": "San Antonio Spurs vs New York Knicks",
             "time": "03:30",
