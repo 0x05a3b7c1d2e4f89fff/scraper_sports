@@ -40,45 +40,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Sweden vs Italy [CBS Sports Network US]",
-            "matchstr": "Sweden vs Italy",
-            "time": "20:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Sweden",
-            "team2": "Italy",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                },
-                {
-                    "name": "SVT2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-sweden-italy-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [FIFA Women's World Cup Qualifying] France vs Republic of Ireland [CBS Sports Golazo Network US]",
             "matchstr": "France vs Republic of Ireland",
             "time": "22:00",
@@ -118,62 +79,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Slovenia vs Germany [ZDF DE]",
-            "matchstr": "Slovenia vs Germany",
-            "time": "19:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Slovenia",
-            "team2": "Germany",
-            "channel": "ZDF DE",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "ZDF",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=11"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-slovenia-germany-2026-06-09-19-00",
-            "startTimestamp": 1781020800000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Finland vs Portugal [Canal 11 PT]",
-            "matchstr": "Finland vs Portugal",
-            "time": "20:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Finland",
-            "team2": "Portugal",
-            "channel": "Canal 11 PT",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "Canal 11",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-finland-portugal-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Spain Segunda Division] Almer\u00eda vs CD Castellon [LALIGA TV Hypermotion ES]",
             "matchstr": "Almer\u00eda vs CD Castellon",
             "time": "22:00",
@@ -210,73 +115,6 @@
             ],
             "slug": "spain-segunda-division-football-almeria-cd-castellon-2026-06-09-22-00",
             "startTimestamp": 1781031600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Wales vs Czech Republic [CT Sport CZ]",
-            "matchstr": "Wales vs Czech Republic",
-            "time": "20:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Wales",
-            "team2": "Czech Republic",
-            "channel": "CT Sport CZ",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "CT Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=41"
-                    ],
-                    "number": 41,
-                    "language": "CZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=41"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-wales-czech-republic-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [International Friendly Matches] Armenia vs Moldova [Sport 2 CZ]",
-            "matchstr": "Armenia vs Moldova",
-            "time": "17:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Armenia",
-            "team2": "Moldova",
-            "channel": "Sport 2 CZ",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=42"
-                    ],
-                    "number": 42,
-                    "language": "CZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=42"
-                    ]
-                },
-                {
-                    "name": "Diema Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=48"
-                    ],
-                    "number": 48,
-                    "language": "BG",
-                    "links": [
-                        "https://s2.kora.st/channel?id=48"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-armenia-moldova-2026-06-09-17-30",
-            "startTimestamp": 1781015400000,
             "duration": 120
         },
         {
@@ -383,213 +221,6 @@
             ],
             "slug": "fifa-women-s-world-cup-qualifying-football-iceland-spain-2026-06-09-22-00",
             "startTimestamp": 1781031600000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:30 [International Friendly Matches] Kyrgyzstan vs Palestine [Palestine Sport SA]",
-            "matchstr": "Kyrgyzstan vs Palestine",
-            "time": "17:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Kyrgyzstan",
-            "team2": "Palestine",
-            "channel": "Palestine Sport SA",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "Palestine Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=65"
-                    ],
-                    "number": 65,
-                    "language": "SA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=65"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-kyrgyzstan-palestine-2026-06-09-17-30",
-            "startTimestamp": 1781015400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [International Friendly Matches] Hungary vs Kazakhstan [M4 Sports HU]",
-            "matchstr": "Hungary vs Kazakhstan",
-            "time": "20:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Hungary",
-            "team2": "Kazakhstan",
-            "channel": "M4 Sports HU",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "M4 Sports",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "HU",
-                    "links": [
-                        "https://s2.kora.st/channel?id=67"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-hungary-kazakhstan-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [FIFA Women's World Cup Qualifying] Norway vs Austria [TV 2 Direkte NO]",
-            "matchstr": "Norway vs Austria",
-            "time": "19:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Norway",
-            "team2": "Austria",
-            "channel": "TV 2 Direkte NO",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "TV 2 Direkte",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "NO",
-                    "links": [
-                        "https://s2.kora.st/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-norway-austria-2026-06-09-19-00",
-            "startTimestamp": 1781020800000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [FIFA Women's World Cup Qualifying] Serbia vs Denmark [DR1 DK]",
-            "matchstr": "Serbia vs Denmark",
-            "time": "20:00",
-            "league": "FIFA Women's World Cup Qualifying",
-            "sport": "Football",
-            "team1": "Serbia",
-            "team2": "Denmark",
-            "channel": "DR1 DK",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "DR1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "fifa-women-s-world-cup-qualifying-football-serbia-denmark-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Superettan] Oddevold vs Norrk\u00f6ping [TV4 Fotball SE]",
-            "matchstr": "Oddevold vs Norrk\u00f6ping",
-            "time": "20:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Oddevold",
-            "team2": "Norrk\u00f6ping",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=74"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-oddevold-norrkoping-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Sweden Superettan] \u00d6ster vs V\u00e4rnamo [TV4 Sportkanalen SE]",
-            "matchstr": "\u00d6ster vs V\u00e4rnamo",
-            "time": "20:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "\u00d6ster",
-            "team2": "V\u00e4rnamo",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-oster-varnamo-2026-06-09-20-00",
-            "startTimestamp": 1781024400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:30 [International Friendly Matches] Belarus vs Burkina Faso [Fox Soccer Plus US]",
-            "matchstr": "Belarus vs Burkina Faso",
-            "time": "19:30",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Belarus",
-            "team2": "Burkina Faso",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-belarus-burkina-faso-2026-06-09-19-30",
-            "startTimestamp": 1781022600000,
             "duration": 120
         },
         {
@@ -2163,6 +1794,818 @@
             "slug": "super-league-rugby-leeds-rhinos-toulouse-olympique-2026-06-12-20-00",
             "startTimestamp": 1781283600000,
             "duration": 120
+        },
+        {
+            "matchText": "04:00 [FIFA World Cup] USA vs Paraguay [BBC One GB]",
+            "matchstr": "USA vs Paraguay",
+            "time": "04:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "USA",
+            "team2": "Paraguay",
+            "channel": "BBC One GB",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "BBC One",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "SBS",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "AU",
+                    "links": [
+                        "https://s2.kora.st/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "ERT 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=23"
+                    ],
+                    "number": 23,
+                    "language": "GR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=23"
+                    ]
+                },
+                {
+                    "name": "Azteca 7",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "MX",
+                    "links": [
+                        "https://s2.kora.st/channel?id=27"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=51"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "YLE TV2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=72"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "TRT 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=91"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-usa-paraguay-2026-06-13-04-00",
+            "startTimestamp": 1781312400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [FIFA World Cup] Qatar vs Switzerland [ITV 1 GB]",
+            "matchstr": "Qatar vs Switzerland",
+            "time": "22:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Qatar",
+            "team2": "Switzerland",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "SBS",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=9"
+                    ],
+                    "number": 9,
+                    "language": "AU",
+                    "links": [
+                        "https://s2.kora.st/channel?id=9"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "ERT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=24"
+                    ],
+                    "number": 24,
+                    "language": "GR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=24"
+                    ]
+                },
+                {
+                    "name": "Azteca 7",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=27"
+                    ],
+                    "number": 27,
+                    "language": "MX",
+                    "links": [
+                        "https://s2.kora.st/channel?id=27"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "TRT 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=91"
+                    ],
+                    "number": 91,
+                    "language": "TR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=91"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-qatar-switzerland-2026-06-13-22-00",
+            "startTimestamp": 1781377200000,
+            "duration": 120
+        },
+        {
+            "matchText": "13:30 [Formula 1] Motorsport: Spanish Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Spanish Grand Prix",
+            "time": "13:30",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Spanish Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-spanish-grand-prix-2026-06-13-13-30",
+            "startTimestamp": 1781346600000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Formula 1] Motorsport: Spanish Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Spanish Grand Prix",
+            "time": "17:00",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Spanish Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-spanish-grand-prix-2026-06-13-17-00",
+            "startTimestamp": 1781359200000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [Champions League] Handball: SC Magdeburg vs Fuchse Berlin [DF1 DE]",
+            "matchstr": "SC Magdeburg vs Fuchse Berlin",
+            "time": "16:00",
+            "league": "Champions League",
+            "sport": "Handball",
+            "team1": "SC Magdeburg",
+            "team2": "Fuchse Berlin",
+            "channel": "DF1 DE",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "DF1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=12"
+                    ]
+                }
+            ],
+            "slug": "champions-league-handball-sc-magdeburg-fuchse-berlin-2026-06-13-16-00",
+            "startTimestamp": 1781355600000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Champions League] Handball: Aalborg vs Barcelona [DF1 DE]",
+            "matchstr": "Aalborg vs Barcelona",
+            "time": "19:00",
+            "league": "Champions League",
+            "sport": "Handball",
+            "team1": "Aalborg",
+            "team2": "Barcelona",
+            "channel": "DF1 DE",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "DF1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=12"
+                    ]
+                }
+            ],
+            "slug": "champions-league-handball-aalborg-barcelona-2026-06-13-19-00",
+            "startTimestamp": 1781366400000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [CFL] Canadian Football: Toronto Argonauts vs Montreal Alouettes [TSN3 CA]",
+            "matchstr": "Toronto Argonauts vs Montreal Alouettes",
+            "time": "02:00",
+            "league": "CFL",
+            "sport": "Canadian Football",
+            "team1": "Toronto Argonauts",
+            "team2": "Montreal Alouettes",
+            "channel": "TSN3 CA",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "TSN3",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=33"
+                    ],
+                    "number": 33,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=33"
+                    ]
+                }
+            ],
+            "slug": "cfl-canadian-football-toronto-argonauts-montreal-alouettes-2026-06-13-02-00",
+            "startTimestamp": 1781305200000,
+            "duration": 180
+        },
+        {
+            "matchText": "21:00 [PFL] MMA: Wasi Adeshina vs Nacho Campos [RMC Sport 1 FR]",
+            "matchstr": "Wasi Adeshina vs Nacho Campos",
+            "time": "21:00",
+            "league": "PFL",
+            "sport": "MMA",
+            "team1": "Wasi Adeshina",
+            "team2": "Nacho Campos",
+            "channel": "RMC Sport 1 FR",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "RMC Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=50"
+                    ]
+                }
+            ],
+            "slug": "pfl-mma-wasi-adeshina-nacho-campos-2026-06-13-21-00",
+            "startTimestamp": 1781373600000,
+            "duration": 180
+        },
+        {
+            "matchText": "15:00 [Finland Veikkausliiga] Inter Turku vs Oulu [Ruutu+ FI]",
+            "matchstr": "Inter Turku vs Oulu",
+            "time": "15:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Inter Turku",
+            "team2": "Oulu",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-inter-turku-oulu-2026-06-13-15-00",
+            "startTimestamp": 1781352000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Finland Veikkausliiga] VPS vs KuPS [Ruutu+ FI]",
+            "matchstr": "VPS vs KuPS",
+            "time": "17:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "VPS",
+            "team2": "KuPS",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-vps-kups-2026-06-13-17-00",
+            "startTimestamp": 1781359200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Finland Veikkausliiga] Mariehamn vs Gnistan [Ruutu+ FI]",
+            "matchstr": "Mariehamn vs Gnistan",
+            "time": "19:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Mariehamn",
+            "team2": "Gnistan",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-mariehamn-gnistan-2026-06-13-19-00",
+            "startTimestamp": 1781366400000,
+            "duration": 120
+        },
+        {
+            "matchText": "15:00 [Finland Veikkausliiga] Ilves vs TPS [Ruutu+ FI]",
+            "matchstr": "Ilves vs TPS",
+            "time": "15:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Ilves",
+            "team2": "TPS",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-ilves-tps-2026-06-13-15-00",
+            "startTimestamp": 1781352000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [Finland Veikkausliiga] Jaro vs HJK [Ruutu+ FI]",
+            "matchstr": "Jaro vs HJK",
+            "time": "17:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Jaro",
+            "team2": "HJK",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-jaro-hjk-2026-06-13-17-00",
+            "startTimestamp": 1781359200000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Finland Veikkausliiga] Lahti vs SJK [Ruutu+ FI]",
+            "matchstr": "Lahti vs SJK",
+            "time": "19:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Lahti",
+            "team2": "SJK",
+            "channel": "Ruutu+ FI",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Ruutu+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "finland-veikkausliiga-football-lahti-sjk-2026-06-13-19-00",
+            "startTimestamp": 1781366400000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:35 [NRL] Rugby: Canberra Raiders vs Parramatta Eels [Fox Sports 2 US]",
+            "matchstr": "Canberra Raiders vs Parramatta Eels",
+            "time": "12:35",
+            "league": "NRL",
+            "sport": "Rugby",
+            "team1": "Canberra Raiders",
+            "team2": "Parramatta Eels",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "nrl-rugby-canberra-raiders-parramatta-eels-2026-06-13-12-35",
+            "startTimestamp": 1781343300000,
+            "duration": 120
+        },
+        {
+            "matchText": "06:15 [AFL] Australian Football: Essendon Bombers vs Melbourne Demons [Fox Soccer Plus US]",
+            "matchstr": "Essendon Bombers vs Melbourne Demons",
+            "time": "06:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Essendon Bombers",
+            "team2": "Melbourne Demons",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-essendon-bombers-melbourne-demons-2026-06-13-06-15",
+            "startTimestamp": 1781320500000,
+            "duration": 180
+        },
+        {
+            "matchText": "09:15 [AFL] Australian Football: West Coast Eagles vs North Melbourne Kangaroos [Fox Soccer Plus US]",
+            "matchstr": "West Coast Eagles vs North Melbourne Kangaroos",
+            "time": "09:15",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "West Coast Eagles",
+            "team2": "North Melbourne Kangaroos",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-west-coast-eagles-north-melbourne-kangaroos-2026-06-13-09-15",
+            "startTimestamp": 1781331300000,
+            "duration": 180
+        },
+        {
+            "matchText": "12:35 [AFL] Australian Football: Sydney Swans vs Port Adelaide Power [Fox Soccer Plus US]",
+            "matchstr": "Sydney Swans vs Port Adelaide Power",
+            "time": "12:35",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Sydney Swans",
+            "team2": "Port Adelaide Power",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-13",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-sydney-swans-port-adelaide-power-2026-06-13-12-35",
+            "startTimestamp": 1781343300000,
+            "duration": 180
         }
     ]
 }
