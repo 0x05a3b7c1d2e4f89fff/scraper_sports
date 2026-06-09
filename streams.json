@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs New York Knicks [ABC US]",
-            "matchstr": "San Antonio Spurs vs New York Knicks",
-            "time": "03:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "San Antonio Spurs",
-            "team2": "New York Knicks",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-09-03-30",
-            "startTimestamp": 1780965000000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [FIFA Women's World Cup Qualifying] England vs Ukraine [ITV 1 GB]",
             "matchstr": "England vs Ukraine",
             "time": "22:00",
@@ -168,34 +118,6 @@
             "duration": 120
         },
         {
-            "matchText": "05:00 [WNBA] Basketball: Seattle Storm vs Las Vegas Aces [USA Network US]",
-            "matchstr": "Seattle Storm vs Las Vegas Aces",
-            "time": "05:00",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Seattle Storm",
-            "team2": "Las Vegas Aces",
-            "channel": "USA Network US",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "USA Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=10"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-seattle-storm-las-vegas-aces-2026-06-09-05-00",
-            "startTimestamp": 1780970400000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [FIFA Women's World Cup Qualifying] Slovenia vs Germany [ZDF DE]",
             "matchstr": "Slovenia vs Germany",
             "time": "19:00",
@@ -221,56 +143,6 @@
             ],
             "slug": "fifa-women-s-world-cup-qualifying-football-slovenia-germany-2026-06-09-19-00",
             "startTimestamp": 1781020800000,
-            "duration": 120
-        },
-        {
-            "matchText": "05:00 [International Friendly Matches] Peru vs Spain [Sport TV1 PT]",
-            "matchstr": "Peru vs Spain",
-            "time": "05:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Peru",
-            "team2": "Spain",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "TVE La 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-peru-spain-2026-06-09-05-00",
-            "startTimestamp": 1780970400000,
             "duration": 120
         },
         {

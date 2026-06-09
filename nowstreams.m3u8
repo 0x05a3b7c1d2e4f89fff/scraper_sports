@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-09-03-30" group-title="NBA",San Antonio Spurs vs New York Knicks (ABC)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-09-03-30" group-title="NBA",San Antonio Spurs vs New York Knicks (ESPN)
-https://s2.kora.st/channel?id=2
-#EXTINF:-1 tvg-id="nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-09-03-30" group-title="NBA",San Antonio Spurs vs New York Knicks (ESPN Deportes)
-https://s2.kora.st/channel?id=86
 #EXTINF:-1 tvg-id="fifa-women-s-world-cup-qualifying-football-england-ukraine-2026-06-09-22-00" group-title="FIFA Women's World Cup Qualifying",England vs Ukraine (ITV 1)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-women-s-world-cup-qualifying-football-england-ukraine-2026-06-09-22-00" group-title="FIFA Women's World Cup Qualifying",England vs Ukraine (CBS Sports Network)
@@ -17,16 +11,8 @@ https://s2.kora.st/channel?id=72
 https://s2.kora.st/channel?id=9
 #EXTINF:-1 tvg-id="fifa-women-s-world-cup-qualifying-football-france-republic-of-ireland-2026-06-09-22-00" group-title="FIFA Women's World Cup Qualifying",France vs Republic of Ireland (France 4)
 https://s2.kora.st/channel?id=54
-#EXTINF:-1 tvg-id="wnba-basketball-seattle-storm-las-vegas-aces-2026-06-09-05-00" group-title="WNBA",Seattle Storm vs Las Vegas Aces (USA Network)
-https://s2.kora.st/channel?id=10
 #EXTINF:-1 tvg-id="fifa-women-s-world-cup-qualifying-football-slovenia-germany-2026-06-09-19-00" group-title="FIFA Women's World Cup Qualifying",Slovenia vs Germany (ZDF)
 https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="international-friendly-matches-football-peru-spain-2026-06-09-05-00" group-title="International Friendly Matches",Peru vs Spain (Sport TV1)
-https://s2.kora.st/channel?id=21
-#EXTINF:-1 tvg-id="international-friendly-matches-football-peru-spain-2026-06-09-05-00" group-title="International Friendly Matches",Peru vs Spain (TVE La 1)
-https://s2.kora.st/channel?id=29
-#EXTINF:-1 tvg-id="international-friendly-matches-football-peru-spain-2026-06-09-05-00" group-title="International Friendly Matches",Peru vs Spain (Fox Sports 2)
-https://s2.kora.st/channel?id=82
 #EXTINF:-1 tvg-id="fifa-women-s-world-cup-qualifying-football-finland-portugal-2026-06-09-20-00" group-title="FIFA Women's World Cup Qualifying",Finland vs Portugal (Canal 11)
 https://s2.kora.st/channel?id=21
 #EXTINF:-1 tvg-id="spain-segunda-division-football-almeria-cd-castellon-2026-06-09-22-00" group-title="Spain Segunda Division",Almería vs CD Castellon (LALIGA TV Hypermotion)
