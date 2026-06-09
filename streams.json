@@ -414,34 +414,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [International Friendly Matches] Azerbaijan U21 vs Kyrgyzstan U21 [CBC Sport AZ]",
-            "matchstr": "Azerbaijan U21 vs Kyrgyzstan U21",
-            "time": "17:00",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Azerbaijan U21",
-            "team2": "Kyrgyzstan U21",
-            "channel": "CBC Sport AZ",
-            "important": false,
-            "matchDate": "2026-06-09",
-            "channels": [
-                {
-                    "name": "CBC Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "AZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-azerbaijan-u21-kyrgyzstan-u21-2026-06-09-17-00",
-            "startTimestamp": 1781013600000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [International Friendly Matches] Hungary vs Kazakhstan [M4 Sports HU]",
             "matchstr": "Hungary vs Kazakhstan",
             "time": "20:00",
@@ -1301,12 +1273,12 @@
                 {
                     "name": "DAZN Mundial",
                     "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
+                        "https://playfa.st/ch.php?id=100"
                     ],
-                    "number": 29,
+                    "number": 100,
                     "language": "ES",
                     "links": [
-                        "https://s2.kora.st/channel?id=29"
+                        "https://s2.kora.st/channel?id=100"
                     ]
                 }
             ],
