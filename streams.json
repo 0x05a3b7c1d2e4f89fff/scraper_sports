@@ -1,9 +1,9 @@
 {
     "matches": [
         {
-            "matchText": "23:00 [International Friendly Matches] England vs Costa Rica [ITV 1 GB]",
+            "matchText": "23:59 [International Friendly Matches] England vs Costa Rica [ITV 1 GB]",
             "matchstr": "England vs Costa Rica",
-            "time": "23:00",
+            "time": "23:59",
             "league": "International Friendly Matches",
             "sport": "Football",
             "team1": "England",
@@ -46,147 +46,8 @@
                     ]
                 }
             ],
-            "slug": "international-friendly-matches-football-england-costa-rica-2026-06-10-23-00",
-            "startTimestamp": 1781121600000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:45 [International Friendly Matches] Portugal vs Nigeria [Sport TV1 PT]",
-            "matchstr": "Portugal vs Nigeria",
-            "time": "22:45",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "Portugal",
-            "team2": "Nigeria",
-            "channel": "Sport TV1 PT",
-            "important": false,
-            "matchDate": "2026-06-10",
-            "channels": [
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "Nova Sports Prime",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=25"
-                    ],
-                    "number": 25,
-                    "language": "GR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=25"
-                    ]
-                },
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=80"
-                    ]
-                },
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-portugal-nigeria-2026-06-10-22-45",
-            "startTimestamp": 1781120700000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [Spain Segunda Division] M\u00e1laga vs Las Palmas [LALIGA TV Hypermotion ES]",
-            "matchstr": "M\u00e1laga vs Las Palmas",
-            "time": "22:00",
-            "league": "Spain Segunda Division",
-            "sport": "Football",
-            "team1": "M\u00e1laga",
-            "team2": "Las Palmas",
-            "channel": "LALIGA TV Hypermotion ES",
-            "important": false,
-            "matchDate": "2026-06-10",
-            "channels": [
-                {
-                    "name": "LALIGA TV Hypermotion",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=26"
-                    ],
-                    "number": 26,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=26"
-                    ]
-                },
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "spain-segunda-division-football-malaga-las-palmas-2026-06-10-22-00",
-            "startTimestamp": 1781118000000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:30 [Diamond League] Athletics: Oslo Diamond League [SVT1 SE]",
-            "matchstr": "Oslo Diamond League",
-            "time": "21:30",
-            "league": "Diamond League",
-            "sport": "Athletics",
-            "team1": "Oslo Diamond League",
-            "team2": null,
-            "channel": "SVT1 SE",
-            "important": false,
-            "matchDate": "2026-06-10",
-            "channels": [
-                {
-                    "name": "SVT1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "diamond-league-athletics-oslo-diamond-league-2026-06-10-21-30",
-            "startTimestamp": 1781116200000,
+            "slug": "international-friendly-matches-football-england-costa-rica-2026-06-10-23-59",
+            "startTimestamp": 1781125140000,
             "duration": 120
         },
         {
