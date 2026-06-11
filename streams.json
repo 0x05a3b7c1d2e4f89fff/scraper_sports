@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:59 [International Friendly Matches] England vs Costa Rica [ITV 1 GB]",
-            "matchstr": "England vs Costa Rica",
-            "time": "23:59",
-            "league": "International Friendly Matches",
-            "sport": "Football",
-            "team1": "England",
-            "team2": "Costa Rica",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2026-06-10",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "V Sport Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "international-friendly-matches-football-england-costa-rica-2026-06-10-23-59",
-            "startTimestamp": 1781125140000,
-            "duration": 120
-        },
-        {
             "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs New York Knicks [ABC US]",
             "matchstr": "San Antonio Spurs vs New York Knicks",
             "time": "03:30",
