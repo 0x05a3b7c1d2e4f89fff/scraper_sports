@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:30 [NBA] Basketball: San Antonio Spurs vs New York Knicks [ABC US]",
-            "matchstr": "San Antonio Spurs vs New York Knicks",
-            "time": "03:30",
-            "league": "NBA",
-            "sport": "Basketball",
-            "team1": "San Antonio Spurs",
-            "team2": "New York Knicks",
-            "channel": "ABC US",
-            "important": false,
-            "matchDate": "2026-06-11",
-            "channels": [
-                {
-                    "name": "ABC",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "ESPN Deportes",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=86"
-                    ],
-                    "number": 86,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=86"
-                    ]
-                }
-            ],
-            "slug": "nba-basketball-san-antonio-spurs-new-york-knicks-2026-06-11-03-30",
-            "startTimestamp": 1781137800000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [FIFA World Cup] Mexico vs South Africa [ITV 1 GB]",
             "matchstr": "Mexico vs South Africa",
             "time": "22:00",
@@ -294,34 +255,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [Canada Canadian Premier League] Forge vs HFX Wanderers [Fox Sports 2 US]",
-            "matchstr": "Forge vs HFX Wanderers",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Forge",
-            "team2": "HFX Wanderers",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-11",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-forge-hfx-wanderers-2026-06-11-02-00",
-            "startTimestamp": 1781132400000,
-            "duration": 120
-        },
-        {
             "matchText": "12:30 [AFL] Australian Football: Adelaide Crows vs Western Bulldogs [Fox Sports 2 US]",
             "matchstr": "Adelaide Crows vs Western Bulldogs",
             "time": "12:30",
@@ -348,34 +281,6 @@
             "slug": "afl-australian-football-adelaide-crows-western-bulldogs-2026-06-11-12-30",
             "startTimestamp": 1781170200000,
             "duration": 180
-        },
-        {
-            "matchText": "02:30 [Canada Canadian Premier League] Inter Toronto vs Cavalry [Fox Soccer Plus US]",
-            "matchstr": "Inter Toronto vs Cavalry",
-            "time": "02:30",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Inter Toronto",
-            "team2": "Cavalry",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-11",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-inter-toronto-cavalry-2026-06-11-02-30",
-            "startTimestamp": 1781134200000,
-            "duration": 120
         },
         {
             "matchText": "12:50 [NRL] Rugby: Brisbane Broncos vs South Sydney Rabbitohs [Fox Soccer Plus US]",
