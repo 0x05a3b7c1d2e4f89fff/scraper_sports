@@ -255,62 +255,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:30 [AFL] Australian Football: Adelaide Crows vs Western Bulldogs [Fox Sports 2 US]",
-            "matchstr": "Adelaide Crows vs Western Bulldogs",
-            "time": "12:30",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Adelaide Crows",
-            "team2": "Western Bulldogs",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-11",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-adelaide-crows-western-bulldogs-2026-06-11-12-30",
-            "startTimestamp": 1781170200000,
-            "duration": 180
-        },
-        {
-            "matchText": "12:50 [NRL] Rugby: Brisbane Broncos vs South Sydney Rabbitohs [Fox Soccer Plus US]",
-            "matchstr": "Brisbane Broncos vs South Sydney Rabbitohs",
-            "time": "12:50",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Brisbane Broncos",
-            "team2": "South Sydney Rabbitohs",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-11",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-brisbane-broncos-south-sydney-rabbitohs-2026-06-11-12-50",
-            "startTimestamp": 1781171400000,
-            "duration": 120
-        },
-        {
             "matchText": "05:00 [FIFA World Cup] Korea Republic vs Czech Republic [ITV 1 GB]",
             "matchstr": "Korea Republic vs Czech Republic",
             "time": "05:00",
