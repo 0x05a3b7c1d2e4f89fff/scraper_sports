@@ -367,62 +367,6 @@
             "duration": 180
         },
         {
-            "matchText": "12:40 [AFL] Australian Football: Gold Coast Suns vs Geelong Cats [Fox Sports 2 US]",
-            "matchstr": "Gold Coast Suns vs Geelong Cats",
-            "time": "12:40",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Gold Coast Suns",
-            "team2": "Geelong Cats",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-12",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-gold-coast-suns-geelong-cats-2026-06-12-12-40",
-            "startTimestamp": 1781257200000,
-            "duration": 180
-        },
-        {
-            "matchText": "13:00 [NRL] Rugby: Sydney Roosters vs Dolphins [Fox Soccer Plus US]",
-            "matchstr": "Sydney Roosters vs Dolphins",
-            "time": "13:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Sydney Roosters",
-            "team2": "Dolphins",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-12",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-sydney-roosters-dolphins-2026-06-12-13-00",
-            "startTimestamp": 1781258400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Super League] Rugby: Leeds Rhinos vs Toulouse Olympique [Fox Soccer Plus US]",
             "matchstr": "Leeds Rhinos vs Toulouse Olympique",
             "time": "20:00",
