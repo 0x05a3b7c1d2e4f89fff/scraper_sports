@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [Hexagone] MMA: Hexagone MMA: 45 Lyon [RMC Sport 1 FR]",
-            "matchstr": "Hexagone MMA: 45 Lyon",
-            "time": "22:00",
-            "league": "Hexagone",
-            "sport": "MMA",
-            "team1": "Hexagone MMA: 45 Lyon",
-            "team2": null,
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-06-12",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "hexagone-mma-hexagone-mma-45-lyon-2026-06-12-22-00",
-            "startTimestamp": 1781290800000,
-            "duration": 180
-        },
-        {
             "matchText": "04:00 [FIFA World Cup] USA vs Paraguay [BBC One GB]",
             "matchstr": "USA vs Paraguay",
             "time": "04:00",
