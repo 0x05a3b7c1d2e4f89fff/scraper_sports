@@ -183,56 +183,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Formula 1] Motorsport: Spanish Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Spanish Grand Prix",
-            "time": "18:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Spanish Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-12",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-spanish-grand-prix-2026-06-12-18-00",
-            "startTimestamp": 1781276400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [PDC] Darts: PDC World Cup of Darts [DAZN2 DE]",
             "matchstr": "PDC World Cup of Darts",
             "time": "20:00",
@@ -287,34 +237,6 @@
             "slug": "hexagone-mma-hexagone-mma-45-lyon-2026-06-12-22-00",
             "startTimestamp": 1781290800000,
             "duration": 180
-        },
-        {
-            "matchText": "20:00 [Super League] Rugby: Leeds Rhinos vs Toulouse Olympique [Fox Soccer Plus US]",
-            "matchstr": "Leeds Rhinos vs Toulouse Olympique",
-            "time": "20:00",
-            "league": "Super League",
-            "sport": "Rugby",
-            "team1": "Leeds Rhinos",
-            "team2": "Toulouse Olympique",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-12",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "super-league-rugby-leeds-rhinos-toulouse-olympique-2026-06-12-20-00",
-            "startTimestamp": 1781283600000,
-            "duration": 120
         },
         {
             "matchText": "04:00 [FIFA World Cup] USA vs Paraguay [BBC One GB]",
