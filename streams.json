@@ -161,34 +161,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Champions League] Handball: Aalborg vs Barcelona [DF1 DE]",
-            "matchstr": "Aalborg vs Barcelona",
-            "time": "19:00",
-            "league": "Champions League",
-            "sport": "Handball",
-            "team1": "Aalborg",
-            "team2": "Barcelona",
-            "channel": "DF1 DE",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "DF1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "champions-league-handball-aalborg-barcelona-2026-06-13-19-00",
-            "startTimestamp": 1781366400000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [PFL] MMA: Wasi Adeshina vs Nacho Campos [RMC Sport 1 FR]",
             "matchstr": "Wasi Adeshina vs Nacho Campos",
             "time": "21:00",
@@ -215,62 +187,6 @@
             "slug": "pfl-mma-wasi-adeshina-nacho-campos-2026-06-13-21-00",
             "startTimestamp": 1781373600000,
             "duration": 180
-        },
-        {
-            "matchText": "19:00 [Finland Veikkausliiga] Mariehamn vs Gnistan [Ruutu+ FI]",
-            "matchstr": "Mariehamn vs Gnistan",
-            "time": "19:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Mariehamn",
-            "team2": "Gnistan",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-mariehamn-gnistan-2026-06-13-19-00",
-            "startTimestamp": 1781366400000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Finland Veikkausliiga] Lahti vs SJK [Ruutu+ FI]",
-            "matchstr": "Lahti vs SJK",
-            "time": "19:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Lahti",
-            "team2": "SJK",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-lahti-sjk-2026-06-13-19-00",
-            "startTimestamp": 1781366400000,
-            "duration": 120
         },
         {
             "matchText": "01:00 [FIFA World Cup] Brazil vs Morocco [BBC One GB]",
