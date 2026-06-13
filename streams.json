@@ -541,34 +541,6 @@
             "duration": 120
         },
         {
-            "matchText": "06:15 [AFL] Australian Football: Essendon Bombers vs Melbourne Demons [Fox Soccer Plus US]",
-            "matchstr": "Essendon Bombers vs Melbourne Demons",
-            "time": "06:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Essendon Bombers",
-            "team2": "Melbourne Demons",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-essendon-bombers-melbourne-demons-2026-06-13-06-15",
-            "startTimestamp": 1781320500000,
-            "duration": 180
-        },
-        {
             "matchText": "09:15 [AFL] Australian Football: West Coast Eagles vs North Melbourne Kangaroos [Fox Soccer Plus US]",
             "matchstr": "West Coast Eagles vs North Melbourne Kangaroos",
             "time": "09:15",
