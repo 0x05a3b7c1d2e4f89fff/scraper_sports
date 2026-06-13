@@ -161,84 +161,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Formula 1] Motorsport: Spanish Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Spanish Grand Prix",
-            "time": "17:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Spanish Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-spanish-grand-prix-2026-06-13-17-00",
-            "startTimestamp": 1781359200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Champions League] Handball: SC Magdeburg vs Fuchse Berlin [DF1 DE]",
-            "matchstr": "SC Magdeburg vs Fuchse Berlin",
-            "time": "16:00",
-            "league": "Champions League",
-            "sport": "Handball",
-            "team1": "SC Magdeburg",
-            "team2": "Fuchse Berlin",
-            "channel": "DF1 DE",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "DF1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "champions-league-handball-sc-magdeburg-fuchse-berlin-2026-06-13-16-00",
-            "startTimestamp": 1781355600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Champions League] Handball: Aalborg vs Barcelona [DF1 DE]",
             "matchstr": "Aalborg vs Barcelona",
             "time": "19:00",
@@ -295,34 +217,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:00 [Finland Veikkausliiga] VPS vs KuPS [Ruutu+ FI]",
-            "matchstr": "VPS vs KuPS",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "VPS",
-            "team2": "KuPS",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-vps-kups-2026-06-13-17-00",
-            "startTimestamp": 1781359200000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Finland Veikkausliiga] Mariehamn vs Gnistan [Ruutu+ FI]",
             "matchstr": "Mariehamn vs Gnistan",
             "time": "19:00",
@@ -348,34 +242,6 @@
             ],
             "slug": "finland-veikkausliiga-football-mariehamn-gnistan-2026-06-13-19-00",
             "startTimestamp": 1781366400000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] Jaro vs HJK [Ruutu+ FI]",
-            "matchstr": "Jaro vs HJK",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Jaro",
-            "team2": "HJK",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-13",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-jaro-hjk-2026-06-13-17-00",
-            "startTimestamp": 1781359200000,
             "duration": 120
         },
         {
