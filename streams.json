@@ -250,34 +250,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [PDC] Darts: PDC World Cup of Darts [TV3 Max DK]",
-            "matchstr": "PDC World Cup of Darts",
-            "time": "20:00",
-            "league": "PDC",
-            "sport": "Darts",
-            "team1": "PDC World Cup of Darts",
-            "team2": null,
-            "channel": "TV3 Max DK",
-            "important": false,
-            "matchDate": "2026-06-14",
-            "channels": [
-                {
-                    "name": "TV3 Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "pdc-darts-pdc-world-cup-of-darts-2026-06-14-20-00",
-            "startTimestamp": 1781456400000,
-            "duration": 180
-        },
-        {
             "matchText": "02:00 [FIFA World Cup] C\u00f4te d'Ivoire vs Ecuador [BBC One GB]",
             "matchstr": "C\u00f4te d'Ivoire vs Ecuador",
             "time": "02:00",
