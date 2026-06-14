@@ -421,34 +421,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [France Top 14] Rugby: Provence Rugby vs Usap Perpignan [Canal+ FR]",
-            "matchstr": "Provence Rugby vs Usap Perpignan",
-            "time": "19:00",
-            "league": "France Top 14",
-            "sport": "Rugby",
-            "team1": "Provence Rugby",
-            "team2": "Usap Perpignan",
-            "channel": "Canal+ FR",
-            "important": false,
-            "matchDate": "2026-06-14",
-            "channels": [
-                {
-                    "name": "Canal+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "france-top-14-rugby-provence-rugby-usap-perpignan-2026-06-14-19-00",
-            "startTimestamp": 1781452800000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [PDC] Darts: PDC World Cup of Darts [TV3 Max DK]",
             "matchstr": "PDC World Cup of Darts",
             "time": "20:00",
