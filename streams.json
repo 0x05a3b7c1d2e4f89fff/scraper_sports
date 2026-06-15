@@ -1036,62 +1036,6 @@
             "duration": 120
         },
         {
-            "matchText": "01:00 [Canada Canadian Premier League] Vancouver FC vs Pacific FC [Fox Sports 2 US]",
-            "matchstr": "Vancouver FC vs Pacific FC",
-            "time": "01:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Vancouver FC",
-            "team2": "Pacific FC",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-15",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-vancouver-fc-pacific-fc-2026-06-15-01-00",
-            "startTimestamp": 1781474400000,
-            "duration": 120
-        },
-        {
-            "matchText": "00:30 [Chile Primera Division] Universidad Cat\u00f3lica vs Univ. Concepci\u00f3n [TNT SPORTS Premium ES]",
-            "matchstr": "Universidad Cat\u00f3lica vs Univ. Concepci\u00f3n",
-            "time": "00:30",
-            "league": "Chile Primera Division",
-            "sport": "Football",
-            "team1": "Universidad Cat\u00f3lica",
-            "team2": "Univ. Concepci\u00f3n",
-            "channel": "TNT SPORTS Premium ES",
-            "important": false,
-            "matchDate": "2026-06-15",
-            "channels": [
-                {
-                    "name": "TNT SPORTS Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=85"
-                    ],
-                    "number": 85,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=85"
-                    ]
-                }
-            ],
-            "slug": "chile-primera-division-football-universidad-catolica-univ-concepcion-2026-06-15-00-30",
-            "startTimestamp": 1781472600000,
-            "duration": 120
-        },
-        {
             "matchText": "01:00 [FIFA World Cup] Saudi Arabia vs Uruguay [ITV 1 GB]",
             "matchstr": "Saudi Arabia vs Uruguay",
             "time": "01:00",
