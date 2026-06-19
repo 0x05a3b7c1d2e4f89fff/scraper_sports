@@ -106,56 +106,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [MotoGP] Motorsport: Czech Republic Grand Prix [Tnt Sports 2 GB]",
-            "matchstr": "Czech Republic Grand Prix",
-            "time": "10:00",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Czech Republic Grand Prix",
-            "team2": null,
-            "channel": "Tnt Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-19",
-            "channels": [
-                {
-                    "name": "Tnt Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport MIX",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-czech-republic-grand-prix-2026-06-19-10-00",
-            "startTimestamp": 1781852400000,
-            "duration": 400
-        },
-        {
             "matchText": "22:05 [France TOP 14] Rugby: Toulouse vs Racing 92 [Premier Sports 2 GB]",
             "matchstr": "Toulouse vs Racing 92",
             "time": "22:05",
