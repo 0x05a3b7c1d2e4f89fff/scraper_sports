@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:00 [IndyCar] Motorsport: Road America Grand Prix [Fox Sports 2 US]",
-            "matchstr": "Road America Grand Prix",
-            "time": "23:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Road America Grand Prix",
-            "team2": null,
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-19",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-road-america-grand-prix-2026-06-19-23-00",
-            "startTimestamp": 1781899200000,
-            "duration": 120
-        },
-        {
             "matchText": "01:00 [FIFA World Cup] Scotland vs Morocco [ITV 1 GB]",
             "matchstr": "Scotland vs Morocco",
             "time": "01:00",
