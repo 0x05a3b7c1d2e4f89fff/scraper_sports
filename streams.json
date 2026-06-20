@@ -484,34 +484,6 @@
             "duration": 180
         },
         {
-            "matchText": "08:50 [Australia Supercars Championship] Motorsport: Darwin Triple Crown [Sportdigital1+ DE]",
-            "matchstr": "Darwin Triple Crown",
-            "time": "08:50",
-            "league": "Australia Supercars Championship",
-            "sport": "Motorsport",
-            "team1": "Darwin Triple Crown",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "australia-supercars-championship-motorsport-darwin-triple-crown-2026-06-20-08-50",
-            "startTimestamp": 1781934600000,
-            "duration": 120
-        },
-        {
             "matchText": "20:10 [MLB] Baseball: Detroit Tigers VS Chicago White Sox [Sportdigital1+ DE]",
             "matchstr": "Detroit Tigers VS Chicago White Sox",
             "time": "20:10",
