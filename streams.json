@@ -378,34 +378,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:25 [Oktagon] MMA: Oktagon MMA [Sky Sport Mix DE]",
-            "matchstr": "Oktagon MMA",
-            "time": "18:25",
-            "league": "Oktagon",
-            "sport": "MMA",
-            "team1": "Oktagon MMA",
-            "team2": null,
-            "channel": "Sky Sport Mix DE",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Sky Sport Mix",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                }
-            ],
-            "slug": "oktagon-mma-oktagon-mma-2026-06-20-18-25",
-            "startTimestamp": 1781969100000,
-            "duration": 180
-        },
-        {
             "matchText": "20:10 [MLB] Baseball: Detroit Tigers VS Chicago White Sox [Sportdigital1+ DE]",
             "matchstr": "Detroit Tigers VS Chicago White Sox",
             "time": "20:10",
