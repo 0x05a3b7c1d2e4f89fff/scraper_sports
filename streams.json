@@ -167,34 +167,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Fighting] Boxing: Jahfaro Gezius vs Loukas Tryfonos [DAZN US]",
-            "matchstr": "Jahfaro Gezius vs Loukas Tryfonos",
-            "time": "20:00",
-            "league": "Fighting",
-            "sport": "Boxing",
-            "team1": "Jahfaro Gezius",
-            "team2": "Loukas Tryfonos",
-            "channel": "DAZN US",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=5"
-                    ]
-                }
-            ],
-            "slug": "fighting-boxing-jahfaro-gezius-loukas-tryfonos-2026-06-20-20-00",
-            "startTimestamp": 1781974800000,
-            "duration": 180
-        },
-        {
             "matchText": "22:00 [WNBA] Basketball: Phoenix Mercury W vs Seattle Storm W [ABC US]",
             "matchstr": "Phoenix Mercury W vs Seattle Storm W",
             "time": "22:00",
@@ -223,34 +195,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:10 [MLB] Baseball: Detroit Tigers VS Chicago White Sox [Sportdigital1+ DE]",
-            "matchstr": "Detroit Tigers VS Chicago White Sox",
-            "time": "20:10",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Detroit Tigers VS Chicago White Sox",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-detroit-tigers-vs-chicago-white-sox-2026-06-20-20-10",
-            "startTimestamp": 1781975400000,
-            "duration": 180
-        },
-        {
             "matchText": "23:10 [MLB] Baseball: Atlanta Braves VS Milwaukee Brewers [Sportdigital1+ DE]",
             "matchstr": "Atlanta Braves VS Milwaukee Brewers",
             "time": "23:10",
@@ -277,34 +221,6 @@
             "slug": "mlb-baseball-atlanta-braves-vs-milwaukee-brewers-2026-06-20-23-10",
             "startTimestamp": 1781986200000,
             "duration": 180
-        },
-        {
-            "matchText": "21:00 [ACB] Basketball: Valencia vs Barcelona [DAZN3 PT]",
-            "matchstr": "Valencia vs Barcelona",
-            "time": "21:00",
-            "league": "ACB",
-            "sport": "Basketball",
-            "team1": "Valencia",
-            "team2": "Barcelona",
-            "channel": "DAZN3 PT",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "DAZN3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=22"
-                    ]
-                }
-            ],
-            "slug": "acb-basketball-valencia-barcelona-2026-06-20-21-00",
-            "startTimestamp": 1781978400000,
-            "duration": 120
         },
         {
             "matchText": "22:00 [Spain Segunda Division] Almer\u00eda vs M\u00e1laga [LALIGA TV Hypermotion ES]",
@@ -355,34 +271,6 @@
             "slug": "spain-segunda-division-football-almeria-malaga-2026-06-20-22-00",
             "startTimestamp": 1781982000000,
             "duration": 120
-        },
-        {
-            "matchText": "20:00 [CFL] Canadian Football: Toronto Argonauts vs Ottawa RedBlacks [TSN3 CA]",
-            "matchstr": "Toronto Argonauts vs Ottawa RedBlacks",
-            "time": "20:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Toronto Argonauts",
-            "team2": "Ottawa RedBlacks",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-toronto-argonauts-ottawa-redblacks-2026-06-20-20-00",
-            "startTimestamp": 1781974800000,
-            "duration": 180
         },
         {
             "matchText": "23:00 [CFL] Canadian Football: Montreal Alouettes vs Edmonton Elks [TSN3 CA]",
@@ -439,62 +327,6 @@
             "slug": "cage-warriors-mma-omiel-brown-ieuan-davies-2026-06-20-23-30",
             "startTimestamp": 1781987400000,
             "duration": 180
-        },
-        {
-            "matchText": "20:00 [PDC European Tour] Darts: Slovak Darts Open [TV3 Sport DK]",
-            "matchstr": "Slovak Darts Open",
-            "time": "20:00",
-            "league": "PDC European Tour",
-            "sport": "Darts",
-            "team1": "Slovak Darts Open",
-            "team2": null,
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "pdc-european-tour-darts-slovak-darts-open-2026-06-20-20-00",
-            "startTimestamp": 1781974800000,
-            "duration": 180
-        },
-        {
-            "matchText": "21:00 [IndyCar] Motorsport: Road America Grand Prix [Fox Sports 1 US]",
-            "matchstr": "Road America Grand Prix",
-            "time": "21:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Road America Grand Prix",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-road-america-grand-prix-2026-06-20-21-00",
-            "startTimestamp": 1781978400000,
-            "duration": 120
         },
         {
             "matchText": "03:00 [FIFA World Cup] Ecuador vs Cura\u00e7ao [BBC One GB]",
