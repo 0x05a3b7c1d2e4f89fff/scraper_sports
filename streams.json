@@ -294,34 +294,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Rugby Union Friendly] Rugby: Barbarians vs South Africa [Premier Sports 2 GB]",
-            "matchstr": "Barbarians vs South Africa",
-            "time": "16:00",
-            "league": "Rugby Union Friendly",
-            "sport": "Rugby",
-            "team1": "Barbarians",
-            "team2": "South Africa",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                }
-            ],
-            "slug": "rugby-union-friendly-rugby-barbarians-south-africa-2026-06-20-16-00",
-            "startTimestamp": 1781960400000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Fighting] Boxing: Jahfaro Gezius vs Loukas Tryfonos [DAZN US]",
             "matchstr": "Jahfaro Gezius vs Loukas Tryfonos",
             "time": "20:00",
