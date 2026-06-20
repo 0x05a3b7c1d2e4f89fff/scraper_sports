@@ -244,56 +244,6 @@
             "duration": 120
         },
         {
-            "matchText": "09:40 [MotoGP] Motorsport: Czech Republic Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Czech Republic Grand Prix",
-            "time": "09:40",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Czech Republic Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Mix",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-czech-republic-grand-prix-2026-06-20-09-40",
-            "startTimestamp": 1781937600000,
-            "duration": 400
-        },
-        {
             "matchText": "22:05 [France TOP 14] Rugby: Montpellier vs Stade Fran\u00e7ais [Premier Sports 1 GB]",
             "matchstr": "Montpellier vs Stade Fran\u00e7ais",
             "time": "22:05",
