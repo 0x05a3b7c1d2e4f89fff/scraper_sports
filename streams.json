@@ -1092,34 +1092,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [NASCAR Craftsman Truck Series] Motorsport: Navy 250 [Fox Sports 1 US]",
-            "matchstr": "Navy 250",
-            "time": "02:00",
-            "league": "NASCAR Craftsman Truck Series",
-            "sport": "Motorsport",
-            "team1": "Navy 250",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "nascar-craftsman-truck-series-motorsport-navy-250-2026-06-20-02-00",
-            "startTimestamp": 1781910000000,
-            "duration": 120
-        },
-        {
             "matchText": "05:00 [Indy NXT Series] Motorsport: Road America Grand Prix [Fox Sports 1 US]",
             "matchstr": "Road America Grand Prix",
             "time": "05:00",
