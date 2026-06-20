@@ -842,34 +842,6 @@
             "duration": 120
         },
         {
-            "matchText": "09:15 [AFL] Australian Football: Carlton Blues vs Greater Western Sydney Giants [Fox Soccer Plus US]",
-            "matchstr": "Carlton Blues vs Greater Western Sydney Giants",
-            "time": "09:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Carlton Blues",
-            "team2": "Greater Western Sydney Giants",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-carlton-blues-greater-western-sydney-giants-2026-06-20-09-15",
-            "startTimestamp": 1781936100000,
-            "duration": 180
-        },
-        {
             "matchText": "12:35 [AFL] Australian Football: Port Adelaide Power vs Collingwood Magpies [Fox Soccer Plus US]",
             "matchstr": "Port Adelaide Power vs Collingwood Magpies",
             "time": "12:35",
