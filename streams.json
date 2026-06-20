@@ -870,62 +870,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:00 [NRL] Rugby: Dolphins vs Wests Tigers [Fox ports 2 US]",
-            "matchstr": "Dolphins vs Wests Tigers",
-            "time": "08:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Dolphins",
-            "team2": "Wests Tigers",
-            "channel": "Fox ports 2 US",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Fox ports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-dolphins-wests-tigers-2026-06-20-08-00",
-            "startTimestamp": 1781931600000,
-            "duration": 120
-        },
-        {
-            "matchText": "06:15 [AFL] Australian Football: Melbourne Demons vs Adelaide Crows [Fox Soccer Plus US]",
-            "matchstr": "Melbourne Demons vs Adelaide Crows",
-            "time": "06:15",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Melbourne Demons",
-            "team2": "Adelaide Crows",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-melbourne-demons-adelaide-crows-2026-06-20-06-15",
-            "startTimestamp": 1781925300000,
-            "duration": 180
-        },
-        {
             "matchText": "09:15 [AFL] Australian Football: Carlton Blues vs Greater Western Sydney Giants [Fox Soccer Plus US]",
             "matchstr": "Carlton Blues vs Greater Western Sydney Giants",
             "time": "09:15",
