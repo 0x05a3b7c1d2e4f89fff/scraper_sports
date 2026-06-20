@@ -680,34 +680,6 @@
             "duration": 180
         },
         {
-            "matchText": "14:00 [PDC European Tour] Darts: Slovak Darts Open [TV3 Sport DK]",
-            "matchstr": "Slovak Darts Open",
-            "time": "14:00",
-            "league": "PDC European Tour",
-            "sport": "Darts",
-            "team1": "Slovak Darts Open",
-            "team2": null,
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=68"
-                    ],
-                    "number": 68,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=68"
-                    ]
-                }
-            ],
-            "slug": "pdc-european-tour-darts-slovak-darts-open-2026-06-20-14-00",
-            "startTimestamp": 1781953200000,
-            "duration": 180
-        },
-        {
             "matchText": "20:00 [PDC European Tour] Darts: Slovak Darts Open [TV3 Sport DK]",
             "matchstr": "Slovak Darts Open",
             "time": "20:00",
