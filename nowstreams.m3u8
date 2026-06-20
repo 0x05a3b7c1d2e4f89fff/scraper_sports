@@ -1,26 +1,10 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (ITV 1)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (DAZN)
-https://s2.kora.st/channel?id=47
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (beIN Sports 1)
-https://s2.kora.st/channel?id=51
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (TVP Sport)
-https://s2.kora.st/channel?id=60
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (HRT 2)
-https://s2.kora.st/channel?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (TV4)
-https://s2.kora.st/channel?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-turkey-paraguay-2026-06-20-06-00" group-title="FIFA World Cup",Turkey vs Paraguay (DAZN Mundial)
-https://s2.kora.st/channel?id=100
-#EXTINF:-1 tvg-id="fifa-world-cup-football-netherlands-sweden-2026-06-20-20-00" group-title="FIFA World Cup",Netherlands vs Sweden (TSN1)
+#EXTINF:-1 tvg-id="fifa-world-cup-football-netherlands-sweden-2026-06-20-20-00" group-title="FIFA World Cup",Netherlands vs Sweden (BBC One)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-netherlands-sweden-2026-06-20-20-00" group-title="FIFA World Cup",Netherlands vs Sweden (MagentaTV)
 https://s2.kora.st/channel?id=11
+#EXTINF:-1 tvg-id="fifa-world-cup-football-netherlands-sweden-2026-06-20-20-00" group-title="FIFA World Cup",Netherlands vs Sweden (TSN1)
+https://s2.kora.st/channel?id=31
 #EXTINF:-1 tvg-id="fifa-world-cup-football-netherlands-sweden-2026-06-20-20-00" group-title="FIFA World Cup",Netherlands vs Sweden (DAZN)
 https://s2.kora.st/channel?id=47
 #EXTINF:-1 tvg-id="fifa-world-cup-football-netherlands-sweden-2026-06-20-20-00" group-title="FIFA World Cup",Netherlands vs Sweden (M6)
@@ -71,8 +55,6 @@ https://s2.kora.st/channel?id=3
 https://s2.kora.st/channel?id=5
 #EXTINF:-1 tvg-id="prelims-boxing-ryan-garner-michael-magnesi-2026-06-20-19-00" group-title="Prelims",Ryan Garner vs Michael Magnesi (DAZN)
 https://s2.kora.st/channel?id=6
-#EXTINF:-1 tvg-id="bare-knuckle-fighting-mma-bkfc-fight-night-2026-06-20-04-00" group-title="Bare Knuckle Fighting",BKFC Fight Night (Fight Network)
-https://s2.kora.st/channel?id=7
 #EXTINF:-1 tvg-id="wnba-basketball-phoenix-mercury-w-seattle-storm-w-2026-06-20-22-00" group-title="WNBA",Phoenix Mercury W vs Seattle Storm W (ABC)
 https://s2.kora.st/channel?id=8
 #EXTINF:-1 tvg-id="oktagon-mma-oktagon-mma-2026-06-20-18-25" group-title="Oktagon",Oktagon MMA (Sky Sport Mix)
@@ -103,8 +85,6 @@ https://s2.kora.st/channel?id=52
 https://s2.kora.st/channel?id=68
 #EXTINF:-1 tvg-id="pdc-european-tour-darts-slovak-darts-open-2026-06-20-20-00" group-title="PDC European Tour",Slovak Darts Open (TV3 Sport)
 https://s2.kora.st/channel?id=68
-#EXTINF:-1 tvg-id="indy-nxt-series-motorsport-road-america-grand-prix-2026-06-20-05-00" group-title="Indy NXT Series",Road America Grand Prix (Fox Sports 1)
-https://s2.kora.st/channel?id=81
 #EXTINF:-1 tvg-id="indycar-motorsport-road-america-grand-prix-2026-06-20-18-00" group-title="IndyCar",Road America Grand Prix (Fox Sports 1)
 https://s2.kora.st/channel?id=81
 #EXTINF:-1 tvg-id="indycar-motorsport-road-america-grand-prix-2026-06-20-21-00" group-title="IndyCar",Road America Grand Prix (Fox Sports 1)
@@ -117,8 +97,6 @@ https://s2.kora.st/channel?id=83
 https://s2.kora.st/channel?id=83
 #EXTINF:-1 tvg-id="afl-australian-football-port-adelaide-power-collingwood-magpies-2026-06-20-12-35" group-title="AFL",Port Adelaide Power vs Collingwood Magpies (Fox Soccer Plus)
 https://s2.kora.st/channel?id=83
-#EXTINF:-1 tvg-id="main-cards-mma-andrew-stewart-zayne-havener-2026-06-20-04-00" group-title="Main Cards",Andrew Stewart vs Zayne Havener (ESPN Deportes)
-https://s2.kora.st/channel?id=86
 #EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (BBC One)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (MagentaTV)
