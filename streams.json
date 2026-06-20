@@ -1,62 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:10 [MLB] Baseball: Atlanta Braves VS Milwaukee Brewers [Sportdigital1+ DE]",
-            "matchstr": "Atlanta Braves VS Milwaukee Brewers",
-            "time": "23:10",
-            "league": "MLB",
-            "sport": "Baseball",
-            "team1": "Atlanta Braves VS Milwaukee Brewers",
-            "team2": null,
-            "channel": "Sportdigital1+ DE",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "Sportdigital1+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=20"
-                    ],
-                    "number": 20,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=20"
-                    ]
-                }
-            ],
-            "slug": "mlb-baseball-atlanta-braves-vs-milwaukee-brewers-2026-06-20-23-10",
-            "startTimestamp": 1781986200000,
-            "duration": 180
-        },
-        {
-            "matchText": "23:00 [CFL] Canadian Football: Montreal Alouettes vs Edmonton Elks [TSN3 CA]",
-            "matchstr": "Montreal Alouettes vs Edmonton Elks",
-            "time": "23:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Montreal Alouettes",
-            "team2": "Edmonton Elks",
-            "channel": "TSN3 CA",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "TSN3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-montreal-alouettes-edmonton-elks-2026-06-20-23-00",
-            "startTimestamp": 1781985600000,
-            "duration": 180
-        },
-        {
             "matchText": "23:30 [Cage Warriors] MMA: Omiel Brown vs Ieuan Davies [RMC Sport 1 FR]",
             "matchstr": "Omiel Brown vs Ieuan Davies",
             "time": "23:30",
