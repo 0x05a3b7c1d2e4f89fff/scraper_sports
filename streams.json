@@ -432,56 +432,6 @@
             "duration": 400
         },
         {
-            "matchText": "05:00 [UFC] MMA: Kyoji Horiguchi vs Manel Kape [TNT Sports 1 GB]",
-            "matchstr": "Kyoji Horiguchi vs Manel Kape",
-            "time": "05:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Kyoji Horiguchi",
-            "team2": "Manel Kape",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                },
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-kyoji-horiguchi-manel-kape-2026-06-21-05-00",
-            "startTimestamp": 1782007200000,
-            "duration": 180
-        },
-        {
             "matchText": "23:00 [WNBA] Basketball: Golden State Valkyries vs Las Vegas Aces [CBS US]",
             "matchstr": "Golden State Valkyries vs Las Vegas Aces",
             "time": "23:00",
@@ -872,62 +822,6 @@
             "slug": "nrl-rugby-cronulla-sharks-sydney-roosters-2026-06-21-11-15",
             "startTimestamp": 1782029700000,
             "duration": 120
-        },
-        {
-            "matchText": "04:00 [UFC] MMA: Hyder Amil vs Christian Rodriguez [Sportsnet 360 CA]",
-            "matchstr": "Hyder Amil vs Christian Rodriguez",
-            "time": "04:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Hyder Amil",
-            "team2": "Christian Rodriguez",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-hyder-amil-christian-rodriguez-2026-06-21-04-00",
-            "startTimestamp": 1782003600000,
-            "duration": 180
-        },
-        {
-            "matchText": "04:30 [UFC] MMA: Navajo Stirling vs Ion Cutelaba [Sportsnet 360 CA]",
-            "matchstr": "Navajo Stirling vs Ion Cutelaba",
-            "time": "04:30",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Navajo Stirling",
-            "team2": "Ion Cutelaba",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-navajo-stirling-ion-cutelaba-2026-06-21-04-30",
-            "startTimestamp": 1782005400000,
-            "duration": 180
         },
         {
             "matchText": "21:00 [IndyCar] Motorsport: Road America Grand Prix [Fox US]",
