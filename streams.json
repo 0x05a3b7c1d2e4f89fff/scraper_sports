@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "23:30 [Cage Warriors] MMA: Omiel Brown vs Ieuan Davies [RMC Sport 1 FR]",
-            "matchstr": "Omiel Brown vs Ieuan Davies",
-            "time": "23:30",
-            "league": "Cage Warriors",
-            "sport": "MMA",
-            "team1": "Omiel Brown",
-            "team2": "Ieuan Davies",
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-06-20",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=52"
-                    ]
-                }
-            ],
-            "slug": "cage-warriors-mma-omiel-brown-ieuan-davies-2026-06-20-23-30",
-            "startTimestamp": 1781987400000,
-            "duration": 180
-        },
-        {
             "matchText": "03:00 [FIFA World Cup] Ecuador vs Cura\u00e7ao [BBC One GB]",
             "matchstr": "Ecuador vs Cura\u00e7ao",
             "time": "03:00",
@@ -587,45 +559,6 @@
             "duration": 400
         },
         {
-            "matchText": "00:00 [UFC] MMA: UFC Fight Night [TNT Sports 1 GB]",
-            "matchstr": "UFC Fight Night",
-            "time": "00:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "UFC Fight Night",
-            "team2": null,
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-ufc-fight-night-2026-06-21-00-00",
-            "startTimestamp": 1781989200000,
-            "duration": 180
-        },
-        {
             "matchText": "05:00 [UFC] MMA: Kyoji Horiguchi vs Manel Kape [TNT Sports 1 GB]",
             "matchstr": "Kyoji Horiguchi vs Manel Kape",
             "time": "05:00",
@@ -1037,34 +970,6 @@
             ],
             "slug": "indycar-motorsport-road-america-grand-prix-2026-06-21-18-00",
             "startTimestamp": 1782054000000,
-            "duration": 120
-        },
-        {
-            "matchText": "01:30 [ARCA Menards Series] Motorsport: Berlin ARCA 200 [Fox Sports 2 US]",
-            "matchstr": "Berlin ARCA 200",
-            "time": "01:30",
-            "league": "ARCA Menards Series",
-            "sport": "Motorsport",
-            "team1": "Berlin ARCA 200",
-            "team2": null,
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "arca-menards-series-motorsport-berlin-arca-200-2026-06-21-01-30",
-            "startTimestamp": 1781994600000,
             "duration": 120
         },
         {
