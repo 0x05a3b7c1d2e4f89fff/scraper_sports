@@ -339,34 +339,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:05 [ADAC GT4 Germany] Motorsport: Lausitzring [Sport1 DE]",
-            "matchstr": "Lausitzring",
-            "time": "16:05",
-            "league": "ADAC GT4 Germany",
-            "sport": "Motorsport",
-            "team1": "Lausitzring",
-            "team2": null,
-            "channel": "Sport1 DE",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "Sport1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "adac-gt4-germany-motorsport-lausitzring-2026-06-21-16-05",
-            "startTimestamp": 1782047100000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [NASCAR Cup Series] Motorsport: Anduril 250 [TSN5 CA]",
             "matchstr": "Anduril 250",
             "time": "23:00",
@@ -448,34 +420,6 @@
             ],
             "slug": "sweden-superettan-football-ostersunds-fk-norrkoping-2026-06-21-18-00",
             "startTimestamp": 1782054000000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Sweden Superettan] Helsingborg vs GIF Sundsvall [TV4 Sportkanalen SE]",
-            "matchstr": "Helsingborg vs GIF Sundsvall",
-            "time": "16:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Helsingborg",
-            "team2": "GIF Sundsvall",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-helsingborg-gif-sundsvall-2026-06-21-16-00",
-            "startTimestamp": 1782046800000,
             "duration": 120
         },
         {
