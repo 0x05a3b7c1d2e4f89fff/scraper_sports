@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (BBC One)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (DAZN)
-https://s2.kora.st/channel?id=47
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (beIN Sports 1)
-https://s2.kora.st/channel?id=51
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (TVP Sport)
-https://s2.kora.st/channel?id=60
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (HRT 2)
-https://s2.kora.st/channel?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (TV4)
-https://s2.kora.st/channel?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (Fox Sports 1)
-https://s2.kora.st/channel?id=81
-#EXTINF:-1 tvg-id="fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00" group-title="FIFA World Cup",Ecuador vs Curaçao (DAZN Mundial)
-https://s2.kora.st/channel?id=100
 #EXTINF:-1 tvg-id="fifa-world-cup-football-tunisia-japan-2026-06-21-07-00" group-title="FIFA World Cup",Tunisia vs Japan (BBC One)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-tunisia-japan-2026-06-21-07-00" group-title="FIFA World Cup",Tunisia vs Japan (MagentaTV)
@@ -91,12 +71,8 @@ https://s2.kora.st/channel?id=4
 https://s2.kora.st/channel?id=50
 #EXTINF:-1 tvg-id="ufc-mma-kyoji-horiguchi-manel-kape-2026-06-21-05-00" group-title="UFC",Kyoji Horiguchi vs Manel Kape (Sportsnet 360)
 https://s2.kora.st/channel?id=84
-#EXTINF:-1 tvg-id="wnba-basketball-chicago-sky-dallas-wings-2026-06-21-03-00" group-title="WNBA",Chicago Sky vs Dallas Wings (CBS)
-https://s2.kora.st/channel?id=7
 #EXTINF:-1 tvg-id="wnba-basketball-golden-state-valkyries-las-vegas-aces-2026-06-21-23-00" group-title="WNBA",Golden State Valkyries vs Las Vegas Aces (CBS)
 https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="cfl-canadian-football-saskatchewan-roughriders-calgary-stampeders-2026-06-21-02-00" group-title="CFL",Saskatchewan Roughriders vs Calgary Stampeders (CBS Sports Network)
-https://s2.kora.st/channel?id=8
 #EXTINF:-1 tvg-id="motocross-world-championship-motorsport-mx2-2026-06-21-17-00" group-title="Motocross World Championship",MX2 (CBS Sports Network)
 https://s2.kora.st/channel?id=8
 #EXTINF:-1 tvg-id="motocross-world-championship-motorsport-mxgp-2026-06-21-18-00" group-title="Motocross World Championship",MXGP (CBS Sports Network)
@@ -123,8 +99,6 @@ https://s2.kora.st/channel?id=82
 https://s2.kora.st/channel?id=83
 #EXTINF:-1 tvg-id="nrl-rugby-cronulla-sharks-sydney-roosters-2026-06-21-11-15" group-title="NRL",Cronulla Sharks vs Sydney Roosters (Fox Soccer Plus)
 https://s2.kora.st/channel?id=83
-#EXTINF:-1 tvg-id="ufc-mma-andre-fili-vinicius-oliveira-2026-06-21-03-00" group-title="UFC",Andre Fili vs Vinicius Oliveira (Sportsnet 360)
-https://s2.kora.st/channel?id=84
 #EXTINF:-1 tvg-id="ufc-mma-hyder-amil-christian-rodriguez-2026-06-21-04-00" group-title="UFC",Hyder Amil vs Christian Rodriguez (Sportsnet 360)
 https://s2.kora.st/channel?id=84
 #EXTINF:-1 tvg-id="ufc-mma-navajo-stirling-ion-cutelaba-2026-06-21-04-30" group-title="UFC",Navajo Stirling vs Ion Cutelaba (Sportsnet 360)

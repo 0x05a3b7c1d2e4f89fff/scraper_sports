@@ -1,133 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "03:00 [FIFA World Cup] Ecuador vs Cura\u00e7ao [BBC One GB]",
-            "matchstr": "Ecuador vs Cura\u00e7ao",
-            "time": "03:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "Ecuador",
-            "team2": "Cura\u00e7ao",
-            "channel": "BBC One GB",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "BBC One",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "MagentaTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=51"
-                    ]
-                },
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=60"
-                    ]
-                },
-                {
-                    "name": "HRT 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=70"
-                    ],
-                    "number": 70,
-                    "language": "HR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=70"
-                    ]
-                },
-                {
-                    "name": "TV4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=74"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-ecuador-curacao-2026-06-21-03-00",
-            "startTimestamp": 1782000000000,
-            "duration": 120
-        },
-        {
             "matchText": "07:00 [FIFA World Cup] Tunisia vs Japan [BBC One GB]",
             "matchstr": "Tunisia vs Japan",
             "time": "07:00",
@@ -609,34 +482,6 @@
             "duration": 180
         },
         {
-            "matchText": "03:00 [WNBA] Basketball: Chicago Sky vs Dallas Wings [CBS US]",
-            "matchstr": "Chicago Sky vs Dallas Wings",
-            "time": "03:00",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Chicago Sky",
-            "team2": "Dallas Wings",
-            "channel": "CBS US",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "CBS",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-chicago-sky-dallas-wings-2026-06-21-03-00",
-            "startTimestamp": 1782000000000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [WNBA] Basketball: Golden State Valkyries vs Las Vegas Aces [CBS US]",
             "matchstr": "Golden State Valkyries vs Las Vegas Aces",
             "time": "23:00",
@@ -663,34 +508,6 @@
             "slug": "wnba-basketball-golden-state-valkyries-las-vegas-aces-2026-06-21-23-00",
             "startTimestamp": 1782072000000,
             "duration": 120
-        },
-        {
-            "matchText": "02:00 [CFL] Canadian Football: Saskatchewan Roughriders vs Calgary Stampeders [CBS Sports Network US]",
-            "matchstr": "Saskatchewan Roughriders vs Calgary Stampeders",
-            "time": "02:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Saskatchewan Roughriders",
-            "team2": "Calgary Stampeders",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-saskatchewan-roughriders-calgary-stampeders-2026-06-21-02-00",
-            "startTimestamp": 1781996400000,
-            "duration": 180
         },
         {
             "matchText": "17:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
@@ -1055,34 +872,6 @@
             "slug": "nrl-rugby-cronulla-sharks-sydney-roosters-2026-06-21-11-15",
             "startTimestamp": 1782029700000,
             "duration": 120
-        },
-        {
-            "matchText": "03:00 [UFC] MMA: Andre Fili vs Vinicius Oliveira [Sportsnet 360 CA]",
-            "matchstr": "Andre Fili vs Vinicius Oliveira",
-            "time": "03:00",
-            "league": "UFC",
-            "sport": "MMA",
-            "team1": "Andre Fili",
-            "team2": "Vinicius Oliveira",
-            "channel": "Sportsnet 360 CA",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "Sportsnet 360",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=84"
-                    ],
-                    "number": 84,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=84"
-                    ]
-                }
-            ],
-            "slug": "ufc-mma-andre-fili-vinicius-oliveira-2026-06-21-03-00",
-            "startTimestamp": 1782000000000,
-            "duration": 180
         },
         {
             "matchText": "04:00 [UFC] MMA: Hyder Amil vs Christian Rodriguez [Sportsnet 360 CA]",
