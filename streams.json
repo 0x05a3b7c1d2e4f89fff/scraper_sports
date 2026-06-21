@@ -283,34 +283,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
-            "matchstr": "MX2",
-            "time": "17:00",
-            "league": "Motocross World Championship",
-            "sport": "Motorsport",
-            "team1": "MX2",
-            "team2": null,
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "motocross-world-championship-motorsport-mx2-2026-06-21-17-00",
-            "startTimestamp": 1782050400000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Motocross World Championship] Motorsport: MXGP [CBS Sports Network US]",
             "matchstr": "MXGP",
             "time": "18:00",
@@ -364,34 +336,6 @@
             ],
             "slug": "nascar-cup-series-motorsport-anduril-250-2026-06-21-23-00",
             "startTimestamp": 1782072000000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Norway OBOS-ligaen] Kongsvinger vs Str\u00f8msgodset [TV2 Sport NO]",
-            "matchstr": "Kongsvinger vs Str\u00f8msgodset",
-            "time": "17:00",
-            "league": "Norway OBOS-ligaen",
-            "sport": "Football",
-            "team1": "Kongsvinger",
-            "team2": "Str\u00f8msgodset",
-            "channel": "TV2 Sport NO",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "TV2 Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "NO",
-                    "links": [
-                        "https://s2.kora.st/channel?id=67"
-                    ]
-                }
-            ],
-            "slug": "norway-obos-ligaen-football-kongsvinger-stromsgodset-2026-06-21-17-00",
-            "startTimestamp": 1782050400000,
             "duration": 120
         },
         {
