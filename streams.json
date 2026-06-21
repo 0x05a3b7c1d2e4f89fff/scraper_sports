@@ -283,34 +283,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Motocross World Championship] Motorsport: MXGP [CBS Sports Network US]",
-            "matchstr": "MXGP",
-            "time": "18:00",
-            "league": "Motocross World Championship",
-            "sport": "Motorsport",
-            "team1": "MXGP",
-            "team2": null,
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "motocross-world-championship-motorsport-mxgp-2026-06-21-18-00",
-            "startTimestamp": 1782054000000,
-            "duration": 120
-        },
-        {
             "matchText": "23:00 [NASCAR Cup Series] Motorsport: Anduril 250 [TSN5 CA]",
             "matchstr": "Anduril 250",
             "time": "23:00",
@@ -336,62 +308,6 @@
             ],
             "slug": "nascar-cup-series-motorsport-anduril-250-2026-06-21-23-00",
             "startTimestamp": 1782072000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Sweden Superettan] \u00d6stersunds FK vs Norrk\u00f6ping [TV4 Fotball SE]",
-            "matchstr": "\u00d6stersunds FK vs Norrk\u00f6ping",
-            "time": "18:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "\u00d6stersunds FK",
-            "team2": "Norrk\u00f6ping",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-ostersunds-fk-norrkoping-2026-06-21-18-00",
-            "startTimestamp": 1782054000000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [IndyCar] Motorsport: Road America Grand Prix [Fox Sports 1 US]",
-            "matchstr": "Road America Grand Prix",
-            "time": "18:00",
-            "league": "IndyCar",
-            "sport": "Motorsport",
-            "team1": "Road America Grand Prix",
-            "team2": null,
-            "channel": "Fox Sports 1 US",
-            "important": false,
-            "matchDate": "2026-06-21",
-            "channels": [
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                }
-            ],
-            "slug": "indycar-motorsport-road-america-grand-prix-2026-06-21-18-00",
-            "startTimestamp": 1782054000000,
             "duration": 120
         },
         {
