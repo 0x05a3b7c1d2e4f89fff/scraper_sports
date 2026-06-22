@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "21:00 [ACB] Basketball: Valencia vs Barcelona [DAZN3 PT]",
-            "matchstr": "Valencia vs Barcelona",
-            "time": "21:00",
-            "league": "ACB",
-            "sport": "Basketball",
-            "team1": "Valencia",
-            "team2": "Barcelona",
-            "channel": "DAZN3 PT",
-            "important": false,
-            "matchDate": "2026-06-22",
-            "channels": [
-                {
-                    "name": "DAZN3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=22"
-                    ],
-                    "number": 22,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=22"
-                    ]
-                }
-            ],
-            "slug": "acb-basketball-valencia-barcelona-2026-06-22-21-00",
-            "startTimestamp": 1782151200000,
-            "duration": 120
-        },
-        {
             "matchText": "00:00 [FIFA World Cup] France vs Iraq [BBC One GB]",
             "matchstr": "France vs Iraq",
             "time": "00:00",
