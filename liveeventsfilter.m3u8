@@ -13,7 +13,7 @@ http://193.47.62.42/hls/qqqqq.m3u8
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn3.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=2SWiZO8ZO7CpqEEAaSQeIg&expires=1782238842
+https://cdn10.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=dzyCFNYgEWNDcvE9541-hA&expires=1782244221
 #EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
@@ -34,6 +34,11 @@ https://obstreamx.click/live/hcicvcycw2.m3u8
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=erl37sx1pg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/erl37sx1pg.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] English Feed 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] English Feed 1 (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
@@ -59,6 +64,16 @@ https://obstreamx.click/live/yq97gcrutx.m3u8
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=01axyd1huy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/01axyd1huy.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed (STRMHUB)
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=thjmdciaen
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=thjmdciaen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/thjmdciaen.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 1 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 1 (STRMHUB)
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=n8ilhjbzdh
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=n8ilhjbzdh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/n8ilhjbzdh.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] German Feed 2 (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] German Feed 2 (STRMHUB)
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=abzkpknkkt
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=abzkpknkkt
@@ -124,78 +139,63 @@ https://obstreamx.click/live/x4wzkqvki7.m3u8
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=vg3xdntclm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/vg3xdntclm.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Field Hockey Pro League] Australia vs Netherlands (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Field Hockey Pro League] Australia vs Netherlands (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.42/hls/qqqqqq.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="Soccer.Dummy.us" tvg-name="[Fifa World Cup] Portugal - Uzbekistan (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[Fifa World Cup] Portugal - Uzbekistan (EMBEDHD)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=npdxE5UHfMzIVQvgqyItAg&expires=1782241253
-#EXTINF:-1 tvg-chno="42" tvg-id="Live.Event.us" tvg-name="[Finland Veikkausliiga] Inter Turku vs SJK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Finland Veikkausliiga] Inter Turku vs SJK (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.42/hls/LIII.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="Live.Event.us" tvg-name="[Finland Veikkausliiga] Jaro vs Gnistan (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Finland Veikkausliiga] Jaro vs Gnistan (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.42/hls/LIIIZ.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="Live.Event.us" tvg-name="[Finland Veikkausliiga] Mariehamn vs HJK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Finland Veikkausliiga] Mariehamn vs HJK (FAWA)
+https://cdn3.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=nz3uoZ6NvZxJdHK81x2M1A&expires=1782246649
+#EXTINF:-1 tvg-chno="44" tvg-id="Live.Event.us" tvg-name="[Finland Veikkausliiga] Mariehamn vs HJK (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Finland Veikkausliiga] Mariehamn vs HJK (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/LIIIZQQ.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="Live.Event.us" tvg-name="[Georgia League] Dinamo Tbilisi vs Dinamo Batumi (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Georgia League] Dinamo Tbilisi vs Dinamo Batumi (FAWA)
+#EXTINF:-1 tvg-chno="80" tvg-id="Live.Event.us" tvg-name="[Georgia League] Dinamo Tbilisi vs Dinamo Batumi (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Georgia League] Dinamo Tbilisi vs Dinamo Batumi (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/LIIIZQ.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTINF:-1 tvg-chno="82" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.194/hls/vavavavaq.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Championship Leaguee 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Championship Leaguee 1 (FAWA)
+#EXTINF:-1 tvg-chno="83" tvg-id="Live.Event.us" tvg-name="[Israel Basketball League] Hapoel Tel Aviv vs Maccabi Tel Aviv (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Israel Basketball League] Hapoel Tel Aviv vs Maccabi Tel Aviv (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.42/hls/LIIIZQQQ.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Astros vs Jays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Astros vs Jays (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-origin.b-cdn.net/bcdn_token=peizvQCME1ZOPtXtfUevXF0NonbqQhjE8SBAQB5MVEM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F&expires=1782244818/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1/125.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Championship Leaguee 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Championship Leaguee 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.59/hls/brrrQQ.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Championship Leaguee 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Championship Leaguee 2 (FAWA)
+#EXTINF:-1 tvg-chno="116" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Championship Leaguee 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Championship Leaguee 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.59/hls/brrrQ.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Portugal vs Uzbekistan, 2026 FIFA World Cup, Group Stage (SPRTSPASS)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Portugal vs Uzbekistan, 2026 FIFA World Cup, Group Stage (SPRTSPASS)
+#EXTINF:-1 tvg-chno="120" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Portugal vs Uzbekistan, 2026 FIFA World Cup, Group Stage (SPRTSPASS)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Portugal vs Uzbekistan, 2026 FIFA World Cup, Group Stage (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifa2026.html
 #EXTVLCOPT:http-origin=https://sportspass.cfd/soccer/fifa2026.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obeliskadefat.s3.us-west-2.amazonaws.com/btsport.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="Live.Event.us" tvg-name="[Sweden Svenska Cupen] Astrio vs Angelholm (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Sweden Svenska Cupen] Astrio vs Angelholm (FAWA)
+#EXTINF:-1 tvg-chno="121" tvg-id="Live.Event.us" tvg-name="[Sweden Svenska Cupen] Astrio vs Angelholm (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Sweden Svenska Cupen] Astrio vs Angelholm (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/aiiii.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="Live.Event.us" tvg-name="[Sweden Svenska Cupen] Jarfalla vs Arlanda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Sweden Svenska Cupen] Jarfalla vs Arlanda (FAWA)
+#EXTINF:-1 tvg-chno="122" tvg-id="Live.Event.us" tvg-name="[Sweden Svenska Cupen] Jarfalla vs Arlanda (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Sweden Svenska Cupen] Jarfalla vs Arlanda (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/aiiiiq.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Eastbourne (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis ATP] Tennis ATP Eastbourne (FAWA)
+#EXTINF:-1 tvg-chno="123" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Eastbourne (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis ATP] Tennis ATP Eastbourne (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://193.47.62.42/hls/ayyyyQ.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Mallorca (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis ATP] Tennis ATP Mallorca (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.42/hls/ayyyyQQ.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="Live.Event.us" tvg-name="[Tennis WTA] Tennis WTA Eastbourne/Bad Homburg (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Tennis WTA] Tennis WTA Eastbourne/Bad Homburg (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://193.47.62.42/hls/ayyyy.m3u8
