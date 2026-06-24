@@ -1075,7 +1075,7 @@
                     ]
                 },
                 {
-                    "name": "Universo",
+                    "name": "DAZN Mundial",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=30"
                     ],
@@ -1453,6 +1453,17 @@
                     "language": "SE",
                     "links": [
                         "https://s2.kora.st/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=99"
                     ]
                 }
             ],
