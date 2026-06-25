@@ -283,34 +283,6 @@
             "duration": 120
         },
         {
-            "matchText": "12:50 [NRL] Rugby: South Sydney Rabbitohs vs Parramatta Eels [Fox Soccer Plus US]",
-            "matchstr": "South Sydney Rabbitohs vs Parramatta Eels",
-            "time": "12:50",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "South Sydney Rabbitohs",
-            "team2": "Parramatta Eels",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-25",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-south-sydney-rabbitohs-parramatta-eels-2026-06-25-12-50",
-            "startTimestamp": 1782381000000,
-            "duration": 120
-        },
-        {
             "matchText": "02:00 [FIFA World Cup] Tunisia vs Netherlands [BBC One GB]",
             "matchstr": "Tunisia vs Netherlands",
             "time": "02:00",
