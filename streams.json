@@ -233,56 +233,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [Sky Sport F1 DE]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "19:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "Sky Sport F1 DE",
-            "important": false,
-            "matchDate": "2026-06-25",
-            "channels": [
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "Canal+Sport360",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "TV12",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-25-19-00",
-            "startTimestamp": 1782403200000,
-            "duration": 120
-        },
-        {
             "matchText": "02:00 [FIFA World Cup] Tunisia vs Netherlands [BBC One GB]",
             "matchstr": "Tunisia vs Netherlands",
             "time": "02:00",
