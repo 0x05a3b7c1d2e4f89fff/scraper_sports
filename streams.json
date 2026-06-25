@@ -465,34 +465,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:30 [WNBA] Basketball: Phoenix Mercury vs Indiana Fever [USA Network US]",
-            "matchstr": "Phoenix Mercury vs Indiana Fever",
-            "time": "02:30",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "Phoenix Mercury",
-            "team2": "Indiana Fever",
-            "channel": "USA Network US",
-            "important": false,
-            "matchDate": "2026-06-25",
-            "channels": [
-                {
-                    "name": "USA Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=10"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-phoenix-mercury-indiana-fever-2026-06-25-02-30",
-            "startTimestamp": 1782343800000,
-            "duration": 120
-        },
-        {
             "matchText": "05:00 [WNBA] Basketball: Atlanta Dream vs Golden State Valkyries [USA Network US]",
             "matchstr": "Atlanta Dream vs Golden State Valkyries",
             "time": "05:00",
