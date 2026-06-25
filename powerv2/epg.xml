@@ -1,106 +1,18 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="10113">
-    <display-name>Phoenix Mercury at Indiana Fever (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10113">
-    <title lang="en">Phoenix Mercury at Indiana Fever (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10114">
-    <display-name>Minnesota Lynx at Washington Mystics (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10114">
-    <title lang="en">Minnesota Lynx at Washington Mystics (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10129">
-    <display-name>Los Angeles Dodgers at Minnesota Twins (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10129">
-    <title lang="en">Los Angeles Dodgers at Minnesota Twins (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10130">
-    <display-name>Arizona Diamondbacks at St. Louis Cardinals (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10130">
-    <title lang="en">Arizona Diamondbacks at St. Louis Cardinals (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10115">
-    <display-name>Portland Fire at Chicago Sky (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10115">
-    <title lang="en">Portland Fire at Chicago Sky (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
   <channel id="10139">
     <display-name> 2026 NBA Draft | Round 2 (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10139">
+  <programme start="20260625052905 +0000" stop="20260625112905 +0000" channel="10139">
     <title lang="en"> 2026 NBA Draft | Round 2 (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10131">
-    <display-name>Atlanta Braves at San Diego Padres (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10131">
-    <title lang="en">Atlanta Braves at San Diego Padres (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10137">
-    <display-name>Mexico at Czechia (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10137">
-    <title lang="en">Mexico at Czechia (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10137">
-    <display-name>Mexico at Czechia (Arabic)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10137">
-    <title lang="en">Mexico at Czechia (Arabic)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10137">
-    <display-name>Mexico at Czechia (Spanish)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10137">
-    <title lang="en">Mexico at Czechia (Spanish)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10138">
-    <display-name>South Korea at South Africa (English)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10138">
-    <title lang="en">South Korea at South Africa (English)</title>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </programme>
-  <channel id="10138">
-    <display-name>South Korea at South Africa (Arabic)</display-name>
-    <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
-  </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10138">
-    <title lang="en">South Korea at South Africa (Arabic)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
   <channel id="10132">
     <display-name>Athletics Athletics at San Francisco Giants (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10132">
+  <programme start="20260625052905 +0000" stop="20260625112905 +0000" channel="10132">
     <title lang="en">Athletics Athletics at San Francisco Giants (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
@@ -108,7 +20,7 @@
     <display-name>Atlanta Dream at Golden State Valkyries (English)</display-name>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </channel>
-  <programme start="20260625031651 +0000" stop="20260625091651 +0000" channel="10116">
+  <programme start="20260625052905 +0000" stop="20260625112905 +0000" channel="10116">
     <title lang="en">Atlanta Dream at Golden State Valkyries (English)</title>
     <icon src="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true"/>
   </programme>
