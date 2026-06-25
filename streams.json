@@ -3414,6 +3414,1444 @@
             "slug": "afl-australian-football-port-adelaide-adelaide-crows-2026-06-27-12-30",
             "startTimestamp": 1782552600000,
             "duration": 180
+        },
+        {
+            "matchText": "00:00 [FIFA World Cup] Panama vs England [BBC One GB]",
+            "matchstr": "Panama vs England",
+            "time": "00:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Panama",
+            "team2": "England",
+            "channel": "BBC One GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "BBC One",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-panama-england-2026-06-28-00-00",
+            "startTimestamp": 1782594000000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [FIFA World Cup] Colombia vs Portugal [BBC One GB]",
+            "matchstr": "Colombia vs Portugal",
+            "time": "02:30",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Colombia",
+            "team2": "Portugal",
+            "channel": "BBC One GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "BBC One",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-colombia-portugal-2026-06-28-02-30",
+            "startTimestamp": 1782603000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [FIFA World Cup] Jordan vs Argentina [BBC One GB]",
+            "matchstr": "Jordan vs Argentina",
+            "time": "05:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Jordan",
+            "team2": "Argentina",
+            "channel": "BBC One GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "BBC One",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=52"
+                    ]
+                },
+                {
+                    "name": "TVP2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=62"
+                    ],
+                    "number": 62,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=62"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-jordan-argentina-2026-06-28-05-00",
+            "startTimestamp": 1782612000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [FIFA World Cup] South Africa vs Canada [ITV 1 GB]",
+            "matchstr": "South Africa vs Canada",
+            "time": "22:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "South Africa",
+            "team2": "Canada",
+            "channel": "ITV 1 GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "ITV 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "Sport TV1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=21"
+                    ],
+                    "number": 21,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=21"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-south-africa-canada-2026-06-28-22-00",
+            "startTimestamp": 1782673200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:30 [FIFA World Cup] Congo DR vs Uzbekistan [BBC Two GB]",
+            "matchstr": "Congo DR vs Uzbekistan",
+            "time": "02:30",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Congo DR",
+            "team2": "Uzbekistan",
+            "channel": "BBC Two GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "BBC Two",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "MagentaTV 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=12"
+                    ]
+                },
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=52"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "NRK2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "NO",
+                    "links": [
+                        "https://s2.kora.st/channel?id=73"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=99"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-congo-dr-uzbekistan-2026-06-28-02-30",
+            "startTimestamp": 1782603000000,
+            "duration": 120
+        },
+        {
+            "matchText": "05:00 [FIFA World Cup] Algeria vs Austria [BBC Two GB]",
+            "matchstr": "Algeria vs Austria",
+            "time": "05:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Algeria",
+            "team2": "Austria",
+            "channel": "BBC Two GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "BBC Two",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "MagentaTV 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=12"
+                    ]
+                },
+                {
+                    "name": "Sport TV2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=22"
+                    ]
+                },
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=51"
+                    ],
+                    "number": 51,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=51"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "NRK2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "NO",
+                    "links": [
+                        "https://s2.kora.st/channel?id=73"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=99"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-algeria-austria-2026-06-28-05-00",
+            "startTimestamp": 1782612000000,
+            "duration": 120
+        },
+        {
+            "matchText": "10:40 [MotoGP] Motorsport: Dutch Grand Prix [TNT Sports 2 GB]",
+            "matchstr": "Dutch Grand Prix",
+            "time": "10:40",
+            "league": "MotoGP",
+            "sport": "Motorsport",
+            "team1": "Dutch Grand Prix",
+            "team2": null,
+            "channel": "TNT Sports 2 GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "TNT Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=2"
+                    ],
+                    "number": 2,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=2"
+                    ]
+                },
+                {
+                    "name": "DAZN MotoGP",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=29"
+                    ],
+                    "number": 29,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=29"
+                    ]
+                },
+                {
+                    "name": "Canal+ Sport360",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=57"
+                    ],
+                    "number": 57,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=57"
+                    ]
+                },
+                {
+                    "name": "V Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                }
+            ],
+            "slug": "motogp-motorsport-dutch-grand-prix-2026-06-28-10-40",
+            "startTimestamp": 1782632400000,
+            "duration": 400
+        },
+        {
+            "matchText": "05:00 [PFL] MMA: AJ McKee vs Salamat Isbulaev [ESPN US]",
+            "matchstr": "AJ McKee vs Salamat Isbulaev",
+            "time": "05:00",
+            "league": "PFL",
+            "sport": "MMA",
+            "team1": "AJ McKee",
+            "team2": "Salamat Isbulaev",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=3"
+                    ],
+                    "number": 3,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=3"
+                    ]
+                },
+                {
+                    "name": "RMC Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=50"
+                    ]
+                },
+                {
+                    "name": "ESPN Deportes",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=86"
+                    ],
+                    "number": 86,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=86"
+                    ]
+                }
+            ],
+            "slug": "pfl-mma-aj-mckee-salamat-isbulaev-2026-06-28-05-00",
+            "startTimestamp": 1782612000000,
+            "duration": 180
+        },
+        {
+            "matchText": "00:00 [FIFA World Cup] Croatia vs Ghana [ITV 4 GB]",
+            "matchstr": "Croatia vs Ghana",
+            "time": "00:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Croatia",
+            "team2": "Ghana",
+            "channel": "ITV 4 GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "ITV 4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=4"
+                    ],
+                    "number": 4,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=4"
+                    ]
+                },
+                {
+                    "name": "MagentaTV 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=12"
+                    ],
+                    "number": 12,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=12"
+                    ]
+                },
+                {
+                    "name": "Sport TV2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=22"
+                    ],
+                    "number": 22,
+                    "language": "PT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=22"
+                    ]
+                },
+                {
+                    "name": "TSN2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=32"
+                    ],
+                    "number": 32,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=32"
+                    ]
+                },
+                {
+                    "name": "beIN Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=52"
+                    ],
+                    "number": 52,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=52"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "SVT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=72"
+                    ],
+                    "number": 72,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=72"
+                    ]
+                },
+                {
+                    "name": "Fox Sports 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=81"
+                    ],
+                    "number": 81,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=81"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=99"
+                    ],
+                    "number": 99,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=99"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-croatia-ghana-2026-06-28-00-00",
+            "startTimestamp": 1782594000000,
+            "duration": 120
+        },
+        {
+            "matchText": "16:00 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
+            "matchstr": "Austrian Grand Prix",
+            "time": "16:00",
+            "league": "Formula 1",
+            "sport": "Motorsport",
+            "team1": "Austrian Grand Prix",
+            "team2": null,
+            "channel": "Sky Sports F1 GB",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=7"
+                    ],
+                    "number": 7,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=7"
+                    ]
+                },
+                {
+                    "name": "Sky Sports F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=13"
+                    ],
+                    "number": 13,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=13"
+                    ]
+                },
+                {
+                    "name": "DAZN F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=30"
+                    ],
+                    "number": 30,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=30"
+                    ]
+                },
+                {
+                    "name": "Canal+",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=55"
+                    ],
+                    "number": 55,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=55"
+                    ]
+                },
+                {
+                    "name": "V Sport Motor",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=77"
+                    ],
+                    "number": 77,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=77"
+                    ]
+                }
+            ],
+            "slug": "formula-1-motorsport-austrian-grand-prix-2026-06-28-16-00",
+            "startTimestamp": 1782651600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [CFL] Canadian Football: Calgary Stampeders vs BC Lions [CBS Sports Network US]",
+            "matchstr": "Calgary Stampeders vs BC Lions",
+            "time": "02:00",
+            "league": "CFL",
+            "sport": "Canadian Football",
+            "team1": "Calgary Stampeders",
+            "team2": "BC Lions",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "cfl-canadian-football-calgary-stampeders-bc-lions-2026-06-28-02-00",
+            "startTimestamp": 1782601200000,
+            "duration": 180
+        },
+        {
+            "matchText": "18:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
+            "matchstr": "MX2",
+            "time": "18:00",
+            "league": "Motocross World Championship",
+            "sport": "Motorsport",
+            "team1": "MX2",
+            "team2": null,
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "motocross-world-championship-motorsport-mx2-2026-06-28-18-00",
+            "startTimestamp": 1782658800000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Motocross World Championship] Motorsport: MXGP [CBS Sports Network US]",
+            "matchstr": "MXGP",
+            "time": "19:00",
+            "league": "Motocross World Championship",
+            "sport": "Motorsport",
+            "team1": "MXGP",
+            "team2": null,
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "motocross-world-championship-motorsport-mxgp-2026-06-28-19-00",
+            "startTimestamp": 1782662400000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:30 [NASCAR Cup Series] Motorsport: Toyota / Save Mart 350 [TNT US]",
+            "matchstr": "Toyota / Save Mart 350",
+            "time": "22:30",
+            "league": "NASCAR Cup Series",
+            "sport": "Motorsport",
+            "team1": "Toyota / Save Mart 350",
+            "team2": null,
+            "channel": "TNT US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "TNT",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=10"
+                    ]
+                }
+            ],
+            "slug": "nascar-cup-series-motorsport-toyota-save-mart-350-2026-06-28-22-30",
+            "startTimestamp": 1782675000000,
+            "duration": 120
+        },
+        {
+            "matchText": "00:00 [GT World Challenge] Motorsport: GT World Challenge Europe [Sky Top Event DE]",
+            "matchstr": "GT World Challenge Europe",
+            "time": "00:00",
+            "league": "GT World Challenge",
+            "sport": "Motorsport",
+            "team1": "GT World Challenge Europe",
+            "team2": null,
+            "channel": "Sky Top Event DE",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Sky Top Event",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=14"
+                    ],
+                    "number": 14,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=14"
+                    ]
+                }
+            ],
+            "slug": "gt-world-challenge-motorsport-gt-world-challenge-europe-2026-06-28-00-00",
+            "startTimestamp": 1782594000000,
+            "duration": 120
+        },
+        {
+            "matchText": "07:00 [GT World Challenge] Motorsport: GT World Challenge Europe [Sky Top Event DE]",
+            "matchstr": "GT World Challenge Europe",
+            "time": "07:00",
+            "league": "GT World Challenge",
+            "sport": "Motorsport",
+            "team1": "GT World Challenge Europe",
+            "team2": null,
+            "channel": "Sky Top Event DE",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Sky Top Event",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=14"
+                    ],
+                    "number": 14,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=14"
+                    ]
+                }
+            ],
+            "slug": "gt-world-challenge-motorsport-gt-world-challenge-europe-2026-06-28-07-00",
+            "startTimestamp": 1782619200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [Europe UEFA U19 European Championship] Wales U19 vs Spain U19 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Wales U19 vs Spain U19",
+            "time": "20:00",
+            "league": "Europe UEFA U19 European Championship",
+            "sport": "Football",
+            "team1": "Wales U19",
+            "team2": "Spain U19",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u19-european-championship-football-wales-u19-spain-u19-2026-06-28-20-00",
+            "startTimestamp": 1782666000000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA U19 European Championship] Germany U19 vs Denmark U19 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Germany U19 vs Denmark U19",
+            "time": "22:00",
+            "league": "Europe UEFA U19 European Championship",
+            "sport": "Football",
+            "team1": "Germany U19",
+            "team2": "Denmark U19",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u19-european-championship-football-germany-u19-denmark-u19-2026-06-28-22-00",
+            "startTimestamp": 1782673200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [PFL] MMA: Professional Fighters League [RMC Sport 1 FR]",
+            "matchstr": "Professional Fighters League",
+            "time": "02:00",
+            "league": "PFL",
+            "sport": "MMA",
+            "team1": "Professional Fighters League",
+            "team2": null,
+            "channel": "RMC Sport 1 FR",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "RMC Sport 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=50"
+                    ],
+                    "number": 50,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=50"
+                    ]
+                }
+            ],
+            "slug": "pfl-mma-professional-fighters-league-2026-06-28-02-00",
+            "startTimestamp": 1782601200000,
+            "duration": 180
+        },
+        {
+            "matchText": "16:00 [Sweden Superettan] Norrkoping vs Norrby [TV4 Sportkanalen SE]",
+            "matchstr": "Norrkoping vs Norrby",
+            "time": "16:00",
+            "league": "Sweden Superettan",
+            "sport": "Football",
+            "team1": "Norrkoping",
+            "team2": "Norrby",
+            "channel": "TV4 Sportkanalen SE",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "TV4 Sportkanalen",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=75"
+                    ],
+                    "number": 75,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=75"
+                    ]
+                }
+            ],
+            "slug": "sweden-superettan-football-norrkoping-norrby-2026-06-28-16-00",
+            "startTimestamp": 1782651600000,
+            "duration": 120
+        },
+        {
+            "matchText": "08:30 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
+            "matchstr": "WRC Acropolis Race Greece",
+            "time": "08:30",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "WRC Acropolis Race Greece",
+            "team2": null,
+            "channel": "MTV Max FI",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "MTV Max",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=78"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-08-30",
+            "startTimestamp": 1782624600000,
+            "duration": 120
+        },
+        {
+            "matchText": "12:10 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
+            "matchstr": "WRC Acropolis Race Greece",
+            "time": "12:10",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "WRC Acropolis Race Greece",
+            "team2": null,
+            "channel": "MTV Max FI",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "MTV Max",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=78"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-12-10",
+            "startTimestamp": 1782637800000,
+            "duration": 120
+        },
+        {
+            "matchText": "14:35 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
+            "matchstr": "WRC Acropolis Race Greece",
+            "time": "14:35",
+            "league": "World Rally Championship",
+            "sport": "Motorsport",
+            "team1": "WRC Acropolis Race Greece",
+            "team2": null,
+            "channel": "MTV Max FI",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "MTV Max",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=78"
+                    ],
+                    "number": 78,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=78"
+                    ]
+                }
+            ],
+            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-14-35",
+            "startTimestamp": 1782646500000,
+            "duration": 120
+        },
+        {
+            "matchText": "04:00 [ARCA Menards Series] Motorsport: Shore Lunch 250 [Fox Sports 2 US]",
+            "matchstr": "Shore Lunch 250",
+            "time": "04:00",
+            "league": "ARCA Menards Series",
+            "sport": "Motorsport",
+            "team1": "Shore Lunch 250",
+            "team2": null,
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "arca-menards-series-motorsport-shore-lunch-250-2026-06-28-04-00",
+            "startTimestamp": 1782608400000,
+            "duration": 120
+        },
+        {
+            "matchText": "10:00 [AFL] Australian Football: Fremantle Dockers vs Gold Coast Suns [Fox Sports 2 US]",
+            "matchstr": "Fremantle Dockers vs Gold Coast Suns",
+            "time": "10:00",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "Fremantle Dockers",
+            "team2": "Gold Coast Suns",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-fremantle-dockers-gold-coast-suns-2026-06-28-10-00",
+            "startTimestamp": 1782630000000,
+            "duration": 180
+        },
+        {
+            "matchText": "08:00 [AFL] Australian Football: North Melbourne Kangaroos vs Essendon Bombers [Fox Soccer Plus US]",
+            "matchstr": "North Melbourne Kangaroos vs Essendon Bombers",
+            "time": "08:00",
+            "league": "AFL",
+            "sport": "Australian Football",
+            "team1": "North Melbourne Kangaroos",
+            "team2": "Essendon Bombers",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "afl-australian-football-north-melbourne-kangaroos-essendon-bombers-2026-06-28-08-00",
+            "startTimestamp": 1782622800000,
+            "duration": 180
+        },
+        {
+            "matchText": "17:00 [Super League Rugby] Rugby: Wakefield Trinity vs Huddersfield [Fox Soccer Plus US]",
+            "matchstr": "Wakefield Trinity vs Huddersfield",
+            "time": "17:00",
+            "league": "Super League Rugby",
+            "sport": "Rugby",
+            "team1": "Wakefield Trinity",
+            "team2": "Huddersfield",
+            "channel": "Fox Soccer Plus US",
+            "important": false,
+            "matchDate": "2026-06-28",
+            "channels": [
+                {
+                    "name": "Fox Soccer Plus",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=83"
+                    ],
+                    "number": 83,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=83"
+                    ]
+                }
+            ],
+            "slug": "super-league-rugby-rugby-wakefield-trinity-huddersfield-2026-06-28-17-00",
+            "startTimestamp": 1782655200000,
+            "duration": 120
         }
     ]
 }
