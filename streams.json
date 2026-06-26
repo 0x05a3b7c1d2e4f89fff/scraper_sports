@@ -585,45 +585,6 @@
             "duration": 180
         },
         {
-            "matchText": "13:35 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [TV4 Motor SE]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "13:35",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                },
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-13-35",
-            "startTimestamp": 1782470100000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [TV4 Motor SE]",
             "matchstr": "WRC Acropolis Race Greece",
             "time": "17:00",
@@ -688,34 +649,6 @@
             ],
             "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-14-45",
             "startTimestamp": 1782474300000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [NRL] Rugby: Sydney Roosters vs Brisbane Broncos [Fox Sports 2 US]",
-            "matchstr": "Sydney Roosters vs Brisbane Broncos",
-            "time": "13:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "Sydney Roosters",
-            "team2": "Brisbane Broncos",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-sydney-roosters-brisbane-broncos-2026-06-26-13-00",
-            "startTimestamp": 1782468000000,
             "duration": 120
         },
         {
