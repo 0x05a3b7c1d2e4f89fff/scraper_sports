@@ -283,86 +283,6 @@
             "duration": 120
         },
         {
-            "matchText": "11:00 [Formula 3] Spielberg [Sky Sports F1 GB]",
-            "matchstr": "Spielberg",
-            "time": "11:00",
-            "league": "Formula 3",
-            "sport": "Football",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7",
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "formula-3-football-spielberg-2026-06-26-11-00",
-            "startTimestamp": 1782460800000,
-            "duration": 120
-        },
-        {
-            "matchText": "12:00 [Formula 2] Spielberg [Sky Sports F1 GB]",
-            "matchstr": "Spielberg",
-            "time": "12:00",
-            "league": "Formula 2",
-            "sport": "Football",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7",
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "formula-2-football-spielberg-2026-06-26-12-00",
-            "startTimestamp": 1782464400000,
-            "duration": 120
-        },
-        {
             "matchText": "14:30 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Austrian Grand Prix",
             "time": "14:30",
@@ -740,34 +660,6 @@
             ],
             "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-17-00",
             "startTimestamp": 1782482400000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:15 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "11:15",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-11-15",
-            "startTimestamp": 1782461700000,
             "duration": 120
         },
         {
