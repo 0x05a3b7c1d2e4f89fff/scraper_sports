@@ -211,45 +211,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [World Series of Darts] Darts: U.S. Masters [TV3 Sport DK]",
-            "matchstr": "U.S. Masters",
-            "time": "20:00",
-            "league": "World Series of Darts",
-            "sport": "Darts",
-            "team1": "U.S. Masters",
-            "team2": null,
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=69"
-                    ]
-                },
-                {
-                    "name": "Viaplay TV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "world-series-of-darts-darts-u-s-masters-2026-06-26-20-00",
-            "startTimestamp": 1782493200000,
-            "duration": 180
-        },
-        {
             "matchText": "03:00 [FIFA World Cup] Uruguay vs Spain [ITV 1 GB]",
             "matchstr": "Uruguay vs Spain",
             "time": "03:00",
