@@ -211,46 +211,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Formula 3] Motorsport: Spielberg [Sky Sports F1 GB]",
-            "matchstr": "Spielberg",
-            "time": "16:00",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7",
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-spielberg-2026-06-26-16-00",
-            "startTimestamp": 1782478800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [Formula 2] Motorsport: Spielberg [Sky Sports F1 GB]",
             "matchstr": "Spielberg",
             "time": "17:00",
