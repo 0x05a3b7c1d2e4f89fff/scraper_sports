@@ -480,34 +480,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:45 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "14:45",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-14-45",
-            "startTimestamp": 1782474300000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [FIFA World Cup] Uruguay vs Spain [ITV 1 GB]",
             "matchstr": "Uruguay vs Spain",
             "time": "03:00",
