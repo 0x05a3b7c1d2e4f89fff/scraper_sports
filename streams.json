@@ -211,46 +211,6 @@
             "duration": 120
         },
         {
-            "matchText": "17:00 [Formula 2] Motorsport: Spielberg [Sky Sports F1 GB]",
-            "matchstr": "Spielberg",
-            "time": "17:00",
-            "league": "Formula 2",
-            "sport": "Motorsport",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7",
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=76"
-                    ],
-                    "number": 76,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=76"
-                    ]
-                }
-            ],
-            "slug": "formula-2-motorsport-spielberg-2026-06-26-17-00",
-            "startTimestamp": 1782482400000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Austrian Grand Prix",
             "time": "18:00",
@@ -323,45 +283,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:30 [One] MMA: One Friday Fights [beIN Sport US]",
-            "matchstr": "One Friday Fights",
-            "time": "16:30",
-            "league": "One",
-            "sport": "MMA",
-            "team1": "One Friday Fights",
-            "team2": null,
-            "channel": "beIN Sport US",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "beIN Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=38"
-                    ],
-                    "number": 38,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=38"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "one-mma-one-friday-fights-2026-06-26-16-30",
-            "startTimestamp": 1782480600000,
-            "duration": 180
-        },
-        {
             "matchText": "20:00 [World Series of Darts] Darts: U.S. Masters [TV3 Sport DK]",
             "matchstr": "U.S. Masters",
             "time": "20:00",
@@ -399,45 +320,6 @@
             "slug": "world-series-of-darts-darts-u-s-masters-2026-06-26-20-00",
             "startTimestamp": 1782493200000,
             "duration": 180
-        },
-        {
-            "matchText": "17:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [TV4 Motor SE]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "17:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                },
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-17-00",
-            "startTimestamp": 1782482400000,
-            "duration": 120
         },
         {
             "matchText": "03:00 [FIFA World Cup] Uruguay vs Spain [ITV 1 GB]",
