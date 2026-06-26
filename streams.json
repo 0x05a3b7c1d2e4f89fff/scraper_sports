@@ -875,34 +875,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [World Series of Darts] Darts: U.S. Masters [TV3 Sport DK]",
-            "matchstr": "U.S. Masters",
-            "time": "02:00",
-            "league": "World Series of Darts",
-            "sport": "Darts",
-            "team1": "U.S. Masters",
-            "team2": null,
-            "channel": "TV3 Sport DK",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "TV3 Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=69"
-                    ],
-                    "number": 69,
-                    "language": "DK",
-                    "links": [
-                        "https://s2.kora.st/channel?id=69"
-                    ]
-                }
-            ],
-            "slug": "world-series-of-darts-darts-u-s-masters-2026-06-26-02-00",
-            "startTimestamp": 1782428400000,
-            "duration": 180
-        },
-        {
             "matchText": "20:00 [World Series of Darts] Darts: U.S. Masters [TV3 Sport DK]",
             "matchstr": "U.S. Masters",
             "time": "20:00",
