@@ -1,216 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:00 [FIFA World Cup] Norway vs France [ITV 1 GB]",
-            "matchstr": "Norway vs France",
-            "time": "22:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "Norway",
-            "team2": "France",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Mediacorp",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=9"
-                    ],
-                    "number": 9,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=9"
-                    ]
-                },
-                {
-                    "name": "MagentaTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "Rai 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "M6",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=56"
-                    ]
-                },
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=60"
-                    ]
-                },
-                {
-                    "name": "NRK1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=74"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-norway-france-2026-06-26-22-00",
-            "startTimestamp": 1782500400000,
-            "duration": 120
-        },
-        {
-            "matchText": "22:00 [FIFA World Cup] Senegal vs Iraq [ITV 4 GB]",
-            "matchstr": "Senegal vs Iraq",
-            "time": "22:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "Senegal",
-            "team2": "Iraq",
-            "channel": "ITV 4 GB",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "ITV 4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=4"
-                    ],
-                    "number": 4,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=4"
-                    ]
-                },
-                {
-                    "name": "MagentaTV 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=12"
-                    ],
-                    "number": 12,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=12"
-                    ]
-                },
-                {
-                    "name": "TSN2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=32"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=52"
-                    ],
-                    "number": 52,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=52"
-                    ]
-                },
-                {
-                    "name": "Fox Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=81"
-                    ],
-                    "number": 81,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=81"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=99"
-                    ],
-                    "number": 99,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=99"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-senegal-iraq-2026-06-26-22-00",
-            "startTimestamp": 1782500400000,
-            "duration": 120
-        },
-        {
             "matchText": "03:00 [FIFA World Cup] Uruguay vs Spain [ITV 1 GB]",
             "matchstr": "Uruguay vs Spain",
             "time": "03:00",
@@ -231,6 +21,17 @@
                     "language": "GB",
                     "links": [
                         "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "Mediacorp",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=6"
+                    ],
+                    "number": 6,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=6"
                     ]
                 },
                 {
