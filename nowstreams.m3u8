@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
 #EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (ITV 1)
 https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (Fox)
+#EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (Mediacorp)
 https://s2.kora.st/channel?id=9
 #EXTINF:-1 tvg-id="fifa-world-cup-football-norway-france-2026-06-26-22-00" group-title="FIFA World Cup",Norway vs France (MagentaTV)
 https://s2.kora.st/channel?id=11
@@ -171,9 +171,11 @@ https://s2.kora.st/channel?id=55
 https://s2.kora.st/channel?id=66
 #EXTINF:-1 tvg-id="formula-3-motorsport-spielberg-2026-06-27-11-00" group-title="Formula 3",Spielberg (Sky Sports F1)
 https://s2.kora.st/channel?id=7
+#EXTINF:-1 tvg-id="formula-3-motorsport-spielberg-2026-06-27-11-00" group-title="Formula 3",Spielberg (Sky Sport F1)
+https://s2.kora.st/channel?id=13
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-13-30" group-title="Formula 1",Austrian Grand Prix (Sky Sports F1)
 https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-13-30" group-title="Formula 1",Austrian Grand Prix (V Sport Motor)
+#EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-13-30" group-title="Formula 1",Austrian Grand Prix (Sky Sport F1)
 https://s2.kora.st/channel?id=13
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-13-30" group-title="Formula 1",Austrian Grand Prix (DAZN F1)
 https://s2.kora.st/channel?id=30
@@ -181,9 +183,11 @@ https://s2.kora.st/channel?id=30
 https://s2.kora.st/channel?id=54
 #EXTINF:-1 tvg-id="formula-2-motorsport-spielberg-2026-06-27-15-10" group-title="Formula 2",Spielberg (Sky Sports F1)
 https://s2.kora.st/channel?id=7
+#EXTINF:-1 tvg-id="formula-2-motorsport-spielberg-2026-06-27-15-10" group-title="Formula 2",Spielberg (Sky Sport F1)
+https://s2.kora.st/channel?id=13
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00" group-title="Formula 1",Austrian Grand Prix (Sky Sports F1)
 https://s2.kora.st/channel?id=7
-#EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00" group-title="Formula 1",Austrian Grand Prix (V Sport Motor)
+#EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00" group-title="Formula 1",Austrian Grand Prix (Sky Sport F1)
 https://s2.kora.st/channel?id=13
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00" group-title="Formula 1",Austrian Grand Prix (DAZN F1)
 https://s2.kora.st/channel?id=30
@@ -193,10 +197,6 @@ https://s2.kora.st/channel?id=54
 https://s2.kora.st/channel?id=8
 #EXTINF:-1 tvg-id="bkfc-mma-bkfc-fight-night-2026-06-27-04-00" group-title="BKFC",BKFC Fight Night (Fight Network)
 https://s2.kora.st/channel?id=9
-#EXTINF:-1 tvg-id="formula-3-football-spielberg-2026-06-27-11-00" group-title="Formula 3",Spielberg (V Sport Motor)
-https://s2.kora.st/channel?id=13
-#EXTINF:-1 tvg-id="formula-2-football-spielberg-2026-06-27-15-10" group-title="Formula 2",Spielberg (V Sport Motor)
-https://s2.kora.st/channel?id=13
 #EXTINF:-1 tvg-id="rugby-union-friendly-rugby-japan-xv-maori-all-blacks-2026-06-27-13-00" group-title="Rugby Union Friendly",Japan XV vs Maori All Blacks (Sky Sport 2)
 https://s2.kora.st/channel?id=32
 #EXTINF:-1 tvg-id="world-series-of-darts-darts-u-s-masters-2026-06-27-02-30" group-title="World Series of Darts",U.S. Masters (TV3 Sport)

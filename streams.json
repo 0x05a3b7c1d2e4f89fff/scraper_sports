@@ -24,7 +24,7 @@
                     ]
                 },
                 {
-                    "name": "Fox",
+                    "name": "Mediacorp",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=9"
                     ],
@@ -1314,6 +1314,17 @@
                     "links": [
                         "https://s2.kora.st/channel?id=7"
                     ]
+                },
+                {
+                    "name": "Sky Sport F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=13"
+                    ],
+                    "number": 13,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=13"
+                    ]
                 }
             ],
             "slug": "formula-3-motorsport-spielberg-2026-06-27-11-00",
@@ -1344,12 +1355,12 @@
                     ]
                 },
                 {
-                    "name": "V Sport Motor",
+                    "name": "Sky Sport F1",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=13"
                     ],
                     "number": 13,
-                    "language": "SE",
+                    "language": "DE",
                     "links": [
                         "https://s2.kora.st/channel?id=13"
                     ]
@@ -1403,6 +1414,17 @@
                     "links": [
                         "https://s2.kora.st/channel?id=7"
                     ]
+                },
+                {
+                    "name": "Sky Sport F1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=13"
+                    ],
+                    "number": 13,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=13"
+                    ]
                 }
             ],
             "slug": "formula-2-motorsport-spielberg-2026-06-27-15-10",
@@ -1433,12 +1455,12 @@
                     ]
                 },
                 {
-                    "name": "V Sport Motor",
+                    "name": "Sky Sport F1",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=13"
                     ],
                     "number": 13,
-                    "language": "SE",
+                    "language": "DE",
                     "links": [
                         "https://s2.kora.st/channel?id=13"
                     ]
@@ -1525,62 +1547,6 @@
             "slug": "bkfc-mma-bkfc-fight-night-2026-06-27-04-00",
             "startTimestamp": 1782522000000,
             "duration": 180
-        },
-        {
-            "matchText": "11:00 [Formula 3] Spielberg [V Sport Motor SE]",
-            "matchstr": "Spielberg",
-            "time": "11:00",
-            "league": "Formula 3",
-            "sport": "Football",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "V Sport Motor SE",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "formula-3-football-spielberg-2026-06-27-11-00",
-            "startTimestamp": 1782547200000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:10 [Formula 2] Spielberg [V Sport Motor SE]",
-            "matchstr": "Spielberg",
-            "time": "15:10",
-            "league": "Formula 2",
-            "sport": "Football",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "V Sport Motor SE",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "formula-2-football-spielberg-2026-06-27-15-10",
-            "startTimestamp": 1782562200000,
-            "duration": 120
         },
         {
             "matchText": "13:00 [Rugby Union Friendly] Rugby: Japan XV vs Maori All Blacks [Sky Sport 2 NZ]",
