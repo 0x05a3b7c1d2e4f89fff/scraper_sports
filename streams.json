@@ -665,45 +665,6 @@
             "duration": 180
         },
         {
-            "matchText": "09:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [TV4 Motor SE]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "09:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "TV4 Motor SE",
-            "important": false,
-            "matchDate": "2026-06-26",
-            "channels": [
-                {
-                    "name": "TV4 Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                },
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-26-09-00",
-            "startTimestamp": 1782453600000,
-            "duration": 120
-        },
-        {
             "matchText": "13:35 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [TV4 Motor SE]",
             "matchstr": "WRC Acropolis Race Greece",
             "time": "13:35",
