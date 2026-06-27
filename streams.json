@@ -575,34 +575,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Sweden Superettan] Ljungskile vs Orebro [TV4 Fotball SE]",
-            "matchstr": "Ljungskile vs Orebro",
-            "time": "16:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Ljungskile",
-            "team2": "Orebro",
-            "channel": "TV4 Fotball SE",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "TV4 Fotball",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=79"
-                    ],
-                    "number": 79,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=79"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-ljungskile-orebro-2026-06-27-16-00",
-            "startTimestamp": 1782565200000,
-            "duration": 120
-        },
-        {
             "matchText": "00:00 [FIFA World Cup] Panama vs England [BBC One GB]",
             "matchstr": "Panama vs England",
             "time": "00:00",
