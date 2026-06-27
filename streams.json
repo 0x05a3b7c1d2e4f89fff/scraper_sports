@@ -579,45 +579,6 @@
             "duration": 180
         },
         {
-            "matchText": "11:00 [Formula 3] Motorsport: Spielberg [Sky Sports F1 GB]",
-            "matchstr": "Spielberg",
-            "time": "11:00",
-            "league": "Formula 3",
-            "sport": "Motorsport",
-            "team1": "Spielberg",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                }
-            ],
-            "slug": "formula-3-motorsport-spielberg-2026-06-27-11-00",
-            "startTimestamp": 1782547200000,
-            "duration": 120
-        },
-        {
             "matchText": "13:30 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Austrian Grand Prix",
             "time": "13:30",
@@ -972,34 +933,6 @@
             ],
             "slug": "finland-veikkausliiga-football-tps-jaro-2026-06-27-19-00",
             "startTimestamp": 1782576000000,
-            "duration": 120
-        },
-        {
-            "matchText": "11:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "11:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-11-00",
-            "startTimestamp": 1782547200000,
             "duration": 120
         },
         {
