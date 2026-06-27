@@ -975,34 +975,6 @@
             "duration": 120
         },
         {
-            "matchText": "07:45 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "07:45",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-07-45",
-            "startTimestamp": 1782535500000,
-            "duration": 120
-        },
-        {
             "matchText": "11:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
             "matchstr": "WRC Acropolis Race Greece",
             "time": "11:00",
@@ -1141,62 +1113,6 @@
             "slug": "sweden-superettan-football-ljungskile-orebro-2026-06-27-16-00",
             "startTimestamp": 1782565200000,
             "duration": 120
-        },
-        {
-            "matchText": "08:00 [NRL] Rugby: New Zealand Warriors vs Dolphins [Fox Sports 2 US]",
-            "matchstr": "New Zealand Warriors vs Dolphins",
-            "time": "08:00",
-            "league": "NRL",
-            "sport": "Rugby",
-            "team1": "New Zealand Warriors",
-            "team2": "Dolphins",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "nrl-rugby-new-zealand-warriors-dolphins-2026-06-27-08-00",
-            "startTimestamp": 1782536400000,
-            "duration": 120
-        },
-        {
-            "matchText": "06:00 [AFL] Australian Football: Carlton vs West Coast Eagles [Fox Soccer Plus US]",
-            "matchstr": "Carlton vs West Coast Eagles",
-            "time": "06:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Carlton",
-            "team2": "West Coast Eagles",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-carlton-west-coast-eagles-2026-06-27-06-00",
-            "startTimestamp": 1782529200000,
-            "duration": 180
         },
         {
             "matchText": "09:00 [AFL] Australian Football: Richmond Tigers vs Collingwood Magpies [Fox Soccer Plus US]",
