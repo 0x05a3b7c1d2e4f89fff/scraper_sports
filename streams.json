@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "19:30 [World Rugby U-20 Championship] Rugby: Australia U20 vs Spain U20 [Premier Sports 1 GB]",
-            "matchstr": "Australia U20 vs Spain U20",
-            "time": "19:30",
-            "league": "World Rugby U-20 Championship",
-            "sport": "Rugby",
-            "team1": "Australia U20",
-            "team2": "Spain U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Select",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=34"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u-20-championship-rugby-australia-u20-spain-u20-2026-06-27-19-30",
-            "startTimestamp": 1782577800000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [France Top 14] Rugby: Montpellier vs Stade Toulousain [Premier Sports 1 GB]",
             "matchstr": "Montpellier vs Stade Toulousain",
             "time": "22:00",
@@ -90,104 +51,32 @@
             "duration": 120
         },
         {
-            "matchText": "19:30 [World Rugby U-20 Championship] Rugby: South Africa U20 vs Uruguay U20 [Premier Sports 2 GB]",
-            "matchstr": "South Africa U20 vs Uruguay U20",
-            "time": "19:30",
-            "league": "World Rugby U-20 Championship",
-            "sport": "Rugby",
-            "team1": "South Africa U20",
-            "team2": "Uruguay U20",
-            "channel": "Premier Sports 2 GB",
+            "matchText": "21:00 [Finland Veikkausliiga] Oulu vs Lahti [Ruutu+ FI]",
+            "matchstr": "Oulu vs Lahti",
+            "time": "21:00",
+            "league": "Finland Veikkausliiga",
+            "sport": "Football",
+            "team1": "Oulu",
+            "team2": "Lahti",
+            "channel": "Ruutu+ FI",
             "important": false,
             "matchDate": "2026-06-27",
             "channels": [
                 {
-                    "name": "Premier Sports 2",
+                    "name": "Ruutu+",
                     "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
+                        "https://playfa.st/ch.php?id=71"
                     ],
-                    "number": 3,
-                    "language": "GB",
+                    "number": 71,
+                    "language": "FI",
                     "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 7",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=37"
-                    ],
-                    "number": 37,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=37"
+                        "https://s2.kora.st/channel?id=71"
                     ]
                 }
             ],
-            "slug": "world-rugby-u-20-championship-rugby-south-africa-u20-uruguay-u20-2026-06-27-19-30",
-            "startTimestamp": 1782577800000,
+            "slug": "finland-veikkausliiga-football-oulu-lahti-2026-06-27-21-00",
+            "startTimestamp": 1782583200000,
             "duration": 120
-        },
-        {
-            "matchText": "19:30 [UFC Fight Night] MMA: Rafael Fiziev vs Manuel Torres [TNT Sports 1 GB]",
-            "matchstr": "Rafael Fiziev vs Manuel Torres",
-            "time": "19:30",
-            "league": "UFC Fight Night",
-            "sport": "MMA",
-            "team1": "Rafael Fiziev",
-            "team2": "Manuel Torres",
-            "channel": "TNT Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "TNT Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=6"
-                    ]
-                },
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "Go3 Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "EE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "ufc-fight-night-mma-rafael-fiziev-manuel-torres-2026-06-27-19-30",
-            "startTimestamp": 1782577800000,
-            "duration": 180
         },
         {
             "matchText": "21:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
@@ -1653,6 +1542,467 @@
             ],
             "slug": "super-league-rugby-rugby-wakefield-trinity-huddersfield-2026-06-28-17-00",
             "startTimestamp": 1782655200000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIFA World Cup] Brazil vs Japan [BBC One GB]",
+            "matchstr": "Brazil vs Japan",
+            "time": "20:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Brazil",
+            "team2": "Japan",
+            "channel": "BBC One GB",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "BBC One",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "RAI 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=47"
+                    ],
+                    "number": 47,
+                    "language": "IT",
+                    "links": [
+                        "https://s2.kora.st/channel?id=47"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "TV4",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-brazil-japan-2026-06-29-20-00",
+            "startTimestamp": 1782752400000,
+            "duration": 120
+        },
+        {
+            "matchText": "23:00 [FIFA World Cup] Germany vs Paraguay [BBC One GB]",
+            "matchstr": "Germany vs Paraguay",
+            "time": "23:00",
+            "league": "FIFA World Cup",
+            "sport": "Football",
+            "team1": "Germany",
+            "team2": "Paraguay",
+            "channel": "BBC One GB",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "BBC One",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=1"
+                    ],
+                    "number": 1,
+                    "language": "GB",
+                    "links": [
+                        "https://s2.kora.st/channel?id=1"
+                    ]
+                },
+                {
+                    "name": "MagentaTV",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=11"
+                    ],
+                    "number": 11,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=11"
+                    ]
+                },
+                {
+                    "name": "TSN1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=31"
+                    ],
+                    "number": 31,
+                    "language": "CA",
+                    "links": [
+                        "https://s2.kora.st/channel?id=31"
+                    ]
+                },
+                {
+                    "name": "M6",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=56"
+                    ],
+                    "number": 56,
+                    "language": "FR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=56"
+                    ]
+                },
+                {
+                    "name": "TVP Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=60"
+                    ],
+                    "number": 60,
+                    "language": "PL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=60"
+                    ]
+                },
+                {
+                    "name": "HRT 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=70"
+                    ],
+                    "number": 70,
+                    "language": "HR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=70"
+                    ]
+                },
+                {
+                    "name": "MTV Urheilu 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=71"
+                    ],
+                    "number": 71,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=71"
+                    ]
+                },
+                {
+                    "name": "SVT 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=74"
+                    ],
+                    "number": 74,
+                    "language": "SE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=74"
+                    ]
+                },
+                {
+                    "name": "NPO 1",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=88"
+                    ],
+                    "number": 88,
+                    "language": "NL",
+                    "links": [
+                        "https://s2.kora.st/channel?id=88"
+                    ]
+                },
+                {
+                    "name": "DAZN Mundial",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=100"
+                    ],
+                    "number": 100,
+                    "language": "ES",
+                    "links": [
+                        "https://s2.kora.st/channel?id=100"
+                    ]
+                }
+            ],
+            "slug": "fifa-world-cup-football-germany-paraguay-2026-06-29-23-00",
+            "startTimestamp": 1782763200000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [CFL] Canadian Football: Ottawa RedBlacks vs Montreal Alouettes [CBS Sports Network US]",
+            "matchstr": "Ottawa RedBlacks vs Montreal Alouettes",
+            "time": "02:00",
+            "league": "CFL",
+            "sport": "Canadian Football",
+            "team1": "Ottawa RedBlacks",
+            "team2": "Montreal Alouettes",
+            "channel": "CBS Sports Network US",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "CBS Sports Network",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=8"
+                    ],
+                    "number": 8,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=8"
+                    ]
+                }
+            ],
+            "slug": "cfl-canadian-football-ottawa-redblacks-montreal-alouettes-2026-06-29-02-00",
+            "startTimestamp": 1782687600000,
+            "duration": 180
+        },
+        {
+            "matchText": "02:00 [WNBA] Basketball: New York Liberty vs Golden State Valkyries [ESPN US]",
+            "matchstr": "New York Liberty vs Golden State Valkyries",
+            "time": "02:00",
+            "league": "WNBA",
+            "sport": "Basketball",
+            "team1": "New York Liberty",
+            "team2": "Golden State Valkyries",
+            "channel": "ESPN US",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "ESPN",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=10"
+                    ],
+                    "number": 10,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=10"
+                    ]
+                }
+            ],
+            "slug": "wnba-basketball-new-york-liberty-golden-state-valkyries-2026-06-29-02-00",
+            "startTimestamp": 1782687600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:00 [Europe UEFA U19 European Championship] Italy U19 vs Serbia U19 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Italy U19 vs Serbia U19",
+            "time": "18:00",
+            "league": "Europe UEFA U19 European Championship",
+            "sport": "Football",
+            "team1": "Italy U19",
+            "team2": "Serbia U19",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u19-european-championship-football-italy-u19-serbia-u19-2026-06-29-18-00",
+            "startTimestamp": 1782745200000,
+            "duration": 120
+        },
+        {
+            "matchText": "22:00 [Europe UEFA U19 European Championship] Croatia U19 vs Ukraine U19 [Sportdigital FUSSBALL DE]",
+            "matchstr": "Croatia U19 vs Ukraine U19",
+            "time": "22:00",
+            "league": "Europe UEFA U19 European Championship",
+            "sport": "Football",
+            "team1": "Croatia U19",
+            "team2": "Ukraine U19",
+            "channel": "Sportdigital FUSSBALL DE",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "Sportdigital FUSSBALL",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=19"
+                    ],
+                    "number": 19,
+                    "language": "DE",
+                    "links": [
+                        "https://s2.kora.st/channel?id=19"
+                    ]
+                }
+            ],
+            "slug": "europe-uefa-u19-european-championship-football-croatia-u19-ukraine-u19-2026-06-29-22-00",
+            "startTimestamp": 1782759600000,
+            "duration": 120
+        },
+        {
+            "matchText": "18:30 [World Club Friendly] Crvena Zvezda vs Slovan Bratislava [Arena 2 Premium SR]",
+            "matchstr": "Crvena Zvezda vs Slovan Bratislava",
+            "time": "18:30",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "Crvena Zvezda",
+            "team2": "Slovan Bratislava",
+            "channel": "Arena 2 Premium SR",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "Arena 2 Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=66"
+                    ],
+                    "number": 66,
+                    "language": "SR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=66"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-crvena-zvezda-slovan-bratislava-2026-06-29-18-30",
+            "startTimestamp": 1782747000000,
+            "duration": 120
+        },
+        {
+            "matchText": "17:00 [World Club Friendly] CSKA 1948 vs Partizan [Arena 3 Premium SR]",
+            "matchstr": "CSKA 1948 vs Partizan",
+            "time": "17:00",
+            "league": "World Club Friendly",
+            "sport": "Football",
+            "team1": "CSKA 1948",
+            "team2": "Partizan",
+            "channel": "Arena 3 Premium SR",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "Arena 3 Premium",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=67"
+                    ],
+                    "number": 67,
+                    "language": "SR",
+                    "links": [
+                        "https://s2.kora.st/channel?id=67"
+                    ]
+                }
+            ],
+            "slug": "world-club-friendly-football-cska-1948-partizan-2026-06-29-17-00",
+            "startTimestamp": 1782741600000,
+            "duration": 120
+        },
+        {
+            "matchText": "02:00 [Canada Canadian Premier League] Cavalry vs Supra du Quebec [Fox Sports 2 US]",
+            "matchstr": "Cavalry vs Supra du Quebec",
+            "time": "02:00",
+            "league": "Canada Canadian Premier League",
+            "sport": "Football",
+            "team1": "Cavalry",
+            "team2": "Supra du Quebec",
+            "channel": "Fox Sports 2 US",
+            "important": false,
+            "matchDate": "2026-06-29",
+            "channels": [
+                {
+                    "name": "Fox Sports 2",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=82"
+                    ],
+                    "number": 82,
+                    "language": "US",
+                    "links": [
+                        "https://s2.kora.st/channel?id=82"
+                    ]
+                }
+            ],
+            "slug": "canada-canadian-premier-league-football-cavalry-supra-du-quebec-2026-06-29-02-00",
+            "startTimestamp": 1782687600000,
             "duration": 120
         }
     ]
