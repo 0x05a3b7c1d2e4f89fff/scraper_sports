@@ -1,18 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (BBC One)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (TVNZ 1)
-https://s2.kora.st/channel?id=10
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (beIN Sports 1)
-https://s2.kora.st/channel?id=51
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (TV4)
-https://s2.kora.st/channel?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (DAZN Mundial)
-https://s2.kora.st/channel?id=100
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-italy-u20-scotland-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Italy U20 vs Scotland U20 (Premier Sports 1)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-italy-u20-scotland-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Italy U20 vs Scotland U20 (Sport TV1)
@@ -39,20 +25,6 @@ https://s2.kora.st/channel?id=1
 https://s2.kora.st/channel?id=28
 #EXTINF:-1 tvg-id="france-top-14-rugby-montpellier-stade-toulousain-2026-06-27-22-00" group-title="France Top 14",Montpellier vs Stade Toulousain (Canal+)
 https://s2.kora.st/channel?id=50
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (BBC Two)
-https://s2.kora.st/channel?id=2
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (MagentaTV 2)
-https://s2.kora.st/channel?id=12
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (Sport TV1)
-https://s2.kora.st/channel?id=21
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (TSN2)
-https://s2.kora.st/channel?id=32
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (beIN Sports 2)
-https://s2.kora.st/channel?id=52
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (Fox Sports 1)
-https://s2.kora.st/channel?id=81
-#EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (DAZN Mundial 2)
-https://s2.kora.st/channel?id=99
 #EXTINF:-1 tvg-id="motogp-motorsport-dutch-grand-prix-2026-06-27-09-40" group-title="MotoGP",Dutch Grand Prix (TNT Sports 2)
 https://s2.kora.st/channel?id=2
 #EXTINF:-1 tvg-id="motogp-motorsport-dutch-grand-prix-2026-06-27-09-40" group-title="MotoGP",Dutch Grand Prix (DAZN MotoGP)
@@ -119,10 +91,6 @@ https://s2.kora.st/channel?id=13
 https://s2.kora.st/channel?id=30
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00" group-title="Formula 1",Austrian Grand Prix (Canal+ Sport)
 https://s2.kora.st/channel?id=54
-#EXTINF:-1 tvg-id="cfl-canadian-football-toronto-argonauts-saskatchewan-roughriders-2026-06-27-04-00" group-title="CFL",Toronto Argonauts vs Saskatchewan Roughriders (CBS Sports Network)
-https://s2.kora.st/channel?id=8
-#EXTINF:-1 tvg-id="bkfc-mma-bkfc-fight-night-2026-06-27-04-00" group-title="BKFC",BKFC Fight Night (Fight Network)
-https://s2.kora.st/channel?id=9
 #EXTINF:-1 tvg-id="rugby-union-friendly-rugby-japan-xv-maori-all-blacks-2026-06-27-13-00" group-title="Rugby Union Friendly",Japan XV vs Maori All Blacks (Sky Sport 2)
 https://s2.kora.st/channel?id=32
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-ilves-sjk-2026-06-27-14-00" group-title="Finland Veikkausliiga",Ilves vs SJK (Ruutu+)
