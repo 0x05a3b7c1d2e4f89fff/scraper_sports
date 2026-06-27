@@ -51,62 +51,6 @@
             "duration": 120
         },
         {
-            "matchText": "21:00 [Finland Veikkausliiga] Oulu vs Lahti [Ruutu+ FI]",
-            "matchstr": "Oulu vs Lahti",
-            "time": "21:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Oulu",
-            "team2": "Lahti",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-oulu-lahti-2026-06-27-21-00",
-            "startTimestamp": 1782583200000,
-            "duration": 120
-        },
-        {
-            "matchText": "21:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "21:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-21-00",
-            "startTimestamp": 1782583200000,
-            "duration": 120
-        },
-        {
             "matchText": "00:00 [FIFA World Cup] Panama vs England [BBC One GB]",
             "matchstr": "Panama vs England",
             "time": "00:00",
