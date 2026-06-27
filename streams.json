@@ -1,45 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "17:00 [World Rugby U-20 Championship] Rugby: France U20 vs Fiji U20 [Premier Sports 1 GB]",
-            "matchstr": "France U20 vs Fiji U20",
-            "time": "17:00",
-            "league": "World Rugby U-20 Championship",
-            "sport": "Rugby",
-            "team1": "France U20",
-            "team2": "Fiji U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u-20-championship-rugby-france-u20-fiji-u20-2026-06-27-17-00",
-            "startTimestamp": 1782568800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:30 [World Rugby U-20 Championship] Rugby: Australia U20 vs Spain U20 [Premier Sports 1 GB]",
             "matchstr": "Australia U20 vs Spain U20",
             "time": "19:30",
@@ -126,56 +87,6 @@
             ],
             "slug": "france-top-14-rugby-montpellier-stade-toulousain-2026-06-27-22-00",
             "startTimestamp": 1782586800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [World Rugby U-20 Championship] Rugby: Wales U20 vs Georgia U20 [Premier Sports 2 GB]",
-            "matchstr": "Wales U20 vs Georgia U20",
-            "time": "17:00",
-            "league": "World Rugby U-20 Championship",
-            "sport": "Rugby",
-            "team1": "Wales U20",
-            "team2": "Georgia U20",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                },
-                {
-                    "name": "Sky Sport Select",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=34"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u-20-championship-rugby-wales-u20-georgia-u20-2026-06-27-17-00",
-            "startTimestamp": 1782568800000,
             "duration": 120
         },
         {
@@ -318,67 +229,6 @@
             "duration": 180
         },
         {
-            "matchText": "17:00 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Austrian Grand Prix",
-            "time": "17:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Austrian Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=54"
-                    ],
-                    "number": 54,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=54"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-austrian-grand-prix-2026-06-27-17-00",
-            "startTimestamp": 1782568800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Finland Veikkausliiga] Oulu vs Lahti [Ruutu+ FI]",
             "matchstr": "Oulu vs Lahti",
             "time": "19:00",
@@ -404,62 +254,6 @@
             ],
             "slug": "finland-veikkausliiga-football-oulu-lahti-2026-06-27-19-00",
             "startTimestamp": 1782576000000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] HJK Helsinki vs KuPS [Ruutu+ FI]",
-            "matchstr": "HJK Helsinki vs KuPS",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "HJK Helsinki",
-            "team2": "KuPS",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=72"
-                    ],
-                    "number": 72,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=72"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-hjk-helsinki-kups-2026-06-27-17-00",
-            "startTimestamp": 1782568800000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [Finland Veikkausliiga] Mariehamn vs Inter Turku [Ruutu+ FI]",
-            "matchstr": "Mariehamn vs Inter Turku",
-            "time": "17:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Mariehamn",
-            "team2": "Inter Turku",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=73"
-                    ],
-                    "number": 73,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=73"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-mariehamn-inter-turku-2026-06-27-17-00",
-            "startTimestamp": 1782568800000,
             "duration": 120
         },
         {
@@ -516,34 +310,6 @@
             ],
             "slug": "finland-veikkausliiga-football-tps-jaro-2026-06-27-19-00",
             "startTimestamp": 1782576000000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:45 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "16:45",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-16-45",
-            "startTimestamp": 1782567900000,
             "duration": 120
         },
         {
