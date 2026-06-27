@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (BBC One)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (Sport TV1)
-https://s2.kora.st/channel?id=21
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (M6)
-https://s2.kora.st/channel?id=56
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (TV4)
-https://s2.kora.st/channel?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (NPO1)
-https://s2.kora.st/channel?id=88
-#EXTINF:-1 tvg-id="fifa-world-cup-football-panama-england-2026-06-28-00-00" group-title="FIFA World Cup",Panama vs England (DAZN Mundial)
-https://s2.kora.st/channel?id=100
 #EXTINF:-1 tvg-id="fifa-world-cup-football-colombia-portugal-2026-06-28-02-30" group-title="FIFA World Cup",Colombia vs Portugal (BBC One)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-colombia-portugal-2026-06-28-02-30" group-title="FIFA World Cup",Colombia vs Portugal (MagentaTV)
@@ -115,24 +99,6 @@ https://s2.kora.st/channel?id=3
 https://s2.kora.st/channel?id=50
 #EXTINF:-1 tvg-id="pfl-mma-aj-mckee-salamat-isbulaev-2026-06-28-05-00" group-title="PFL",AJ McKee vs Salamat Isbulaev (ESPN Deportes)
 https://s2.kora.st/channel?id=86
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (ITV 4)
-https://s2.kora.st/channel?id=4
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (MagentaTV 2)
-https://s2.kora.st/channel?id=12
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (Sport TV2)
-https://s2.kora.st/channel?id=22
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (TSN2)
-https://s2.kora.st/channel?id=32
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (beIN Sports 2)
-https://s2.kora.st/channel?id=52
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (HRT 2)
-https://s2.kora.st/channel?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (SVT 2)
-https://s2.kora.st/channel?id=72
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (Fox Sports 1)
-https://s2.kora.st/channel?id=81
-#EXTINF:-1 tvg-id="fifa-world-cup-football-croatia-ghana-2026-06-28-00-00" group-title="FIFA World Cup",Croatia vs Ghana (DAZN Mundial 2)
-https://s2.kora.st/channel?id=99
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-28-16-00" group-title="Formula 1",Austrian Grand Prix (Sky Sports F1)
 https://s2.kora.st/channel?id=7
 #EXTINF:-1 tvg-id="formula-1-motorsport-austrian-grand-prix-2026-06-28-16-00" group-title="Formula 1",Austrian Grand Prix (Sky Sports F1)
@@ -151,8 +117,6 @@ https://s2.kora.st/channel?id=8
 https://s2.kora.st/channel?id=8
 #EXTINF:-1 tvg-id="nascar-cup-series-motorsport-toyota-save-mart-350-2026-06-28-22-30" group-title="NASCAR Cup Series",Toyota / Save Mart 350 (TNT)
 https://s2.kora.st/channel?id=10
-#EXTINF:-1 tvg-id="gt-world-challenge-motorsport-gt-world-challenge-europe-2026-06-28-00-00" group-title="GT World Challenge",GT World Challenge Europe (Sky Top Event)
-https://s2.kora.st/channel?id=14
 #EXTINF:-1 tvg-id="gt-world-challenge-motorsport-gt-world-challenge-europe-2026-06-28-07-00" group-title="GT World Challenge",GT World Challenge Europe (Sky Top Event)
 https://s2.kora.st/channel?id=14
 #EXTINF:-1 tvg-id="europe-uefa-u19-european-championship-football-wales-u19-spain-u19-2026-06-28-20-00" group-title="Europe UEFA U19 European Championship",Wales U19 vs Spain U19 (Sportdigital FUSSBALL)
