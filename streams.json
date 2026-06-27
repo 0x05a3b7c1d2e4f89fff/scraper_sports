@@ -640,34 +640,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:00 [Rugby Union Friendly] Rugby: Japan XV vs Maori All Blacks [Sky Sport 2 NZ]",
-            "matchstr": "Japan XV vs Maori All Blacks",
-            "time": "13:00",
-            "league": "Rugby Union Friendly",
-            "sport": "Rugby",
-            "team1": "Japan XV",
-            "team2": "Maori All Blacks",
-            "channel": "Sky Sport 2 NZ",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Sky Sport 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=32"
-                    ],
-                    "number": 32,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=32"
-                    ]
-                }
-            ],
-            "slug": "rugby-union-friendly-rugby-japan-xv-maori-all-blacks-2026-06-27-13-00",
-            "startTimestamp": 1782554400000,
-            "duration": 120
-        },
-        {
             "matchText": "14:00 [Finland Veikkausliiga] Ilves vs SJK [Ruutu+ FI]",
             "matchstr": "Ilves vs SJK",
             "time": "14:00",
@@ -833,34 +805,6 @@
             ],
             "slug": "finland-veikkausliiga-football-tps-jaro-2026-06-27-19-00",
             "startTimestamp": 1782576000000,
-            "duration": 120
-        },
-        {
-            "matchText": "13:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "13:00",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-27-13-00",
-            "startTimestamp": 1782554400000,
             "duration": 120
         },
         {
