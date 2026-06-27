@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url="nowstreams.xml"
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (ITV 1)
-https://s2.kora.st/channel?id=1
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (Mediacorp)
-https://s2.kora.st/channel?id=6
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (MagentaTV)
-https://s2.kora.st/channel?id=11
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (TVE La 1)
-https://s2.kora.st/channel?id=26
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (TSN1)
-https://s2.kora.st/channel?id=31
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (beIN Sports 1)
-https://s2.kora.st/channel?id=51
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (TVP1)
-https://s2.kora.st/channel?id=61
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (HRT 2)
-https://s2.kora.st/channel?id=70
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (TV4)
-https://s2.kora.st/channel?id=74
-#EXTINF:-1 tvg-id="fifa-world-cup-football-uruguay-spain-2026-06-27-03-00" group-title="FIFA World Cup",Uruguay vs Spain (DAZN Mundial)
-https://s2.kora.st/channel?id=100
 #EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (BBC One)
 https://s2.kora.st/channel?id=1
 #EXTINF:-1 tvg-id="fifa-world-cup-football-new-zealand-belgium-2026-06-27-06-00" group-title="FIFA World Cup",New Zealand vs Belgium (TVNZ 1)
@@ -59,8 +39,6 @@ https://s2.kora.st/channel?id=1
 https://s2.kora.st/channel?id=28
 #EXTINF:-1 tvg-id="france-top-14-rugby-montpellier-stade-toulousain-2026-06-27-22-00" group-title="France Top 14",Montpellier vs Stade Toulousain (Canal+)
 https://s2.kora.st/channel?id=50
-#EXTINF:-1 tvg-id="united-states-nwsl-challenge-cup-football-kansas-city-current-gotham-fc-2026-06-27-03-00" group-title="United States NWSL Challenge Cup",Kansas City Current vs Gotham FC (TNT Sports 2)
-https://s2.kora.st/channel?id=2
 #EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (BBC Two)
 https://s2.kora.st/channel?id=2
 #EXTINF:-1 tvg-id="fifa-world-cup-football-egypt-iran-2026-06-27-06-00" group-title="FIFA World Cup",Egypt vs Iran (MagentaTV 2)
@@ -85,10 +63,6 @@ https://s2.kora.st/channel?id=46
 https://s2.kora.st/channel?id=57
 #EXTINF:-1 tvg-id="motogp-motorsport-dutch-grand-prix-2026-06-27-09-40" group-title="MotoGP",Dutch Grand Prix (V Sport 1)
 https://s2.kora.st/channel?id=75
-#EXTINF:-1 tvg-id="nhl-hockey-2026-nhl-draft-2026-06-27-02-00" group-title="NHL",2026 NHL Draft (ESPN)
-https://s2.kora.st/channel?id=3
-#EXTINF:-1 tvg-id="nhl-hockey-2026-nhl-draft-2026-06-27-02-00" group-title="NHL",2026 NHL Draft (Viaplay)
-https://s2.kora.st/channel?id=71
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-argentina-u20-united-states-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Argentina U20 vs United States U20 (Premier Sports 2)
 https://s2.kora.st/channel?id=3
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-argentina-u20-united-states-u20-2026-06-27-12-00" group-title="World Rugby U-20 Championship",Argentina U20 vs United States U20 (CBS Sports Network)
@@ -111,20 +85,6 @@ https://s2.kora.st/channel?id=3
 https://s2.kora.st/channel?id=8
 #EXTINF:-1 tvg-id="world-rugby-u-20-championship-rugby-south-africa-u20-uruguay-u20-2026-06-27-19-30" group-title="World Rugby U-20 Championship",South Africa U20 vs Uruguay U20 (Sky Sport 7)
 https://s2.kora.st/channel?id=37
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (ITV 4)
-https://s2.kora.st/channel?id=4
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (MagentaTV 2)
-https://s2.kora.st/channel?id=12
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (Sport TV1)
-https://s2.kora.st/channel?id=21
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (TSN2)
-https://s2.kora.st/channel?id=32
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (beIN Sports 2)
-https://s2.kora.st/channel?id=52
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (Fox Sports 1)
-https://s2.kora.st/channel?id=81
-#EXTINF:-1 tvg-id="fifa-world-cup-football-cape-verde-islands-saudi-arabia-2026-06-27-03-00" group-title="FIFA World Cup",Cape Verde Islands vs Saudi Arabia (DAZN Mundial 2)
-https://s2.kora.st/channel?id=99
 #EXTINF:-1 tvg-id="nhl-hockey-2026-nhl-draft-2026-06-27-18-00" group-title="NHL",2026 NHL Draft (Sportsnet One)
 https://s2.kora.st/channel?id=5
 #EXTINF:-1 tvg-id="nhl-hockey-2026-nhl-draft-2026-06-27-18-00" group-title="NHL",2026 NHL Draft (Viaplay)
@@ -165,8 +125,6 @@ https://s2.kora.st/channel?id=8
 https://s2.kora.st/channel?id=9
 #EXTINF:-1 tvg-id="rugby-union-friendly-rugby-japan-xv-maori-all-blacks-2026-06-27-13-00" group-title="Rugby Union Friendly",Japan XV vs Maori All Blacks (Sky Sport 2)
 https://s2.kora.st/channel?id=32
-#EXTINF:-1 tvg-id="world-series-of-darts-darts-u-s-masters-2026-06-27-02-30" group-title="World Series of Darts",U.S. Masters (TV3 Sport)
-https://s2.kora.st/channel?id=69
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-ilves-sjk-2026-06-27-14-00" group-title="Finland Veikkausliiga",Ilves vs SJK (Ruutu+)
 https://s2.kora.st/channel?id=71
 #EXTINF:-1 tvg-id="finland-veikkausliiga-football-oulu-lahti-2026-06-27-19-00" group-title="Finland Veikkausliiga",Oulu vs Lahti (Ruutu+)
