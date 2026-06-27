@@ -140,45 +140,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [NHL] Hockey: 2026 NHL Draft [Sportsnet One CA]",
-            "matchstr": "2026 NHL Draft",
-            "time": "18:00",
-            "league": "NHL",
-            "sport": "Hockey",
-            "team1": "2026 NHL Draft",
-            "team2": null,
-            "channel": "Sportsnet One CA",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Sportsnet One",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=5"
-                    ],
-                    "number": 5,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=5"
-                    ]
-                },
-                {
-                    "name": "Viaplay",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "nhl-hockey-2026-nhl-draft-2026-06-27-18-00",
-            "startTimestamp": 1782572400000,
-            "duration": 180
-        },
-        {
             "matchText": "19:30 [UFC Fight Night] MMA: Rafael Fiziev vs Manuel Torres [TNT Sports 1 GB]",
             "matchstr": "Rafael Fiziev vs Manuel Torres",
             "time": "19:30",
@@ -227,90 +188,6 @@
             "slug": "ufc-fight-night-mma-rafael-fiziev-manuel-torres-2026-06-27-19-30",
             "startTimestamp": 1782577800000,
             "duration": 180
-        },
-        {
-            "matchText": "19:00 [Finland Veikkausliiga] Oulu vs Lahti [Ruutu+ FI]",
-            "matchstr": "Oulu vs Lahti",
-            "time": "19:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Oulu",
-            "team2": "Lahti",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-oulu-lahti-2026-06-27-19-00",
-            "startTimestamp": 1782576000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Finland Veikkausliiga] Gnistan vs VPS [Ruutu+ FI]",
-            "matchstr": "Gnistan vs VPS",
-            "time": "19:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "Gnistan",
-            "team2": "VPS",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=74"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-gnistan-vps-2026-06-27-19-00",
-            "startTimestamp": 1782576000000,
-            "duration": 120
-        },
-        {
-            "matchText": "19:00 [Finland Veikkausliiga] TPS vs Jaro [Ruutu+ FI]",
-            "matchstr": "TPS vs Jaro",
-            "time": "19:00",
-            "league": "Finland Veikkausliiga",
-            "sport": "Football",
-            "team1": "TPS",
-            "team2": "Jaro",
-            "channel": "Ruutu+ FI",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Ruutu+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "finland-veikkausliiga-football-tps-jaro-2026-06-27-19-00",
-            "startTimestamp": 1782576000000,
-            "duration": 120
         },
         {
             "matchText": "21:00 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
