@@ -1703,34 +1703,6 @@
             "duration": 120
         },
         {
-            "matchText": "00:30 [Canada Canadian Premier League] HFX Wanderers vs Pacific FC [Fox Sports 2 US]",
-            "matchstr": "HFX Wanderers vs Pacific FC",
-            "time": "00:30",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "HFX Wanderers",
-            "team2": "Pacific FC",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-hfx-wanderers-pacific-fc-2026-06-27-00-30",
-            "startTimestamp": 1782509400000,
-            "duration": 120
-        },
-        {
             "matchText": "08:00 [NRL] Rugby: New Zealand Warriors vs Dolphins [Fox Sports 2 US]",
             "matchstr": "New Zealand Warriors vs Dolphins",
             "time": "08:00",
