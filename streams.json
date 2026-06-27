@@ -1,56 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "12:00 [World Rugby U-20 Championship] Rugby: Italy U20 vs Scotland U20 [Premier Sports 1 GB]",
-            "matchstr": "Italy U20 vs Scotland U20",
-            "time": "12:00",
-            "league": "World Rugby U-20 Championship",
-            "sport": "Rugby",
-            "team1": "Italy U20",
-            "team2": "Scotland U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "Sport TV1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=21"
-                    ],
-                    "number": 21,
-                    "language": "PT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=21"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 5",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=35"
-                    ],
-                    "number": 35,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=35"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u-20-championship-rugby-italy-u20-scotland-u20-2026-06-27-12-00",
-            "startTimestamp": 1782550800000,
-            "duration": 120
-        },
-        {
             "matchText": "14:30 [World Rugby U-20 Championship] Rugby: England U20 vs Ireland U20 [Premier Sports 1 GB]",
             "matchstr": "England U20 vs Ireland U20",
             "time": "14:30",
@@ -299,56 +249,6 @@
             "slug": "motogp-motorsport-dutch-grand-prix-2026-06-27-09-40",
             "startTimestamp": 1782542400000,
             "duration": 400
-        },
-        {
-            "matchText": "12:00 [World Rugby U-20 Championship] Rugby: Argentina U20 vs United States U20 [Premier Sports 2 GB]",
-            "matchstr": "Argentina U20 vs United States U20",
-            "time": "12:00",
-            "league": "World Rugby U-20 Championship",
-            "sport": "Rugby",
-            "team1": "Argentina U20",
-            "team2": "United States U20",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-27",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=3"
-                    ],
-                    "number": 3,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=3"
-                    ]
-                },
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 9",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=39"
-                    ],
-                    "number": 39,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=39"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u-20-championship-rugby-argentina-u20-united-states-u20-2026-06-27-12-00",
-            "startTimestamp": 1782550800000,
-            "duration": 120
         },
         {
             "matchText": "14:30 [World Rugby U-20 Championship] Rugby: New Zealand U20 vs Japan U20 [Premier Sports 2 GB]",
