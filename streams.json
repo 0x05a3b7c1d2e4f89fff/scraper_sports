@@ -1,34 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "22:30 [NASCAR Cup Series] Motorsport: Toyota / Save Mart 350 [TNT US]",
-            "matchstr": "Toyota / Save Mart 350",
-            "time": "22:30",
-            "league": "NASCAR Cup Series",
-            "sport": "Motorsport",
-            "team1": "Toyota / Save Mart 350",
-            "team2": null,
-            "channel": "TNT US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "TNT",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=10"
-                    ]
-                }
-            ],
-            "slug": "nascar-cup-series-motorsport-toyota-save-mart-350-2026-06-28-22-30",
-            "startTimestamp": 1782675000000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [FIFA World Cup] Brazil vs Japan [BBC One GB]",
             "matchstr": "Brazil vs Japan",
             "time": "20:00",
