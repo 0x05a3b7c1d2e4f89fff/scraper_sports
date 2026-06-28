@@ -128,67 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:40 [MotoGP] Motorsport: Dutch Grand Prix [TNT Sports 2 GB]",
-            "matchstr": "Dutch Grand Prix",
-            "time": "10:40",
-            "league": "MotoGP",
-            "sport": "Motorsport",
-            "team1": "Dutch Grand Prix",
-            "team2": null,
-            "channel": "TNT Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "TNT Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=2"
-                    ],
-                    "number": 2,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=2"
-                    ]
-                },
-                {
-                    "name": "DAZN MotoGP",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                },
-                {
-                    "name": "Canal+ Sport360",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=57"
-                    ],
-                    "number": 57,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=57"
-                    ]
-                },
-                {
-                    "name": "V Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=71"
-                    ],
-                    "number": 71,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=71"
-                    ]
-                }
-            ],
-            "slug": "motogp-motorsport-dutch-grand-prix-2026-06-28-10-40",
-            "startTimestamp": 1782632400000,
-            "duration": 400
-        },
-        {
             "matchText": "16:00 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
             "matchstr": "Austrian Grand Prix",
             "time": "16:00",
@@ -426,34 +365,6 @@
             ],
             "slug": "sweden-superettan-football-norrkoping-norrby-2026-06-28-16-00",
             "startTimestamp": 1782651600000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:35 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "14:35",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-14-35",
-            "startTimestamp": 1782646500000,
             "duration": 120
         },
         {
