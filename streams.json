@@ -429,34 +429,6 @@
             "duration": 120
         },
         {
-            "matchText": "08:30 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
-            "matchstr": "WRC Acropolis Race Greece",
-            "time": "08:30",
-            "league": "World Rally Championship",
-            "sport": "Motorsport",
-            "team1": "WRC Acropolis Race Greece",
-            "team2": null,
-            "channel": "MTV Max FI",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "MTV Max",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=78"
-                    ],
-                    "number": 78,
-                    "language": "FI",
-                    "links": [
-                        "https://s2.kora.st/channel?id=78"
-                    ]
-                }
-            ],
-            "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-08-30",
-            "startTimestamp": 1782624600000,
-            "duration": 120
-        },
-        {
             "matchText": "12:10 [World Rally Championship] Motorsport: WRC Acropolis Race Greece [MTV Max FI]",
             "matchstr": "WRC Acropolis Race Greece",
             "time": "12:10",
@@ -538,34 +510,6 @@
             ],
             "slug": "afl-australian-football-fremantle-dockers-gold-coast-suns-2026-06-28-10-00",
             "startTimestamp": 1782630000000,
-            "duration": 180
-        },
-        {
-            "matchText": "08:00 [AFL] Australian Football: North Melbourne Kangaroos vs Essendon Bombers [Fox Soccer Plus US]",
-            "matchstr": "North Melbourne Kangaroos vs Essendon Bombers",
-            "time": "08:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "North Melbourne Kangaroos",
-            "team2": "Essendon Bombers",
-            "channel": "Fox Soccer Plus US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "Fox Soccer Plus",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=83"
-                    ],
-                    "number": 83,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=83"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-north-melbourne-kangaroos-essendon-bombers-2026-06-28-08-00",
-            "startTimestamp": 1782622800000,
             "duration": 180
         },
         {
