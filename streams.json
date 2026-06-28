@@ -485,34 +485,6 @@
             "duration": 120
         },
         {
-            "matchText": "10:00 [AFL] Australian Football: Fremantle Dockers vs Gold Coast Suns [Fox Sports 2 US]",
-            "matchstr": "Fremantle Dockers vs Gold Coast Suns",
-            "time": "10:00",
-            "league": "AFL",
-            "sport": "Australian Football",
-            "team1": "Fremantle Dockers",
-            "team2": "Gold Coast Suns",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "afl-australian-football-fremantle-dockers-gold-coast-suns-2026-06-28-10-00",
-            "startTimestamp": 1782630000000,
-            "duration": 180
-        },
-        {
             "matchText": "17:00 [Super League Rugby] Rugby: Wakefield Trinity vs Huddersfield [Fox Soccer Plus US]",
             "matchstr": "Wakefield Trinity vs Huddersfield",
             "time": "17:00",
