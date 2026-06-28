@@ -128,34 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "19:00 [Motocross World Championship] Motorsport: MXGP [CBS Sports Network US]",
-            "matchstr": "MXGP",
-            "time": "19:00",
-            "league": "Motocross World Championship",
-            "sport": "Motorsport",
-            "team1": "MXGP",
-            "team2": null,
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "motocross-world-championship-motorsport-mxgp-2026-06-28-19-00",
-            "startTimestamp": 1782662400000,
-            "duration": 120
-        },
-        {
             "matchText": "22:30 [NASCAR Cup Series] Motorsport: Toyota / Save Mart 350 [TNT US]",
             "matchstr": "Toyota / Save Mart 350",
             "time": "22:30",
