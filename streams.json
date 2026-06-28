@@ -345,34 +345,6 @@
             "duration": 120
         },
         {
-            "matchText": "07:00 [GT World Challenge] Motorsport: GT World Challenge Europe [Sky Top Event DE]",
-            "matchstr": "GT World Challenge Europe",
-            "time": "07:00",
-            "league": "GT World Challenge",
-            "sport": "Motorsport",
-            "team1": "GT World Challenge Europe",
-            "team2": null,
-            "channel": "Sky Top Event DE",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "Sky Top Event",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=14"
-                    ],
-                    "number": 14,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=14"
-                    ]
-                }
-            ],
-            "slug": "gt-world-challenge-motorsport-gt-world-challenge-europe-2026-06-28-07-00",
-            "startTimestamp": 1782619200000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Europe UEFA U19 European Championship] Wales U19 vs Spain U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Wales U19 vs Spain U19",
             "time": "20:00",
