@@ -128,34 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
-            "matchstr": "MX2",
-            "time": "18:00",
-            "league": "Motocross World Championship",
-            "sport": "Motorsport",
-            "team1": "MX2",
-            "team2": null,
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "motocross-world-championship-motorsport-mx2-2026-06-28-18-00",
-            "startTimestamp": 1782658800000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [Motocross World Championship] Motorsport: MXGP [CBS Sports Network US]",
             "matchstr": "MXGP",
             "time": "19:00",
