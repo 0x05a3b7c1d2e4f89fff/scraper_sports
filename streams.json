@@ -532,34 +532,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [CFL] Canadian Football: Calgary Stampeders vs BC Lions [CBS Sports Network US]",
-            "matchstr": "Calgary Stampeders vs BC Lions",
-            "time": "02:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Calgary Stampeders",
-            "team2": "BC Lions",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-calgary-stampeders-bc-lions-2026-06-28-02-00",
-            "startTimestamp": 1782601200000,
-            "duration": 180
-        },
-        {
             "matchText": "18:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
             "matchstr": "MX2",
             "time": "18:00",
@@ -728,34 +700,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [PFL] MMA: Professional Fighters League [RMC Sport 1 FR]",
-            "matchstr": "Professional Fighters League",
-            "time": "02:00",
-            "league": "PFL",
-            "sport": "MMA",
-            "team1": "Professional Fighters League",
-            "team2": null,
-            "channel": "RMC Sport 1 FR",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "RMC Sport 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=50"
-                    ],
-                    "number": 50,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=50"
-                    ]
-                }
-            ],
-            "slug": "pfl-mma-professional-fighters-league-2026-06-28-02-00",
-            "startTimestamp": 1782601200000,
-            "duration": 180
-        },
-        {
             "matchText": "16:00 [Sweden Superettan] Norrkoping vs Norrby [TV4 Sportkanalen SE]",
             "matchstr": "Norrkoping vs Norrby",
             "time": "16:00",
@@ -865,34 +809,6 @@
             ],
             "slug": "world-rally-championship-motorsport-wrc-acropolis-race-greece-2026-06-28-14-35",
             "startTimestamp": 1782646500000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [ARCA Menards Series] Motorsport: Shore Lunch 250 [Fox Sports 2 US]",
-            "matchstr": "Shore Lunch 250",
-            "time": "04:00",
-            "league": "ARCA Menards Series",
-            "sport": "Motorsport",
-            "team1": "Shore Lunch 250",
-            "team2": null,
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "arca-menards-series-motorsport-shore-lunch-250-2026-06-28-04-00",
-            "startTimestamp": 1782608400000,
             "duration": 120
         },
         {
