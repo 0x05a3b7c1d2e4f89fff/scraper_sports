@@ -128,78 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "16:00 [Formula 1] Motorsport: Austrian Grand Prix [Sky Sports F1 GB]",
-            "matchstr": "Austrian Grand Prix",
-            "time": "16:00",
-            "league": "Formula 1",
-            "sport": "Motorsport",
-            "team1": "Austrian Grand Prix",
-            "team2": null,
-            "channel": "Sky Sports F1 GB",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sports F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=13"
-                    ],
-                    "number": 13,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=13"
-                    ]
-                },
-                {
-                    "name": "DAZN F1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=30"
-                    ],
-                    "number": 30,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=30"
-                    ]
-                },
-                {
-                    "name": "Canal+",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=55"
-                    ],
-                    "number": 55,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=55"
-                    ]
-                },
-                {
-                    "name": "V Sport Motor",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=77"
-                    ],
-                    "number": 77,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=77"
-                    ]
-                }
-            ],
-            "slug": "formula-1-motorsport-austrian-grand-prix-2026-06-28-16-00",
-            "startTimestamp": 1782651600000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Motocross World Championship] Motorsport: MX2 [CBS Sports Network US]",
             "matchstr": "MX2",
             "time": "18:00",
@@ -337,34 +265,6 @@
             ],
             "slug": "europe-uefa-u19-european-championship-football-germany-u19-denmark-u19-2026-06-28-22-00",
             "startTimestamp": 1782673200000,
-            "duration": 120
-        },
-        {
-            "matchText": "16:00 [Sweden Superettan] Norrkoping vs Norrby [TV4 Sportkanalen SE]",
-            "matchstr": "Norrkoping vs Norrby",
-            "time": "16:00",
-            "league": "Sweden Superettan",
-            "sport": "Football",
-            "team1": "Norrkoping",
-            "team2": "Norrby",
-            "channel": "TV4 Sportkanalen SE",
-            "important": false,
-            "matchDate": "2026-06-28",
-            "channels": [
-                {
-                    "name": "TV4 Sportkanalen",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=75"
-                    ],
-                    "number": 75,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=75"
-                    ]
-                }
-            ],
-            "slug": "sweden-superettan-football-norrkoping-norrby-2026-06-28-16-00",
-            "startTimestamp": 1782651600000,
             "duration": 120
         },
         {
