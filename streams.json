@@ -294,34 +294,6 @@
             "duration": 120
         },
         {
-            "matchText": "18:30 [World Club Friendly] Crvena Zvezda vs Slovan Bratislava [Arena 2 Premium SR]",
-            "matchstr": "Crvena Zvezda vs Slovan Bratislava",
-            "time": "18:30",
-            "league": "World Club Friendly",
-            "sport": "Football",
-            "team1": "Crvena Zvezda",
-            "team2": "Slovan Bratislava",
-            "channel": "Arena 2 Premium SR",
-            "important": false,
-            "matchDate": "2026-06-29",
-            "channels": [
-                {
-                    "name": "Arena 2 Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=66"
-                    ],
-                    "number": 66,
-                    "language": "SR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=66"
-                    ]
-                }
-            ],
-            "slug": "world-club-friendly-football-crvena-zvezda-slovan-bratislava-2026-06-29-18-30",
-            "startTimestamp": 1782747000000,
-            "duration": 120
-        },
-        {
             "matchText": "04:00 [FIFA World Cup] Netherlands vs Morocco [ITV 1 GB]",
             "matchstr": "Netherlands vs Morocco",
             "time": "04:00",
