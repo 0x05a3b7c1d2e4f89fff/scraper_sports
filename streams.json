@@ -1,19 +1,19 @@
 {
     "matches": [
         {
-            "matchText": "20:00 [FIFA World Cup] Brazil vs Japan [BBC One GB]",
+            "matchText": "20:00 [FIFA World Cup] Brazil vs Japan [ITV1 GB]",
             "matchstr": "Brazil vs Japan",
             "time": "20:00",
             "league": "FIFA World Cup",
             "sport": "Football",
             "team1": "Brazil",
             "team2": "Japan",
-            "channel": "BBC One GB",
+            "channel": "ITV1 GB",
             "important": false,
             "matchDate": "2026-06-29",
             "channels": [
                 {
-                    "name": "BBC One",
+                    "name": "ITV1",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=1"
                     ],
@@ -139,9 +139,9 @@
             "duration": 120
         },
         {
-            "matchText": "23:00 [FIFA World Cup] Germany vs Paraguay [BBC One GB]",
+            "matchText": "23:30 [FIFA World Cup] Germany vs Paraguay [BBC One GB]",
             "matchstr": "Germany vs Paraguay",
-            "time": "23:00",
+            "time": "23:30",
             "league": "FIFA World Cup",
             "sport": "Football",
             "team1": "Germany",
@@ -261,36 +261,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-germany-paraguay-2026-06-29-23-00",
-            "startTimestamp": 1782763200000,
-            "duration": 120
-        },
-        {
-            "matchText": "18:00 [Europe UEFA U19 European Championship] Italy U19 vs Serbia U19 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Italy U19 vs Serbia U19",
-            "time": "18:00",
-            "league": "Europe UEFA U19 European Championship",
-            "sport": "Football",
-            "team1": "Italy U19",
-            "team2": "Serbia U19",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-06-29",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u19-european-championship-football-italy-u19-serbia-u19-2026-06-29-18-00",
-            "startTimestamp": 1782745200000,
+            "slug": "fifa-world-cup-football-germany-paraguay-2026-06-29-23-30",
+            "startTimestamp": 1782765000000,
             "duration": 120
         },
         {
@@ -347,34 +319,6 @@
             ],
             "slug": "world-club-friendly-football-crvena-zvezda-slovan-bratislava-2026-06-29-18-30",
             "startTimestamp": 1782747000000,
-            "duration": 120
-        },
-        {
-            "matchText": "17:00 [World Club Friendly] CSKA 1948 vs Partizan [Arena 3 Premium SR]",
-            "matchstr": "CSKA 1948 vs Partizan",
-            "time": "17:00",
-            "league": "World Club Friendly",
-            "sport": "Football",
-            "team1": "CSKA 1948",
-            "team2": "Partizan",
-            "channel": "Arena 3 Premium SR",
-            "important": false,
-            "matchDate": "2026-06-29",
-            "channels": [
-                {
-                    "name": "Arena 3 Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "SR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=67"
-                    ]
-                }
-            ],
-            "slug": "world-club-friendly-football-cska-1948-partizan-2026-06-29-17-00",
-            "startTimestamp": 1782741600000,
             "duration": 120
         },
         {
