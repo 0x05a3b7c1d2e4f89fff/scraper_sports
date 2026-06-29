@@ -266,34 +266,6 @@
             "duration": 120
         },
         {
-            "matchText": "02:00 [CFL] Canadian Football: Ottawa RedBlacks vs Montreal Alouettes [CBS Sports Network US]",
-            "matchstr": "Ottawa RedBlacks vs Montreal Alouettes",
-            "time": "02:00",
-            "league": "CFL",
-            "sport": "Canadian Football",
-            "team1": "Ottawa RedBlacks",
-            "team2": "Montreal Alouettes",
-            "channel": "CBS Sports Network US",
-            "important": false,
-            "matchDate": "2026-06-29",
-            "channels": [
-                {
-                    "name": "CBS Sports Network",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=8"
-                    ],
-                    "number": 8,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=8"
-                    ]
-                }
-            ],
-            "slug": "cfl-canadian-football-ottawa-redblacks-montreal-alouettes-2026-06-29-02-00",
-            "startTimestamp": 1782687600000,
-            "duration": 180
-        },
-        {
             "matchText": "18:00 [Europe UEFA U19 European Championship] Italy U19 vs Serbia U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Italy U19 vs Serbia U19",
             "time": "18:00",
