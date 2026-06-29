@@ -294,34 +294,6 @@
             "duration": 180
         },
         {
-            "matchText": "02:00 [WNBA] Basketball: New York Liberty vs Golden State Valkyries [ESPN US]",
-            "matchstr": "New York Liberty vs Golden State Valkyries",
-            "time": "02:00",
-            "league": "WNBA",
-            "sport": "Basketball",
-            "team1": "New York Liberty",
-            "team2": "Golden State Valkyries",
-            "channel": "ESPN US",
-            "important": false,
-            "matchDate": "2026-06-29",
-            "channels": [
-                {
-                    "name": "ESPN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=10"
-                    ],
-                    "number": 10,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=10"
-                    ]
-                }
-            ],
-            "slug": "wnba-basketball-new-york-liberty-golden-state-valkyries-2026-06-29-02-00",
-            "startTimestamp": 1782687600000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Europe UEFA U19 European Championship] Italy U19 vs Serbia U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Italy U19 vs Serbia U19",
             "time": "18:00",
@@ -431,34 +403,6 @@
             ],
             "slug": "world-club-friendly-football-cska-1948-partizan-2026-06-29-17-00",
             "startTimestamp": 1782741600000,
-            "duration": 120
-        },
-        {
-            "matchText": "02:00 [Canada Canadian Premier League] Cavalry vs Supra du Quebec [Fox Sports 2 US]",
-            "matchstr": "Cavalry vs Supra du Quebec",
-            "time": "02:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Cavalry",
-            "team2": "Supra du Quebec",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-06-29",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-cavalry-supra-du-quebec-2026-06-29-02-00",
-            "startTimestamp": 1782687600000,
             "duration": 120
         },
         {
