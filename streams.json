@@ -128,34 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "13:30 [Women U20 World Cup] Handball: Sweden vs Austria [Viaplay Sport SE]",
-            "matchstr": "Sweden vs Austria",
-            "time": "13:30",
-            "league": "Women U20 World Cup",
-            "sport": "Handball",
-            "team1": "Sweden",
-            "team2": "Austria",
-            "channel": "Viaplay Sport SE",
-            "important": false,
-            "matchDate": "2026-06-30",
-            "channels": [
-                {
-                    "name": "Viaplay Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=80"
-                    ],
-                    "number": 80,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=80"
-                    ]
-                }
-            ],
-            "slug": "women-u20-world-cup-handball-sweden-austria-2026-06-30-13-30",
-            "startTimestamp": 1782815400000,
-            "duration": 120
-        },
-        {
             "matchText": "18:00 [Women U19 World Cup] Handball: Bosnia Herzegovina vs Sweden [Viaplay Sport SE]",
             "matchstr": "Bosnia Herzegovina vs Sweden",
             "time": "18:00",
