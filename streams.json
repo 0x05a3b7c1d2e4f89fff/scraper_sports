@@ -139,34 +139,6 @@
             "duration": 120
         },
         {
-            "matchText": "20:00 [Europe UEFA U19 European Championship] Denmark U19 vs Spain U19 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Denmark U19 vs Spain U19",
-            "time": "20:00",
-            "league": "Europe UEFA U19 European Championship",
-            "sport": "Football",
-            "team1": "Denmark U19",
-            "team2": "Spain U19",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-07-01",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u19-european-championship-football-denmark-u19-spain-u19-2026-07-01-20-00",
-            "startTimestamp": 1782925200000,
-            "duration": 120
-        },
-        {
             "matchText": "22:00 [Europe UEFA U19 European Championship] Wales U19 vs Germany U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Wales U19 vs Germany U19",
             "time": "22:00",
@@ -192,34 +164,6 @@
             ],
             "slug": "europe-uefa-u19-european-championship-football-wales-u19-germany-u19-2026-07-01-22-00",
             "startTimestamp": 1782932400000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [Canada Canadian Premier League] Forge vs Vancouver FC [Fox Sports 2 US]",
-            "matchstr": "Forge vs Vancouver FC",
-            "time": "20:00",
-            "league": "Canada Canadian Premier League",
-            "sport": "Football",
-            "team1": "Forge",
-            "team2": "Vancouver FC",
-            "channel": "Fox Sports 2 US",
-            "important": false,
-            "matchDate": "2026-07-01",
-            "channels": [
-                {
-                    "name": "Fox Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=82"
-                    ],
-                    "number": 82,
-                    "language": "US",
-                    "links": [
-                        "https://s2.kora.st/channel?id=82"
-                    ]
-                }
-            ],
-            "slug": "canada-canadian-premier-league-football-forge-vancouver-fc-2026-07-01-20-00",
-            "startTimestamp": 1782925200000,
             "duration": 120
         },
         {
