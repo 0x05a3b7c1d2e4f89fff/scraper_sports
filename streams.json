@@ -1,249 +1,6 @@
 {
     "matches": [
         {
-            "matchText": "00:00 [FIFA World Cup] France vs Sweden [ITV 1 GB]",
-            "matchstr": "France vs Sweden",
-            "time": "00:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "France",
-            "team2": "Sweden",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2027-06-01",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "MagentaTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "RAI 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "M6",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=56"
-                    ],
-                    "number": 56,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=56"
-                    ]
-                },
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=60"
-                    ]
-                },
-                {
-                    "name": "TV4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=74"
-                    ]
-                },
-                {
-                    "name": "NPO 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=88"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-france-sweden-2027-06-01-00-00",
-            "startTimestamp": 1811797200000,
-            "duration": 120
-        },
-        {
-            "matchText": "04:00 [FIFA World Cup] Mexico vs Ecuador [ITV 1 GB]",
-            "matchstr": "Mexico vs Ecuador",
-            "time": "04:00",
-            "league": "FIFA World Cup",
-            "sport": "Football",
-            "team1": "Mexico",
-            "team2": "Ecuador",
-            "channel": "ITV 1 GB",
-            "important": false,
-            "matchDate": "2027-06-01",
-            "channels": [
-                {
-                    "name": "ITV 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=1"
-                    ],
-                    "number": 1,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=1"
-                    ]
-                },
-                {
-                    "name": "MagentaTV",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=11"
-                    ],
-                    "number": 11,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=11"
-                    ]
-                },
-                {
-                    "name": "Azteca 7",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=27"
-                    ],
-                    "number": 27,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=27"
-                    ]
-                },
-                {
-                    "name": "TSN1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=31"
-                    ],
-                    "number": 31,
-                    "language": "CA",
-                    "links": [
-                        "https://s2.kora.st/channel?id=31"
-                    ]
-                },
-                {
-                    "name": "DAZN",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=47"
-                    ],
-                    "number": 47,
-                    "language": "IT",
-                    "links": [
-                        "https://s2.kora.st/channel?id=47"
-                    ]
-                },
-                {
-                    "name": "beIN Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=51"
-                    ],
-                    "number": 51,
-                    "language": "FR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=51"
-                    ]
-                },
-                {
-                    "name": "TVP Sport",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=60"
-                    ],
-                    "number": 60,
-                    "language": "PL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=60"
-                    ]
-                },
-                {
-                    "name": "TV4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=74"
-                    ],
-                    "number": 74,
-                    "language": "SE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=74"
-                    ]
-                },
-                {
-                    "name": "NPO 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=88"
-                    ],
-                    "number": 88,
-                    "language": "NL",
-                    "links": [
-                        "https://s2.kora.st/channel?id=88"
-                    ]
-                },
-                {
-                    "name": "DAZN Mundial",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=100"
-                    ],
-                    "number": 100,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=100"
-                    ]
-                }
-            ],
-            "slug": "fifa-world-cup-football-mexico-ecuador-2027-06-01-04-00",
-            "startTimestamp": 1811811600000,
-            "duration": 120
-        },
-        {
             "matchText": "19:00 [FIFA World Cup] England vs Congo DR [BBC One GB]",
             "matchstr": "England vs Congo DR",
             "time": "19:00",
@@ -253,7 +10,7 @@
             "team2": "Congo DR",
             "channel": "BBC One GB",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "BBC One",
@@ -366,8 +123,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-england-congo-dr-2027-06-01-19-00",
-            "startTimestamp": 1811865600000,
+            "slug": "fifa-world-cup-football-england-congo-dr-2026-07-01-19-00",
+            "startTimestamp": 1782921600000,
             "duration": 120
         },
         {
@@ -380,7 +137,7 @@
             "team2": "Senegal",
             "channel": "ITV 1 GB",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "ITV 1",
@@ -504,8 +261,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-belgium-senegal-2027-06-01-23-00",
-            "startTimestamp": 1811880000000,
+            "slug": "fifa-world-cup-football-belgium-senegal-2026-07-01-23-00",
+            "startTimestamp": 1782936000000,
             "duration": 120
         },
         {
@@ -518,7 +275,7 @@
             "team2": "Spain U19",
             "channel": "Sportdigital FUSSBALL DE",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "Sportdigital FUSSBALL",
@@ -532,8 +289,8 @@
                     ]
                 }
             ],
-            "slug": "europe-uefa-u19-european-championship-football-denmark-u19-spain-u19-2027-06-01-20-00",
-            "startTimestamp": 1811869200000,
+            "slug": "europe-uefa-u19-european-championship-football-denmark-u19-spain-u19-2026-07-01-20-00",
+            "startTimestamp": 1782925200000,
             "duration": 120
         },
         {
@@ -546,7 +303,7 @@
             "team2": "Germany U19",
             "channel": "Sportdigital FUSSBALL DE",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "Sportdigital FUSSBALL",
@@ -560,36 +317,8 @@
                     ]
                 }
             ],
-            "slug": "europe-uefa-u19-european-championship-football-wales-u19-germany-u19-2027-06-01-22-00",
-            "startTimestamp": 1811876400000,
-            "duration": 120
-        },
-        {
-            "matchText": "15:00 [World Club Friendly] Radni\u010dki Kragujevac vs OFK Beograd [Arena 2 Premium SR]",
-            "matchstr": "Radni\u010dki Kragujevac vs OFK Beograd",
-            "time": "15:00",
-            "league": "World Club Friendly",
-            "sport": "Football",
-            "team1": "Radni\u010dki Kragujevac",
-            "team2": "OFK Beograd",
-            "channel": "Arena 2 Premium SR",
-            "important": false,
-            "matchDate": "2027-06-01",
-            "channels": [
-                {
-                    "name": "Arena 2 Premium",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=67"
-                    ],
-                    "number": 67,
-                    "language": "SR",
-                    "links": [
-                        "https://s2.kora.st/channel?id=67"
-                    ]
-                }
-            ],
-            "slug": "world-club-friendly-football-radnicki-kragujevac-ofk-beograd-2027-06-01-15-00",
-            "startTimestamp": 1811851200000,
+            "slug": "europe-uefa-u19-european-championship-football-wales-u19-germany-u19-2026-07-01-22-00",
+            "startTimestamp": 1782932400000,
             "duration": 120
         },
         {
@@ -602,7 +331,7 @@
             "team2": "\u010cukari\u010dki",
             "channel": "Arena 2 Premium SR",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "Arena 2 Premium",
@@ -616,8 +345,36 @@
                     ]
                 }
             ],
-            "slug": "world-club-friendly-football-rudes-cukaricki-2027-06-01-18-00",
-            "startTimestamp": 1811862000000,
+            "slug": "world-club-friendly-football-rudes-cukaricki-2026-07-01-18-00",
+            "startTimestamp": 1782918000000,
+            "duration": 120
+        },
+        {
+            "matchText": "19:00 [Finland Cup] HJK vs Ilves [Rutuu FI]",
+            "matchstr": "HJK vs Ilves",
+            "time": "19:00",
+            "league": "Finland Cup",
+            "sport": "Football",
+            "team1": "HJK",
+            "team2": "Ilves",
+            "channel": "Rutuu FI",
+            "important": false,
+            "matchDate": "2026-07-01",
+            "channels": [
+                {
+                    "name": "Rutuu",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=73"
+                    ],
+                    "number": 73,
+                    "language": "FI",
+                    "links": [
+                        "https://s2.kora.st/channel?id=73"
+                    ]
+                }
+            ],
+            "slug": "finland-cup-football-hjk-ilves-2026-07-01-19-00",
+            "startTimestamp": 1782921600000,
             "duration": 120
         },
         {
@@ -630,7 +387,7 @@
             "team2": "Vancouver FC",
             "channel": "Fox Sports 2 US",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "Fox Sports 2",
@@ -644,8 +401,8 @@
                     ]
                 }
             ],
-            "slug": "canada-canadian-premier-league-football-forge-vancouver-fc-2027-06-01-20-00",
-            "startTimestamp": 1811869200000,
+            "slug": "canada-canadian-premier-league-football-forge-vancouver-fc-2026-07-01-20-00",
+            "startTimestamp": 1782925200000,
             "duration": 120
         },
         {
@@ -658,7 +415,7 @@
             "team2": "Atl. Ottawa",
             "channel": "Fox Sports 2 US",
             "important": false,
-            "matchDate": "2027-06-01",
+            "matchDate": "2026-07-01",
             "channels": [
                 {
                     "name": "Fox Sports 2",
@@ -672,8 +429,8 @@
                     ]
                 }
             ],
-            "slug": "canada-canadian-premier-league-football-hfx-wanderers-atl-ottawa-2027-06-01-23-00",
-            "startTimestamp": 1811880000000,
+            "slug": "canada-canadian-premier-league-football-hfx-wanderers-atl-ottawa-2026-07-01-23-00",
+            "startTimestamp": 1782936000000,
             "duration": 120
         },
         {
@@ -686,7 +443,7 @@
             "team2": "Bosnia and Herzegovina",
             "channel": "BBC One GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "BBC One",
@@ -799,8 +556,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-usa-bosnia-and-herzegovina-2027-06-02-03-00",
-            "startTimestamp": 1811894400000,
+            "slug": "fifa-world-cup-football-usa-bosnia-and-herzegovina-2026-07-02-03-00",
+            "startTimestamp": 1782950400000,
             "duration": 120
         },
         {
@@ -813,7 +570,7 @@
             "team2": "Austria",
             "channel": "BBC One GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "BBC One",
@@ -926,8 +683,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-spain-austria-2027-06-02-22-00",
-            "startTimestamp": 1811962800000,
+            "slug": "fifa-world-cup-football-spain-austria-2026-07-02-22-00",
+            "startTimestamp": 1783018800000,
             "duration": 120
         },
         {
@@ -940,7 +697,7 @@
             "team2": "Spain U20",
             "channel": "Premier Sports 1 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 1",
@@ -965,8 +722,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-france-u20-spain-u20-2027-06-02-12-00",
-            "startTimestamp": 1811926800000,
+            "slug": "world-rugby-u20-championship-rugby-france-u20-spain-u20-2026-07-02-12-00",
+            "startTimestamp": 1782982800000,
             "duration": 120
         },
         {
@@ -979,7 +736,7 @@
             "team2": "Fiji U20",
             "channel": "Premier Sports 1 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 1",
@@ -1004,8 +761,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-australia-u20-fiji-u20-2027-06-02-14-30",
-            "startTimestamp": 1811935800000,
+            "slug": "world-rugby-u20-championship-rugby-australia-u20-fiji-u20-2026-07-02-14-30",
+            "startTimestamp": 1782991800000,
             "duration": 120
         },
         {
@@ -1018,7 +775,7 @@
             "team2": "United States U20",
             "channel": "Premier Sports 1 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 1",
@@ -1043,8 +800,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-england-u20-united-states-u20-2027-06-02-17-00",
-            "startTimestamp": 1811944800000,
+            "slug": "world-rugby-u20-championship-rugby-england-u20-united-states-u20-2026-07-02-17-00",
+            "startTimestamp": 1783000800000,
             "duration": 120
         },
         {
@@ -1057,7 +814,7 @@
             "team2": "Georgia U20",
             "channel": "Premier Sports 1 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 1",
@@ -1082,8 +839,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-south-africa-u20-georgia-u20-2027-06-02-19-30",
-            "startTimestamp": 1811953800000,
+            "slug": "world-rugby-u20-championship-rugby-south-africa-u20-georgia-u20-2026-07-02-19-30",
+            "startTimestamp": 1783009800000,
             "duration": 120
         },
         {
@@ -1096,7 +853,7 @@
             "team2": "Uruguay U20",
             "channel": "Premier Sports 2 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 2",
@@ -1121,8 +878,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-wales-u20-uruguay-u20-2027-06-02-12-00",
-            "startTimestamp": 1811926800000,
+            "slug": "world-rugby-u20-championship-rugby-wales-u20-uruguay-u20-2026-07-02-12-00",
+            "startTimestamp": 1782982800000,
             "duration": 120
         },
         {
@@ -1135,7 +892,7 @@
             "team2": "Ireland U20",
             "channel": "Premier Sports 2 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 2",
@@ -1160,8 +917,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-argentina-u20-ireland-u20-2027-06-02-14-30",
-            "startTimestamp": 1811935800000,
+            "slug": "world-rugby-u20-championship-rugby-argentina-u20-ireland-u20-2026-07-02-14-30",
+            "startTimestamp": 1782991800000,
             "duration": 120
         },
         {
@@ -1174,7 +931,7 @@
             "team2": "Scotland U20",
             "channel": "Premier Sports 2 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 2",
@@ -1199,8 +956,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-new-zealand-u20-scotland-u20-2027-06-02-17-00",
-            "startTimestamp": 1811944800000,
+            "slug": "world-rugby-u20-championship-rugby-new-zealand-u20-scotland-u20-2026-07-02-17-00",
+            "startTimestamp": 1783000800000,
             "duration": 120
         },
         {
@@ -1213,7 +970,7 @@
             "team2": "Japan U20",
             "channel": "Premier Sports 2 GB",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Premier Sports 2",
@@ -1238,8 +995,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-italy-u20-japan-u20-2027-06-02-19-30",
-            "startTimestamp": 1811953800000,
+            "slug": "world-rugby-u20-championship-rugby-italy-u20-japan-u20-2026-07-02-19-30",
+            "startTimestamp": 1783009800000,
             "duration": 120
         },
         {
@@ -1252,7 +1009,7 @@
             "team2": "England U20",
             "channel": "CBS Sports Network US",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "CBS Sports Network",
@@ -1266,8 +1023,8 @@
                     ]
                 }
             ],
-            "slug": "world-rugby-u20-championship-rugby-usa-u20-england-u20-2027-06-02-17-00",
-            "startTimestamp": 1811944800000,
+            "slug": "world-rugby-u20-championship-rugby-usa-u20-england-u20-2026-07-02-17-00",
+            "startTimestamp": 1783000800000,
             "duration": 120
         },
         {
@@ -1280,7 +1037,7 @@
             "team2": null,
             "channel": "Next Level Sports US",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Next Level Sports",
@@ -1294,8 +1051,8 @@
                     ]
                 }
             ],
-            "slug": "efc-mma-extreme-fighting-championship-2027-06-02-20-00",
-            "startTimestamp": 1811955600000,
+            "slug": "efc-mma-extreme-fighting-championship-2026-07-02-20-00",
+            "startTimestamp": 1783011600000,
             "duration": 180
         },
         {
@@ -1308,7 +1065,7 @@
             "team2": "Italy U19",
             "channel": "Sportdigital FUSSBALL DE",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Sportdigital FUSSBALL",
@@ -1322,8 +1079,8 @@
                     ]
                 }
             ],
-            "slug": "europe-uefa-u19-european-championship-football-croatia-u19-italy-u19-2027-06-02-16-00",
-            "startTimestamp": 1811941200000,
+            "slug": "europe-uefa-u19-european-championship-football-croatia-u19-italy-u19-2026-07-02-16-00",
+            "startTimestamp": 1782997200000,
             "duration": 120
         },
         {
@@ -1336,7 +1093,7 @@
             "team2": "Ukraine U19",
             "channel": "Sportdigital FUSSBALL DE",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Sportdigital FUSSBALL",
@@ -1350,8 +1107,8 @@
                     ]
                 }
             ],
-            "slug": "europe-uefa-u19-european-championship-football-serbia-u19-ukraine-u19-2027-06-02-20-00",
-            "startTimestamp": 1811955600000,
+            "slug": "europe-uefa-u19-european-championship-football-serbia-u19-ukraine-u19-2026-07-02-20-00",
+            "startTimestamp": 1783011600000,
             "duration": 120
         },
         {
@@ -1364,7 +1121,7 @@
             "team2": "Denmark",
             "channel": "Vamos ES",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Vamos",
@@ -1378,8 +1135,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-spain-denmark-2027-06-02-20-00",
-            "startTimestamp": 1811955600000,
+            "slug": "fiba-world-cup-basketball-spain-denmark-2026-07-02-20-00",
+            "startTimestamp": 1783011600000,
             "duration": 120
         },
         {
@@ -1392,7 +1149,7 @@
             "team2": "Turkey",
             "channel": "Arena Sport 1 RS",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Arena Sport 1",
@@ -1406,8 +1163,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-bosnia-herzegovina-turkey-2027-06-02-21-00",
-            "startTimestamp": 1811959200000,
+            "slug": "fiba-world-cup-basketball-bosnia-herzegovina-turkey-2026-07-02-21-00",
+            "startTimestamp": 1783015200000,
             "duration": 120
         },
         {
@@ -1420,7 +1177,7 @@
             "team2": "Montenegro",
             "channel": "Arena Sport 2 RS",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Arena Sport 2",
@@ -1434,8 +1191,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-portugal-montenegro-2027-06-02-21-00",
-            "startTimestamp": 1811959200000,
+            "slug": "fiba-world-cup-basketball-portugal-montenegro-2026-07-02-21-00",
+            "startTimestamp": 1783015200000,
             "duration": 120
         },
         {
@@ -1448,7 +1205,7 @@
             "team2": "Serbia",
             "channel": "Arena Premium 2 RS",
             "important": false,
-            "matchDate": "2027-06-02",
+            "matchDate": "2026-07-02",
             "channels": [
                 {
                     "name": "Arena Premium 2",
@@ -1462,8 +1219,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-switzerland-serbia-2027-06-02-21-00",
-            "startTimestamp": 1811959200000,
+            "slug": "fiba-world-cup-basketball-switzerland-serbia-2026-07-02-21-00",
+            "startTimestamp": 1783015200000,
             "duration": 120
         },
         {
@@ -1476,7 +1233,7 @@
             "team2": "Croatia",
             "channel": "BBC One GB",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "BBC One",
@@ -1578,8 +1335,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-portugal-croatia-2027-06-03-02-00",
-            "startTimestamp": 1811977200000,
+            "slug": "fifa-world-cup-football-portugal-croatia-2026-07-03-02-00",
+            "startTimestamp": 1783033200000,
             "duration": 120
         },
         {
@@ -1592,7 +1349,7 @@
             "team2": "Algeria",
             "channel": "BBC One GB",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "BBC One",
@@ -1694,8 +1451,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-switzerland-algeria-2027-06-03-06-00",
-            "startTimestamp": 1811991600000,
+            "slug": "fifa-world-cup-football-switzerland-algeria-2026-07-03-06-00",
+            "startTimestamp": 1783047600000,
             "duration": 120
         },
         {
@@ -1708,7 +1465,7 @@
             "team2": "Egypt",
             "channel": "BBC One GB",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "BBC One",
@@ -1821,8 +1578,8 @@
                     ]
                 }
             ],
-            "slug": "fifa-world-cup-football-australia-egypt-2027-06-03-21-00",
-            "startTimestamp": 1812045600000,
+            "slug": "fifa-world-cup-football-australia-egypt-2026-07-03-21-00",
+            "startTimestamp": 1783101600000,
             "duration": 120
         },
         {
@@ -1835,7 +1592,7 @@
             "team2": null,
             "channel": "Sky Sports F1 GB",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Sky Sports F1",
@@ -1893,8 +1650,8 @@
                     ]
                 }
             ],
-            "slug": "formula-1-motorsport-british-grand-prix-2027-06-03-14-30",
-            "startTimestamp": 1812022200000,
+            "slug": "formula-1-motorsport-british-grand-prix-2026-07-03-14-30",
+            "startTimestamp": 1783078200000,
             "duration": 120
         },
         {
@@ -1907,7 +1664,7 @@
             "team2": null,
             "channel": "Sky Sports F1 GB",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Sky Sports F1",
@@ -1965,8 +1722,8 @@
                     ]
                 }
             ],
-            "slug": "formula-1-motorsport-british-grand-prix-2027-06-03-18-30",
-            "startTimestamp": 1812036600000,
+            "slug": "formula-1-motorsport-british-grand-prix-2026-07-03-18-30",
+            "startTimestamp": 1783092600000,
             "duration": 120
         },
         {
@@ -1979,7 +1736,7 @@
             "team2": "Calgary Stampeders",
             "channel": "CBS Sports Network US",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "CBS Sports Network",
@@ -1993,8 +1750,8 @@
                     ]
                 }
             ],
-            "slug": "cfl-canadian-football-toronto-argonauts-calgary-stampeders-2027-06-03-04-00",
-            "startTimestamp": 1811984400000,
+            "slug": "cfl-canadian-football-toronto-argonauts-calgary-stampeders-2026-07-03-04-00",
+            "startTimestamp": 1783040400000,
             "duration": 180
         },
         {
@@ -2007,7 +1764,7 @@
             "team2": "Israel",
             "channel": "Magenta Sport DE",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Magenta Sport",
@@ -2021,8 +1778,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-germany-israel-2027-06-03-20-00",
-            "startTimestamp": 1812042000000,
+            "slug": "fiba-world-cup-basketball-germany-israel-2026-07-03-20-00",
+            "startTimestamp": 1783098000000,
             "duration": 120
         },
         {
@@ -2035,7 +1792,7 @@
             "team2": null,
             "channel": "Sky Sport F1 DE",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Sky Sport F1",
@@ -2071,8 +1828,8 @@
                     ]
                 }
             ],
-            "slug": "formula-3-motorsport-silverstone-2027-06-03-11-00",
-            "startTimestamp": 1812009600000,
+            "slug": "formula-3-motorsport-silverstone-2026-07-03-11-00",
+            "startTimestamp": 1783065600000,
             "duration": 120
         },
         {
@@ -2085,7 +1842,7 @@
             "team2": null,
             "channel": "Sky Sport F1 DE",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Sky Sport F1",
@@ -2099,7 +1856,7 @@
                     ]
                 },
                 {
-                    "name": "[Canal+ Sport",
+                    "name": "Canal+ Sport",
                     "oldLinks": [
                         "https://playfa.st/ch.php?id=55"
                     ],
@@ -2121,8 +1878,8 @@
                     ]
                 }
             ],
-            "slug": "formula-2-motorsport-silverstone-2027-06-03-12-00",
-            "startTimestamp": 1812013200000,
+            "slug": "formula-2-motorsport-silverstone-2026-07-03-12-00",
+            "startTimestamp": 1783069200000,
             "duration": 120
         },
         {
@@ -2135,7 +1892,7 @@
             "team2": null,
             "channel": "Sky Sport F1 DE",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Sky Sport F1",
@@ -2171,8 +1928,8 @@
                     ]
                 }
             ],
-            "slug": "formula-3-motorsport-silverstone-2027-06-03-16-00",
-            "startTimestamp": 1812027600000,
+            "slug": "formula-3-motorsport-silverstone-2026-07-03-16-00",
+            "startTimestamp": 1783083600000,
             "duration": 120
         },
         {
@@ -2185,7 +1942,7 @@
             "team2": null,
             "channel": "Sky Sport F1 DE",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Sky Sport F1",
@@ -2221,8 +1978,8 @@
                     ]
                 }
             ],
-            "slug": "formula-2-motorsport-silverstone-2027-06-03-17-00",
-            "startTimestamp": 1812031200000,
+            "slug": "formula-2-motorsport-silverstone-2026-07-03-17-00",
+            "startTimestamp": 1783087200000,
             "duration": 120
         },
         {
@@ -2235,7 +1992,7 @@
             "team2": "Flamengo",
             "channel": "Canal 11 PT",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Canal 11",
@@ -2249,8 +2006,8 @@
                     ]
                 }
             ],
-            "slug": "world-club-friendly-football-river-plate-flamengo-2027-06-03-21-30",
-            "startTimestamp": 1812047400000,
+            "slug": "world-club-friendly-football-river-plate-flamengo-2026-07-03-21-30",
+            "startTimestamp": 1783103400000,
             "duration": 120
         },
         {
@@ -2263,7 +2020,7 @@
             "team2": "Brazil",
             "channel": "FOX Sports 2 MX",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "FOX Sports 2",
@@ -2277,8 +2034,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-venezuela-brazil-2027-06-03-01-30",
-            "startTimestamp": 1811975400000,
+            "slug": "fiba-world-cup-basketball-venezuela-brazil-2026-07-03-01-30",
+            "startTimestamp": 1783031400000,
             "duration": 120
         },
         {
@@ -2291,7 +2048,7 @@
             "team2": "Argentina",
             "channel": "FOX Sports 2 MX",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "FOX Sports 2",
@@ -2305,8 +2062,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-uruguay-argentina-2027-06-03-04-00",
-            "startTimestamp": 1811984400000,
+            "slug": "fiba-world-cup-basketball-uruguay-argentina-2026-07-03-04-00",
+            "startTimestamp": 1783040400000,
             "duration": 120
         },
         {
@@ -2319,7 +2076,7 @@
             "team2": "France",
             "channel": "beIN Sports 3 FR",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "beIN Sports 3",
@@ -2333,8 +2090,8 @@
                     ]
                 }
             ],
-            "slug": "fiba-world-cup-basketball-belgium-france-2027-06-03-21-30",
-            "startTimestamp": 1812047400000,
+            "slug": "fiba-world-cup-basketball-belgium-france-2026-07-03-21-30",
+            "startTimestamp": 1783103400000,
             "duration": 120
         },
         {
@@ -2347,7 +2104,7 @@
             "team2": "Rijeka",
             "channel": "MAX Sport 1 HR",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "MAX Sport 1",
@@ -2361,8 +2118,8 @@
                     ]
                 }
             ],
-            "slug": "world-club-friendly-football-radomlje-rijeka-2027-06-03-15-00",
-            "startTimestamp": 1812024000000,
+            "slug": "world-club-friendly-football-radomlje-rijeka-2026-07-03-15-00",
+            "startTimestamp": 1783080000000,
             "duration": 120
         },
         {
@@ -2375,7 +2132,7 @@
             "team2": "Mj\u00e4llby",
             "channel": "TV4 Fotball SE",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "TV4 Fotball",
@@ -2389,8 +2146,8 @@
                     ]
                 }
             ],
-            "slug": "sweden-allsvenskan-football-sirius-mjallby-2027-06-03-20-00",
-            "startTimestamp": 1812042000000,
+            "slug": "sweden-allsvenskan-football-sirius-mjallby-2026-07-03-20-00",
+            "startTimestamp": 1783098000000,
             "duration": 120
         },
         {
@@ -2403,7 +2160,7 @@
             "team2": null,
             "channel": "Fox Sports 1 US",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Fox Sports 1",
@@ -2417,8 +2174,8 @@
                     ]
                 }
             ],
-            "slug": "indycar-motorsport-honda-indy-200-2027-06-03-22-00",
-            "startTimestamp": 1812049200000,
+            "slug": "indycar-motorsport-honda-indy-200-2026-07-03-22-00",
+            "startTimestamp": 1783105200000,
             "duration": 120
         },
         {
@@ -2431,7 +2188,7 @@
             "team2": "Sydney Swans",
             "channel": "Fox Sports 2 US",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Fox Sports 2",
@@ -2445,8 +2202,8 @@
                     ]
                 }
             ],
-            "slug": "afl-australian-football-western-bulldogs-sydney-swans-2027-06-03-12-40",
-            "startTimestamp": 1812015600000,
+            "slug": "afl-australian-football-western-bulldogs-sydney-swans-2026-07-03-12-40",
+            "startTimestamp": 1783071600000,
             "duration": 180
         },
         {
@@ -2459,7 +2216,7 @@
             "team2": "West Coast Eagles",
             "channel": "Fox Soccer Plus US",
             "important": false,
-            "matchDate": "2027-06-03",
+            "matchDate": "2026-07-03",
             "channels": [
                 {
                     "name": "Fox Soccer Plus",
@@ -2473,8 +2230,8 @@
                     ]
                 }
             ],
-            "slug": "afl-australian-football-adelaide-crows-west-coast-eagles-2027-06-03-13-10",
-            "startTimestamp": 1812017400000,
+            "slug": "afl-australian-football-adelaide-crows-west-coast-eagles-2026-07-03-13-10",
+            "startTimestamp": 1783073400000,
             "duration": 180
         }
     ]
