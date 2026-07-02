@@ -1,28 +1,8 @@
 [
   {
-    "id": "10280",
-    "name": "Pittsburgh Pirates at Philadelphia Phillies (English)",
-    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=MaQL7_XWAQwwVgh-y3c91SyPlL8tFruvl0Kt6xvdjs8&e=1782965119",
-    "categoryId": 13,
-    "start": "2026-07-01T23:40:00",
-    "original_name_upper": "PITTSBURGH PIRATES AT PHILADELPHIA PHILLIES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
-  },
-  {
-    "id": "10281",
-    "name": "St. Louis Cardinals at Atlanta Braves (English)",
-    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=qRgEkkb63qZge2p696Y7k-nUt7tllnicB2WN8jYKnNI&e=1782965119",
-    "categoryId": 13,
-    "start": "2026-07-02T00:15:00",
-    "original_name_upper": "ST. LOUIS CARDINALS AT ATLANTA BRAVES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
-  },
-  {
     "id": "10282",
     "name": "Tampa Bay Rays at Kansas City Royals (English)",
-    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=FYVy9x4bdA8xw5FpdMXv73dQEmCr3eIyY682DRptdjs&e=1782965118",
+    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=GlueHtoIzpxwnjoEQ159dmUC_OUhINohMRe29sLaij8&e=1782972915",
     "categoryId": 13,
     "start": "2026-07-02T00:40:00",
     "original_name_upper": "TAMPA BAY RAYS AT KANSAS CITY ROYALS",
@@ -30,9 +10,19 @@
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
   },
   {
+    "id": "10283",
+    "name": "Cincinnati Reds at Milwaukee Brewers (English)",
+    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=ICbOnJwzS8scglvyc6AjCFQs5JzvyGVK-1yBEN_w1TY&e=1782972915",
+    "categoryId": 13,
+    "start": "2026-07-02T01:00:00",
+    "original_name_upper": "CINCINNATI REDS AT MILWAUKEE BREWERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+  },
+  {
     "id": "10290",
     "name": "Bosnia-Herzegovina at United States (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=SSfoJpq_vcp53s_n4co2meSovpXwEKzth6VLwQiW92c&e=1782965118",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=JJWuQA7urV-g9gt8EMmLsKeKvYPCXq_g_XABpPB-kJ4&e=1782972916",
     "categoryId": 9,
     "start": "2026-07-02T01:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT UNITED STATES",
@@ -42,7 +32,7 @@
   {
     "id": "10290",
     "name": "Bosnia-Herzegovina at United States (Arabic)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=1HbPx3BRC7A8jF4PF5K0amDV7QHYUxY7ORrMrk-YJcM&e=1782965118",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=6Vyw_3WRAnP3iCQHe9ZuFR3ACFYW--9S-guye6MB-co&e=1782972915",
     "categoryId": 9,
     "start": "2026-07-02T01:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT UNITED STATES",
@@ -52,7 +42,7 @@
   {
     "id": "10290",
     "name": "Bosnia-Herzegovina at United States (Spanish)",
-    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=KjHmCc0YSNNKiYdSvU0HKO6Ffj7JsbnK9Wm7KHFk3YU&e=1782965118",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=wfhi6OR5_3IMSqke5HCVRwUZeKs1BXeAqbfoKB3UGPc&e=1782972915",
     "categoryId": 9,
     "start": "2026-07-02T01:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT UNITED STATES",
@@ -60,19 +50,9 @@
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png"
   },
   {
-    "id": "10283",
-    "name": "Cincinnati Reds at Milwaukee Brewers (English)",
-    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=OTKdT1KWgJ4Cp-AxtoqTsEkh78EvCl0uNBWigMAfGNI&e=1782965118",
-    "categoryId": 13,
-    "start": "2026-07-02T01:00:00",
-    "original_name_upper": "CINCINNATI REDS AT MILWAUKEE BREWERS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
-  },
-  {
     "id": "10284",
     "name": "Minnesota Twins at Houston Astros (English)",
-    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=mfppwxZM1M6xUXq67Cd8oDtGFBqIw8XYjewkPinFoio&e=1782965119",
+    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=n4xeGK5QJgFUmAkK_pPgOfrtWxrdN8cAX0RtiJvvBM4&e=1782972915",
     "categoryId": 13,
     "start": "2026-07-02T01:10:00",
     "original_name_upper": "MINNESOTA TWINS AT HOUSTON ASTROS",
@@ -82,7 +62,7 @@
   {
     "id": "10285",
     "name": "Miami Marlins at Colorado Rockies (English)",
-    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=VOoClrTZG9eupX8zvoKguNZ8Yj9D5wXqDj1nx7qNRNs&e=1782965117",
+    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=5UZxZoOZvryRzpbJyEbYI4N9KH41cQ5NK8U7BODsXQE&e=1782972914",
     "categoryId": 13,
     "start": "2026-07-02T01:40:00",
     "original_name_upper": "MIAMI MARLINS AT COLORADO ROCKIES",
@@ -92,7 +72,7 @@
   {
     "id": "10286",
     "name": "Los Angeles Dodgers at Athletics Athletics (English)",
-    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=tVTKEQdGy3hknJ7fEA52HlgDI2iPokeODurMtUHe4Hw&e=1782965117",
+    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=5eUgbUmjypy5pG90Q4wTrGDnR5fTF44dWHKn-MRmkv8&e=1782972913",
     "categoryId": 13,
     "start": "2026-07-02T02:40:00",
     "original_name_upper": "LOS ANGELES DODGERS AT ATHLETICS ATHLETICS",
@@ -102,11 +82,41 @@
   {
     "id": "10287",
     "name": "San Francisco Giants at Arizona Diamondbacks (English)",
-    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=uSFQ2RtZJKW2eLvyw8ocdA2bhSnJGnKQLEPRWd9R2hw&e=1782965117",
+    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=sYAR7d5reGEOi_z0fPkLsQLaLPfl4wNvFGy6igCp064&e=1782972914",
     "categoryId": 13,
     "start": "2026-07-02T02:40:00",
     "original_name_upper": "SAN FRANCISCO GIANTS AT ARIZONA DIAMONDBACKS",
     "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png",
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+  },
+  {
+    "id": "10291",
+    "name": "Austria at Spain (English)",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=NIirGJh9nYkc0HMT6kDzt0eDHLzFf4DTbz_RO4O0PJE&e=1782972914",
+    "categoryId": 9,
+    "start": "2026-07-02T20:00:00",
+    "original_name_upper": "AUSTRIA AT SPAIN",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+  },
+  {
+    "id": "10291",
+    "name": "Austria at Spain (Arabic)",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=6sQxRj3JUfCBNROWqY1lmjYPFjs3ysTFc0SWnmTF1v0&e=1782972913",
+    "categoryId": 9,
+    "start": "2026-07-02T20:00:00",
+    "original_name_upper": "AUSTRIA AT SPAIN",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+  },
+  {
+    "id": "10291",
+    "name": "Austria at Spain (Spanish)",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=d5yr6M2cuBe0L1E5DBcVbo96NqXig8Rr_4tgQBNcC5Q&e=1782972913",
+    "categoryId": 9,
+    "start": "2026-07-02T20:00:00",
+    "original_name_upper": "AUSTRIA AT SPAIN",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
   }
 ]
