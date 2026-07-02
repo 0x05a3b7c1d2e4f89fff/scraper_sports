@@ -340,34 +340,6 @@
             "duration": 180
         },
         {
-            "matchText": "16:00 [Europe UEFA U19 European Championship] Croatia U19 vs Italy U19 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Croatia U19 vs Italy U19",
-            "time": "16:00",
-            "league": "Europe UEFA U19 European Championship",
-            "sport": "Football",
-            "team1": "Croatia U19",
-            "team2": "Italy U19",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-07-02",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u19-european-championship-football-croatia-u19-italy-u19-2026-07-02-16-00",
-            "startTimestamp": 1782997200000,
-            "duration": 120
-        },
-        {
             "matchText": "20:00 [Europe UEFA U19 European Championship] Serbia U19 vs Ukraine U19 [Sportdigital FUSSBALL DE]",
             "matchstr": "Serbia U19 vs Ukraine U19",
             "time": "20:00",
