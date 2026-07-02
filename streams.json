@@ -156,62 +156,6 @@
             "duration": 180
         },
         {
-            "matchText": "20:00 [Europe UEFA U19 European Championship] Serbia U19 vs Ukraine U19 [Sportdigital FUSSBALL DE]",
-            "matchstr": "Serbia U19 vs Ukraine U19",
-            "time": "20:00",
-            "league": "Europe UEFA U19 European Championship",
-            "sport": "Football",
-            "team1": "Serbia U19",
-            "team2": "Ukraine U19",
-            "channel": "Sportdigital FUSSBALL DE",
-            "important": false,
-            "matchDate": "2026-07-02",
-            "channels": [
-                {
-                    "name": "Sportdigital FUSSBALL",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=19"
-                    ],
-                    "number": 19,
-                    "language": "DE",
-                    "links": [
-                        "https://s2.kora.st/channel?id=19"
-                    ]
-                }
-            ],
-            "slug": "europe-uefa-u19-european-championship-football-serbia-u19-ukraine-u19-2026-07-02-20-00",
-            "startTimestamp": 1783011600000,
-            "duration": 120
-        },
-        {
-            "matchText": "20:00 [FIBA World Cup] Basketball: Spain vs Denmark [Vamos ES]",
-            "matchstr": "Spain vs Denmark",
-            "time": "20:00",
-            "league": "FIBA World Cup",
-            "sport": "Basketball",
-            "team1": "Spain",
-            "team2": "Denmark",
-            "channel": "Vamos ES",
-            "important": false,
-            "matchDate": "2026-07-02",
-            "channels": [
-                {
-                    "name": "Vamos",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=29"
-                    ],
-                    "number": 29,
-                    "language": "ES",
-                    "links": [
-                        "https://s2.kora.st/channel?id=29"
-                    ]
-                }
-            ],
-            "slug": "fiba-world-cup-basketball-spain-denmark-2026-07-02-20-00",
-            "startTimestamp": 1783011600000,
-            "duration": 120
-        },
-        {
             "matchText": "21:00 [FIBA World Cup] Basketball: Bosnia & Herzegovina vs Turkey [Arena Sport 1 RS]",
             "matchstr": "Bosnia & Herzegovina vs Turkey",
             "time": "21:00",
@@ -1147,6 +1091,34 @@
             ],
             "slug": "fiba-world-cup-basketball-uruguay-argentina-2026-07-03-04-00",
             "startTimestamp": 1783040400000,
+            "duration": 120
+        },
+        {
+            "matchText": "20:00 [FIBA World Cup] Basketball: Sweden vs Czech Republic [CT Sport CZ]",
+            "matchstr": "Sweden vs Czech Republic",
+            "time": "20:00",
+            "league": "FIBA World Cup",
+            "sport": "Basketball",
+            "team1": "Sweden",
+            "team2": "Czech Republic",
+            "channel": "CT Sport CZ",
+            "important": false,
+            "matchDate": "2026-07-03",
+            "channels": [
+                {
+                    "name": "CT Sport",
+                    "oldLinks": [
+                        "https://playfa.st/ch.php?id=40"
+                    ],
+                    "number": 40,
+                    "language": "CZ",
+                    "links": [
+                        "https://s2.kora.st/channel?id=40"
+                    ]
+                }
+            ],
+            "slug": "fiba-world-cup-basketball-sweden-czech-republic-2026-07-03-20-00",
+            "startTimestamp": 1783098000000,
             "duration": 120
         },
         {
