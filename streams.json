@@ -128,45 +128,6 @@
             "duration": 120
         },
         {
-            "matchText": "14:30 [World Rugby U20 Championship] Rugby: Australia U20 vs Fiji U20 [Premier Sports 1 GB]",
-            "matchstr": "Australia U20 vs Fiji U20",
-            "time": "14:30",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Australia U20",
-            "team2": "Fiji U20",
-            "channel": "Premier Sports 1 GB",
-            "important": false,
-            "matchDate": "2026-07-02",
-            "channels": [
-                {
-                    "name": "Premier Sports 1",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=6"
-                    ],
-                    "number": 6,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=6"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 3",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=33"
-                    ],
-                    "number": 33,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=33"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-australia-u20-fiji-u20-2026-07-02-14-30",
-            "startTimestamp": 1782991800000,
-            "duration": 120
-        },
-        {
             "matchText": "17:00 [World Rugby U20 Championship] Rugby: England U20 vs United States U20 [Premier Sports 1 GB]",
             "matchstr": "England U20 vs United States U20",
             "time": "17:00",
@@ -242,45 +203,6 @@
             ],
             "slug": "world-rugby-u20-championship-rugby-south-africa-u20-georgia-u20-2026-07-02-19-30",
             "startTimestamp": 1783009800000,
-            "duration": 120
-        },
-        {
-            "matchText": "14:30 [World Rugby U20 Championship] Rugby: Argentina U20 vs Ireland U20 [Premier Sports 2 GB]",
-            "matchstr": "Argentina U20 vs Ireland U20",
-            "time": "14:30",
-            "league": "World Rugby U20 Championship",
-            "sport": "Rugby",
-            "team1": "Argentina U20",
-            "team2": "Ireland U20",
-            "channel": "Premier Sports 2 GB",
-            "important": false,
-            "matchDate": "2026-07-02",
-            "channels": [
-                {
-                    "name": "Premier Sports 2",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=7"
-                    ],
-                    "number": 7,
-                    "language": "GB",
-                    "links": [
-                        "https://s2.kora.st/channel?id=7"
-                    ]
-                },
-                {
-                    "name": "Sky Sport 4",
-                    "oldLinks": [
-                        "https://playfa.st/ch.php?id=34"
-                    ],
-                    "number": 34,
-                    "language": "NZ",
-                    "links": [
-                        "https://s2.kora.st/channel?id=34"
-                    ]
-                }
-            ],
-            "slug": "world-rugby-u20-championship-rugby-argentina-u20-ireland-u20-2026-07-02-14-30",
-            "startTimestamp": 1782991800000,
             "duration": 120
         },
         {
